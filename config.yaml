@@ -15,11 +15,20 @@ localisation:
   wttj_state: "Île-de-France"          # facette offices.state de WTTJ
 
 linkedin:
-  hours_old: 2          # ne remonte que les offres publiées < 2h (le cron tourne toutes les 30 min)
-  results_par_requete: 20
+  # PHASE DE TEST : 168h (1 semaine) pour élargir. Une fois validé, remettre à 2
+  # (le cron tourne toutes les 30 min, 2h suffit alors et réduit la charge).
+  hours_old: 168
+  results_par_requete: 40
 
 wttj:
-  results_par_requete: 20
+  results_par_requete: 30
+  # Clés Algolia publiques du front WTTJ (lecture seule).
+  # Si vides, le script tente de les découvrir automatiquement.
+  # Pour les récupérer à la main : F12 sur welcometothejungle.com/fr/jobs
+  # → onglet Réseau → filtre "algolia" → paramètres x-algolia-application-id
+  # et x-algolia-api-key dans l'URL d'une requête.
+  algolia_app_id: ""
+  algolia_api_key: ""
 
 scoring:
   # Score 0 (rejet) si AUCUN de ces mots n'apparaît dans le titre

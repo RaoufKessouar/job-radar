@@ -10,7 +10,9 @@ Usage :
 from __future__ import annotations
 
 import argparse
+import csv
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
@@ -23,6 +25,7 @@ from notify import emailer           # noqa: E402
 
 ROOT = Path(__file__).parent
 STATE_FILE = ROOT / "state.json"
+HISTORY_FILE = ROOT / "historique.csv"
 
 SAMPLE_OFFERS = [
     {"source": "sample", "title": "STAGE 2026 - IA / NLP - Gestion d'incertitude agents IA - F/H",
@@ -43,6 +46,24 @@ SAMPLE_OFFERS = [
      "date_posted": "2026-07-08",
      "description": "M2 deep learning computer vision, PyTorch, NeRF, Python, 6 mois"},
 ]
+
+
+def append_history(offers: list[dict]) -> None:
+    """Base de données des offres détectées (une ligne par offre, avec score)."""
+    if not offers:
+        return
+    is_new = not HISTORY_FILE.exists()
+    with HISTORY_FILE.open("a", newline="", encoding="utf-8-sig") as f:
+        writer = csv.writer(f)
+        if is_new:
+            writer.writerow(["detecte_le", "score", "titre", "entreprise",
+                             "ville", "source", "publiee_le", "url"])
+        now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+        for o in offers:
+            writer.writerow([now, o.get("score", ""), o.get("title", ""),
+                             o.get("company", ""), o.get("location", ""),
+                             o.get("source", ""), o.get("date_posted", ""),
+                             o.get("url", "")])
 
 
 def main() -> int:
@@ -72,10 +93,13 @@ def main() -> int:
     for o in relevant:
         print(f"    [{o['score']:3d}] {o['title'][:70]} — {o['company']} ({o['source']})")
 
-    # 4. Notification
+    # 4. Historique CSV (toutes les nouvelles offres, même sous le seuil — utile pour régler le scoring)
+    append_history(new_offers)
+
+    # 5. Notification
     emailer.notify(relevant, cfg, dry_run=args.dry_run or args.sample)
 
-    # 5. Persistance de l'état (aussi pour les offres sous le seuil : vues = vues)
+    # 6. Persistance de l'état (aussi pour les offres sous le seuil : vues = vues)
     dedup.save_state(state, STATE_FILE)
     print("[main] state.json mis à jour")
     return 0

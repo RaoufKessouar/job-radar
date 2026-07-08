@@ -105,12 +105,17 @@ def search(config: dict) -> list[dict]:
     state = config.get("localisation", {}).get("wttj_state")
     hits_per_page = config.get("wttj", {}).get("results_par_requete", 20)
 
-    app_id, api_key = DEFAULT_APP_ID, None
-    discovered_app, discovered_key = _discover_credentials(session)
-    if discovered_app and discovered_key:
-        app_id, api_key = discovered_app, discovered_key
+    # 1) Clés fixées dans config.yaml (prioritaires), 2) découverte automatique
+    wttj_cfg = config.get("wttj", {})
+    app_id = wttj_cfg.get("algolia_app_id") or DEFAULT_APP_ID
+    api_key = wttj_cfg.get("algolia_api_key") or None
     if not api_key:
-        print("[wttj] ERREUR: impossible de découvrir la clé Algolia — canal WTTJ ignoré ce run")
+        discovered_app, discovered_key = _discover_credentials(session)
+        if discovered_app and discovered_key:
+            app_id, api_key = discovered_app, discovered_key
+    if not api_key:
+        print("[wttj] ERREUR: pas de clé Algolia (ni config, ni découverte auto) — canal WTTJ ignoré ce run")
+        print("[wttj] Fix: renseigner wttj.algolia_app_id / algolia_api_key dans config.yaml (voir README)")
         return []
 
     offers, seen = [], set()
