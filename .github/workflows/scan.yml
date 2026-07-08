@@ -1,0 +1,44 @@
+name: Stage Radar scan
+
+on:
+  schedule:
+    # Toutes les 30 min, de 05h à 21h UTC (~7h-23h Paris). Cron GitHub = UTC.
+    - cron: "*/30 5-21 * * *"
+  workflow_dispatch: {}   # bouton "Run workflow" pour tester à la main
+
+permissions:
+  contents: write   # nécessaire pour commiter state.json
+
+concurrency:
+  group: stage-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scan
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+        run: python main.py
+
+      - name: Commit state
+        run: |
+          git config user.name "stage-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "state: scan $(date -u +'%Y-%m-%d %H:%M')"
+          git push

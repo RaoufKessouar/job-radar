@@ -1,0 +1,60 @@
+# ============================================================
+# Stage Radar — configuration
+# Profil : stage de fin d'études M2 — Data Science / IA / ML / CV
+# Zone : Île-de-France uniquement
+# ============================================================
+
+recherches:
+  - keywords: "stage data scientist"
+  - keywords: "stage intelligence artificielle"
+  - keywords: "stage machine learning"
+  - keywords: "stage computer vision NLP"
+
+localisation:
+  linkedin: "Île-de-France, France"   # paramètre location de LinkedIn
+  wttj_state: "Île-de-France"          # facette offices.state de WTTJ
+
+linkedin:
+  hours_old: 2          # ne remonte que les offres publiées < 2h (le cron tourne toutes les 30 min)
+  results_par_requete: 20
+
+wttj:
+  results_par_requete: 20
+
+scoring:
+  # Score 0 (rejet) si AUCUN de ces mots n'apparaît dans le titre
+  obligatoires_titre: ["stage", "intern", "trainee"]
+
+  # Score 0 si l'un de ces mots apparaît dans le titre (sauf si "stage" y est aussi)
+  exclusions_titre: ["cdi", "senior", "confirmé", "freelance", "alternance"]
+
+  # Mots-clés pondérés (présence dans le titre = poids double)
+  bonus:
+    "data scien": 20
+    "machine learning": 20
+    "deep learning": 20
+    "computer vision": 20
+    "vision par ordinateur": 20
+    "nlp": 18
+    "llm": 18
+    "ia générative": 15
+    "genai": 15
+    "generative ai": 15
+    "agent": 12
+    "rag": 12
+    "intelligence artificielle": 15
+    "artificial intelligence": 15
+    "pytorch": 10
+    "tensorflow": 8
+    "python": 5
+    "m2": 8
+    "master 2": 8
+    "bac+5": 8
+    "fin d'études": 8
+    "6 mois": 5
+
+  # Seules les offres avec score >= seuil déclenchent un email
+  seuil_notification: 30
+
+notification:
+  max_emails_par_run: 8   # au-delà, les offres restantes sont regroupées dans un email digest
