@@ -27,8 +27,9 @@ wttj:
   # Pour les récupérer à la main : F12 sur welcometothejungle.com/fr/jobs
   # → onglet Réseau → filtre "algolia" → paramètres x-algolia-application-id
   # et x-algolia-api-key dans l'URL d'une requête.
-  algolia_app_id: ""
-  algolia_api_key: ""
+  algolia_app_id: "CSEKHVMS53"
+  algolia_api_key: "4bd8f6215d0cc52b26430765769e65a0"
+  algolia_index: "wttj_jobs_production"   # à confirmer via DevTools (page /fr/jobs)
 
 scoring:
   # Score 0 (rejet) si AUCUN de ces mots n'apparaît dans le titre

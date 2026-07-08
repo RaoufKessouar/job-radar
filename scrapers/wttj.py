@@ -57,8 +57,49 @@ def _discover_credentials(session: requests.Session) -> tuple[str | None, str | 
     return app_id, api_key
 
 
-def _query_algolia(session, app_id, api_key, keywords, state, hits_per_page):
-    url = f"https://{app_id.lower()}-dsn.algolia.net/1/indexes/{DEFAULT_INDEX}/query"
+def _resolve_index(session, app_id, api_key, configured: str) -> str | None:
+    """Trouve l'index Algolia des offres : teste le nom configuré, sinon
+    interroge la liste des index et prend le premier contenant 'jobs'."""
+    headers = {"User-Agent": UA, "x-algolia-application-id": app_id,
+               "x-algolia-api-key": api_key}
+    base = f"https://{app_id.lower()}-dsn.algolia.net/1/indexes"
+
+    def works(name: str) -> bool:
+        try:
+            r = session.post(f"{base}/{name}/query",
+                             json={"query": "stage", "hitsPerPage": 1},
+                             headers=headers, timeout=15)
+            return r.status_code == 200 and r.json().get("nbHits", 0) > 0
+        except requests.RequestException:
+            return False
+
+    candidates = [configured, DEFAULT_INDEX, "wttj_jobs_production_fr",
+                  "wttj_jobs_production_published_at_desc"]
+    # Liste officielle des index si la clé le permet
+    try:
+        r = session.get(base, headers=headers, timeout=15)
+        if r.status_code == 200:
+            names = [it["name"] for it in r.json().get("items", [])]
+            candidates += [n for n in names
+                           if "job" in n.lower() and "organization" not in n.lower()]
+    except requests.RequestException:
+        pass
+
+    seen = set()
+    for name in candidates:
+        if not name or name in seen:
+            continue
+        seen.add(name)
+        if works(name):
+            if name != configured:
+                print(f"[wttj] index résolu automatiquement: {name}")
+            return name
+    return None
+
+
+def _query_algolia(session, app_id, api_key, keywords, state, hits_per_page,
+                   index=DEFAULT_INDEX):
+    url = f"https://{app_id.lower()}-dsn.algolia.net/1/indexes/{index}/query"
     facet_filters = [["contract_type:internship"]]
     if state:
         facet_filters.append([f"offices.state:{state}"])
@@ -108,6 +149,7 @@ def search(config: dict) -> list[dict]:
     # 1) Clés fixées dans config.yaml (prioritaires), 2) découverte automatique
     wttj_cfg = config.get("wttj", {})
     app_id = wttj_cfg.get("algolia_app_id") or DEFAULT_APP_ID
+    index = wttj_cfg.get("algolia_index") or DEFAULT_INDEX
     api_key = wttj_cfg.get("algolia_api_key") or None
     if not api_key:
         discovered_app, discovered_key = _discover_credentials(session)
@@ -118,11 +160,17 @@ def search(config: dict) -> list[dict]:
         print("[wttj] Fix: renseigner wttj.algolia_app_id / algolia_api_key dans config.yaml (voir README)")
         return []
 
+    resolved = _resolve_index(session, app_id, api_key, index)
+    if not resolved:
+        print("[wttj] ERREUR: aucun index d'offres accessible avec cette clé — canal ignoré ce run")
+        return []
+    index = resolved
+
     offers, seen = [], set()
     for rec in config.get("recherches", []):
         kw = rec["keywords"]
         try:
-            hits = _query_algolia(session, app_id, api_key, kw, state, hits_per_page)
+            hits = _query_algolia(session, app_id, api_key, kw, state, hits_per_page, index)
         except requests.RequestException as e:
             print(f"[wttj] requête '{kw}' échouée: {e}")
             continue
