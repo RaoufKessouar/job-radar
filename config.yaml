@@ -33,7 +33,7 @@ wttj:
 
 scoring:
   # Score 0 (rejet) si AUCUN de ces mots n'apparaît dans le titre
-  obligatoires_titre: ["stage", "intern", "trainee"]
+  obligatoires_titre: ["stage", "stagiaire", "intern", "trainee"]
 
   # Score 0 si l'un de ces mots apparaît dans le titre (sauf si "stage" y est aussi)
   exclusions_titre: ["cdi", "senior", "confirmé", "freelance", "alternance"]
@@ -54,6 +54,9 @@ scoring:
     "rag": 12
     "intelligence artificielle": 15
     "artificial intelligence": 15
+    "ia": 12          # sigles : correspondance en mot entier uniquement
+    "ai": 12
+    "ml": 12
     "pytorch": 10
     "tensorflow": 8
     "python": 5
