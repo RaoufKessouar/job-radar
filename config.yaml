@@ -22,6 +22,7 @@ linkedin:
 
 wttj:
   results_par_requete: 30
+  max_age_jours: 7   # ignorer les offres publiées il y a plus de N jours
   # Clés Algolia publiques du front WTTJ (lecture seule).
   # Si vides, le script tente de les découvrir automatiquement.
   # Pour les récupérer à la main : F12 sur welcometothejungle.com/fr/jobs

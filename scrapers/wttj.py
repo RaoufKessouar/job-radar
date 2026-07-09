@@ -41,7 +41,8 @@ def _headers(app_id: str, api_key: str) -> dict:
     }
 
 
-def _query(session, app_id, api_key, index, keywords, hits_per_page, geo=True):
+def _query(session, app_id, api_key, index, keywords, hits_per_page, geo=True,
+           max_age_jours=None):
     params = {
         "query": keywords,
         "hitsPerPage": hits_per_page,
@@ -51,6 +52,9 @@ def _query(session, app_id, api_key, index, keywords, hits_per_page, geo=True):
                                      "contract_type:INTERNSHIP"]]),
         "filters": "website.reference:wttj_fr",
     }
+    if max_age_jours:
+        cutoff = int(time.time()) - int(max_age_jours) * 86400
+        params["numericFilters"] = json.dumps([f"published_at_timestamp>{cutoff}"])
     if geo:
         params["aroundLatLng"] = IDF_LATLNG
         params["aroundRadius"] = IDF_RADIUS_M
@@ -87,6 +91,7 @@ def search(config: dict) -> list[dict]:
     api_key = wttj_cfg.get("algolia_api_key") or DEFAULT_API_KEY
     index = wttj_cfg.get("algolia_index") or DEFAULT_INDEX
     hits_per_page = wttj_cfg.get("results_par_requete", 30)
+    max_age = wttj_cfg.get("max_age_jours")
 
     session = requests.Session()
     offers, seen = [], set()
@@ -95,7 +100,8 @@ def search(config: dict) -> list[dict]:
         kw = rec["keywords"]
         hits = []
         try:
-            hits = _query(session, app_id, api_key, index, kw, hits_per_page, geo=geo_ok)
+            hits = _query(session, app_id, api_key, index, kw, hits_per_page,
+                          geo=geo_ok, max_age_jours=max_age)
         except requests.RequestException as e:
             if geo_ok:
                 # l'index ne supporte peut-être pas le géofiltre → retry sans
@@ -103,7 +109,7 @@ def search(config: dict) -> list[dict]:
                 geo_ok = False
                 try:
                     hits = _query(session, app_id, api_key, index, kw,
-                                  hits_per_page, geo=False)
+                                  hits_per_page, geo=False, max_age_jours=max_age)
                 except requests.RequestException as e2:
                     print(f"[wttj] requête '{kw}' échouée: {e2}")
                     continue
