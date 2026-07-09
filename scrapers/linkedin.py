@@ -17,7 +17,10 @@ def search(config: dict) -> list[dict]:
         print("[linkedin] python-jobspy non installé — canal ignoré")
         return []
 
-    location = config.get("localisation", {}).get("linkedin", "France")
+    loc_cfg = config.get("localisation", {})
+    location = loc_cfg.get("linkedin", "France")
+    distance = loc_cfg.get("linkedin_rayon_miles", 25)
+    zones_ok = [z.lower() for z in loc_cfg.get("linkedin_zones_ok", [])]
     hours_old = config.get("linkedin", {}).get("hours_old", 2)
     wanted = config.get("linkedin", {}).get("results_par_requete", 20)
 
@@ -29,6 +32,7 @@ def search(config: dict) -> list[dict]:
                 site_name=["linkedin"],
                 search_term=kw,
                 location=location,
+                distance=distance,
                 results_wanted=wanted,
                 hours_old=hours_old,
                 job_type="internship",
@@ -47,6 +51,10 @@ def search(config: dict) -> list[dict]:
             if not url or url in seen:
                 continue
             seen.add(url)
+            loc = str(row.get("location", "") or "").lower()
+            # Garde-fou géographique : rejette tout ce qui n'est pas en IdF
+            if zones_ok and not any(z in loc for z in zones_ok):
+                continue
             offers.append({
                 "source": "linkedin",
                 "title": str(row.get("title", "") or ""),

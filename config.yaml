@@ -11,7 +11,22 @@ recherches:
   - keywords: "stage computer vision NLP"
 
 localisation:
-  linkedin: "Île-de-France, France"   # paramètre location de LinkedIn
+  # "Île-de-France" est mal géocodé par LinkedIn (→ Bretagne !) : on centre sur Paris
+  linkedin: "Paris, France"
+  linkedin_rayon_miles: 25   # ~40 km autour de Paris ≈ Île-de-France
+  # Garde-fou : une offre LinkedIn est rejetée si sa localisation ne contient
+  # aucun de ces fragments (minuscules)
+  linkedin_zones_ok:
+    - "paris"
+    - "île-de-france"
+    - "ile-de-france"
+    - "yvelines"
+    - "essonne"
+    - "hauts-de-seine"
+    - "seine-saint-denis"
+    - "val-de-marne"
+    - "val-d'oise"
+    - "seine-et-marne"
   wttj_state: "Île-de-France"          # facette offices.state de WTTJ
 
 linkedin:
