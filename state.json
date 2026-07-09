@@ -1,1 +1,548 @@
-{}
+{
+ "9c5e27115573248924c1793dac82a814": {
+  "first_seen": 1783604430.2299802,
+  "title": "Stage - Data Scientist (H/F) - 6 mois",
+  "company": "BNP Paribas",
+  "source": "wttj"
+ },
+ "659612bd9c29ac8ae3437b9e150c6e7b": {
+  "first_seen": 1783604430.2299929,
+  "title": "Stage Data Scientist",
+  "company": "Ace Énergie",
+  "source": "wttj"
+ },
+ "d35af524ec9a4705dda4c5035e0e14b7": {
+  "first_seen": 1783604430.230002,
+  "title": "Stage - Actuaire / Data Scientist",
+  "company": "Redion Holding",
+  "source": "wttj"
+ },
+ "b46dddec505eda8762a87b0287e6afd3": {
+  "first_seen": 1783604430.2300103,
+  "title": "Stage - 6 mois - Data Scientist Generative AI F/H",
+  "company": "Natixis",
+  "source": "wttj"
+ },
+ "37635c6081c70ae094e0f906eab4b1c3": {
+  "first_seen": 1783604430.2300208,
+  "title": "Stage – AI & Data Scientist",
+  "company": "Polynom",
+  "source": "wttj"
+ },
+ "0eeae537b184e829aebf5b2576f5e4b5": {
+  "first_seen": 1783604430.2300289,
+  "title": "Stage - 6 mois - Data Scientist F/H",
+  "company": "BPCE Assurances IARD",
+  "source": "wttj"
+ },
+ "ffa3d10a18acd7835e0abbdc5ad157f6": {
+  "first_seen": 1783604430.230046,
+  "title": "Stage Septembre 2026 Business Data Scientist - Marketing effectiveness(H/F/N)",
+  "company": "Ekimetrics",
+  "source": "wttj"
+ },
+ "aedc5a33454cb2b184b784b0d5f4477f": {
+  "first_seen": 1783604430.2300606,
+  "title": "DATA SCIENTIST - IA agentique (stage)",
+  "company": "datacraft",
+  "source": "wttj"
+ },
+ "342b088f86bbb43277a93d675929b616": {
+  "first_seen": 1783604430.230067,
+  "title": "Data Scientist  (H/F) | Stage",
+  "company": "Liora",
+  "source": "wttj"
+ },
+ "4b6502efcd3b006f03232887b36e970b": {
+  "first_seen": 1783604430.230074,
+  "title": "Data Scientist (H/F) - Stage",
+  "company": "Allianz France",
+  "source": "wttj"
+ },
+ "6aa23ae03f4ccf529d47ad72f9afd2cf": {
+  "first_seen": 1783604430.2300797,
+  "title": "Data scientist (F/H) - stage",
+  "company": "AXA",
+  "source": "wttj"
+ },
+ "a06dc59d4d23f005c59e32556f9dde4b": {
+  "first_seen": 1783604430.2300937,
+  "title": "Data Scientist (H/F) - Analytics - Stage 6 mois (stage de fin d'études)",
+  "company": "Allphins",
+  "source": "wttj"
+ },
+ "99c3dfe34312518fd262f69bdb483983": {
+  "first_seen": 1783604430.230101,
+  "title": "DATA SCIENTIST - IA de confiance (stage)",
+  "company": "datacraft",
+  "source": "wttj"
+ },
+ "8ccb999cc583f913459d1ca3a507200e": {
+  "first_seen": 1783604430.2301097,
+  "title": "Data Scientist & Développeur Python (Stage 6 mois)",
+  "company": "Dataleon",
+  "source": "wttj"
+ },
+ "c7732d05a5e6ba2fc27a7f8504235f86": {
+  "first_seen": 1783604430.230116,
+  "title": "Data Scientist / Engineer (F/H) stage",
+  "company": "AXA",
+  "source": "wttj"
+ },
+ "acf524c16e1aa79a103caee57185f2b5": {
+  "first_seen": 1783604430.2301276,
+  "title": "Data Scientist (H/F) - Core platform - Stage 6 mois (stage de fin d'études)",
+  "company": "Allphins",
+  "source": "wttj"
+ },
+ "77074b03bf5660cd90b334ae90cc334d": {
+  "first_seen": 1783604430.2301354,
+  "title": "Data Scientist IA générative (F/H) stage",
+  "company": "AXA",
+  "source": "wttj"
+ },
+ "7fe1973509537eb9048d3479c7b72fe0": {
+  "first_seen": 1783604430.2301414,
+  "title": "Data Scientist - Internship",
+  "company": "Cure51",
+  "source": "wttj"
+ },
+ "c5d7d4bf7ee7677b275b220f990c3360": {
+  "first_seen": 1783604430.2301497,
+  "title": "Data Scientist H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "wttj"
+ },
+ "16fdb54bb797297e671ed1ea115023b0": {
+  "first_seen": 1783604430.2301602,
+  "title": "Internship – Data Scientist – Conseil en stratégie & transition environnementale",
+  "company": "Blunomy",
+  "source": "wttj"
+ },
+ "6848dc6fc248e8ebd898e163bd149393": {
+  "first_seen": 1783604430.2301667,
+  "title": "Final year internship - Marketing Data Scientist",
+  "company": "Sia",
+  "source": "wttj"
+ },
+ "379e0f5bbc3728cdc59354d5215f1051": {
+  "first_seen": 1783604430.2301736,
+  "title": "Final year internship - Data Scientist & AI Consultant",
+  "company": "Sia",
+  "source": "wttj"
+ },
+ "111c3023990b7f86ea486f16e6c49a85": {
+  "first_seen": 1783604430.2301805,
+  "title": "Data Scientist Intern (2024)",
+  "company": "Artefact",
+  "source": "wttj"
+ },
+ "c73a9106afaede6d79f9383ff80a9dee": {
+  "first_seen": 1783604430.2301881,
+  "title": "Data Scientist Junior - IA, Geo-Data & Carbone (stage) ",
+  "company": "NEXQT",
+  "source": "wttj"
+ },
+ "2008ec4981418faa31cb686f220b512f": {
+  "first_seen": 1783604430.2301955,
+  "title": "Stage - 6 mois - IA Data Analyst F/H",
+  "company": "Natixis",
+  "source": "wttj"
+ },
+ "c38977a719b2ea76e230d90ab5777666": {
+  "first_seen": 1783604430.2302012,
+  "title": "Marketing & Data Strategy - Stage",
+  "company": "JAKALA",
+  "source": "wttj"
+ },
+ "f46eabcd9f05281b710f728ed4f2e0e2": {
+  "first_seen": 1783604430.2302094,
+  "title": "Stage en intelligence artificielle générative H/F",
+  "company": "SpinPart",
+  "source": "wttj"
+ },
+ "f3210d3dcb33142ddb768e87bd0d180a": {
+  "first_seen": 1783604430.230217,
+  "title": "STAGE - Ingénieur Intelligence Artificielle H/F",
+  "company": "Heroiks",
+  "source": "wttj"
+ },
+ "5eec2318896410d7c8743305ae064263": {
+  "first_seen": 1783604430.2302248,
+  "title": "Stage R&D – Intelligence Artificielle & NLP",
+  "company": "Agoranov",
+  "source": "wttj"
+ },
+ "0a4ce5287c05c3f3130d5a3f49cc97e9": {
+  "first_seen": 1783604430.2302341,
+  "title": "Stage - Middle Office Automatisation & Intelligence Artificielle H/F",
+  "company": "Groupe Crédit Agricole",
+  "source": "wttj"
+ },
+ "343d2eb90d79c2d2df072c026e12b970": {
+  "first_seen": 1783604430.230245,
+  "title": "Stage – Juriste / Assistant(e) RGPD & Intelligence Artificielle (H/F) H/F",
+  "company": "Hopscotch Groupe",
+  "source": "wttj"
+ },
+ "a15e0168641068deee3471d6772a9629": {
+  "first_seen": 1783604430.230254,
+  "title": "Business Analyst - Intelligence Artificielle H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "wttj"
+ },
+ "344a81118d18c2bf479d79a4d663bcd2": {
+  "first_seen": 1783604430.2302613,
+  "title": "Analyste - Intelligence Artificielle H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "wttj"
+ },
+ "50bfa302571a6cd2b805f80a4eb919c0": {
+  "first_seen": 1783604430.230268,
+  "title": "Data, Analytics & Intelligence Artificielle",
+  "company": "Wavestone",
+  "source": "wttj"
+ },
+ "a69548b913d2b00df30dfbe7dd8d057f": {
+  "first_seen": 1783604430.2302797,
+  "title": "Stage de fin d’études – Consultant.e Technique Data et IAG - F/H - sept. 2026",
+  "company": "Axionable",
+  "source": "wttj"
+ },
+ "b833747196a58bd70ba4d72be84196cc": {
+  "first_seen": 1783604430.2302878,
+  "title": "Ingénieur(e) IA - Stage de fin d'études",
+  "company": "Galadrim",
+  "source": "wttj"
+ },
+ "c36864e9fbaf8e0f80332a67e1bb2d13": {
+  "first_seen": 1783604430.2302957,
+  "title": "Stage - Assistant Marketing & Data (F/H)",
+  "company": "Agence France-Presse",
+  "source": "wttj"
+ },
+ "15ec344506fcb8de07c86daea8890f10": {
+  "first_seen": 1783604430.2303028,
+  "title": "Stage - Contrôleur de gestion - H/F",
+  "company": "SUEZ",
+  "source": "wttj"
+ },
+ "f90c54357df8ff8ae5204a7fb93cb580": {
+  "first_seen": 1783604430.230312,
+  "title": "Stage Data SQL BI IA LLM - Dev SaaS Communautaire CRM",
+  "company": "AlumnForce - Alumni Success Platform",
+  "source": "wttj"
+ },
+ "47ba5bd1e2e24699831a77f7e3dbaccf": {
+  "first_seen": 1783604430.2303226,
+  "title": "Stage-Ingénieur Avant-Vente Supply Chain & Robotique (6 à 12 mois-H/F) ",
+  "company": "SCALLOG",
+  "source": "wttj"
+ },
+ "6f3fe873d4ead0ce55f9ecd2a40af71b": {
+  "first_seen": 1783604430.2303317,
+  "title": "STAGE Chef(fe) de projet Social media et influence ",
+  "company": "Dupont Lewis & Sons",
+  "source": "wttj"
+ },
+ "28b3a20fd84e8764ccddbf3042742950": {
+  "first_seen": 1783604430.2303436,
+  "title": "Stage de fin d'études - Assistant chef de projet Data / IA(G) responsable (F/H)",
+  "company": "Axionable",
+  "source": "wttj"
+ },
+ "a1afd36d7871e4cf0d0a6ee994dcacbd": {
+  "first_seen": 1783604430.2303548,
+  "title": "Stage Marketing & Production de contenu – Paris – Dès que possible - Stage (H/F)",
+  "company": "MISTER IA",
+  "source": "wttj"
+ },
+ "a299f5d82e8e6b748b490e12ba23892e": {
+  "first_seen": 1783604430.2303624,
+  "title": "Assistant graphiste (h/f) - Stage",
+  "company": "Balzac Paris",
+  "source": "wttj"
+ },
+ "9dfd4659238d85f1bb8cda564161ffab": {
+  "first_seen": 1783604430.2303708,
+  "title": "STAGE - ASSISTANT CREATION VISUELLE & COMMUNICATION (H/F)",
+  "company": "PM Studio Paris",
+  "source": "wttj"
+ },
+ "20654c861637d93d06bb69a76a740096": {
+  "first_seen": 1783604430.2303767,
+  "title": "Stage Graphiste Print et Digital",
+  "company": "Respire",
+  "source": "wttj"
+ },
+ "7fb34ef21a74bb8269602bd62923bbf3": {
+  "first_seen": 1783604430.230388,
+  "title": "Stage - Communication visuelle – Formation en Epargne Salariale et Retraite  H/F",
+  "company": "Groupe Crédit Agricole",
+  "source": "wttj"
+ },
+ "00b4bb5d73308e356e6e00c8764aa355": {
+  "first_seen": 1783604430.2303967,
+  "title": "Stage ou alternance consultant informatique et financement de l'innovation F/H",
+  "company": "Deloitte",
+  "source": "wttj"
+ },
+ "7a9f689bb471194499de17fffe0eaf37": {
+  "first_seen": 1783604430.2304049,
+  "title": "Stage Ingénieur Ouvrier - IA - Machine Learning 2026",
+  "company": "Diduenjoy",
+  "source": "wttj"
+ },
+ "9569d0ab15d000ec5a0122f9a03728ed": {
+  "first_seen": 1783604430.2304122,
+  "title": "Stage - 6 mois - Assistant Chef de Projet IA F/H",
+  "company": "Natixis",
+  "source": "wttj"
+ },
+ "ebd7d308d2c2bce35945c6eabb07fbc1": {
+  "first_seen": 1783604430.2304213,
+  "title": "Business Development Representative (Stage Juillet - Décembre 2026)",
+  "company": "ZAION",
+  "source": "wttj"
+ },
+ "370d37d69351552c02dc037607c1bb97": {
+  "first_seen": 1783604430.2304292,
+  "title": "Stage fin d'études - Consultant.e IA/DATA",
+  "company": "VONA",
+  "source": "wttj"
+ },
+ "b4915edc21ec67c35ba0f3a430349f75": {
+  "first_seen": 1783604430.230437,
+  "title": "Stage Talent Acquisition IT & Business Development (H/F)",
+  "company": "KOLABS GROUP",
+  "source": "wttj"
+ },
+ "443fd286c1dc546023e733c292312885": {
+  "first_seen": 1783604430.2304468,
+  "title": "Stage — Bras Droit du CEO / Chief of Staff (H/F)",
+  "company": "Snapdesk",
+  "source": "wttj"
+ },
+ "9191bc6d1f928f7a8ea25204e2e9c42d": {
+  "first_seen": 1783604430.2304578,
+  "title": "Stage septembre 2026 - Data Science et Machine Learning/AI practitionner (H/F/N) (50% client, 50% R&D)",
+  "company": "Ekimetrics",
+  "source": "wttj"
+ },
+ "286dd24c5500403b7cd995fe4427d943": {
+  "first_seen": 1783604430.230466,
+  "title": "Machine Learning Engineer – GenAI (F/H) stage",
+  "company": "AXA",
+  "source": "wttj"
+ },
+ "056272277f375f07d1df062cdcbf0288": {
+  "first_seen": 1783604430.230475,
+  "title": "STAGE – ASSISTANCE IA AUX ÉQUIPES AVANT-VENTE DÉFENSE ",
+  "company": "Esri France",
+  "source": "wttj"
+ },
+ "832ec9acb6f93efe39e5e33114e79237": {
+  "first_seen": 1783604430.2304878,
+  "title": "STAGE 6 MOIS - À partir de juillet/septembre 2026 - Data - Master 1/2 - 1700€/mois",
+  "company": "L'Oréal Groupe",
+  "source": "wttj"
+ },
+ "da2b9384cad4eb1c5e462a3af3ac8c3f": {
+  "first_seen": 1783604430.2304952,
+  "title": "Stage Ingénieur.e IA ET COMPUTER VISION",
+  "company": "Groupe SII",
+  "source": "wttj"
+ },
+ "9934c183cb7246d5ae24572451127911": {
+  "first_seen": 1783604430.2305033,
+  "title": "Stage Ingénieur.e IA et Systèmes embarqués",
+  "company": "Groupe SII",
+  "source": "wttj"
+ },
+ "dae1fcaae4603d8fbcf817cb063c2386": {
+  "first_seen": 1783604430.2305117,
+  "title": "Stage - Chef de projet développement Full Stack F/H",
+  "company": "JCDecaux",
+  "source": "wttj"
+ },
+ "77d80184c24fe068dcdf2e2b2e751b81": {
+  "first_seen": 1783604430.2305202,
+  "title": "STAGE - Chargé de communication & acculturation IA",
+  "company": "Groupe Crédit Agricole",
+  "source": "wttj"
+ },
+ "bbd890d7224a45759d064765bce01f4f": {
+  "first_seen": 1783604430.230527,
+  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
+  "company": "Jimini AI",
+  "source": "wttj"
+ },
+ "20ca7edaaa787cb3473b33ac23ade13d": {
+  "first_seen": 1783604430.230538,
+  "title": "Stagiaire en financement de l'innovation -  Ingénieur Informatique / Electronique F/H",
+  "company": "KPMG France",
+  "source": "wttj"
+ },
+ "87057f007bac9d05ed6bbf11db1dabf6": {
+  "first_seen": 1783604430.2305474,
+  "title": "Stagiaire en financement de l'innovation -  Ingénieur Informatique / Finance F/H",
+  "company": "KPMG France",
+  "source": "wttj"
+ },
+ "af1ea0f4b7ba6c1931a21a6a32ebf517": {
+  "first_seen": 1783604430.2305543,
+  "title": "Marketplace Consultant Intern (Amazon) H/F - CDI",
+  "company": "Primelis",
+  "source": "wttj"
+ },
+ "f15f3befb65760c6883bb3a3e599486f": {
+  "first_seen": 1783604430.2305648,
+  "title": "TFE Génie Civil – Data science et surveillance des ouvrages d'art (ponts) F/H",
+  "company": "VINCI Construction",
+  "source": "wttj"
+ },
+ "b6a3be0182d2f8d716099798dc88d23e": {
+  "first_seen": 1783604430.2305717,
+  "title": "Analyste Quantitatif - Quant Crédit F/H",
+  "company": "Bpifrance",
+  "source": "wttj"
+ },
+ "67f0aa79550e3157567e4cef5666c4a4": {
+  "first_seen": 1783604430.2305791,
+  "title": "3 Internships - Medical Device Software Engineering & Research ",
+  "company": "Resolve Stroke",
+  "source": "wttj"
+ },
+ "712fda0609ccaad5d256bdc4ef171fb4": {
+  "first_seen": 1783604430.230585,
+  "title": "Product Owner Intern",
+  "company": "WeeFin",
+  "source": "wttj"
+ },
+ "19220a6a51a5927bf1cf491e2b75e931": {
+  "first_seen": 1783604430.2305925,
+  "title": "Technicien.ne Support Ingénierie (F/H)",
+  "company": "Stryker",
+  "source": "linkedin"
+ },
+ "ec39392dbdabdc9a621fb68bdfe14dc6": {
+  "first_seen": 1783604430.2305996,
+  "title": "Ingénieur Calculs Eléments Finis (F/H)",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "6f8013dd6204e74756464e60e9816fe2": {
+  "first_seen": 1783604430.2306106,
+  "title": "Conseiller-ère Services et Expériences Client (H/F) - Job étudiant / 12h sem",
+  "company": "DECATHLON FRANCE",
+  "source": "linkedin"
+ },
+ "12569c1cc55b6d8c41af2be77cc01638": {
+  "first_seen": 1783604430.2306187,
+  "title": "Développeur Java IA (H/F)",
+  "company": "SII Group Belgium",
+  "source": "linkedin"
+ },
+ "073d1c98000dce08e782f356a5f8d50b": {
+  "first_seen": 1783604430.2306259,
+  "title": "Développeur Java IA (H/F)",
+  "company": "SII Group Switzerland",
+  "source": "linkedin"
+ },
+ "481a9b560bb0de593aaac69928a2009e": {
+  "first_seen": 1783604430.2306328,
+  "title": "Développeur Java IA (H/F)",
+  "company": "SII Group UK",
+  "source": "linkedin"
+ },
+ "16db6699c2775d6e674752bfb190405e": {
+  "first_seen": 1783604430.2306397,
+  "title": "Développeur Java IA (H/F)",
+  "company": "SII Czech Republic",
+  "source": "linkedin"
+ },
+ "492dfb243f76c3b322f094ca885048e2": {
+  "first_seen": 1783604430.2306473,
+  "title": "Développeur Java IA (H/F)",
+  "company": "SII Germany",
+  "source": "linkedin"
+ },
+ "7176a231ae45783fe971916d7f7987f6": {
+  "first_seen": 1783604430.2306569,
+  "title": "STAGE Ingénieur(e) en ingénierie systèmes pour l’agriculture H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "bbb6a77677859eb75bae7b4ac75df9a8": {
+  "first_seen": 1783604430.2306647,
+  "title": "Consultant transformation digitale en alternance - F/H Brest",
+  "company": "Accenture France",
+  "source": "linkedin"
+ },
+ "1da5d6ff45544e4a53d6a3a08e7fde79": {
+  "first_seen": 1783604430.2306714,
+  "title": "Développeur Fullstack (H/F)",
+  "company": "SII Group UK",
+  "source": "linkedin"
+ },
+ "8a685b86f5a63ef05d2a28636a0e24c0": {
+  "first_seen": 1783604430.2306783,
+  "title": "Développeur Fullstack (H/F)",
+  "company": "SII Group Switzerland",
+  "source": "linkedin"
+ },
+ "321fcd01e7033785fc4c3d38d0a06f4d": {
+  "first_seen": 1783604430.2306864,
+  "title": "Data Analyst Sénior H/F",
+  "company": "Crédit Mutuel Arkéa",
+  "source": "linkedin"
+ },
+ "9eb23d63b6bba7c8d33f3aaa22ea7838": {
+  "first_seen": 1783604430.2307034,
+  "title": "Enseignant-chercheur en traitement numérique du signal et de l'image, acquisition et analyse de données - Campus de Bres",
+  "company": "ISEN Ouest (Yncréa)",
+  "source": "linkedin"
+ },
+ "06f23fd27baf2d14b61313ddd82a0621": {
+  "first_seen": 1783604430.2307096,
+  "title": "Alternant Chimiste ( H/F)",
+  "company": "Siemens Energy",
+  "source": "linkedin"
+ },
+ "cdc859134e2760927ce30a41f41b505a": {
+  "first_seen": 1783604430.2307162,
+  "title": "Mesures physiques et automatisme H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "d2faa467c1902e605ae044c457107404": {
+  "first_seen": 1783604430.2307253,
+  "title": "Analyste financier d'entreprises H/F",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "43c4c93046c5a5d01b0122633c50a3b8": {
+  "first_seen": 1783604430.2307317,
+  "title": "Testeur QA - Brest, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "c310b7abcff35faae129ec7cc7ecd600": {
+  "first_seen": 1783604430.2307377,
+  "title": "Ingénieur IA - Cyber & Data",
+  "company": "NEVERHACK",
+  "source": "linkedin"
+ },
+ "356fdd4e3a701eb34ff95fcfd5ec965c": {
+  "first_seen": 1783604430.2307582,
+  "title": "Ingénieur-e traitement du signal Health Monitoring F/H",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "df51d328014df313a23fb6dd7e2bf4a4": {
+  "first_seen": 1783604430.2307658,
+  "title": "Fullstack Software Engineer (x/f/m) - Care Expert Copilot",
+  "company": "Alan",
+  "source": "linkedin"
+ }
+}
