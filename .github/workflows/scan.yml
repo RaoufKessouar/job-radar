@@ -41,4 +41,5 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "state: scan $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
           git push
