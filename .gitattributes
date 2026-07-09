@@ -1,0 +1,3 @@
+# historique.csv est un fichier "append-only" : en cas de conflit,
+# on garde les lignes des deux côtés (fusion par union)
+historique.csv merge=union

@@ -41,5 +41,8 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "state: scan $(date -u +'%Y-%m-%d %H:%M')"
-          git pull --rebase origin main
+          # -X theirs : si un autre run a poussé entre-temps, on garde la version
+          # de CE run en cas de conflit (state.json) ; historique.csv fusionne
+          # par union via .gitattributes. Pire cas : une notification en double.
+          git pull --rebase -X theirs origin main || { git rebase --abort; git pull --rebase -s ours origin main; }
           git push
