@@ -41,6 +41,19 @@ def _headers(app_id: str, api_key: str) -> dict:
     }
 
 
+def _too_old(published_at: str, max_age_jours) -> bool:
+    """True si l'offre a été publiée il y a plus de max_age_jours."""
+    if not max_age_jours or not published_at:
+        return False
+    try:
+        from datetime import datetime, timezone
+        dt = datetime.fromisoformat(str(published_at).replace("Z", "+00:00"))
+        age_s = (datetime.now(timezone.utc) - dt).total_seconds()
+        return age_s > float(max_age_jours) * 86400
+    except (ValueError, TypeError):
+        return False  # date illisible → on garde (le scoring tranchera)
+
+
 def _query(session, app_id, api_key, index, keywords, hits_per_page, geo=True,
            max_age_jours=None):
     params = {
@@ -52,9 +65,8 @@ def _query(session, app_id, api_key, index, keywords, hits_per_page, geo=True,
                                      "contract_type:INTERNSHIP"]]),
         "filters": "website.reference:wttj_fr",
     }
-    if max_age_jours:
-        cutoff = int(time.time()) - int(max_age_jours) * 86400
-        params["numericFilters"] = json.dumps([f"published_at_timestamp>{cutoff}"])
+    # NB: le filtre d'ancienneté est appliqué côté client (voir search()) —
+    # le numericFilter published_at_timestamp vide silencieusement les résultats.
     if geo:
         params["aroundLatLng"] = IDF_LATLNG
         params["aroundRadius"] = IDF_RADIUS_M
@@ -118,9 +130,12 @@ def search(config: dict) -> list[dict]:
                 continue
         for hit in hits:
             offer = _hit_to_offer(hit)
-            if offer["url"] not in seen:
-                seen.add(offer["url"])
-                offers.append(offer)
+            if offer["url"] in seen:
+                continue
+            seen.add(offer["url"])
+            if _too_old(offer.get("date_posted"), max_age):
+                continue
+            offers.append(offer)
         time.sleep(1.0)  # politesse (≤4 req/s recommandé)
 
     if not geo_ok and offers:
