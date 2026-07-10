@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783717361.8985515,
+   "last_success": 1783719156.2683604,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783717361.8985574,
+   "last_success": 1783719156.2683663,
    "alerted": false
   }
  },
@@ -745,6 +745,18 @@
   "first_seen": 1783715562.509544,
   "title": "Research Engineer, Machine Learning , Paris/London/Zurich/Warsaw",
   "company": "Mistral",
+  "source": "linkedin"
+ },
+ "2247a46e741743f4ea9f732a294bc19e": {
+  "first_seen": 1783719156.2688813,
+  "title": "AI Decision Making Research Engineer (M/F)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin"
+ },
+ "5f4bd2455e1eb9ffcfcc8e3656da6dff": {
+  "first_seen": 1783719156.2689397,
+  "title": "Ingénieur IA Créative",
+  "company": "Free-Work",
   "source": "linkedin"
  }
 }
