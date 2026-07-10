@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783708361.8052123,
+   "last_success": 1783710188.3412945,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783708361.8052177,
+   "last_success": 1783710188.3413005,
    "alerted": false
   }
  },
@@ -427,6 +427,216 @@
   "first_seen": 1783708361.8055875,
   "title": "DATA SCIENTIST SENIOR H/F",
   "company": "Randstad Digital France",
+  "source": "linkedin"
+ },
+ "bb0075f7bd3dafe38b08f61719c4c83a": {
+  "first_seen": 1783710188.3416896,
+  "title": "Playables AI Engineer",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "5f146ed0f5b06b6f4871a0030671a0e6": {
+  "first_seen": 1783710188.3417132,
+  "title": "Full Stack AI Engineer",
+  "company": "Trust In SODA",
+  "source": "linkedin"
+ },
+ "8b822e1e84f9d479f34666b854e94555": {
+  "first_seen": 1783710188.341722,
+  "title": "AI Engineering / Agentic AI Engineering Manager",
+  "company": "Accenture France",
+  "source": "linkedin"
+ },
+ "f7d3b8e0df619e63f32962019affcdca": {
+  "first_seen": 1783710188.3417299,
+  "title": "Lead IA Générative - F/H",
+  "company": "Niji",
+  "source": "linkedin"
+ },
+ "3dd47d26bf8de4dcee9439a8d7c721d8": {
+  "first_seen": 1783710188.3417358,
+  "title": "Staff AI Engineer - Graphing",
+  "company": "Datadog",
+  "source": "linkedin"
+ },
+ "ee8058923fd83087046c6f88620d7541": {
+  "first_seen": 1783710188.3417435,
+  "title": "Member of technical staff - Agent",
+  "company": "H Company",
+  "source": "linkedin"
+ },
+ "9f7248a94b38d2712afa8c23dfa58afb": {
+  "first_seen": 1783710188.3417506,
+  "title": "Superviseur Business Intelligence & IA F/H",
+  "company": "RYDGE Conseil",
+  "source": "linkedin"
+ },
+ "3202d7d0c507aa7b9caeb50b5b110c31": {
+  "first_seen": 1783710188.3417563,
+  "title": "Senior AI Scientist",
+  "company": "Pigment",
+  "source": "linkedin"
+ },
+ "c579568ff67ecfd89aa8e3a2e2963bcb": {
+  "first_seen": 1783710188.3417637,
+  "title": "Research Engineer, Model Inference & Serving - Paris",
+  "company": "H Company",
+  "source": "linkedin"
+ },
+ "f13c314cbcd5bbb170f8d75f6c64b8e2": {
+  "first_seen": 1783710188.3417723,
+  "title": "CDI - Data Product Manager Analytics & AI - Retail (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "b1f38f211e2562885838a59f725b6fb6": {
+  "first_seen": 1783710188.3417819,
+  "title": "ML Manager - Paris 🇫🇷",
+  "company": "DentalMonitoring",
+  "source": "linkedin"
+ },
+ "9d3bb20b574a5c6d1c2c13e99df9de27": {
+  "first_seen": 1783710188.3418005,
+  "title": "Principal Machine Learning Engineer - Applied AI & LLMs (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin"
+ },
+ "fbdf45b4659e0d358f424c9ab1c7c259": {
+  "first_seen": 1783710188.3418167,
+  "title": "Ingénieur-e Data & IA - F/H - SAFRAN AEROSYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "777e3bafe88c407f48b2a812ef556d5d": {
+  "first_seen": 1783710188.3418806,
+  "title": "AI Scientist, Robotics",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "5355eb0e45ba4f8a3eb4a8a06e9ad171": {
+  "first_seen": 1783710188.3418875,
+  "title": "Final year internship - Operations Research Consultant",
+  "company": "Sia",
+  "source": "linkedin"
+ },
+ "1cae3514341cfff9ab6c717406d5c728": {
+  "first_seen": 1783710188.341907,
+  "title": "Apprentissage par réseaux de neurones à valeurs complexes pour la résolution de problèmes inverses en diffraction des on",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin"
+ },
+ "46366a7c7eb42488c7d927f07e764e61": {
+  "first_seen": 1783710188.341925,
+  "title": "Stage - Amélioration de la gestion des contenus d'aide des apps mobiles (H/F)",
+  "company": "Withings",
+  "source": "linkedin"
+ },
+ "37cf477402bc7077eb173dcecc87c92d": {
+  "first_seen": 1783710188.3419309,
+  "title": "Doctoral student",
+  "company": "Laveer Engineering",
+  "source": "linkedin"
+ },
+ "d8274cc9b467bd27c57526de1661e82f": {
+  "first_seen": 1783710188.3419418,
+  "title": "Stage - Modernisation de la gestion des écrans de nos produits (H/F)",
+  "company": "Withings",
+  "source": "linkedin"
+ },
+ "c12c664463bbf6d1282b099456612f2f": {
+  "first_seen": 1783710188.3419695,
+  "title": "Chargé de recherche et développement informatique",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin"
+ },
+ "1c09bb49a0c57dcd1e3dbbe6e986453c": {
+  "first_seen": 1783710188.3419762,
+  "title": "Stage Développeur C# F/H",
+  "company": "Fives",
+  "source": "linkedin"
+ },
+ "d206468f4552deec478f745b8b207114": {
+  "first_seen": 1783710188.342003,
+  "title": "Senior ML Engineer B2C - H/F",
+  "company": "Groupe TF1",
+  "source": "linkedin"
+ },
+ "c66e46e57f96b10902b68f9254214191": {
+  "first_seen": 1783710188.3420188,
+  "title": "Développeur Python H/F",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "fc5e127fc45af0f67d1b49df014d81b8": {
+  "first_seen": 1783710188.3420331,
+  "title": "3D Software Developer - XR & Simulation Systems Apprenticeveloper - XR & Simulation Systems",
+  "company": "Alstom",
+  "source": "linkedin"
+ },
+ "4f0176cf2c0c3dbab23f6d85d2c2b7d7": {
+  "first_seen": 1783710188.3420513,
+  "title": "STAGE de fin d'étude - Simulations numériques pour la conception de capteurs EMAT - H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "a06f317704d4eeed8312c0016d1d5569": {
+  "first_seen": 1783710188.3420684,
+  "title": "Chargé(e) de recherche utilisateur et partenariats (2 mois)",
+  "company": "Younivibe",
+  "source": "linkedin"
+ },
+ "eeaa9d86887301b8b5043aa7f89c25d2": {
+  "first_seen": 1783710188.3420832,
+  "title": "Stage - Chargé(e) de projet Solidarités & Engagement citoyen",
+  "company": "Sopra Steria",
+  "source": "linkedin"
+ },
+ "3e1947c983a1ffaffa9c9c28cb60a7cb": {
+  "first_seen": 1783710188.342088,
+  "title": "Stage - Juriste IP/IT",
+  "company": "Brevo",
+  "source": "linkedin"
+ },
+ "d22d6e7526b7c32cd8d88f2a3d461260": {
+  "first_seen": 1783710188.342095,
+  "title": "Stage - Chargé Web Analyse F/H",
+  "company": "Fnac Darty",
+  "source": "linkedin"
+ },
+ "f31082b3ebc8e64fcad37a352272c9d6": {
+  "first_seen": 1783710188.3421018,
+  "title": "Stage - Ingénieur généraliste ou gestion des risques F/H",
+  "company": "EDF",
+  "source": "linkedin"
+ },
+ "7e8d30b9b729b9829e8a4d903f204e49": {
+  "first_seen": 1783710188.34211,
+  "title": "Alternance développeur full stack data/IA F/H",
+  "company": "Fondation Bouygues Telecom",
+  "source": "linkedin"
+ },
+ "d44aa35cc5493aa56ab3cb177d717e3c": {
+  "first_seen": 1783710188.3421195,
+  "title": "Data & SIRH – Employee Central Core HR — Stage F/H/X",
+  "company": "Accor",
+  "source": "linkedin"
+ },
+ "2945b66227f3ea3dd7df9e25f0c45406": {
+  "first_seen": 1783710188.342131,
+  "title": "Stagiaire Évaluateur Non Clinique Ecotoxicologie (H/F)",
+  "company": "ANSM Agence nationale de sécurité du médicament et des produits de santé",
+  "source": "linkedin"
+ },
+ "4e879ab0128cf2ca45474196fdd43de3": {
+  "first_seen": 1783710188.3421361,
+  "title": "IA Tech Lead",
+  "company": "DXC Technology",
+  "source": "linkedin"
+ },
+ "7b76561ba73d58494cc77974bf168482": {
+  "first_seen": 1783710188.3421416,
+  "title": "Stage Assistant Chef de Projet Digital H/F",
+  "company": "CACEIS",
   "source": "linkedin"
  }
 }
