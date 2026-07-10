@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783703477.6693876,
+   "last_success": 1783704755.7368612,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783703477.6693923,
+   "last_success": 1783704755.7368672,
    "alerted": false
   }
  },
@@ -319,6 +319,60 @@
   "first_seen": 1783703477.6698532,
   "title": "Staff MLOps Engineer",
   "company": "Turo",
+  "source": "linkedin"
+ },
+ "aca41aee51498dee9052b571ece25ffe": {
+  "first_seen": 1783704755.7373006,
+  "title": "Head of AI & Advanced Apps",
+  "company": "Moët Hennessy",
+  "source": "linkedin"
+ },
+ "33cfffc406efe3da0eba9a87fdfd3ec9": {
+  "first_seen": 1783704755.7373583,
+  "title": "Senior Data Scientist - Demand Forecast",
+  "company": "Decathlon Digital",
+  "source": "linkedin"
+ },
+ "135a20a7819caeee8e672c5219549e81": {
+  "first_seen": 1783704755.7373676,
+  "title": "Ingénieur étude et conception Algorithmes C2 F/H",
+  "company": "MBDA",
+  "source": "linkedin"
+ },
+ "03a481cbeb691f7ef36515a8df51ca7f": {
+  "first_seen": 1783704755.7373743,
+  "title": "Développeur Python",
+  "company": "laWEbox",
+  "source": "linkedin"
+ },
+ "72fb40839309bb6eeb30569c16e9f750": {
+  "first_seen": 1783704755.737386,
+  "title": "Stage - Product Manager Data SQL BI IA LLM - Logiciel SaaS Communautaire CRM",
+  "company": "Alumnforce - Alumni Students Success Platform",
+  "source": "linkedin"
+ },
+ "472ad3ed3479b1099f3dfc3defe2602f": {
+  "first_seen": 1783704755.7373936,
+  "title": "📋Consultant Digital & Data (alternance)",
+  "company": "Cartelis",
+  "source": "linkedin"
+ },
+ "3eee0c376dd30b47e26e9de52a284778": {
+  "first_seen": 1783704755.7374015,
+  "title": "CDI - Data Engineering Manager Analytics & AI (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "334ead147880e2ff3dde329c0d41ac27": {
+  "first_seen": 1783704755.7374103,
+  "title": "Consultant Senior ou Manager AI Engineer - secteur Financier, H/F - FY27",
+  "company": "EY",
+  "source": "linkedin"
+ },
+ "49a53cb42099e1159aa74120d80948f5": {
+  "first_seen": 1783704755.7374208,
+  "title": "Développeur de logiciel en traitement d'image (C++/Qt) (H/F)",
+  "company": "Vilber - Smart Imaging",
   "source": "linkedin"
  }
 }
