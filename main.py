@@ -20,7 +20,7 @@ import yaml
 sys.path.insert(0, str(Path(__file__).parent))
 
 from scrapers import wttj, linkedin  # noqa: E402
-from core import dedup, scoring      # noqa: E402
+from core import dedup, scoring, llm, health  # noqa: E402
 from notify import emailer           # noqa: E402
 
 ROOT = Path(__file__).parent
@@ -74,24 +74,45 @@ def main() -> int:
 
     cfg = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
 
-    # 1. Collecte
+    # 1. Collecte (+ surveillance santé de chaque canal)
+    state = dedup.load_state(STATE_FILE)
     if args.sample:
         offers = list(SAMPLE_OFFERS)
         print(f"[main] mode sample: {len(offers)} offres factices")
     else:
-        offers = wttj.search(cfg) + linkedin.search(cfg)
+        wttj_offers = wttj.search(cfg)
+        li_offers = linkedin.search(cfg)
+        health.check(state, "wttj", len(wttj_offers), cfg, emailer.send_alert)
+        health.check(state, "linkedin", len(li_offers), cfg, emailer.send_alert)
+        offers = wttj_offers + li_offers
         print(f"[main] {len(offers)} offres collectées au total")
 
     # 2. Déduplication
-    state = dedup.load_state(STATE_FILE)
     new_offers = dedup.filter_new(offers, state)
     print(f"[main] {len(new_offers)} nouvelles offres (jamais vues)")
 
-    # 3. Scoring
-    relevant = scoring.rank(new_offers, cfg)
-    print(f"[main] {len(relevant)} offres au-dessus du seuil de pertinence")
+    # 3. Pré-filtre mots-clés (gratuit) : élimine l'évident hors-sujet
+    for o in new_offers:
+        o["score_kw"] = scoring.score(o, cfg)
+    candidates = [o for o in new_offers if o["score_kw"] > 0]
+    print(f"[main] {len(candidates)} candidates après pré-filtre mots-clés")
+
+    # 4. Descriptions LinkedIn manquantes (2e passe, plafonnée)
+    if not args.sample:
+        linkedin.enrich_descriptions(candidates, cfg)
+
+    # 5. Jugement Gemini (plafonné, fallback mots-clés intégré)
+    llm.judge(candidates, cfg)
+    for o in new_offers:
+        o.setdefault("score", 0)
+
+    threshold = cfg.get("scoring", {}).get("seuil_notification", 30)
+    relevant = sorted([o for o in candidates if o["score"] >= threshold],
+                      key=lambda o: o["score"], reverse=True)
+    print(f"[main] {len(relevant)} offres au-dessus du seuil ({threshold})")
     for o in relevant:
-        print(f"    [{o['score']:3d}] {o['title'][:70]} — {o['company']} ({o['source']})")
+        raison = f" | {o['llm_raison'][:60]}" if o.get("llm_raison") else ""
+        print(f"    [{o['score']:3d}] {o['title'][:60]} — {o['company'][:25]} ({o['source']}){raison}")
 
     # 4. Historique CSV (toutes les nouvelles offres, même sous le seuil — utile pour régler le scoring)
     append_history(new_offers)

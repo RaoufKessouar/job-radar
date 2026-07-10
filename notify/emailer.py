@@ -36,13 +36,21 @@ def _send(subject: str, html: str) -> bool:
 
 
 def _offer_html(o: dict) -> str:
+    raison = (f"<p style='color:#555;font-style:italic'>&#129302; {o['llm_raison']}</p>"
+              if o.get("llm_raison") else "")
     return (
         f"<h2 style='margin-bottom:2px'>{o['title']}</h2>"
         f"<p style='margin-top:2px'><b>{o['company']}</b> — {o.get('location','')} "
         f"— score <b>{o['score']}</b> — source {o['source']}"
         f"{' — publiée ' + str(o['date_posted']) if o.get('date_posted') else ''}</p>"
+        f"{raison}"
         f"<p><a href=\"{o['url']}\" style='font-size:16px'>&#9658; Voir l'offre et postuler</a></p>"
     )
+
+
+def send_alert(subject: str, text: str) -> None:
+    """Email technique (panne/rétablissement de canal)."""
+    _send(subject, f"<pre style='font-family:sans-serif'>{text}</pre>")
 
 
 def notify(offers: list[dict], cfg: dict, dry_run: bool = False) -> None:

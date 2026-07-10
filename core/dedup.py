@@ -36,9 +36,10 @@ def load_state(path: str | Path) -> dict:
 
 
 def save_state(state: dict, path: str | Path) -> None:
-    # Purge des entrées trop vieilles
+    # Purge des entrées trop vieilles (les clés techniques "_..." sont préservées)
     cutoff = time.time() - RETENTION_JOURS * 86400
-    state = {k: v for k, v in state.items() if v.get("first_seen", 0) > cutoff}
+    state = {k: v for k, v in state.items()
+             if k.startswith("_") or v.get("first_seen", 0) > cutoff}
     Path(path).write_text(
         json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8"
     )
