@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783705486.3696706,
+   "last_success": 1783706550.4801862,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783705486.369677,
+   "last_success": 1783706550.4801922,
    "alerted": false
   }
  },
@@ -373,6 +373,48 @@
   "first_seen": 1783704755.7374208,
   "title": "Développeur de logiciel en traitement d'image (C++/Qt) (H/F)",
   "company": "Vilber - Smart Imaging",
+  "source": "linkedin"
+ },
+ "c36189832152550fd175e8be002b2881": {
+  "first_seen": 1783706550.480451,
+  "title": "Apprentissage : Ingénieur en Développement de Simulations Numériques F/H - MBDA",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "2fd37e002c5093291ee2364dc88bfd29": {
+  "first_seen": 1783706550.480472,
+  "title": "Chargé de mission RSE et data environnementale",
+  "company": "Hachette Livre",
+  "source": "linkedin"
+ },
+ "00b4bb5d73308e356e6e00c8764aa355": {
+  "first_seen": 1783706550.4804826,
+  "title": "Stage ou alternance consultant informatique et financement de l'innovation F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "a79f305fc69646521643fbf1bc27a415": {
+  "first_seen": 1783706550.4804893,
+  "title": "Assistant chef de projet digital - technique",
+  "company": "Make Me Win",
+  "source": "linkedin"
+ },
+ "54e5f6088449056becfcc77e5e2753c3": {
+  "first_seen": 1783706550.4804978,
+  "title": "Transport, Infrastructure, Manufacturing & Energy - Stage de fin d'études/Alternance",
+  "company": "Wavestone",
+  "source": "linkedin"
+ },
+ "a5c2a746f3ba6b26478278f2364a2c60": {
+  "first_seen": 1783706550.480505,
+  "title": "STAGE - Juillet 2026 - Assistant Image F/H",
+  "company": "The Kooples",
+  "source": "linkedin"
+ },
+ "4bbf11b6cb2ed4d8d5d40e1650e0db51": {
+  "first_seen": 1783706550.4805937,
+  "title": "Stagiaire Ingénieur IA & Développement Full-Stack F/H/X+",
+  "company": "ESSEC Business School",
   "source": "linkedin"
  }
 }
