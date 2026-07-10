@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783722756.4719868,
+   "last_success": 1783724571.759621,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783722756.4719923,
+   "last_success": 1783724571.7596276,
    "alerted": false
   }
  },
@@ -763,6 +763,54 @@
   "first_seen": 1783720949.309588,
   "title": "Stage Ingénieur Data IA H/F",
   "company": "CBRE",
+  "source": "linkedin"
+ },
+ "745285d04ee135a99c2e201a2aacf94e": {
+  "first_seen": 1783724571.760011,
+  "title": "Data Analytics Internship",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "fbd8bfc4a6801bc828924fe8d3bcf4dc": {
+  "first_seen": 1783724571.7600296,
+  "title": "Data Engineer - CDI - Paris",
+  "company": "papernest",
+  "source": "linkedin"
+ },
+ "ba4c6a8a46880c200d3ffae3c83a85fc": {
+  "first_seen": 1783724571.760036,
+  "title": "Performance & Data Lead",
+  "company": "Capgemini",
+  "source": "linkedin"
+ },
+ "085437a48d4209fddc522454001edc46": {
+  "first_seen": 1783724571.7600548,
+  "title": "Data Engineer - Foundational",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "847b9b021ab0dd67bcc8599d8f0c4d2d": {
+  "first_seen": 1783724571.760077,
+  "title": "Économiste statisticien (H/F)",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "1363af479df6fda8f44ba95d8609014b": {
+  "first_seen": 1783724571.7601602,
+  "title": "Lead AI Engineer",
+  "company": "360Learning",
+  "source": "linkedin"
+ },
+ "368eef37374f2a0a6207614a5274beac": {
+  "first_seen": 1783724571.7601962,
+  "title": "Lead AI, MLOps & Data Engineer - Paris [CDI]",
+  "company": "WedR",
+  "source": "linkedin"
+ },
+ "0227a38da2167913e26f93d3036ba7a9": {
+  "first_seen": 1783724571.760212,
+  "title": "RESEARCH ENGINEER POSITION: DEVELOPMENT AND MAINTENANCE OF AN OPEN RAN AND AI-DRIVEN 5G PLATFORM",
+  "company": "L2S - Laboratoire des signaux et systèmes",
   "source": "linkedin"
  }
 }
