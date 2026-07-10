@@ -2092,5 +2092,39 @@
   "title": "Machine Learning Engineer IA Conversationnelle & Voicebot H/F",
   "company": "Soors",
   "source": "linkedin"
+ },
+ "_health": {
+  "wttj": {
+   "last_success": 1783702507.5544107,
+   "alerted": false
+  },
+  "linkedin": {
+   "last_success": 1783702507.554417,
+   "alerted": false
+  }
+ },
+ "2fd37e002c5093291ee2364dc88bfd29": {
+  "first_seen": 1783702507.5546718,
+  "title": "Chargé de mission RSE et data environnementale",
+  "company": "Hachette Livre",
+  "source": "linkedin"
+ },
+ "850dbccd551c5074caf594cdef209b39": {
+  "first_seen": 1783702507.5547674,
+  "title": "AI Engineer / Agentic AI Engineer",
+  "company": "Accenture France",
+  "source": "linkedin"
+ },
+ "32d9c5418c489b3aa4be121923567957": {
+  "first_seen": 1783702507.554775,
+  "title": "Agentic AI & Tool Developer",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "4b3742194a5d08b23e44c476744dc252": {
+  "first_seen": 1783702507.554786,
+  "title": "AI Engineer",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin"
  }
 }
