@@ -21,6 +21,21 @@ def _contains(text: str, kw: str) -> bool:
     return kw in text
 
 
+def passes_gate(offer: dict, cfg: dict) -> bool:
+    """Règles DURES uniquement (pré-filtre avant LLM) :
+    le titre doit ressembler à un stage, et ne pas être une exclusion évidente.
+    Aucune exigence de mot-clé thématique — c'est le LLM qui juge le fond."""
+    s_cfg = cfg.get("scoring", {})
+    title = (offer.get("title") or "").lower()
+    if not any(w in title for w in s_cfg.get("obligatoires_titre", [])):
+        return False
+    has_stage = "stage" in title or "intern" in title
+    for w in s_cfg.get("exclusions_titre", []):
+        if w in title and not has_stage:
+            return False
+    return True
+
+
 def score(offer: dict, cfg: dict) -> int:
     s_cfg = cfg.get("scoring", {})
     title = (offer.get("title") or "").lower()

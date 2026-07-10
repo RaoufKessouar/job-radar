@@ -91,11 +91,12 @@ def main() -> int:
     new_offers = dedup.filter_new(offers, state)
     print(f"[main] {len(new_offers)} nouvelles offres (jamais vues)")
 
-    # 3. Pré-filtre mots-clés (gratuit) : élimine l'évident hors-sujet
+    # 3. Pré-filtre : règles dures seulement (stage + pas d'exclusion évidente).
+    #    Le score mots-clés est calculé pour servir de fallback si le LLM échoue.
     for o in new_offers:
         o["score_kw"] = scoring.score(o, cfg)
-    candidates = [o for o in new_offers if o["score_kw"] > 0]
-    print(f"[main] {len(candidates)} candidates après pré-filtre mots-clés")
+    candidates = [o for o in new_offers if scoring.passes_gate(o, cfg)]
+    print(f"[main] {len(candidates)} candidates après pré-filtre (règles dures)")
 
     # 4. Descriptions LinkedIn manquantes (2e passe, plafonnée)
     if not args.sample:
