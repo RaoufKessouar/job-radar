@@ -1,1 +1,324 @@
-{}
+{
+ "_health": {
+  "wttj": {
+   "last_success": 1783703477.6693876,
+   "alerted": false
+  },
+  "linkedin": {
+   "last_success": 1783703477.6693923,
+   "alerted": false
+  }
+ },
+ "6848dc6fc248e8ebd898e163bd149393": {
+  "first_seen": 1783703477.6695633,
+  "title": "Final year internship - Marketing Data Scientist",
+  "company": "Sia",
+  "source": "wttj"
+ },
+ "379e0f5bbc3728cdc59354d5215f1051": {
+  "first_seen": 1783703477.6695735,
+  "title": "Final year internship - Data Scientist & AI Consultant",
+  "company": "Sia",
+  "source": "wttj"
+ },
+ "b833747196a58bd70ba4d72be84196cc": {
+  "first_seen": 1783703477.669582,
+  "title": "Ingénieur(e) IA - Stage de fin d'études",
+  "company": "Galadrim",
+  "source": "wttj"
+ },
+ "f90c54357df8ff8ae5204a7fb93cb580": {
+  "first_seen": 1783703477.6695895,
+  "title": "Stage Data SQL BI IA LLM - Dev SaaS Communautaire CRM",
+  "company": "Alumnforce - Alumni Success Platform",
+  "source": "wttj"
+ },
+ "b0722baf03a843c72cb3de8fef6b7b79": {
+  "first_seen": 1783703477.6695952,
+  "title": "STAGE - Assistant Formation & Digital Learning H/F",
+  "company": "Diot Siaci",
+  "source": "wttj"
+ },
+ "334bd3bbfb005feecc12ac8c6bb7009a": {
+  "first_seen": 1783703477.6696045,
+  "title": "Consultant Stagiaire en Transformation et Stratégie Data/IA F/H ",
+  "company": "KPMG France",
+  "source": "wttj"
+ },
+ "ec951f07830ff382b119dff8b5683de3": {
+  "first_seen": 1783703477.6696095,
+  "title": "Data Scientist",
+  "company": "MYRIAD Data",
+  "source": "linkedin"
+ },
+ "5eff310b5d2cea0110a3e85d82b29d41": {
+  "first_seen": 1783703477.6696146,
+  "title": "Data Scientist H/F",
+  "company": "Viveris",
+  "source": "linkedin"
+ },
+ "81574b9ea7100484da4cdd930570fe53": {
+  "first_seen": 1783703477.6696188,
+  "title": "Graduate data scientist",
+  "company": "Bending Spoons",
+  "source": "linkedin"
+ },
+ "dce72482d8ce6392ba68a52719259b36": {
+  "first_seen": 1783703477.6696231,
+  "title": "NEW - Data Scientist",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "986e42eafdbb62ef0b8c931c1fd9ad8b": {
+  "first_seen": 1783703477.6696303,
+  "title": "DATA SCIENTIST CONFIRMÉ H/F",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "589070298de96af5dbbf9af4fc1b9548": {
+  "first_seen": 1783703477.6696355,
+  "title": "internship 6 months - data science",
+  "company": "Sanofi",
+  "source": "linkedin"
+ },
+ "ffaf9c2615f23e821902a07156992a4d": {
+  "first_seen": 1783703477.669641,
+  "title": "Junior Professional in AI/ML Software Engineering",
+  "company": "Independent Space News",
+  "source": "linkedin"
+ },
+ "e2c1242d8330d30216dc3d0ba462b95a": {
+  "first_seen": 1783703477.6696465,
+  "title": "Data Scientist - Solutions Front (H/F)",
+  "company": "CHOLET DUPONT OUDART",
+  "source": "linkedin"
+ },
+ "b81cc62362cc6e30ea2885a730008eed": {
+  "first_seen": 1783703477.669653,
+  "title": "Data Scientist - Property & Corporate Services H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "81c0c3bd8e02ab650fea0d5c205772db": {
+  "first_seen": 1783703477.6696568,
+  "title": "Data scientist",
+  "company": "Bending Spoons",
+  "source": "linkedin"
+ },
+ "bc2811614992d995c16227b83a469df4": {
+  "first_seen": 1783703477.6696708,
+  "title": "Consultant(e) Stagiaire en Data & Analytics - F/H",
+  "company": "EY-Parthenon",
+  "source": "linkedin"
+ },
+ "4dcdce35531ba0db6f46ac4906f33539": {
+  "first_seen": 1783703477.669678,
+  "title": "Chargé de projet data et automatisation(H/F)",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "d390c65be8d5a93db427d13b9ddc9751": {
+  "first_seen": 1783703477.6696825,
+  "title": "Machine Learning Engineer",
+  "company": "WHIZE",
+  "source": "linkedin"
+ },
+ "7540a0bbea4b3c398b1432343c2633f1": {
+  "first_seen": 1783703477.6696875,
+  "title": "Data Scientist (multiple roles)",
+  "company": "Bits in Bio",
+  "source": "linkedin"
+ },
+ "5b034285c2673640473fe441c93b528e": {
+  "first_seen": 1783703477.6696932,
+  "title": "Stage - Computer Vision Data Drift (H/F)",
+  "company": "Safran.AI (ex Preligens)",
+  "source": "linkedin"
+ },
+ "8ee8861de7ca07bfa71ab9940879658b": {
+  "first_seen": 1783703477.669698,
+  "title": "ML Engineer B2B - H/F",
+  "company": "Groupe TF1",
+  "source": "linkedin"
+ },
+ "732caeec6930bc56ea61ec4aa907a3e1": {
+  "first_seen": 1783703477.669702,
+  "title": "Data Analyst",
+  "company": "MYRIAD Data",
+  "source": "linkedin"
+ },
+ "ee4c433ccedddadd1f087c5a1df0ec40": {
+  "first_seen": 1783703477.6697063,
+  "title": "AI & Automation Intern",
+  "company": "Euronext",
+  "source": "linkedin"
+ },
+ "636ea5c9c50d5c9457e9a07e9b418bf7": {
+  "first_seen": 1783703477.6697106,
+  "title": "Actuaire / Data Scientist senior",
+  "company": "Abeille Assurances",
+  "source": "linkedin"
+ },
+ "fa9271d7713f6c889e08512033ab281d": {
+  "first_seen": 1783703477.6697195,
+  "title": "📋Consultant Data / IAG Ingenieur (Stage)",
+  "company": "Cartelis",
+  "source": "linkedin"
+ },
+ "dabc122dc782880877e1d43a091788cd": {
+  "first_seen": 1783703477.6697252,
+  "title": "Machine Learning Engineer IA Conversationnelle & Voicebot H/F",
+  "company": "Soors",
+  "source": "linkedin"
+ },
+ "618bc8e95e5e5c8fdf7b40ab89af05ac": {
+  "first_seen": 1783703477.6697302,
+  "title": "DATA ENGINEER (H/F) MACHINE LEARNING",
+  "company": "GROUPE ALLIANCE",
+  "source": "linkedin"
+ },
+ "5f1b516553c55bf28cd37e39d03dd20c": {
+  "first_seen": 1783703477.6697335,
+  "title": "ML Engineer",
+  "company": "Tilencia",
+  "source": "linkedin"
+ },
+ "607477b2492ad8e6afda1a8e66555673": {
+  "first_seen": 1783703477.669741,
+  "title": "Ingénieur(e) R&D en Graph Neural Networks",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin"
+ },
+ "868d12969a18eb046f623d427affbcdb": {
+  "first_seen": 1783703477.6697454,
+  "title": "LEAD DATA SCIENTIST (H/F/NB)",
+  "company": "Ipsos bva",
+  "source": "linkedin"
+ },
+ "a9db360457163271a1ca56f52083776d": {
+  "first_seen": 1783703477.6697497,
+  "title": "Stage / alternance - Data Engineer",
+  "company": "Numberly",
+  "source": "linkedin"
+ },
+ "b93dcef957c8da74c53240c55f92caf7": {
+  "first_seen": 1783703477.669755,
+  "title": "AI Engineer",
+  "company": "Yotta - Expert en recrutement Data, AI & Product",
+  "source": "linkedin"
+ },
+ "339b8c0cc204f21dc3963c0a583d022b": {
+  "first_seen": 1783703477.6697655,
+  "title": "Business Analyst / Data Scientist – Domaine LCB/FT H/F",
+  "company": "QUANTEAM (RAINBOW PARTNERS Group)",
+  "source": "linkedin"
+ },
+ "f85e793c863a20a5e9c7f82d70a37837": {
+  "first_seen": 1783703477.66977,
+  "title": "Artificial Intelligence Engineer",
+  "company": "Reply",
+  "source": "linkedin"
+ },
+ "be21c7222dd3a7103eca78c4e2b6b101": {
+  "first_seen": 1783703477.669774,
+  "title": "AI Data Engineer H/F",
+  "company": "EY",
+  "source": "linkedin"
+ },
+ "850dbccd551c5074caf594cdef209b39": {
+  "first_seen": 1783703477.6697786,
+  "title": "AI Engineer / Agentic AI Engineer",
+  "company": "Accenture France",
+  "source": "linkedin"
+ },
+ "32d9c5418c489b3aa4be121923567957": {
+  "first_seen": 1783703477.6697829,
+  "title": "Agentic AI & Tool Developer",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "83b6fe2d74851a6dd8979403c1671806": {
+  "first_seen": 1783703477.6697865,
+  "title": "MLops",
+  "company": "MYRIAD Data",
+  "source": "linkedin"
+ },
+ "4b3742194a5d08b23e44c476744dc252": {
+  "first_seen": 1783703477.6697907,
+  "title": "AI Engineer",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin"
+ },
+ "609661ec02e125c133091c1933449d8d": {
+  "first_seen": 1783703477.6697953,
+  "title": "AI Scientist - Onsite or Hybrid or Remote",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "0485edb387a6cfd82ae1f23737ab3854": {
+  "first_seen": 1783703477.6698003,
+  "title": "Internship Smart Automation & Agentic AI Dev",
+  "company": "Euronext",
+  "source": "linkedin"
+ },
+ "6072cc7b53f3009d0b79152d215d951b": {
+  "first_seen": 1783703477.6698077,
+  "title": "Ingénieur IA GenAI (GCP Mandatory) (F/H/X)",
+  "company": "Amaris Consulting",
+  "source": "linkedin"
+ },
+ "2d699d7b93817b3aafc23f47008a737f": {
+  "first_seen": 1783703477.669813,
+  "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "deb2d428ab6b8f86dc9b3baccf279f3c": {
+  "first_seen": 1783703477.6698184,
+  "title": "Staff Applied AI Software Engineer (Python) - Patient (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin"
+ },
+ "d0facafbf803c818a427b2176b044bdf": {
+  "first_seen": 1783703477.6698225,
+  "title": "Software Engineer III, YouTube Knowledge",
+  "company": "Google",
+  "source": "linkedin"
+ },
+ "a311068b2703c2c5295939d38fd7524c": {
+  "first_seen": 1783703477.6698267,
+  "title": "Senior AI/ML Software Engineer, YouTube Knowledge",
+  "company": "Google",
+  "source": "linkedin"
+ },
+ "287af7581a87644789c21f2a7ca70b26": {
+  "first_seen": 1783703477.6698306,
+  "title": "Doctorant IA",
+  "company": "Laveer Engineering",
+  "source": "linkedin"
+ },
+ "970c8ad92037afcb5642c7a1258aa46a": {
+  "first_seen": 1783703477.6698372,
+  "title": "Stagiaire de fin d'études - Consultant Tech Data et IA (F/H)",
+  "company": "Axionable",
+  "source": "linkedin"
+ },
+ "fe6cf208e4f2a52c0ba2bc32b7526322": {
+  "first_seen": 1783703477.6698425,
+  "title": "[Data - FR] Senior Machine Learning Engineer - Orchestration",
+  "company": "Doctolib",
+  "source": "linkedin"
+ },
+ "59a6b45394329828fc12d0daeae529ad": {
+  "first_seen": 1783703477.6698499,
+  "title": "STAGE : Data Analytics & AI Project – Marketing Performance (H/F)",
+  "company": "Stellantis Financial Services",
+  "source": "linkedin"
+ },
+ "4d92f00366303f5de225ff4ae3acea45": {
+  "first_seen": 1783703477.6698532,
+  "title": "Staff MLOps Engineer",
+  "company": "Turo",
+  "source": "linkedin"
+ }
+}
