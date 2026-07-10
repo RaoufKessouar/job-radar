@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783713756.6820908,
+   "last_success": 1783715562.508938,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783713756.6820965,
+   "last_success": 1783715562.5089438,
    "alerted": false
   }
  },
@@ -649,6 +649,102 @@
   "first_seen": 1783713756.6824756,
   "title": "Data Analyst",
   "company": "Confidential",
+  "source": "linkedin"
+ },
+ "a65e9f1dccf449db493db465b365481b": {
+  "first_seen": 1783715562.5092092,
+  "title": "Data Scientist",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "ddb79249ba5742a0b90b3e11ae846a04": {
+  "first_seen": 1783715562.5093286,
+  "title": "Data & IA Engineer F/H",
+  "company": "Constellation",
+  "source": "linkedin"
+ },
+ "cb5afc5c043f488e1bbcbb2ce047e0c4": {
+  "first_seen": 1783715562.5093558,
+  "title": "Ingénieur-e d'études en analyse de données - H/F",
+  "company": "INSERM",
+  "source": "linkedin"
+ },
+ "45f35cebcd73cdac9f6448e7db09e687": {
+  "first_seen": 1783715562.50938,
+  "title": "Senior Data Analyst - Flying Blue F/H - Air France KLM",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "7533ad9e4962eb693c46d109d9d677cb": {
+  "first_seen": 1783715562.509386,
+  "title": "Senior Machine Learning Engineer - Causality",
+  "company": "Criteo",
+  "source": "linkedin"
+ },
+ "5cfc86fc0d2bf6fd4a66635a06fc2517": {
+  "first_seen": 1783715562.5093913,
+  "title": "Data Analyst (H/F/X)",
+  "company": "Kolecto",
+  "source": "linkedin"
+ },
+ "fa78d052aeb0bf2a8cb802c43eb89edb": {
+  "first_seen": 1783715562.5093987,
+  "title": "Chargé d’études Data et Actuariat F/H",
+  "company": "ENTORIA",
+  "source": "linkedin"
+ },
+ "bfac9473f4621e4b38f34f77bdbdc6bd": {
+  "first_seen": 1783715562.5094059,
+  "title": "Control Tower Pre‑Analyst",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "1b24c3122d0d54b73f7dda0344374560": {
+  "first_seen": 1783715562.5094268,
+  "title": "Full Stack Developer - Data Factory (f/m/d)",
+  "company": "Decathlon Digital",
+  "source": "linkedin"
+ },
+ "d31376514f337ca75b0f70ebb01b1e3b": {
+  "first_seen": 1783715562.5094335,
+  "title": "Alternance - Data RH et Pilotage Social F/H",
+  "company": "Fnac Darty",
+  "source": "linkedin"
+ },
+ "e4ac85de10897a582de829c38b1e1700": {
+  "first_seen": 1783715562.5094454,
+  "title": "Alternance Analyste risques reporting - F/H",
+  "company": "Groupe CCF",
+  "source": "linkedin"
+ },
+ "13ebc1b915a46c047037686813da431b": {
+  "first_seen": 1783715562.5094533,
+  "title": "Analyste Coûts et Risques Énergies (Gaz & Électricité) F/H",
+  "company": "EDF",
+  "source": "linkedin"
+ },
+ "4f00cc115086ee747c03455b2435c78a": {
+  "first_seen": 1783715562.5094645,
+  "title": "Alternance - Business & Data Analyst H/F",
+  "company": "Groupe Crédit Agricole",
+  "source": "linkedin"
+ },
+ "e06effc4759ab596389227ab442c8b86": {
+  "first_seen": 1783715562.5094695,
+  "title": "AI Engineer / Agent Developer",
+  "company": "Metyis",
+  "source": "linkedin"
+ },
+ "2cf5535bea2ca670e983adfbbe16e89d": {
+  "first_seen": 1783715562.5094762,
+  "title": "Ingénieur data (F/H)",
+  "company": "AS International Group",
+  "source": "linkedin"
+ },
+ "ab7315efcc945cc49669040506c60a83": {
+  "first_seen": 1783715562.509544,
+  "title": "Research Engineer, Machine Learning , Paris/London/Zurich/Warsaw",
+  "company": "Mistral",
   "source": "linkedin"
  }
 }
