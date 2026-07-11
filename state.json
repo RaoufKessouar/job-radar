@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783758754.416493,
+   "last_success": 1783760560.8213902,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783758754.416499,
+   "last_success": 1783760560.8213959,
    "alerted": false
   }
  },
@@ -1075,6 +1075,48 @@
   "first_seen": 1783756975.660856,
   "title": "STAGE - STAGE – DA JUNIOR (H/F/X)",
   "company": "Havas Play 🇫🇷",
+  "source": "linkedin"
+ },
+ "5676764a2e762ce95a3afad9f7996feb": {
+  "first_seen": 1783760560.8219244,
+  "title": "Data Engineer - Alternance F/H",
+  "company": "Drivers Trop Puissants",
+  "source": "linkedin"
+ },
+ "99749b1652e5c66737fe4c2c6b6a0e9b": {
+  "first_seen": 1783760560.8219874,
+  "title": "Forward Deployed Engineer (FDE) - Full Remote - Santé / IA",
+  "company": "Cabinet EKINOX",
+  "source": "linkedin"
+ },
+ "2e71211806da14a1a658e3f5a001744e": {
+  "first_seen": 1783760560.8220053,
+  "title": "Développeur / Devops Cloud",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "3b2ae070dd0c3f029b67c8efa2149f0c": {
+  "first_seen": 1783760560.8220148,
+  "title": "Chef de projet IA (F/H) - Orienté business & client",
+  "company": "SVP",
+  "source": "linkedin"
+ },
+ "e6c7f31a85d124cf51bff1b9f3b8d762": {
+  "first_seen": 1783760560.8220258,
+  "title": "Alternance – DevOps Mobile & Web – Septembre 2026 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "931861341c1211543dc41cebec87803a": {
+  "first_seen": 1783760560.822038,
+  "title": "Founding CTO",
+  "company": "vala",
+  "source": "linkedin"
+ },
+ "3366711aa0484b8a3ffe66eb874398bd": {
+  "first_seen": 1783760560.8220494,
+  "title": "Stage – Chef(fe) de projet Performance Qualité – Mode – Mars 2027 – H/F/X",
+  "company": "CHANEL",
   "source": "linkedin"
  }
 }
