@@ -9,6 +9,7 @@ recherches:
   - keywords: "stage intelligence artificielle"
   - keywords: "stage machine learning"
   - keywords: "stage computer vision NLP"
+  - keywords: "stage embedded software robotique"   # cible secondaire
 
 localisation:
   # "Île-de-France" est mal géocodé par LinkedIn (→ Bretagne !) : on centre sur Paris
@@ -95,12 +96,35 @@ llm:
   max_offres_par_run: 40     # plafond budget : au-delà, fallback mots-clés
   profil: >
     Étudiant en Master 2 (Bac+5), cherche un STAGE DE FIN D'ÉTUDES d'environ
-    6 mois en data science, intelligence artificielle, machine learning,
-    deep learning, computer vision, NLP ou IA générative/LLM, en Île-de-France.
-    Stack : Python, PyTorch. Les stages de recherche/R&D et pré-thèse sont
-    pertinents. NON pertinents : alternance seule (sans stage), CDI/CDD,
-    postes confirmés/seniors, sujets sans composante data/IA
-    (marketing, juridique, communication, vente, finance pure).
+    6 mois dont le CŒUR DU SUJET est : data science, intelligence artificielle,
+    machine learning, deep learning, computer vision, NLP ou IA générative/LLM,
+    en Île-de-France. Stack : Python, PyTorch. Les stages de recherche/R&D et
+    pré-thèse dans ces domaines sont pertinents.
+    CIBLE SECONDAIRE (score 50-75, jamais plus) : stages en logiciel embarqué,
+    robotique, systèmes temps réel ou edge AI, surtout dans des entreprises
+    IA/deeptech/défense — intéressants mais moins prioritaires que le ML pur.
+    RÈGLE DE SÉVÉRITÉ : si le sujet principal du stage n'est PAS le machine
+    learning / la data science / l'IA, le score doit être INFÉRIEUR à 30, même
+    si le niveau (M2), la durée et le lieu correspondent. Un stage technique ou
+    scientifique n'est pas pertinent par défaut.
+    NON pertinents (score < 30) : alternance seule (sans stage), CDI/CDD,
+    postes confirmés/seniors ; simulation physique / électromagnétisme /
+    mécanique / électronique / contrôle non destructif sans composante ML
+    centrale ; développement logiciel pur (web, mobile, DevOps, data
+    engineering pur) ; postes fonctionnels autour de la donnée sans
+    modélisation : SIRH, administration d'outils (SAP, CRM...), data analyst
+    fonctionnel / reporting BI / Excel, gestion de projet, UAT/testing ;
+    marketing, juridique, communication, vente, finance pure, conseil en
+    stratégie sans travail technique data/IA.
 
 sante:
   seuil_heures_ouvrees: 48   # alerte si un canal reste muet plus de 48h ouvrées
+
+linkedin_mail:
+  # Canal "alertes email LinkedIn" : lit les emails d'alerte emploi reçus sur
+  # Gmail (recommandations personnalisées de ton compte). Prérequis : avoir
+  # créé des alertes emploi sur LinkedIn avec réception par email.
+  actif: true
+  expediteurs:
+    - "jobalerts-noreply@linkedin.com"
+    - "jobs-noreply@linkedin.com"
