@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783808048.8660376,
+   "last_success": 1783809173.9789462,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783808048.8660436,
+   "last_success": 1783809173.9789526,
    "alerted": false
   }
  },
@@ -1375,6 +1375,42 @@
   "first_seen": 1783808048.866755,
   "title": "UNIQLO Management Candidate - Graduate Programme France 2026",
   "company": "UNIQLO",
+  "source": "linkedin"
+ },
+ "d666d03ab3a204cc6d41dbd7758ef910": {
+  "first_seen": 1783809173.9793422,
+  "title": "DATA Analyst H/F",
+  "company": "Smile",
+  "source": "linkedin"
+ },
+ "69eb94b8e5dcfbeb6237a9bd2fc19ebc": {
+  "first_seen": 1783809173.9794037,
+  "title": "Ingénieur Data F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "13f3f90112161c44a1ea7cf86f71e278": {
+  "first_seen": 1783809173.979418,
+  "title": "Stage Business Analyst Supply Chain F/H",
+  "company": "Monoprix",
+  "source": "linkedin"
+ },
+ "70ac574dd5c5d0e23aa8c20c82943ac3": {
+  "first_seen": 1783809173.9794288,
+  "title": "CDD - Business Analyst Junior Métier Prêt-à-Porter Femme",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "1ca849f1d6518d25bd928b547f6981d0": {
+  "first_seen": 1783809173.9794376,
+  "title": "Data Engineer (F/H) - Socle Data Retail Groupe",
+  "company": "BPCE Solutions informatiques",
+  "source": "linkedin"
+ },
+ "09292aae0cfa1dabbf56f8ae3d6200de": {
+  "first_seen": 1783809173.9796875,
+  "title": "Ingénieur Validation Système SW – Automotive (F/H)",
+  "company": "Free-Work",
   "source": "linkedin"
  }
 }
