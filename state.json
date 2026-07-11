@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783775321.477389,
+   "last_success": 1783776767.428667,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783775321.4773943,
+   "last_success": 1783776767.4286726,
    "alerted": false
   }
  },
@@ -1309,6 +1309,102 @@
   "first_seen": 1783775321.4779663,
   "title": "Ingénieur.e R&D Etude de l'effet de la taille d'éprouvette sur la ténacité des alliages d'aluminium H/F",
   "company": "CEA",
+  "source": "linkedin"
+ },
+ "a4d01c22808444ab6c0a73d3f732133d": {
+  "first_seen": 1783776767.4289207,
+  "title": "Chef de Projet RWE H/F",
+  "company": "AIXIAL GROUP",
+  "source": "linkedin"
+ },
+ "b1de5f0c95ccac2b18c91afc991fa343": {
+  "first_seen": 1783776767.429122,
+  "title": "ALTERNANCE - analyse de données (finance et projets) H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "dc5f819f51803efbf1d8417b76db48c9": {
+  "first_seen": 1783776767.4291294,
+  "title": "Marketing Technologist Intern",
+  "company": "Procter & Gamble",
+  "source": "linkedin"
+ },
+ "3a3b96411a8e166010fe28d9e7d9dbf0": {
+  "first_seen": 1783776767.429142,
+  "title": "ALTERNANCE 12 MOIS - Chef de projet Analytique H/F - Issy-Les-Moulineaux - SEPTEMBRE 2026",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin"
+ },
+ "9da768ac3941f6a6fa03e0374e8a0c1f": {
+  "first_seen": 1783776767.4291573,
+  "title": "Head of Analytics & Performance (M/F/X)",
+  "company": "HelloFresh",
+  "source": "linkedin"
+ },
+ "1fdeb7c45180aa97e70b94c09e7f7bbb": {
+  "first_seen": 1783776767.4291651,
+  "title": "Business Analyst- infectious Diseases- Rungis H/F",
+  "company": "Abbott",
+  "source": "linkedin"
+ },
+ "12bf1a3ec148dfc8f62d62bfa64c8171": {
+  "first_seen": 1783776767.4291718,
+  "title": "Data Quality Analyst Assistant",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "5d84d90c59bea554c92d17698f7779fc": {
+  "first_seen": 1783776767.429177,
+  "title": "Product Manager",
+  "company": "Moment",
+  "source": "linkedin"
+ },
+ "418ce59cf4fe7688ad53d15ac379d9e4": {
+  "first_seen": 1783776767.4291918,
+  "title": "INTERNSHIP - Head Office - Junior project manager environment and safety M/F",
+  "company": "Air Liquide",
+  "source": "linkedin"
+ },
+ "1ac7bbe66550ba750581cf0ec53b8e35": {
+  "first_seen": 1783776767.4291995,
+  "title": "Alternante/ Alternant - GET Master data management (F/H)",
+  "company": "ENGIE",
+  "source": "linkedin"
+ },
+ "2737a2a95515eec80944634b5bdee544": {
+  "first_seen": 1783776767.4292097,
+  "title": "Analyste Suivi d'activité xVAs et CCR H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "df75276c43432dec3f6e251289091245": {
+  "first_seen": 1783776767.4292185,
+  "title": "Alternance ingénieur data cloud F/H",
+  "company": "Fondation Bouygues Telecom",
+  "source": "linkedin"
+ },
+ "e0e4e799624bb484d29648c2ca8f06eb": {
+  "first_seen": 1783776767.4292414,
+  "title": "BALENCIAGA - S&OP Transformation & Business Analysis Intern - September 2026 - (F/H)",
+  "company": "BALENCIAGA",
+  "source": "linkedin"
+ },
+ "75c323e6a37ebe72fa5acafa5219c72a": {
+  "first_seen": 1783776767.4292552,
+  "title": "CNRS TENURE-TRACK POSITION (CPJ) : OPTIMIZATION – FOUNDATIONS AND ALGORITHMS (OPTIM)",
+  "company": "L2S - Laboratoire des signaux et systèmes",
+  "source": "linkedin"
+ },
+ "a8c1041fa154cc85df0e746e1aa676f7": {
+  "first_seen": 1783776767.4294696,
+  "title": "Ingénieur produits structurés",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin"
+ },
+ "49528fd21ab8330875f25713d071b3ac": {
+  "first_seen": 1783776767.4294868,
+  "title": "Senior Data Scientist - Product Analytics",
+  "company": "Criteo",
   "source": "linkedin"
  }
 }
