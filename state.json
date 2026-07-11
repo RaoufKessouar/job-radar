@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783807377.7804496,
+   "last_success": 1783808048.8660376,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783807377.7804556,
+   "last_success": 1783808048.8660436,
    "alerted": false
   }
  },
@@ -1219,6 +1219,162 @@
   "first_seen": 1783807377.780816,
   "title": "Project Manager IA (F/H)",
   "company": "Tarkett",
+  "source": "linkedin"
+ },
+ "792bc0a33bf257b97da23c0336ac0cfe": {
+  "first_seen": 1783808048.866474,
+  "title": "Senior Software Engineer I",
+  "company": "Checkout.com",
+  "source": "linkedin"
+ },
+ "c95a08b71886166e07b4550f3650d89b": {
+  "first_seen": 1783808048.8664818,
+  "title": "Site Reliability Engineer (SRE) - AI GPU Clusters",
+  "company": "Scaleway",
+  "source": "linkedin"
+ },
+ "b4ac9d4ae68cf50dc5169bdffd402c71": {
+  "first_seen": 1783808048.8664985,
+  "title": "CDD - DPO & AI Protection Officer - Niveau Confirmé - H/F/X - GROUPE ROCHER",
+  "company": "Groupe Rocher",
+  "source": "linkedin"
+ },
+ "56cfecfdd2e584a4be16ae9f7c477f06": {
+  "first_seen": 1783808048.866504,
+  "title": "Senior Data Engineer (H/F)",
+  "company": "Space Capital",
+  "source": "linkedin"
+ },
+ "2cb527c3bc231e505f0dceaa0f91fc0e": {
+  "first_seen": 1783808048.8665082,
+  "title": "Head of Transformation",
+  "company": "Artefact",
+  "source": "linkedin"
+ },
+ "9146ce3a4c6dad85a6d695a4ee840e56": {
+  "first_seen": 1783808048.866515,
+  "title": "Monitor Deloitte - Consultant junior Stratégie (F/H)",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "4b25ac1ba62e34244850ae42b8343def": {
+  "first_seen": 1783808048.866521,
+  "title": "IT Business Analyst - Advisor",
+  "company": "Arendt Regulatory & Consulting",
+  "source": "linkedin"
+ },
+ "cf7cc04c544a1cd43117a379c790f73e": {
+  "first_seen": 1783808048.8665254,
+  "title": "Technical Architect",
+  "company": "Snowflake",
+  "source": "linkedin"
+ },
+ "229cd087791f9499f3e61e5958960990": {
+  "first_seen": 1783808048.8665328,
+  "title": "CDI - Senior DPO & AI Protection Officer H/F/X - GROUPE ROCHER",
+  "company": "Groupe Rocher",
+  "source": "linkedin"
+ },
+ "aca57df7c2586d86e5133b241997d38e": {
+  "first_seen": 1783808048.8665404,
+  "title": "Stage - Assistant(e) chef de projet transformation cuir H/F - Mode - Juillet 2023",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "328dc3ac28d4c9de39935f9c3ce0d4b2": {
+  "first_seen": 1783808048.866556,
+  "title": "Alternance– Assistant(e) Chef de Projet Digital Employee Experience (Digital Workplace Services) H/F/X – Septembre 2026",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "794c3e7e56ad41bd13df675052101abe": {
+  "first_seen": 1783808048.866566,
+  "title": "Delivery Director - Life Sciences & Healthcare",
+  "company": "EPAM Systems",
+  "source": "linkedin"
+ },
+ "68b3548956d9f8fa3f06875cedb95f54": {
+  "first_seen": 1783808048.8665757,
+  "title": "Conception d'un système d'échange de données sécurisé pour une chaîne d'approvisionnement H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "0282fe1f1592c13b64cb960b17a3ed76": {
+  "first_seen": 1783808048.8665836,
+  "title": "Alternant / Alternante - Chef.fe de Projet Junior (INNOVATION & ENGAGEMENT) (F/H)",
+  "company": "ENGIE Research & Innovation",
+  "source": "linkedin"
+ },
+ "c87d367e59959c9426f9cd24b9493000": {
+  "first_seen": 1783808048.8666654,
+  "title": "Senior Data Scientist F/H",
+  "company": "Drivers Trop Puissants",
+  "source": "linkedin"
+ },
+ "8cb970eb925f0d6f0cc158ee64b8ca99": {
+  "first_seen": 1783808048.8666878,
+  "title": "Stage – Assistant(e) Chef de Produit Parfums – Parfums Beauté – Janvier 2027 – H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "9262bd18d813a85b19fe4bb6cce696f0": {
+  "first_seen": 1783808048.866693,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Fixed Frames",
+  "source": "linkedin"
+ },
+ "3a4ad2b1cc11af3d1000e57f2f115129": {
+  "first_seen": 1783808048.8666987,
+  "title": "UX/UI Frontend Developer apprentice H/F",
+  "company": "BNP Paribas",
+  "source": "linkedin"
+ },
+ "304f0d16a74ad5c2ea178ad64a8331f7": {
+  "first_seen": 1783808048.8667054,
+  "title": "Apprenti Production Pharmaceutique et Amélioration Continue",
+  "company": "Recordati",
+  "source": "linkedin"
+ },
+ "f5aa936c85e407945b7ed75c665dd1c9": {
+  "first_seen": 1783808048.8667114,
+  "title": "Stage, FP&A analyst (H/F/N)",
+  "company": "Leboncoin.fr",
+  "source": "linkedin"
+ },
+ "fc17c9c7f2a88d9a48c5d36cf8fd8a74": {
+  "first_seen": 1783808048.8667192,
+  "title": "Stage - Chef de Projet Post Production Film - Septembre 2026 (6 mois) - H/F",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "5977d3d8b8be407ec961b7acf2481448": {
+  "first_seen": 1783808048.8667238,
+  "title": "Lead Data Engineer",
+  "company": "Alma",
+  "source": "linkedin"
+ },
+ "ed35819aaeef7481092a11cd69db6824": {
+  "first_seen": 1783808048.8667352,
+  "title": "January 2027 - Internship - Lazard Investment Banking Intern (Central Eastern Europe Team) - Paris",
+  "company": "Lazard",
+  "source": "linkedin"
+ },
+ "7b0de2a78f448a4632e64637b6c8fd6d": {
+  "first_seen": 1783808048.8667407,
+  "title": "Apprentissage Marketing & Communication Assistant, EMEA",
+  "company": "Moncler",
+  "source": "linkedin"
+ },
+ "89d6bfcadc91692dd4bc8fd1b12d4b73": {
+  "first_seen": 1783808048.8667488,
+  "title": "Stage - Assistant.e Contrôleur de Gestion & Pricing Analyst H/F",
+  "company": "AMI PARIS",
+  "source": "linkedin"
+ },
+ "09d2ef98f2416e7945839a0f8cdc9a71": {
+  "first_seen": 1783808048.866755,
+  "title": "UNIQLO Management Candidate - Graduate Programme France 2026",
+  "company": "UNIQLO",
   "source": "linkedin"
  }
 }
