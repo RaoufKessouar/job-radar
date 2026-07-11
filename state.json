@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783774958.2383804,
+   "last_success": 1783775321.477389,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783774958.2383854,
+   "last_success": 1783775321.4773943,
    "alerted": false
   }
  },
@@ -1231,6 +1231,84 @@
   "first_seen": 1783774958.2386155,
   "title": "Product Data Scientist Intern",
   "company": "Criteo",
+  "source": "linkedin"
+ },
+ "a389809d4cc88038f49c350de3981592": {
+  "first_seen": 1783775321.4778645,
+  "title": "Engineering Manager - AI specialist",
+  "company": "Valtech",
+  "source": "linkedin"
+ },
+ "5bfd507d187a86fe05ed922aa3c52910": {
+  "first_seen": 1783775321.4778717,
+  "title": "Backend Engineer API (H/F)",
+  "company": "Velvet",
+  "source": "linkedin"
+ },
+ "bfdc287051a9fd71c08923561975fe22": {
+  "first_seen": 1783775321.47789,
+  "title": "Ingénieur Développeur Augmenté",
+  "company": "Adservio Maroc",
+  "source": "linkedin"
+ },
+ "d9d5d69fa97a9599ea71c64845f73f13": {
+  "first_seen": 1783775321.4778967,
+  "title": "Manager I, Engineering - AI Platform - Evaluation & Annotation",
+  "company": "Datadog",
+  "source": "linkedin"
+ },
+ "f55a516a562159019de0ed2d2b6379c4": {
+  "first_seen": 1783775321.477903,
+  "title": "Embedded Software Engineer Intern",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "d417a2e526f9d65eead22b242dc26e08": {
+  "first_seen": 1783775321.4779084,
+  "title": "Senior Data Scientist / Engineer",
+  "company": "Web3creators",
+  "source": "linkedin"
+ },
+ "f618f51b6b3ae5b5bc4bb75d09d08477": {
+  "first_seen": 1783775321.4779143,
+  "title": "Product Manager II, AI & Data Security",
+  "company": "Datadog",
+  "source": "linkedin"
+ },
+ "15d280c1f5c5cfd179bf8a00c56b9cbb": {
+  "first_seen": 1783775321.4779267,
+  "title": "Stage: Business Analyst Intern (h/f)",
+  "company": "Signify",
+  "source": "linkedin"
+ },
+ "3aef01036ae8107cc7c35d440221219c": {
+  "first_seen": 1783775321.4779322,
+  "title": "Chef(fe) de projets IA (F/H)",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "466bbc82d37ae0ca25d94b373f2a0348": {
+  "first_seen": 1783775321.4779408,
+  "title": "Consultant junior en risque de marché & modélisation bancaire (H/F)",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "464887632b6064469a15f0d6d60c5704": {
+  "first_seen": 1783775321.4779465,
+  "title": "AI Adoption & Change Manager (GenAI) F/H",
+  "company": "VISEO",
+  "source": "linkedin"
+ },
+ "9acf12c561f3e13f19e5b2b09ec6d270": {
+  "first_seen": 1783775321.4779541,
+  "title": "Chargée ou Chargé de projet IA & Transformation Digitale",
+  "company": "LISI AEROSPACE",
+  "source": "linkedin"
+ },
+ "ea2b3d9500c0a5609c1a24ea38fc1c71": {
+  "first_seen": 1783775321.4779663,
+  "title": "Ingénieur.e R&D Etude de l'effet de la taille d'éprouvette sur la ténacité des alliages d'aluminium H/F",
+  "company": "CEA",
   "source": "linkedin"
  }
 }
