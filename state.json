@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783737158.1596317,
+   "last_success": 1783738951.5630305,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783737158.159639,
+   "last_success": 1783738951.5630364,
    "alerted": false
   }
  },
@@ -847,6 +847,60 @@
   "first_seen": 1783737158.1600664,
   "title": "Applied Scientist / Research Engineer (Internship)",
   "company": "Mistral",
+  "source": "linkedin"
+ },
+ "c1df8aec9e718608ac56908e65ad86ee": {
+  "first_seen": 1783738951.563482,
+  "title": "AI Data Intern",
+  "company": "Qonto",
+  "source": "linkedin"
+ },
+ "ea5145589b534622775bd445c7615576": {
+  "first_seen": 1783738951.563555,
+  "title": "AI Product Manager",
+  "company": "Modjo",
+  "source": "linkedin"
+ },
+ "9437bb64bfb0554a1e39b507cd6a51e8": {
+  "first_seen": 1783738951.563566,
+  "title": "Chargée ou Chargé de projet IA & Transformation Digitale",
+  "company": "LISI GROUP",
+  "source": "linkedin"
+ },
+ "0acaabe631648a336ceb14cfa3f59df2": {
+  "first_seen": 1783738951.5635726,
+  "title": "AI Acceleration Architect",
+  "company": "Metyis",
+  "source": "linkedin"
+ },
+ "e0c46b155883a60fe204bbf80f30a165": {
+  "first_seen": 1783738951.5636153,
+  "title": "Technical Deployment Lead, Forward Deployed Engineering - Paris",
+  "company": "OpenAI",
+  "source": "linkedin"
+ },
+ "9da71d2a7ea23ecf7edbea82277adae2": {
+  "first_seen": 1783738951.5636258,
+  "title": "Manager Transformation & IA - H/F",
+  "company": "Externatic",
+  "source": "linkedin"
+ },
+ "3b6cb8366c5c40b6ed247c02d35a4f06": {
+  "first_seen": 1783738951.5636315,
+  "title": "Ingénieur Algorithmie F/H",
+  "company": "PROTECTIC",
+  "source": "linkedin"
+ },
+ "5ca7949c10b86f4d48f5575a512b3137": {
+  "first_seen": 1783738951.5636382,
+  "title": "Collaborateur Comptable IA & Automatisation - (H/F)",
+  "company": "CADERAS MARTIN SA",
+  "source": "linkedin"
+ },
+ "f4c162a70ae3a15a5a23fc71614ba886": {
+  "first_seen": 1783738951.5636492,
+  "title": "Data Engineer F/H H/F",
+  "company": "GROUPE M6",
   "source": "linkedin"
  }
 }
