@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783805563.8467073,
+   "last_success": 1783807377.7804496,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783805563.8467135,
+   "last_success": 1783807377.7804556,
    "alerted": false
   }
  },
@@ -1213,6 +1213,12 @@
   "first_seen": 1783803784.410371,
   "title": "ALTERNANCE - Ingénieur Chargé d’Analyse de Stock (H/F)",
   "company": "Hermès",
+  "source": "linkedin"
+ },
+ "1c23f3ae806094aa3362cf6099480f28": {
+  "first_seen": 1783807377.780816,
+  "title": "Project Manager IA (F/H)",
+  "company": "Tarkett",
   "source": "linkedin"
  }
 }
