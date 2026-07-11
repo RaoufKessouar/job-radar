@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783800293.8969326,
+   "last_success": 1783801985.0828948,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783800293.8969388,
+   "last_success": 1783801985.0829005,
    "alerted": false
   }
  },
@@ -1081,6 +1081,114 @@
   "first_seen": 1783800293.8974574,
   "title": "STAGE - Assistant Chargé de Projets MOA (H/F)",
   "company": "Hermès",
+  "source": "linkedin"
+ },
+ "f035c200092ef288c7d096921b562f06": {
+  "first_seen": 1783801985.0832682,
+  "title": "Alternance 12 à 24 mois - Chargé projet digital (H/F)",
+  "company": "OCP Répartition",
+  "source": "linkedin"
+ },
+ "12bf1a3ec148dfc8f62d62bfa64c8171": {
+  "first_seen": 1783801985.0832758,
+  "title": "Data Quality Analyst Assistant",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "709bb89cd89f7f9a68b43094fc43c7b2": {
+  "first_seen": 1783801985.083358,
+  "title": "Apprenti.e Ingénieur Développement Logiciel  Banc de Test Automatisé F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "e88dcdaa748d53e257bad67462b0a777": {
+  "first_seen": 1783801985.083363,
+  "title": "Field Application Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "093dd67cea6b46b176e0288428965a32": {
+  "first_seen": 1783801985.0833812,
+  "title": "FPGA Engineer - Radar Signal Processing",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "fbdc0b90218e6ec4732acc4004692af8": {
+  "first_seen": 1783801985.0835388,
+  "title": "Fullstack Software Engineer RoR/JS W/M",
+  "company": "Pennylane",
+  "source": "linkedin"
+ },
+ "f9f9b97de9ae0b4ff0f47b32d476b79e": {
+  "first_seen": 1783801985.0835474,
+  "title": "Développeur Full-Stack C# / Angular –  Supervision industrielle (H/F)",
+  "company": "Versusmind",
+  "source": "linkedin"
+ },
+ "2f4f98cf2037b0175e69cff4de276cf4": {
+  "first_seen": 1783801985.0835538,
+  "title": "Alternance – Concepteur / Développeur Logiciel",
+  "company": "SCHOLIA",
+  "source": "linkedin"
+ },
+ "230c486f79caeafe0724ecc1647b9c9f": {
+  "first_seen": 1783801985.0835588,
+  "title": "RESPONSABLE IT / DEVELOPPEUR",
+  "company": "RED TIC",
+  "source": "linkedin"
+ },
+ "03e0561385dd011101b86a235a91db60": {
+  "first_seen": 1783801985.0835686,
+  "title": "Alternance – Chargé(e) d’études Homologation Packaging – Parfums Beauté – Septembre 2026 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "b1b0b827cee9fba70988dbd3ac4d24c5": {
+  "first_seen": 1783801985.083582,
+  "title": "STAGE - Chef de projet technique junior - Green IT H/F",
+  "company": "LCL",
+  "source": "linkedin"
+ },
+ "386d3b38932695c9548d610a5e377c1a": {
+  "first_seen": 1783801985.0835896,
+  "title": "ALTERNANCE - ASSISTANT.E IS IT MOBILE CLIENTELING APP (F/H/X) - SEPTEMBRE 2026",
+  "company": "CELINE",
+  "source": "linkedin"
+ },
+ "a51c5aed60a29245ebb7b410269dd9d7": {
+  "first_seen": 1783801985.083595,
+  "title": "Junior Project Management Coordinator",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "e1553b1593842bd5a20a0975880e8f54": {
+  "first_seen": 1783801985.0836017,
+  "title": "Ingénieur.e Poste de travail Workspace ONE H/F",
+  "company": "Kicklox",
+  "source": "linkedin"
+ },
+ "58c81c0d5d9709421975985885ecbd3d": {
+  "first_seen": 1783801985.0836072,
+  "title": "Engineering Manager Hands-on - Subscription",
+  "company": "Back Market",
+  "source": "linkedin"
+ },
+ "309dcd07f947932bf69138547db81f74": {
+  "first_seen": 1783801985.083614,
+  "title": "Développeur·se Front React - F/H",
+  "company": "Groupe Vitamine T",
+  "source": "linkedin"
+ },
+ "ddbc513dd98f8e8c1f64dd575ed7bd65": {
+  "first_seen": 1783801985.0836196,
+  "title": "Développeur Salesforce  F/H",
+  "company": "Bpifrance",
+  "source": "linkedin"
+ },
+ "590b90e873ad2c183183e3d112f8ed58": {
+  "first_seen": 1783801985.083626,
+  "title": "Lab Intern: Phage-antibiotic interactions and stability studies",
+  "company": "Phagos",
   "source": "linkedin"
  }
 }
