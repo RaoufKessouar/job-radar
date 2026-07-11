@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783787565.869491,
+   "last_success": 1783788768.4245474,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783787565.8694975,
+   "last_success": 1783788768.4245524,
    "alerted": false
   }
  },
@@ -679,6 +679,108 @@
   "first_seen": 1783785149.6245275,
   "title": "CDI - Bras droit CTO & Ingénieur IA (Gen AI, LLM, …) - H/F",
   "company": "Ensimag Alumni",
+  "source": "linkedin"
+ },
+ "0c5a4df7662e0e08af026af07af5ca51": {
+  "first_seen": 1783788768.4247696,
+  "title": "Forward Deployed AI Scientist, France - BCG X",
+  "company": "BCG X",
+  "source": "linkedin"
+ },
+ "0ef6c5794aba1576838ab07a8a0d849f": {
+  "first_seen": 1783788768.4247952,
+  "title": "Forward Deployed AI Engineer, France",
+  "company": "BCG X",
+  "source": "linkedin"
+ },
+ "5676764a2e762ce95a3afad9f7996feb": {
+  "first_seen": 1783788768.4248915,
+  "title": "Data Engineer - Alternance F/H",
+  "company": "Drivers Trop Puissants",
+  "source": "linkedin"
+ },
+ "2402d7d8e2f474b5383610816135d0ab": {
+  "first_seen": 1783788768.4249005,
+  "title": "Stage - Développement d’un simulateur 6 DDL pour corps rigides",
+  "company": "MaiaSpace",
+  "source": "linkedin"
+ },
+ "f1d209f65c6b818c6832cfa6347d45de": {
+  "first_seen": 1783788768.4249072,
+  "title": "Apprenti - Développeur Java - Validation données ferroviaires f/h",
+  "company": "Siemens",
+  "source": "linkedin"
+ },
+ "8d96bf8eb00b25d4540cf29c7b853ac1": {
+  "first_seen": 1783788768.4249182,
+  "title": "Doctorant sur le Watermarking pour une sécurité et une robustesse accrues des modèles d’IA dans l’apprentissage fédéré (",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "3e3eb28932eede43ab94f51fd71404ab": {
+  "first_seen": 1783788768.4249234,
+  "title": "Lead technique GenIA",
+  "company": "Accenture France",
+  "source": "linkedin"
+ },
+ "710cdc83748a9d489bfa4324fca3aa04": {
+  "first_seen": 1783788768.42493,
+  "title": "Full Stack Engineer | Computational Design | 3D | AI | Python(H/F) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "0acaabe631648a336ceb14cfa3f59df2": {
+  "first_seen": 1783788768.424934,
+  "title": "AI Acceleration Architect",
+  "company": "Metyis",
+  "source": "linkedin"
+ },
+ "0f27a686d0e8adf07dd8b241dc419ee4": {
+  "first_seen": 1783788768.4249988,
+  "title": "Control & Mission Preparation Engineer",
+  "company": "MaiaSpace",
+  "source": "linkedin"
+ },
+ "16f9e4553e3eb51e819dd1abb5fb598f": {
+  "first_seen": 1783788768.4250286,
+  "title": "DevOps - Continuous Integration",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "f9b2142c91d0aac44d48b4d34570c40c": {
+  "first_seen": 1783788768.4250412,
+  "title": "DevOps Engineer - Infrastructure & Deployment (Production Systems)",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "2e71211806da14a1a658e3f5a001744e": {
+  "first_seen": 1783788768.425052,
+  "title": "Développeur / Devops Cloud",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "99749b1652e5c66737fe4c2c6b6a0e9b": {
+  "first_seen": 1783788768.425058,
+  "title": "Forward Deployed Engineer (FDE) - Full Remote - Santé / IA",
+  "company": "Cabinet EKINOX",
+  "source": "linkedin"
+ },
+ "63b218dcb6aad338e2642d2b8be40f99": {
+  "first_seen": 1783788768.4250615,
+  "title": "Ingenieur Systeme / Parametrage",
+  "company": "ARealTI",
+  "source": "linkedin"
+ },
+ "5ff5cf1715420c553114d648ba0abe2e": {
+  "first_seen": 1783788768.4250658,
+  "title": "SysAdmin / SRE F/H",
+  "company": "Drivers Trop Puissants",
+  "source": "linkedin"
+ },
+ "c649bb403606ccc9cb5bb1279e68b123": {
+  "first_seen": 1783788768.4250703,
+  "title": "Alternance automatisation des tests F/H",
+  "company": "Fondation Bouygues Telecom",
   "source": "linkedin"
  }
 }
