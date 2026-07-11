@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783782159.654252,
+   "last_success": 1783783950.0802236,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783782159.6542583,
+   "last_success": 1783783950.080229,
    "alerted": false
   }
  },
@@ -553,6 +553,72 @@
   "first_seen": 1783780578.3308058,
   "title": "Stage - Product Manager Data SQL BI IA LLM - Logiciel SaaS Communautaire CRM",
   "company": "Alumnforce - Alumni Students Success Platform",
+  "source": "linkedin"
+ },
+ "cb5afc5c043f488e1bbcbb2ce047e0c4": {
+  "first_seen": 1783783950.0806103,
+  "title": "Ingénieur-e d'études en analyse de données - H/F",
+  "company": "INSERM",
+  "source": "linkedin"
+ },
+ "745285d04ee135a99c2e201a2aacf94e": {
+  "first_seen": 1783783950.080626,
+  "title": "Data Analytics Internship",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "b65074711f8a9d1bc5842d577a7a574d": {
+  "first_seen": 1783783950.080677,
+  "title": "Ingénieur développement logiciel embarqué - sécurité incendie H/F",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "b509c21b3beb68d029842162dd0b488a": {
+  "first_seen": 1783783950.0807943,
+  "title": "Power Systems Controls & Automation Engineer (H/F)",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "eb460553e1233be6159a4eba306a1e2e": {
+  "first_seen": 1783783950.080803,
+  "title": "Apprenti Méthodes Automatisme et Robotique H/F",
+  "company": "LISI AEROSPACE",
+  "source": "linkedin"
+ },
+ "ab818f970a3917baccc3f7598712ed74": {
+  "first_seen": 1783783950.0808103,
+  "title": "Référent Composant Logiciel (F/H)",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "10ddf6749836a376b1093ae838e42c6e": {
+  "first_seen": 1783783950.0808184,
+  "title": "Ingénieur validation fonctionnelle - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "d0facafbf803c818a427b2176b044bdf": {
+  "first_seen": 1783783950.080854,
+  "title": "Software Engineer III, YouTube Knowledge",
+  "company": "Google",
+  "source": "linkedin"
+ },
+ "c66e46e57f96b10902b68f9254214191": {
+  "first_seen": 1783783950.0808613,
+  "title": "Développeur Python H/F",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "09d3271d60ec2196eeb66d703419b4d9": {
+  "first_seen": 1783783950.0808747,
+  "title": "Software Engineer - Network Products Core",
+  "company": "Scaleway",
+  "source": "linkedin"
+ },
+ "123e31c2df2394821deecdf26dddfde3": {
+  "first_seen": 1783783950.0808852,
+  "title": "Ingénieur Test & Commissioning (T&C) - Systèmes de Trains Automatiques (ATS)",
+  "company": "SEGULA Technologies",
   "source": "linkedin"
  }
 }
