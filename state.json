@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783770606.2786322,
+   "last_success": 1783771337.0998456,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783770606.2786381,
+   "last_success": 1783771337.0998523,
    "alerted": false
   }
  },
@@ -1183,6 +1183,12 @@
   "first_seen": 1783770606.2789571,
   "title": "Stage - Computer Vision Data Drift (H/F)",
   "company": "Space Capital",
+  "source": "linkedin"
+ },
+ "928a4d2e76b155dd9a973123c1efe28b": {
+  "first_seen": 1783771337.100211,
+  "title": "Alternante / Alternant - AI GET (F/H)",
+  "company": "ENGIE",
   "source": "linkedin"
  }
 }
