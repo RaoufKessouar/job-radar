@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783792965.295742,
+   "last_success": 1783794766.827251,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783792965.2957473,
+   "last_success": 1783794766.8272562,
    "alerted": false
   }
  },
@@ -877,6 +877,66 @@
   "first_seen": 1783792965.2960877,
   "title": "Stage - Mesure de Performances (f/m/d)",
   "company": "HSBC",
+  "source": "linkedin"
+ },
+ "d741cd1218b2838b0f8a05f23dc7b2ff": {
+  "first_seen": 1783794766.8274796,
+  "title": "Assistant de production",
+  "company": "Le Club Marc Ezrati",
+  "source": "linkedin"
+ },
+ "619a359fc808c267511e3b70d46af056": {
+  "first_seen": 1783794766.827712,
+  "title": "Research Software Engineer",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "25aa5234e2ba0becf327470735501e7a": {
+  "first_seen": 1783794766.8277383,
+  "title": "Développeur Python / Appétence DevOps - Télécom - Paris (H/F)",
+  "company": "Kicklox",
+  "source": "linkedin"
+ },
+ "f55263abb640bd14877253bbac91055e": {
+  "first_seen": 1783794766.8277533,
+  "title": "Développeur Logiciel Java F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin"
+ },
+ "df2d96e4791d7c8cd36ed5720dea42c8": {
+  "first_seen": 1783794766.8277876,
+  "title": "Opérateur de sécurité véhicule autonome (Safety Driver)",
+  "company": "TSMG Holding",
+  "source": "linkedin"
+ },
+ "fa15c58dac337ec21a6e33759dfd1075": {
+  "first_seen": 1783794766.8278,
+  "title": "Ingénieur Système Confirmé H/F",
+  "company": "Hitachi Rail",
+  "source": "linkedin"
+ },
+ "aec9cb833e7a7b63e500f5b068a2a40c": {
+  "first_seen": 1783794766.8278062,
+  "title": "Electrical Engineer - Paris (Paris, 92, FR, 92074)",
+  "company": "Vestas",
+  "source": "linkedin"
+ },
+ "0bb14fd3a01bae2c2d95ae2f349fc174": {
+  "first_seen": 1783794766.8278115,
+  "title": "Accelerator - Software Engineer (Paris)",
+  "company": "Sanofi",
+  "source": "linkedin"
+ },
+ "1766c4db038985ce642469d77bc74b75": {
+  "first_seen": 1783794766.8278193,
+  "title": "Chef de Projets - électronique et informatique industrielle",
+  "company": "Randstad France",
+  "source": "linkedin"
+ },
+ "227f7b6ede46a4f76a092e46d74617f3": {
+  "first_seen": 1783794766.827827,
+  "title": "Ingénieur ou Ingénieure matériel système ferroviaire",
+  "company": "Groupe SNCF",
   "source": "linkedin"
  }
 }
