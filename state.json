@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783760560.8213902,
+   "last_success": 1783760886.0411024,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783760560.8213959,
+   "last_success": 1783760886.0411108,
    "alerted": false
   }
  },
@@ -1117,6 +1117,54 @@
   "first_seen": 1783760560.8220494,
   "title": "Stage – Chef(fe) de projet Performance Qualité – Mode – Mars 2027 – H/F/X",
   "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "125923c390176eca891d8a481e36872a": {
+  "first_seen": 1783760886.041885,
+  "title": "Senior Machine Learning Engineer",
+  "company": "Aive",
+  "source": "linkedin"
+ },
+ "4a8ee9bdac9292a006d3f728fea4c2bf": {
+  "first_seen": 1783760886.042113,
+  "title": "Stage PFE  Ingénieur(e) Méthodes et Outils pour bureau d'études H/F F/H - SAFRAN LANDING SYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "b520b83bdbc7a8dd1cf9bad7caaad0e0": {
+  "first_seen": 1783760886.042134,
+  "title": "Stage - Bac+5 - Développement d'un système optique d'acquisition d'image de radiographie X - H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "4fd7bd4ca6ddb27c196f1c00af7449a4": {
+  "first_seen": 1783760886.0422018,
+  "title": "Software Engineer H/F",
+  "company": "Zeplug",
+  "source": "linkedin"
+ },
+ "dfb2af80995b76dcee307603c8d9b6d0": {
+  "first_seen": 1783760886.0422227,
+  "title": "Apprenti-e en développement logiciel de traitement et analyse pour le spatial F/H - SAFRAN REOSC S.A.S",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "9d4357fcb26862d8bc0e1e1fedb789ff": {
+  "first_seen": 1783760886.0422325,
+  "title": "Apprentice - GRA Regulatory Intelligence",
+  "company": "Ipsen",
+  "source": "linkedin"
+ },
+ "5cfd545edddb024284cda27653b83813": {
+  "first_seen": 1783760886.042245,
+  "title": "Stagiaire RH H/F (4 à 6 mois)",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "8e296250b276db9357f5855e7c0fc960": {
+  "first_seen": 1783760886.0422535,
+  "title": "Stage - Graphiste",
+  "company": "Isabel Marant",
   "source": "linkedin"
  }
 }
