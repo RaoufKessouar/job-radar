@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783753334.9606493,
+   "last_success": 1783753809.1013434,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783753334.9606545,
+   "last_success": 1783753809.101349,
    "alerted": false
   }
  },
@@ -955,6 +955,84 @@
   "first_seen": 1783751558.8437078,
   "title": "CTUATOR AND SENSOR PLACEMENT FOR NEURAL FIELDS",
   "company": "L2S - Laboratoire des signaux et systèmes",
+  "source": "linkedin"
+ },
+ "a838fe803079e2c2e12b0c03ffc1cff6": {
+  "first_seen": 1783753809.1015737,
+  "title": "Data Engineer Python, Spark, AWS (H/F)",
+  "company": "ACENSI",
+  "source": "linkedin"
+ },
+ "4a1bf1fe8e07ccaeb9b92678d3a1a43b": {
+  "first_seen": 1783753809.1017387,
+  "title": "Quant Analyst Intern",
+  "company": "Euronext",
+  "source": "linkedin"
+ },
+ "cce9660de01c1891f81ad234d31e1fdd": {
+  "first_seen": 1783753809.1017444,
+  "title": "Manager Data science",
+  "company": "Irly",
+  "source": "linkedin"
+ },
+ "002a215e00dafec96f9bfe51598cbfa8": {
+  "first_seen": 1783753809.1017866,
+  "title": "Consultant Dataiku",
+  "company": "WHIZE",
+  "source": "linkedin"
+ },
+ "c87d367e59959c9426f9cd24b9493000": {
+  "first_seen": 1783753809.1017973,
+  "title": "Senior Data Scientist F/H",
+  "company": "Drivers Trop Puissants",
+  "source": "linkedin"
+ },
+ "eb40e5eb06f8df0f84603a9945af30c6": {
+  "first_seen": 1783753809.101839,
+  "title": "Data et Audience Manager F/H",
+  "company": "JCDecaux",
+  "source": "linkedin"
+ },
+ "52c9dd1f9853d5b39c604d9faba02bd3": {
+  "first_seen": 1783753809.101847,
+  "title": "Apprenti Ingénieur DATA – Java / J2E H/F",
+  "company": "GROUPAMA - G2S",
+  "source": "linkedin"
+ },
+ "0cbca98aba09c212ea43486d5335944a": {
+  "first_seen": 1783753809.1018536,
+  "title": "STAGE - ANALYSTE REPORTING SUSTAINABILITY - CORPORATE (H/F/X)",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "861ef5b8cae3f236ada9f3c68a418f67": {
+  "first_seen": 1783753809.1018593,
+  "title": "Fragrance Market & Consumer Insights Analyst Intern",
+  "company": "Cartier",
+  "source": "linkedin"
+ },
+ "7cd770846b98b8d170219af9ed62e3d4": {
+  "first_seen": 1783753809.1018674,
+  "title": "[Alternance] Analyste Produits Structurés Junior H-F",
+  "company": "Abeille Assurances",
+  "source": "linkedin"
+ },
+ "259f4329ea1152d55047184e719afc7e": {
+  "first_seen": 1783753809.1018744,
+  "title": "Ingénieur Data Spark H/F",
+  "company": "GROUPAMA - G2S",
+  "source": "linkedin"
+ },
+ "fae4672cc3eb027a1613f6ae38e00530": {
+  "first_seen": 1783753809.101888,
+  "title": "Internship - Market Analysis and Competitive Intelligence F/M",
+  "company": "Technip Energies",
+  "source": "linkedin"
+ },
+ "98906ee14a5c9ba84ee94f86103c9f30": {
+  "first_seen": 1783753809.1019094,
+  "title": "Consultant(e) Senior Data et IA appliquée à l'actuariat - CDI (H/F)",
+  "company": "Nexialog Consulting",
   "source": "linkedin"
  }
 }
