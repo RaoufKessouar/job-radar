@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783735343.327604,
+   "last_success": 1783737158.1596317,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783735343.3276093,
+   "last_success": 1783737158.159639,
    "alerted": false
   }
  },
@@ -823,6 +823,30 @@
   "first_seen": 1783733528.391762,
   "title": "Machine Learning Engineer",
   "company": "Modjo",
+  "source": "linkedin"
+ },
+ "f273360442e2270db2790e807777dac2": {
+  "first_seen": 1783737158.1600113,
+  "title": "AI Engineer, Product",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "b7d79d4dc81815954e4c4eb9d32f1092": {
+  "first_seen": 1783737158.1600294,
+  "title": "Applied AI Engineer, Prototyping",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "a5203100b634d29d15d1b76042764db5": {
+  "first_seen": 1783737158.1600502,
+  "title": "BUSINESS DEVELOPMENT INTERN",
+  "company": "STATION F",
+  "source": "linkedin"
+ },
+ "607e87624b98489639589c69f94ea83c": {
+  "first_seen": 1783737158.1600664,
+  "title": "Applied Scientist / Research Engineer (Internship)",
+  "company": "Mistral",
   "source": "linkedin"
  }
 }
