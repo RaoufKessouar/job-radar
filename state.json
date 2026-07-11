@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783779087.042051,
+   "last_success": 1783780364.0766394,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783779087.0420568,
+   "last_success": 1783780364.0766454,
    "alerted": false
   }
  },
@@ -319,6 +319,198 @@
   "first_seen": 1783779087.0426521,
   "title": "Project Engineer",
   "company": "Westinghouse Electric Company",
+  "source": "linkedin"
+ },
+ "fb21d318f5c9b53777c09a5a4411b0ee": {
+  "first_seen": 1783780364.0768993,
+  "title": "Stage - Concepteur Développeur F/H",
+  "company": "Enedis",
+  "source": "linkedin"
+ },
+ "c59b5123bbd27f7f02a8cec20f6423f6": {
+  "first_seen": 1783780364.076909,
+  "title": "Stage Data analyst Opérations F/H",
+  "company": "Monoprix",
+  "source": "linkedin"
+ },
+ "a5203100b634d29d15d1b76042764db5": {
+  "first_seen": 1783780364.076916,
+  "title": "BUSINESS DEVELOPMENT INTERN",
+  "company": "STATION F",
+  "source": "linkedin"
+ },
+ "9a189e2a8a2c531246f8124260e631ba": {
+  "first_seen": 1783780364.0769298,
+  "title": "MASTER INTERNSHIP PROPOSAL FLATNESS-BASED CONTROL FOR MULTI-AGENT SYSTEMS",
+  "company": "L2S - Laboratoire des signaux et systèmes",
+  "source": "linkedin"
+ },
+ "2d699d7b93817b3aafc23f47008a737f": {
+  "first_seen": 1783780364.0769382,
+  "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "e22a0e7111c699a5621e1b5241343753": {
+  "first_seen": 1783780364.0770094,
+  "title": "Hardware Software Design Engineer",
+  "company": "European Tech Recruit",
+  "source": "linkedin"
+ },
+ "5599c99c8863f67da43ce9e9c46b00ce": {
+  "first_seen": 1783780364.077017,
+  "title": "Technicien électronique/Technicienne électronique",
+  "company": "NBTECH",
+  "source": "linkedin"
+ },
+ "ec45dce6a5d018a6ca58673e033c6801": {
+  "first_seen": 1783780364.0770962,
+  "title": "Ingénieur électronique  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "074fcfa10fa6ce0c9d7ae3eaf92d8a01": {
+  "first_seen": 1783780364.0771103,
+  "title": "Ingénieur-e Intégration, Vérification & IA  Systèmes de Navigation Aéronautique F/H - SAFRAN ELECTRONICS & DEFENSE S.A.",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "46aafb3312d0c6e0e89762895cb21141": {
+  "first_seen": 1783780364.0771167,
+  "title": "Concepteur Applicatifs de tests F/H",
+  "company": "MBDA",
+  "source": "linkedin"
+ },
+ "3c2cf22370b0cb05663d99079a9e7f2e": {
+  "first_seen": 1783780364.0771272,
+  "title": "Ingénieur Validation & Tests Fonctionnels Solutions Embarquées (IoT / Véhicules connectés)",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "261f08fdea112ea1b178c4e3d3bd5f01": {
+  "first_seen": 1783780364.0771358,
+  "title": "Tech Lead Linux Embarqué - Yocto / Buildroot H/F",
+  "company": "Smile",
+  "source": "linkedin"
+ },
+ "5ae941312f3792a27a5f6b0b4f5219d0": {
+  "first_seen": 1783780364.077156,
+  "title": "Ingénieur Support Technique en Robotique (F/H)",
+  "company": "FANUC Europe",
+  "source": "linkedin"
+ },
+ "4fd7bd4ca6ddb27c196f1c00af7449a4": {
+  "first_seen": 1783780364.077162,
+  "title": "Software Engineer H/F",
+  "company": "Zeplug",
+  "source": "linkedin"
+ },
+ "4f5b1b50003712fc65ccbce0bf12adba": {
+  "first_seen": 1783780364.0771685,
+  "title": "Ingénieur FPGA H/F",
+  "company": "Pasqal",
+  "source": "linkedin"
+ },
+ "0bca6deda4ceb65d301fffec4758e150": {
+  "first_seen": 1783780364.0771832,
+  "title": "POST-DOCTORAL POSITION : « HERMIN – SOFTWARE DEVELOPMENT AND EXPERIMENT DESIGN FOR SHARED CONTROL IN NEUROPROSTHESES »",
+  "company": "L2S - Laboratoire des signaux et systèmes",
+  "source": "linkedin"
+ },
+ "c12c664463bbf6d1282b099456612f2f": {
+  "first_seen": 1783780364.0771937,
+  "title": "Chargé de recherche et développement informatique",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin"
+ },
+ "14ab4e23cb68f0b06832e052a2af20e2": {
+  "first_seen": 1783780364.077205,
+  "title": "Spécialiste systèmes de conduite autonome (SDS Specialist) - Autonomous Vehicle Diagnostics & Calibration",
+  "company": "TSMG Holding",
+  "source": "linkedin"
+ },
+ "0c98130b1fe6170601e02f998137c4f8": {
+  "first_seen": 1783780364.0772119,
+  "title": "Ingénieur Hardware / Électronique (H/F)",
+  "company": "Miles Group",
+  "source": "linkedin"
+ },
+ "2fa3dde6ecd61a53bf98b9d73e1bd4e5": {
+  "first_seen": 1783780364.0772176,
+  "title": "Software Engineer - Developer",
+  "company": "Scaleway",
+  "source": "linkedin"
+ },
+ "3b81f364553c8d3702ab780891527354": {
+  "first_seen": 1783780364.0772262,
+  "title": "Technicien Validation Automobile – Banc HIL & Véhicule",
+  "company": "Expleo Group",
+  "source": "linkedin"
+ },
+ "5bfd507d187a86fe05ed922aa3c52910": {
+  "first_seen": 1783780364.0772326,
+  "title": "Backend Engineer API (H/F)",
+  "company": "Velvet",
+  "source": "linkedin"
+ },
+ "1c09bb49a0c57dcd1e3dbbe6e986453c": {
+  "first_seen": 1783780364.077239,
+  "title": "Stage Développeur C# F/H",
+  "company": "Fives",
+  "source": "linkedin"
+ },
+ "f8e530653619e77917cf6550f161619e": {
+  "first_seen": 1783780364.0772457,
+  "title": "Ingénieur Essais Site (H/F)",
+  "company": "Siemens",
+  "source": "linkedin"
+ },
+ "02181c110a88ce0b422ebbe65276a378": {
+  "first_seen": 1783780364.0772543,
+  "title": "Alternance – Apprenti Expert Application (H/F)",
+  "company": "SICK Sensor Intelligence",
+  "source": "linkedin"
+ },
+ "125bc23d75ebca8e89e6a9cc139c4b8a": {
+  "first_seen": 1783780364.0772603,
+  "title": "Staff Engineer - Paris",
+  "company": "H Company",
+  "source": "linkedin"
+ },
+ "c4326f5233d8b64f45d7f0f9c2087af4": {
+  "first_seen": 1783780364.0772712,
+  "title": "Stage 6 mois Développeur no code/code fullstack Août 2026 à Station F",
+  "company": "Intersektion",
+  "source": "linkedin"
+ },
+ "bdd2fffed51c8ea13478d03e0d4b6160": {
+  "first_seen": 1783780364.0772774,
+  "title": "Senior Software Engineer, Firefox Desktop",
+  "company": "Mozilla",
+  "source": "linkedin"
+ },
+ "0f2a88e8e37141e56699ede3a010345f": {
+  "first_seen": 1783780364.077285,
+  "title": "Ingénieur développement hardware expérimenté",
+  "company": "Randstad France",
+  "source": "linkedin"
+ },
+ "b6f5bec6114a528c85570453922c837b": {
+  "first_seen": 1783780364.0772905,
+  "title": "Back-end engineer",
+  "company": "Modjo",
+  "source": "linkedin"
+ },
+ "89b34a5a0d19c3db8ddfd31c3e0fcf51": {
+  "first_seen": 1783780364.0772974,
+  "title": "Ingénieur Concepteur FPGA H/F",
+  "company": "Expleo Group",
+  "source": "linkedin"
+ },
+ "81840d4fe17bf6fa606cc416b627ae04": {
+  "first_seen": 1783780364.0773036,
+  "title": "Front End Software Engineer",
+  "company": "GTA Fitness Repair",
   "source": "linkedin"
  }
 }
