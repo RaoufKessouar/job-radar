@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783744357.7668993,
+   "last_success": 1783746175.972164,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783744357.766905,
+   "last_success": 1783746175.9721696,
    "alerted": false
   }
  },
@@ -901,6 +901,54 @@
   "first_seen": 1783738951.5636492,
   "title": "Data Engineer F/H H/F",
   "company": "GROUPE M6",
+  "source": "linkedin"
+ },
+ "d815f908d87d49bb3d1c3cb0436d39bc": {
+  "first_seen": 1783746175.9725318,
+  "title": "Senior Data Scientist",
+  "company": "Web3creators",
+  "source": "linkedin"
+ },
+ "249d07751c7ad22940296669cb353599": {
+  "first_seen": 1783746175.9726202,
+  "title": "Payload Operator & Embedded Data Analyst - internship",
+  "company": "HyLight",
+  "source": "linkedin"
+ },
+ "4f81726a7d2c362ccef7ab9eeea42c43": {
+  "first_seen": 1783746175.9726408,
+  "title": "Chef de projet data et performance santé (F/H) | Alternance",
+  "company": "1Health",
+  "source": "linkedin"
+ },
+ "d8a8ae1fec406ab8d69049a3ef82ce4b": {
+  "first_seen": 1783746175.9726572,
+  "title": "Développeur·se Intégration (H/F/N) - CDI - Paris",
+  "company": "Ekimetrics",
+  "source": "linkedin"
+ },
+ "ac1c767c9db7b56a596d08e0041abbca": {
+  "first_seen": 1783746175.9726648,
+  "title": "Data Analyst en alternance H/F",
+  "company": "GROUPAMA GAN VIE",
+  "source": "linkedin"
+ },
+ "971389ec4ecb5725aa01c86b197054a6": {
+  "first_seen": 1783746175.9726737,
+  "title": "Stage - Analyste Excellence Opérationnelle (F/M/X)",
+  "company": "DRIVECO",
+  "source": "linkedin"
+ },
+ "37ba2ef3c6962b13b905ebaf7e45c899": {
+  "first_seen": 1783746175.9726803,
+  "title": "Market Analyst",
+  "company": "ENGIE - International Supply & Energy Management",
+  "source": "linkedin"
+ },
+ "f7578bb373ce3ca52e2963ec7f318c99": {
+  "first_seen": 1783746175.972686,
+  "title": "Software Engineer",
+  "company": "Energy Aspects",
   "source": "linkedin"
  }
 }
