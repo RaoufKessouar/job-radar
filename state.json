@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783755135.4425094,
+   "last_success": 1783756975.6601155,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783755135.4425151,
+   "last_success": 1783756975.6601214,
    "alerted": false
   }
  },
@@ -1033,6 +1033,48 @@
   "first_seen": 1783753809.1019094,
   "title": "Consultant(e) Senior Data et IA appliquée à l'actuariat - CDI (H/F)",
   "company": "Nexialog Consulting",
+  "source": "linkedin"
+ },
+ "e24a392aeadfa8a4781e5761a216179a": {
+  "first_seen": 1783756975.6607044,
+  "title": "STAGE - Gouvernance et Pilotage du Programme de Transformation SI (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "38dfe53881c8979f3eef1793c937b6e0": {
+  "first_seen": 1783756975.6607234,
+  "title": "Ingénieur Traitement d'Image, Optique & Laser (H/F)  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "3e96cf32d6dc381538ac0034d44266d6": {
+  "first_seen": 1783756975.660761,
+  "title": "Consultant en stratégie digitale - Stage - F/H",
+  "company": "Niji",
+  "source": "linkedin"
+ },
+ "8340a431e09eb3ceb7021ffd1f77245c": {
+  "first_seen": 1783756975.6607902,
+  "title": "ALTERNANCE - USER RESEARCHER (UX/UR) (F/H)",
+  "company": "Air Liquide",
+  "source": "linkedin"
+ },
+ "b79268784e6e68bcadc4ef2f07425b3a": {
+  "first_seen": 1783756975.6608353,
+  "title": "France Communications Assistant - Apprenticeship (m/f/d)",
+  "company": "Deezer",
+  "source": "linkedin"
+ },
+ "4065626162451dafe4c667f831c24ff3": {
+  "first_seen": 1783756975.660846,
+  "title": "Géomaticien(ne)/Cartographe junior - Stage - Lyon, Paris ou Montauban",
+  "company": "SCET | Groupe SCET HTC",
+  "source": "linkedin"
+ },
+ "3d16a9267bd3fd0062f066176cdc6c37": {
+  "first_seen": 1783756975.660856,
+  "title": "STAGE - STAGE – DA JUNIOR (H/F/X)",
+  "company": "Havas Play 🇫🇷",
   "source": "linkedin"
  }
 }
