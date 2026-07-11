@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783773146.20057,
+   "last_success": 1783774958.2383804,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783773146.2005763,
+   "last_success": 1783774958.2383854,
    "alerted": false
   }
  },
@@ -1213,6 +1213,24 @@
   "first_seen": 1783773146.2010455,
   "title": "Stage - Assistant Recherchiste (F-H)",
   "company": "France Télévisions",
+  "source": "linkedin"
+ },
+ "fb21d318f5c9b53777c09a5a4411b0ee": {
+  "first_seen": 1783774958.2385807,
+  "title": "Stage - Concepteur Développeur F/H",
+  "company": "Enedis",
+  "source": "linkedin"
+ },
+ "c59b5123bbd27f7f02a8cec20f6423f6": {
+  "first_seen": 1783774958.2385879,
+  "title": "Stage Data analyst Opérations F/H",
+  "company": "Monoprix",
+  "source": "linkedin"
+ },
+ "3f7c721d7ced24b79689a1b813bba24e": {
+  "first_seen": 1783774958.2386155,
+  "title": "Product Data Scientist Intern",
+  "company": "Criteo",
   "source": "linkedin"
  }
 }
