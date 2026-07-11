@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783731742.9299715,
+   "last_success": 1783733528.3914404,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783731742.9299777,
+   "last_success": 1783733528.3914454,
    "alerted": false
   }
  },
@@ -817,6 +817,12 @@
   "first_seen": 1783728166.5959353,
   "title": "MASTER INTERNSHIP PROPOSAL FLATNESS-BASED CONTROL FOR MULTI-AGENT SYSTEMS",
   "company": "L2S - Laboratoire des signaux et systèmes",
+  "source": "linkedin"
+ },
+ "708ccce43abb8f6c8cae22a1748c7807": {
+  "first_seen": 1783733528.391762,
+  "title": "Machine Learning Engineer",
+  "company": "Modjo",
   "source": "linkedin"
  }
 }
