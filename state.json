@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783800172.96854,
+   "last_success": 1783800293.8969326,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783800172.9685466,
+   "last_success": 1783800293.8969388,
    "alerted": false
   }
  },
@@ -1063,6 +1063,24 @@
   "first_seen": 1783800172.9689355,
   "title": "Data Analyst Alteryx (H/F)",
   "company": "Sibylone",
+  "source": "linkedin"
+ },
+ "21f7fbbc211014ceb8ea9a712c382988": {
+  "first_seen": 1783800293.8974106,
+  "title": "Co-Founder / CTO - World models",
+  "company": "Pandore",
+  "source": "linkedin"
+ },
+ "d9d5d69fa97a9599ea71c64845f73f13": {
+  "first_seen": 1783800293.8974211,
+  "title": "Manager I, Engineering - AI Platform - Evaluation & Annotation",
+  "company": "Datadog",
+  "source": "linkedin"
+ },
+ "ba57bd861f219bc68f6be72c10e63403": {
+  "first_seen": 1783800293.8974574,
+  "title": "STAGE - Assistant Chargé de Projets MOA (H/F)",
+  "company": "Hermès",
   "source": "linkedin"
  }
 }
