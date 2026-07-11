@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783796140.6328714,
+   "last_success": 1783796573.2353435,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783796140.6328764,
+   "last_success": 1783796573.2353492,
    "alerted": false
   }
  },
@@ -955,6 +955,66 @@
   "first_seen": 1783796140.6332412,
   "title": "Data scientist pour la surveillance de l’IA (H/F)",
   "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "9b572de1cb5f14e72d2b6b2a4db0f501": {
+  "first_seen": 1783796573.2357216,
+  "title": "LEAD AI ENGINEER H/F",
+  "company": "LCL",
+  "source": "linkedin"
+ },
+ "d280474474a4a779fbfa35e326ac5225": {
+  "first_seen": 1783796573.2357404,
+  "title": "Product Owner IA",
+  "company": "AEW",
+  "source": "linkedin"
+ },
+ "6d76db1399c760dc11b850f695853fd6": {
+  "first_seen": 1783796573.2358286,
+  "title": "AI-Powered Project Manager",
+  "company": "Adservio Maroc",
+  "source": "linkedin"
+ },
+ "849fb8076ab3beb90adc9f5b2e2a2ce0": {
+  "first_seen": 1783796573.2358584,
+  "title": "Ingénieur C++ – Database & Knowledge Graph (F/H)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin"
+ },
+ "a702fe34088ac1a596e1b45c109fb023": {
+  "first_seen": 1783796573.2358646,
+  "title": "DevOps Apprentice",
+  "company": "Euronext",
+  "source": "linkedin"
+ },
+ "4723e1b7c8658681416b83430e7a454c": {
+  "first_seen": 1783796573.2358758,
+  "title": "Consultant Alternant en Transformation et Stratégie Data/IA F/H",
+  "company": "KPMG France",
+  "source": "linkedin"
+ },
+ "0ea8db06068544e57e89da00c81bc6bb": {
+  "first_seen": 1783796573.2358823,
+  "title": "Quant Model Risk Auditor",
+  "company": "JPMorganChase",
+  "source": "linkedin"
+ },
+ "193fdda037f1b76ba5015e7f7adb2b50": {
+  "first_seen": 1783796573.2358897,
+  "title": "AI & Data Governance and Trust Manager",
+  "company": "MSX International",
+  "source": "linkedin"
+ },
+ "2fef3bc146d9eca4f160165dcd84f67c": {
+  "first_seen": 1783796573.2359095,
+  "title": "Stage 4 à 6 mois : Chargé / Chargée animation partenariat – Programme Territoires d’IA",
+  "company": "Groupe Caisse des Dépôts",
+  "source": "linkedin"
+ },
+ "e040d93d3f766d84ec1fa44decbea3db": {
+  "first_seen": 1783796573.2359242,
+  "title": "Pre-Sales Solutions Architect - AI & GPU Infrastructure",
+  "company": "Scaleway",
   "source": "linkedin"
  }
 }
