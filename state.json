@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783796573.2353435,
+   "last_success": 1783798368.023565,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783796573.2353492,
+   "last_success": 1783798368.023571,
    "alerted": false
   }
  },
@@ -1015,6 +1015,48 @@
   "first_seen": 1783796573.2359242,
   "title": "Pre-Sales Solutions Architect - AI & GPU Infrastructure",
   "company": "Scaleway",
+  "source": "linkedin"
+ },
+ "0e05b67a54745994ca6cb98f70b20c74": {
+  "first_seen": 1783798368.0238743,
+  "title": "Stage Data Analyst Power BI H/F",
+  "company": "LCL",
+  "source": "linkedin"
+ },
+ "3a3b96411a8e166010fe28d9e7d9dbf0": {
+  "first_seen": 1783798368.0239112,
+  "title": "ALTERNANCE 12 MOIS - Chef de projet Analytique H/F - Issy-Les-Moulineaux - SEPTEMBRE 2026",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin"
+ },
+ "9da768ac3941f6a6fa03e0374e8a0c1f": {
+  "first_seen": 1783798368.0239282,
+  "title": "Head of Analytics & Performance (M/F/X)",
+  "company": "HelloFresh",
+  "source": "linkedin"
+ },
+ "662cde14b00607a29b723fffd6c6c32d": {
+  "first_seen": 1783798368.0239415,
+  "title": "Risk - Quantitative Engineer - Associate - Paris",
+  "company": "Goldman Sachs",
+  "source": "linkedin"
+ },
+ "1fdeb7c45180aa97e70b94c09e7f7bbb": {
+  "first_seen": 1783798368.0239475,
+  "title": "Business Analyst- infectious Diseases- Rungis H/F",
+  "company": "Abbott",
+  "source": "linkedin"
+ },
+ "05ae312eddd598384486c140be6b1c52": {
+  "first_seen": 1783798368.0240698,
+  "title": "CTUATOR AND SENSOR PLACEMENT FOR NEURAL FIELDS",
+  "company": "L2S - Laboratoire des signaux et systèmes",
+  "source": "linkedin"
+ },
+ "c11689f9ddf05daab87e267a51b41560": {
+  "first_seen": 1783798368.0240748,
+  "title": "Quantum Algorithm Developer",
+  "company": "WYW Quantum",
   "source": "linkedin"
  }
 }
