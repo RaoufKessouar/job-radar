@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783783950.0802236,
+   "last_success": 1783785149.6240158,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783783950.080229,
+   "last_success": 1783785149.624022,
    "alerted": false
   }
  },
@@ -619,6 +619,66 @@
   "first_seen": 1783783950.0808852,
   "title": "Ingénieur Test & Commissioning (T&C) - Systèmes de Trains Automatiques (ATS)",
   "company": "SEGULA Technologies",
+  "source": "linkedin"
+ },
+ "5cfc86fc0d2bf6fd4a66635a06fc2517": {
+  "first_seen": 1783785149.624354,
+  "title": "Data Analyst (H/F/X)",
+  "company": "Kolecto",
+  "source": "linkedin"
+ },
+ "779a4acfd2774e92b4c32e380e20aff5": {
+  "first_seen": 1783785149.624362,
+  "title": "Index Structuring intern",
+  "company": "Euronext",
+  "source": "linkedin"
+ },
+ "15d280c1f5c5cfd179bf8a00c56b9cbb": {
+  "first_seen": 1783785149.6243792,
+  "title": "Stage: Business Analyst Intern (h/f)",
+  "company": "Signify",
+  "source": "linkedin"
+ },
+ "4f81726a7d2c362ccef7ab9eeea42c43": {
+  "first_seen": 1783785149.6243896,
+  "title": "Chef de projet data et performance santé (F/H) | Alternance",
+  "company": "1Health",
+  "source": "linkedin"
+ },
+ "d8a8ae1fec406ab8d69049a3ef82ce4b": {
+  "first_seen": 1783785149.6243978,
+  "title": "Développeur·se Intégration (H/F/N) - CDI - Paris",
+  "company": "Ekimetrics",
+  "source": "linkedin"
+ },
+ "466bbc82d37ae0ca25d94b373f2a0348": {
+  "first_seen": 1783785149.6244078,
+  "title": "Consultant junior en risque de marché & modélisation bancaire (H/F)",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "eb40e5eb06f8df0f84603a9945af30c6": {
+  "first_seen": 1783785149.624465,
+  "title": "Data et Audience Manager F/H",
+  "company": "JCDecaux",
+  "source": "linkedin"
+ },
+ "5aa5492f146515f1c33af5355e770edf": {
+  "first_seen": 1783785149.6244864,
+  "title": "AI Engineer — Core AI 🇪🇺",
+  "company": "Pennylane",
+  "source": "linkedin"
+ },
+ "1363af479df6fda8f44ba95d8609014b": {
+  "first_seen": 1783785149.6245146,
+  "title": "Lead AI Engineer",
+  "company": "360Learning",
+  "source": "linkedin"
+ },
+ "cfdf87db8796a04ce93cb145ed7b95e6": {
+  "first_seen": 1783785149.6245275,
+  "title": "CDI - Bras droit CTO & Ingénieur IA (Gen AI, LLM, …) - H/F",
+  "company": "Ensimag Alumni",
   "source": "linkedin"
  }
 }
