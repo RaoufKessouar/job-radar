@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783780364.0766394,
+   "last_success": 1783780578.3302796,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783780364.0766454,
+   "last_success": 1783780578.3302853,
    "alerted": false
   }
  },
@@ -511,6 +511,48 @@
   "first_seen": 1783780364.0773036,
   "title": "Front End Software Engineer",
   "company": "GTA Fitness Repair",
+  "source": "linkedin"
+ },
+ "068cf1b27002ded399c2e94fef777f9e": {
+  "first_seen": 1783780578.330519,
+  "title": "DATA SCIENTIST SENIOR H/F",
+  "company": "Randstad Digital France",
+  "source": "linkedin"
+ },
+ "d341eb7c6b8deba981bc1018188cb968": {
+  "first_seen": 1783780578.3306012,
+  "title": "Data Engineer F/H",
+  "company": "CGI",
+  "source": "linkedin"
+ },
+ "d815f908d87d49bb3d1c3cb0436d39bc": {
+  "first_seen": 1783780578.3306143,
+  "title": "Senior Data Scientist",
+  "company": "Web3creators",
+  "source": "linkedin"
+ },
+ "49528fd21ab8330875f25713d071b3ac": {
+  "first_seen": 1783780578.3306324,
+  "title": "Senior Data Scientist - Product Analytics",
+  "company": "Criteo",
+  "source": "linkedin"
+ },
+ "d417a2e526f9d65eead22b242dc26e08": {
+  "first_seen": 1783780578.3306391,
+  "title": "Senior Data Scientist / Engineer",
+  "company": "Web3creators",
+  "source": "linkedin"
+ },
+ "03a481cbeb691f7ef36515a8df51ca7f": {
+  "first_seen": 1783780578.3307445,
+  "title": "Développeur Python",
+  "company": "laWEbox",
+  "source": "linkedin"
+ },
+ "72fb40839309bb6eeb30569c16e9f750": {
+  "first_seen": 1783780578.3308058,
+  "title": "Stage - Product Manager Data SQL BI IA LLM - Logiciel SaaS Communautaire CRM",
+  "company": "Alumnforce - Alumni Students Success Platform",
   "source": "linkedin"
  }
 }
