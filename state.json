@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783801985.0828948,
+   "last_success": 1783803784.409736,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783801985.0829005,
+   "last_success": 1783803784.4097426,
    "alerted": false
   }
  },
@@ -1189,6 +1189,30 @@
   "first_seen": 1783801985.083626,
   "title": "Lab Intern: Phage-antibiotic interactions and stability studies",
   "company": "Phagos",
+  "source": "linkedin"
+ },
+ "bfdc287051a9fd71c08923561975fe22": {
+  "first_seen": 1783803784.41018,
+  "title": "Ingénieur Développeur Augmenté",
+  "company": "Adservio Maroc",
+  "source": "linkedin"
+ },
+ "464887632b6064469a15f0d6d60c5704": {
+  "first_seen": 1783803784.4102693,
+  "title": "AI Adoption & Change Manager (GenAI) F/H",
+  "company": "VISEO",
+  "source": "linkedin"
+ },
+ "54fad49c40d29a3eb40019730fe25980": {
+  "first_seen": 1783803784.4103558,
+  "title": "Consultant Ingénieur AIOps",
+  "company": "Adservio Maroc",
+  "source": "linkedin"
+ },
+ "b1135f31ed188b410d644fec77b51db6": {
+  "first_seen": 1783803784.410371,
+  "title": "ALTERNANCE - Ingénieur Chargé d’Analyse de Stock (H/F)",
+  "company": "Hermès",
   "source": "linkedin"
  }
 }
