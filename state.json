@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783794766.827251,
+   "last_success": 1783796140.6328714,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783794766.8272562,
+   "last_success": 1783796140.6328764,
    "alerted": false
   }
  },
@@ -937,6 +937,24 @@
   "first_seen": 1783794766.827827,
   "title": "Ingénieur ou Ingénieure matériel système ferroviaire",
   "company": "Groupe SNCF",
+  "source": "linkedin"
+ },
+ "ef536029419b3c4bd2c39fe19d2b8fec": {
+  "first_seen": 1783796140.633172,
+  "title": "Graduate AI software engineer",
+  "company": "Bending Spoons",
+  "source": "linkedin"
+ },
+ "3bb6168df3fb38dbcc7e47bed5666f7b": {
+  "first_seen": 1783796140.6331959,
+  "title": "Data Scientist IA – Développeur Machine Learning H/F",
+  "company": "LCL",
+  "source": "linkedin"
+ },
+ "1e3c0e7d931525852cbbf6c8d433b923": {
+  "first_seen": 1783796140.6332412,
+  "title": "Data scientist pour la surveillance de l’IA (H/F)",
+  "company": "Banque de France",
   "source": "linkedin"
  }
 }
