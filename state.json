@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783850565.1071377,
+   "last_success": 1783852406.0041044,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783850565.107145,
+   "last_success": 1783852406.0041106,
    "alerted": false
   }
  },
@@ -1729,6 +1729,216 @@
   "first_seen": 1783848454.0421386,
   "title": "Internship - Media Coordinator France (F/H)",
   "company": "Tiffany & Co.",
+  "source": "linkedin"
+ },
+ "1d7158b65015dfad41312be92add8267": {
+  "first_seen": 1783852406.0044837,
+  "title": "Alternance - Analyse de données RH (H/F)",
+  "company": "Club Med",
+  "source": "linkedin"
+ },
+ "cc5f1e24dc0655f24683421f9c4c6684": {
+  "first_seen": 1783852406.004537,
+  "title": "INTERNSHIP - HEAD OFFICE - Procurement Analyst H/F",
+  "company": "Air Liquide",
+  "source": "linkedin"
+ },
+ "7c88f55ab4358438b8c3c48c09fda968": {
+  "first_seen": 1783852406.0045547,
+  "title": "Stage Analyste Performance Commerciale & Reporting - F/H",
+  "company": "PwC France",
+  "source": "linkedin"
+ },
+ "90cadb34fa5b0a20e71a2e115df719a7": {
+  "first_seen": 1783852406.0045671,
+  "title": "Product Owner - Spécialiste des Agents IA pour la Relation Client F/H",
+  "company": "Bouygues Telecom",
+  "source": "linkedin"
+ },
+ "96327cc8a6d954bd93cd026cf6a63b39": {
+  "first_seen": 1783852406.0046248,
+  "title": "Senior Data & AI Delivery Manager – Paris | CDI (H/F)",
+  "company": "Equancy | Groupe EDG",
+  "source": "linkedin"
+ },
+ "aa4c19217e034932a3ff18733df7f6a0": {
+  "first_seen": 1783852406.004662,
+  "title": "ASSISTANT COMMERCIAL - GESTIONNAIRE BASES DE DONNÉES F/H - H/F",
+  "company": "LECLERC LE POIRE SUR VIE",
+  "source": "linkedin"
+ },
+ "7e77359adb6935cf8909af5f361057c9": {
+  "first_seen": 1783852406.0046704,
+  "title": "HR / People Operations- Apprentice(September 2026) (12 months)",
+  "company": "Malt",
+  "source": "linkedin"
+ },
+ "ca03dda27ffdf34f04c0772e3fc47537": {
+  "first_seen": 1783852406.0046763,
+  "title": "Graphic designer",
+  "company": "dsm-firmenich",
+  "source": "linkedin"
+ },
+ "26841237dda07a5ab59235818610734b": {
+  "first_seen": 1783852406.0046844,
+  "title": "APPRENTI(E) EN MARKETING PRODUIT - Image Guiding Solutions",
+  "company": "GE HealthCare",
+  "source": "linkedin"
+ },
+ "3d457c5ad2502d5e7d4bc913ff3716c7": {
+  "first_seen": 1783852406.0046902,
+  "title": "Security Engineer",
+  "company": "Scaleway",
+  "source": "linkedin"
+ },
+ "14dbaf85353fb8e9d2468469ee718318": {
+  "first_seen": 1783852406.0047183,
+  "title": "Auditeurs(trices) Juniors, Apprenti(e)s & Stagiaires",
+  "company": "Audit Conseil Holding",
+  "source": "linkedin"
+ },
+ "00c9d050c14c2ba3b64d4b92ad40fbfc": {
+  "first_seen": 1783852406.0047617,
+  "title": "Computational Chemistry Scientist - CDD 18 mois",
+  "company": "Servier France",
+  "source": "linkedin"
+ },
+ "f55a516a562159019de0ed2d2b6379c4": {
+  "first_seen": 1783852406.0048246,
+  "title": "Embedded Software Engineer Intern",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "b82544b0c702ff0acfe574df0015a2e1": {
+  "first_seen": 1783852406.004831,
+  "title": "Directeur de la technologie",
+  "company": "ReachR",
+  "source": "linkedin"
+ },
+ "2b1b84d41bacf1dda2d79a9bc63a24f2": {
+  "first_seen": 1783852406.0048811,
+  "title": "Consultant Senior ou Manager Low Code & Process Automation - secteur Financier, F/H",
+  "company": "EY",
+  "source": "linkedin"
+ },
+ "886fed4d3777609dd8949d375ab831ea": {
+  "first_seen": 1783852406.004887,
+  "title": "R&D Engineering, Staff Engineer - DevOps (f/m)",
+  "company": "Ansys",
+  "source": "linkedin"
+ },
+ "44bb021d558469aa6bd610cd0674cfdc": {
+  "first_seen": 1783852406.0048919,
+  "title": "UI/UX Artist- Midcore Unit",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "0c213b720a8bb8c97a192030aa9efccc": {
+  "first_seen": 1783852406.004898,
+  "title": "Alternance - Apprenti(e) gestion CRM f/h/nb",
+  "company": "Siemens Healthineers",
+  "source": "linkedin"
+ },
+ "7c1c83865df0baaa399a397e481f7b03": {
+  "first_seen": 1783852406.0049431,
+  "title": "STAGE - Assistant(e) Chef de Produit/Sport Tennis F/H",
+  "company": "Lacoste",
+  "source": "linkedin"
+ },
+ "2b8594ffd26f2fc9ea3eecf887ad5c77": {
+  "first_seen": 1783852406.0049498,
+  "title": "STAGE - Assistant-e chef de produit - Sport - Training & Golf (F/H)",
+  "company": "Lacoste",
+  "source": "linkedin"
+ },
+ "981a1e7b4973904b9de1430f497527c0": {
+  "first_seen": 1783852406.0049617,
+  "title": "STAGE - CONSULTANT JUNIOR CORPORATE (F/H)",
+  "company": "Havas Worldwide Paris",
+  "source": "linkedin"
+ },
+ "af1540b54f55b48aaa26293a2a8564e8": {
+  "first_seen": 1783852406.0049706,
+  "title": "STAGIAIRE (H/F) - DÉPARTEMENT CONTENTIEUX - JUILLET/DÉCEMBRE 2027",
+  "company": "Eversheds Sutherland",
+  "source": "linkedin"
+ },
+ "1ba401c621856d00f3f790cbab63c587": {
+  "first_seen": 1783852406.0049825,
+  "title": "STAGE - ATTACHE(E) DE PRESSE - H/F - EBRA Events",
+  "company": "EBRA Events | L'Agence",
+  "source": "linkedin"
+ },
+ "69657a9bb3665792e05d4a2088d2844d": {
+  "first_seen": 1783852406.0049875,
+  "title": "Alternance 2026: Marketing France",
+  "company": "Amazon",
+  "source": "linkedin"
+ },
+ "bc6e94399f10b73deb010d35e40db0e5": {
+  "first_seen": 1783852406.0049932,
+  "title": "Stage Chargé de recrutement - F/H",
+  "company": "PwC France",
+  "source": "linkedin"
+ },
+ "53070c81a564f178aac3b11675e46b4f": {
+  "first_seen": 1783852406.0050044,
+  "title": "STAGE - ASSISTANT.E STUDIO FLOU DEFILE (F/H/X) - OCTOBRE 2026",
+  "company": "CELINE",
+  "source": "linkedin"
+ },
+ "426eb343a09c414460508c9e19c7b3d8": {
+  "first_seen": 1783852406.00501,
+  "title": "STAGE - ASSISTANT.E COMMUNICATION PKJ (H/F)",
+  "company": "Livremploi",
+  "source": "linkedin"
+ },
+ "a2de996bbc74dce68ccb871934547658": {
+  "first_seen": 1783852406.0050163,
+  "title": "ALT 2026 - PMO Digital Workplace (H/F)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin"
+ },
+ "078c8872b7e9448d1dc3de531ca5b42a": {
+  "first_seen": 1783852406.0050242,
+  "title": "Stage d’été Conseiller de Vente F/H - Faubourg Saint-Honoré",
+  "company": "Moncler",
+  "source": "linkedin"
+ },
+ "2ecd1a222687f322723df62632b774a9": {
+  "first_seen": 1783852406.0050297,
+  "title": "Legal Intern - Commercial/IP - PPI Internship",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "da32590e1fd245b9837e375c43f87df0": {
+  "first_seen": 1783852406.0050359,
+  "title": "Stagiaire Restauration (H/F)",
+  "company": "Hôtel Le Burgundy Paris",
+  "source": "linkedin"
+ },
+ "ba1efaf46dd2e4f15a47c899b19c9be0": {
+  "first_seen": 1783852406.005044,
+  "title": "Stage - Juriste d’entreprise - Droit des affaires & International",
+  "company": "Atlas énergies",
+  "source": "linkedin"
+ },
+ "ec94f51125f744c797137e94439753fd": {
+  "first_seen": 1783852406.0050514,
+  "title": "Stage - Assistant(e) Commercial(e) & Chef(fe)  de projet Coworking (H/F)",
+  "company": "Accor",
+  "source": "linkedin"
+ },
+ "a70b9d0c17ad5b9a2d716f029b272049": {
+  "first_seen": 1783852406.0050611,
+  "title": "APPRENTI COMMUNICATION (H/F)",
+  "company": "Otis Elevator Co.",
+  "source": "linkedin"
+ },
+ "9bc25f270602d5919a2c934526c47617": {
+  "first_seen": 1783852406.0050657,
+  "title": "Natural Product Chemist / Engineer",
+  "company": "Generare",
   "source": "linkedin"
  }
 }
