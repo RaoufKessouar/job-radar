@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783841264.665013,
+   "last_success": 1783841568.3262298,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783841264.6650178,
+   "last_success": 1783841568.3262365,
    "alerted": false
   }
  },
@@ -1705,6 +1705,12 @@
   "first_seen": 1783839801.58273,
   "title": "CDI - Ingénieur.e d'essais en mécanique sismique H/F",
   "company": "CEA",
+  "source": "linkedin"
+ },
+ "988e322dfa892a05e98893691fa40569": {
+  "first_seen": 1783841568.326908,
+  "title": "Account Executive - Enterprise",
+  "company": "H Company",
   "source": "linkedin"
  }
 }
