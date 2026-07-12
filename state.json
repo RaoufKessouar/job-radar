@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783830790.207157,
+   "last_success": 1783832571.457235,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783830790.207163,
+   "last_success": 1783832571.4572713,
    "alerted": false
   }
  },
@@ -1549,6 +1549,12 @@
   "first_seen": 1783828997.9592452,
   "title": "Alternance - Product Expert : Assets Optimization (F/H)",
   "company": "Air Liquide",
+  "source": "linkedin"
+ },
+ "ed100b8bae282e98bcbde138a39865db": {
+  "first_seen": 1783832571.457765,
+  "title": "Responsable d'activités - Référent Data",
+  "company": "Crédit Agricole Technologies et Services",
   "source": "linkedin"
  }
 }
