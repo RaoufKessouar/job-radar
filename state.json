@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783821788.5038366,
+   "last_success": 1783823560.2760267,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783821788.5038433,
+   "last_success": 1783823560.2760322,
    "alerted": false
   }
  },
@@ -1441,6 +1441,18 @@
   "first_seen": 1783821788.5044081,
   "title": "Stage - Journaliste Desk",
   "company": "Le Média Positif 🍀",
+  "source": "linkedin"
+ },
+ "ec00cc4d5c36827ab24b7026050fdb8b": {
+  "first_seen": 1783823560.2764513,
+  "title": "Chargé / Chargée de projet Data / IA H/F",
+  "company": "Bouygues Construction",
+  "source": "linkedin"
+ },
+ "7483268484dfc09d8c6983d976285672": {
+  "first_seen": 1783823560.2764583,
+  "title": "People AI Operations Lead",
+  "company": "Vibe.co",
   "source": "linkedin"
  }
 }
