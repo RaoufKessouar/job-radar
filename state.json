@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783877565.1838777,
+   "last_success": 1783879067.4795554,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783877565.1838834,
+   "last_success": 1783879067.4795616,
    "alerted": false
   }
  },
@@ -2485,6 +2485,30 @@
   "first_seen": 1783877565.1844025,
   "title": "Tech Lead - Full Stack - Défense & Sécurité - Ile de France",
   "company": "Sopra Steria",
+  "source": "linkedin"
+ },
+ "d504ffbca4d7cfd1c590522099a03aad": {
+  "first_seen": 1783879067.4799087,
+  "title": "Stage - Assistant(e) Sûreté & Sécurité - Parfums Beauté - Septembre 2026 - (H/F/X)",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "2cba07dae179d1f21572d52793e42f0b": {
+  "first_seen": 1783879067.479966,
+  "title": "Stage - Assistant(e) Service Ventes Cinéma",
+  "company": "Warner Bros. Discovery",
+  "source": "linkedin"
+ },
+ "5c9914a6524336d008b61645b9f416c3": {
+  "first_seen": 1783879067.480048,
+  "title": "Ingénieur Intégration et Validation Système (H/F/X)",
+  "company": "IT Link Group",
+  "source": "linkedin"
+ },
+ "771e218440d66d992935ab2ef047244c": {
+  "first_seen": 1783879067.4800901,
+  "title": "Technicien electronique SAV",
+  "company": "Eddyfi Technologies",
   "source": "linkedin"
  }
 }
