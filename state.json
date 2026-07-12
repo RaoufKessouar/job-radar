@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783870374.3483627,
+   "last_success": 1783871789.109692,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783870374.348368,
+   "last_success": 1783871789.109698,
    "alerted": false
   }
  },
@@ -2167,6 +2167,42 @@
   "first_seen": 1783870374.3488514,
   "title": "Scent Design Trainee (Fine Fragrance)",
   "company": "IFF",
+  "source": "linkedin"
+ },
+ "fc8711ce8bf7746c678d7f04efe95656": {
+  "first_seen": 1783871789.1101983,
+  "title": "Stage Contrôleur de gestion H/F",
+  "company": "Monoprix",
+  "source": "linkedin"
+ },
+ "b08e179667cb46af1410adbfd7248d61": {
+  "first_seen": 1783871789.1102147,
+  "title": "Stagiaire en SEO/SEA SEM Manager H/F",
+  "company": "Malsishop France",
+  "source": "linkedin"
+ },
+ "e6740a17f45790a5a2979c91756d89e7": {
+  "first_seen": 1783871789.1102464,
+  "title": "Alternance 12 mois - Chargé(e) de Communication – F/H",
+  "company": "Eli Lilly and Company",
+  "source": "linkedin"
+ },
+ "1978da632b199e93133bad50d17251fa": {
+  "first_seen": 1783871789.110256,
+  "title": "ALTERNANCE_Visual Merchandiser (H/F/D) - Concept Store des Halles/Paris",
+  "company": "adidas",
+  "source": "linkedin"
+ },
+ "43cceffb61f7d8400efb7283c159f9cd": {
+  "first_seen": 1783871789.110272,
+  "title": "ALTERNANCE - Assistant Floor Manager adidas (H/F/D)",
+  "company": "adidas",
+  "source": "linkedin"
+ },
+ "b3794e2b4e1a921ad5be19480daedf35": {
+  "first_seen": 1783871789.1102805,
+  "title": "Conseiller de vente - 30 avenue Montaigne",
+  "company": "Christian Dior Couture",
   "source": "linkedin"
  }
 }
