@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783861767.8758452,
+   "last_success": 1783863181.4207616,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783861767.875851,
+   "last_success": 1783863181.420768,
    "alerted": false
   }
  },
@@ -1975,6 +1975,138 @@
   "first_seen": 1783861767.8762615,
   "title": "Site Reliability Engineer Apprentice (1+ years)",
   "company": "Criteo",
+  "source": "linkedin"
+ },
+ "5fe78d9a5fdcd51b25a62c06f6125228": {
+  "first_seen": 1783863181.4212065,
+  "title": "Conseil aux dirigeants PME ETI dominante data IA F/H",
+  "company": "Bpifrance",
+  "source": "linkedin"
+ },
+ "713a87ebb77126bbfc71579e27710cf8": {
+  "first_seen": 1783863181.4212642,
+  "title": "STAGE - Assistant Data Manager (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "4c86063535da988a6e7f57ed1a74086f": {
+  "first_seen": 1783863181.421323,
+  "title": "Alternance - Développeur/euse Full-Stack (H/F)",
+  "company": "ENGIE",
+  "source": "linkedin"
+ },
+ "ff5c3fe49b571943865ea23462773547": {
+  "first_seen": 1783863181.421413,
+  "title": "Ingénieur  Harnais électrique /Câblage / Electronique - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "bff5000055157d812791462c5f6afd9f": {
+  "first_seen": 1783863181.4214256,
+  "title": "Ingénieur Validation Vérification Radar Numérique F.H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "40a45700e43142a69277e77f58412fc2": {
+  "first_seen": 1783863181.4214315,
+  "title": "Site Reliability Engineer Intern",
+  "company": "Criteo",
+  "source": "linkedin"
+ },
+ "f3bf0e27a0e56ae4fd3a6e9bc3e136e5": {
+  "first_seen": 1783863181.4214368,
+  "title": "Full-Stack Engineer",
+  "company": "Nabla",
+  "source": "linkedin"
+ },
+ "f68b09b2b6a0eed3711079999893f8f3": {
+  "first_seen": 1783863181.4214592,
+  "title": "Stage - Bac+5 - Impact balistique sur cibles multi-matériaux - H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "ee6436a7cae5c11ed01c864c4540d0f0": {
+  "first_seen": 1783863181.4214664,
+  "title": "Chef de projet électronique F/H",
+  "company": "MBDA",
+  "source": "linkedin"
+ },
+ "e019e7c80cee662a8b84bfa27bc4dcaa": {
+  "first_seen": 1783863181.4214842,
+  "title": "Launch System Engineer",
+  "company": "MaiaSpace",
+  "source": "linkedin"
+ },
+ "e65f21bbeb8c8e0220d132175f4633e4": {
+  "first_seen": 1783863181.4214904,
+  "title": "Chargé d'Essais F/H",
+  "company": "Eaton",
+  "source": "linkedin"
+ },
+ "caed11057d981f385350eb0acdd31c4d": {
+  "first_seen": 1783863181.4214976,
+  "title": "Ingénieur Assurance Qualité H/F",
+  "company": "Expleo Group",
+  "source": "linkedin"
+ },
+ "f1e5ee7b2f93db67df355fe7b699a948": {
+  "first_seen": 1783863181.421507,
+  "title": "Stage - Chargé(e) de projet RSE & Développement Durable  (H/F)",
+  "company": "Club Med",
+  "source": "linkedin"
+ },
+ "d1c975fe5275839d74951397d7fea1e7": {
+  "first_seen": 1783863181.4215186,
+  "title": "System and E&M Interface Engineer",
+  "company": "Alstom",
+  "source": "linkedin"
+ },
+ "0d10449f8abea077e0c8f4c0d4d1730f": {
+  "first_seen": 1783863181.4215257,
+  "title": "Director of R&D, Loudspeaker Systems, Global",
+  "company": "L-Acoustics",
+  "source": "linkedin"
+ },
+ "32c1584c5900777a3e90072b629230f1": {
+  "first_seen": 1783863181.4215326,
+  "title": "Marketing Unity Developer - Eastern Europe - Growth",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "71a9b9034c41c6cf33ca158bdc8c14fa": {
+  "first_seen": 1783863181.4215505,
+  "title": "Stage - Chargé de contenu &amp; outils collaboratifs (H/F)",
+  "company": "Banque BCP",
+  "source": "linkedin"
+ },
+ "2031ce6350b3da096779505fc226e2ae": {
+  "first_seen": 1783863181.4215596,
+  "title": "Magasinier.e pièces automobiles (H/F)",
+  "company": "Volkswagen Group Retail France",
+  "source": "linkedin"
+ },
+ "5cdc382044824e263a516abccb938b38": {
+  "first_seen": 1783863181.4215689,
+  "title": "Inspectrice/ Inspecteur de surveillance électrique dans les usines F/H",
+  "company": "EDF",
+  "source": "linkedin"
+ },
+ "d338f0318b9f021bc8b90f390d72fe49": {
+  "first_seen": 1783863181.4215746,
+  "title": "Subsea Structural Engineer H/F",
+  "company": "Saipem",
+  "source": "linkedin"
+ },
+ "d5c5bab8923f77a77428b20da6289e9d": {
+  "first_seen": 1783863181.4215899,
+  "title": "Administrateur Système (Windows/Linux) (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "dbd8f3df4283053e78ad820b6e679adb": {
+  "first_seen": 1783863181.4216175,
+  "title": "H/F Ingénieur de Recherche Développement oscillateurs sur puce",
+  "company": "CNRS Centre-Est",
   "source": "linkedin"
  }
 }
