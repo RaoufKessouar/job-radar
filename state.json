@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783832571.457235,
+   "last_success": 1783834355.080408,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783832571.4572713,
+   "last_success": 1783834355.0804136,
    "alerted": false
   }
  },
@@ -1555,6 +1555,54 @@
   "first_seen": 1783832571.457765,
   "title": "Responsable d'activités - Référent Data",
   "company": "Crédit Agricole Technologies et Services",
+  "source": "linkedin"
+ },
+ "2b62a99130349f41b2f758cacecdf728": {
+  "first_seen": 1783834355.080889,
+  "title": "Account Executive Confirmé - Data & IA (CDI) - Paris / Remote",
+  "company": "Selego",
+  "source": "linkedin"
+ },
+ "7377dcff310985c2044eac67db3064d9": {
+  "first_seen": 1783834355.0808961,
+  "title": "Consultant Data RH H/F",
+  "company": "mc2i",
+  "source": "linkedin"
+ },
+ "035be908b63475a5a79a6a90133655dd": {
+  "first_seen": 1783834355.080916,
+  "title": "Senior Product Manager - Ambient Speech",
+  "company": "Nabla",
+  "source": "linkedin"
+ },
+ "19fdd07263300a7b25efcc2c283bd82d": {
+  "first_seen": 1783834355.0809362,
+  "title": "Chef de Projet H/F",
+  "company": "Icam - Institut Catholique d'Arts et Métiers",
+  "source": "linkedin"
+ },
+ "1b681f98c4130da9821fe3369ea81f79": {
+  "first_seen": 1783834355.0809546,
+  "title": "E-commerce Developer (ReactJS/ NodeJS) H/F",
+  "company": "Polène Paris",
+  "source": "linkedin"
+ },
+ "4237db4985d3ea95887eba3edd44a408": {
+  "first_seen": 1783834355.0809608,
+  "title": "Stagiaire en gestion de projet e-commerce",
+  "company": "BAT",
+  "source": "linkedin"
+ },
+ "18d6bd5517614032987da6cd4ac58210": {
+  "first_seen": 1783834355.0809753,
+  "title": "Artisan développeur / Software craftsman Java",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin"
+ },
+ "aec16729f1718cd1bf56defee1f94183": {
+  "first_seen": 1783834355.0809808,
+  "title": "Product Regulatory Legal Counsel (EU)",
+  "company": "Mistral",
   "source": "linkedin"
  }
 }
