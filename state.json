@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783867279.4131508,
+   "last_success": 1783868577.5955193,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783867279.413156,
+   "last_success": 1783868577.5955257,
    "alerted": false
   }
  },
@@ -2113,6 +2113,36 @@
   "first_seen": 1783864960.6612592,
   "title": "Algorithmic Screening of Materials for Rydberg Quantum Simulators internship - W/M",
   "company": "Pasqal",
+  "source": "linkedin"
+ },
+ "c9a5312b89c55b44949c9669a1a41045": {
+  "first_seen": 1783868577.5958107,
+  "title": "Head of GenAI Platform",
+  "company": "Photoroom",
+  "source": "linkedin"
+ },
+ "00ea54958c29eacbc4bdf1e7e34cd0d7": {
+  "first_seen": 1783868577.5958238,
+  "title": "enseignant-chercheur en robotique et IA",
+  "company": "ENSTA",
+  "source": "linkedin"
+ },
+ "ca4a400968fdea9f516d52ac7bf8b7e8": {
+  "first_seen": 1783868577.5958304,
+  "title": "Senior AI & Agentic Backend Engineer",
+  "company": "Outsight",
+  "source": "linkedin"
+ },
+ "2897a54160cd1a5623fa4ae1ba87b7df": {
+  "first_seen": 1783868577.5959463,
+  "title": "System Development Engineer (M/F)",
+  "company": "Hitachi Rail",
+  "source": "linkedin"
+ },
+ "3ee768c27b5e536ec2a74c3b6b5ef3ae": {
+  "first_seen": 1783868577.595953,
+  "title": "Ingénieur Logiciel Moyens de Test (F/H)",
+  "company": "Thales",
   "source": "linkedin"
  }
 }
