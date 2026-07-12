@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783837972.6110303,
+   "last_success": 1783839801.5818377,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783837972.6110358,
+   "last_success": 1783839801.5818446,
    "alerted": false
   }
  },
@@ -1657,6 +1657,54 @@
   "first_seen": 1783837972.6115265,
   "title": "stage 6 mois – gestion de projet",
   "company": "Sanofi",
+  "source": "linkedin"
+ },
+ "2b43e092dc19a077cde25d8d157e4dc1": {
+  "first_seen": 1783839801.582654,
+  "title": "Shopify Developer H/F",
+  "company": "Polène Paris",
+  "source": "linkedin"
+ },
+ "561d46ee23fb9890a4a78558a27e1e87": {
+  "first_seen": 1783839801.5826817,
+  "title": "INGENIEUR COBOL - F/H",
+  "company": "CASDEN Banque Populaire",
+  "source": "linkedin"
+ },
+ "9646be0ab5a78c419b0c3932f135dcd0": {
+  "first_seen": 1783839801.5826964,
+  "title": "Responsable Développement Simulation Système d&apos;Arme F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin"
+ },
+ "ca753b864872df30a84e29613b6ee649": {
+  "first_seen": 1783839801.582702,
+  "title": "Senior Full-Stack Engineer",
+  "company": "Nabla",
+  "source": "linkedin"
+ },
+ "dd34a2beddeb7bea3de99dfb9d400e6e": {
+  "first_seen": 1783839801.5827105,
+  "title": "STAGE - Assistant Développement et Achat Cuir Prêt-à-Porter Homme (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "77b7e8a9bb968bc746790c6878aeb47f": {
+  "first_seen": 1783839801.582716,
+  "title": "Service Center Technician",
+  "company": "Eddyfi Technologies",
+  "source": "linkedin"
+ },
+ "de33bfe9d710907995f8474d1552f2bb": {
+  "first_seen": 1783839801.582723,
+  "title": "Stage - Appui aux Études & Outils",
+  "company": "France Nature Environnement",
+  "source": "linkedin"
+ },
+ "f0fccb7419ebf43851a18015cab80c87": {
+  "first_seen": 1783839801.58273,
+  "title": "CDI - Ingénieur.e d'essais en mécanique sismique H/F",
+  "company": "CEA",
   "source": "linkedin"
  }
 }
