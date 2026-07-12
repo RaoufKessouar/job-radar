@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783827166.4739861,
+   "last_success": 1783828997.9585083,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783827166.4739912,
+   "last_success": 1783828997.9585142,
    "alerted": false
   }
  },
@@ -1453,6 +1453,102 @@
   "first_seen": 1783823560.2764583,
   "title": "People AI Operations Lead",
   "company": "Vibe.co",
+  "source": "linkedin"
+ },
+ "7c0ce776c5481a4ee117782a04a9a6c4": {
+  "first_seen": 1783828997.958931,
+  "title": "Data Analyst / Power BI Senior (F/H)",
+  "company": "ACT-ON DATA",
+  "source": "linkedin"
+ },
+ "7b7d1d1605dd47a4c6aa998e1cb9a2f2": {
+  "first_seen": 1783828997.9589496,
+  "title": "Ingénieur(e) Ressource Solaire et Production (H/F)",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "71a71936caa147ca8a28e1219e3f97fc": {
+  "first_seen": 1783828997.9589624,
+  "title": "Data Manager Transformation Digitale et CRM F/H - DIVISION DEFENSE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "80b3d7307478cb86ec77dddcbc96a6e4": {
+  "first_seen": 1783828997.9590092,
+  "title": "Clinical Scientist Oncologie",
+  "company": "Excelya",
+  "source": "linkedin"
+ },
+ "6c9853a0215ed2f64c4273d7182f15e6": {
+  "first_seen": 1783828997.9590266,
+  "title": "Product Designer",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin"
+ },
+ "6d2bccdc60b962c8a7bf72d20c3ad700": {
+  "first_seen": 1783828997.9590356,
+  "title": "Consultant confirmé en Data Strategy / Data Transformation - F/H",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "75759f81638822cecb693f0ab51631c3": {
+  "first_seen": 1783828997.9590404,
+  "title": "Apprentice HR Assistant",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "064544962cf54ac5b65d10e9ac0ad172": {
+  "first_seen": 1783828997.9590583,
+  "title": "Storyteller / Journaliste & Content Manager",
+  "company": "Green-Got",
+  "source": "linkedin"
+ },
+ "9d49c3b0826fd1ce11c167643a42ddb4": {
+  "first_seen": 1783828997.9590638,
+  "title": "Intern (m/f/d) Product Design",
+  "company": "BIRKENSTOCK",
+  "source": "linkedin"
+ },
+ "0dcb32034f0834e02fb7f955b7eea29a": {
+  "first_seen": 1783828997.9590712,
+  "title": "Chargé(e) RH - Alternance",
+  "company": "Samsung Electronics France",
+  "source": "linkedin"
+ },
+ "aa795747e1e1a04ba514e944c8014d80": {
+  "first_seen": 1783828997.9591978,
+  "title": "[Alternance] Analyste ALM Junior H-F",
+  "company": "Abeille Assurances",
+  "source": "linkedin"
+ },
+ "94bb982721ed29c0a1ce28af4d02040c": {
+  "first_seen": 1783828997.9592047,
+  "title": "Consultant Junior - Secteur Public - Neuilly (H/F)",
+  "company": "Grant-Thornton France",
+  "source": "linkedin"
+ },
+ "53de84f26a5995849456c1b2936f0679": {
+  "first_seen": 1783828997.9592104,
+  "title": "Apprenticeship - Generalist HR F/M",
+  "company": "Technip Energies",
+  "source": "linkedin"
+ },
+ "77de531b66b6006b398c9c7d3b4b3d59": {
+  "first_seen": 1783828997.9592285,
+  "title": "Chargé.e de Ressources Humaines - Alternance 12 mois",
+  "company": "Christie's",
+  "source": "linkedin"
+ },
+ "322f1223a705b38f064c2922f9bf6405": {
+  "first_seen": 1783828997.9592345,
+  "title": "Support Engineering Lead – Data & AI Platforms",
+  "company": "Hashlist",
+  "source": "linkedin"
+ },
+ "2ea4517c9249c1eb29df3c7c355e43ff": {
+  "first_seen": 1783828997.9592452,
+  "title": "Alternance - Product Expert : Assets Optimization (F/H)",
+  "company": "Air Liquide",
   "source": "linkedin"
  }
 }
