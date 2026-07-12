@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783873941.0987315,
+   "last_success": 1783875354.730655,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783873941.0987382,
+   "last_success": 1783875354.730661,
    "alerted": false
   }
  },
@@ -2263,6 +2263,120 @@
   "first_seen": 1783872177.5337749,
   "title": "Opératrice ou opérateur de Maintenance Frein des TGV, Saint-Denis",
   "company": "SNCF Voyageurs",
+  "source": "linkedin"
+ },
+ "857e13de671f347e6a320999375b0220": {
+  "first_seen": 1783875354.7310581,
+  "title": "Alternance - 1 an - Assistant Structureur F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin"
+ },
+ "8c6c519dcaacec3b1c4eca3987fb940e": {
+  "first_seen": 1783875354.7310886,
+  "title": "Apprenti(e) charge(e) veille technologique H/F",
+  "company": "Valeo",
+  "source": "linkedin"
+ },
+ "66cc4d7b84f0ebdbba9c0173c6220ff7": {
+  "first_seen": 1783875354.7311497,
+  "title": "Stage- Assistant(e) Chef de Produit Développement Souliers H/F/X- Mode - Janvier 2025",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "755af64323e876589cd619883bc6b552": {
+  "first_seen": 1783875354.7311602,
+  "title": "Stage - \"Chargé(e) de méthodes et qualité\" (H/F)",
+  "company": "BNP Paribas Real Estate",
+  "source": "linkedin"
+ },
+ "d1febce0bc58a0aeba6f64c31dcb528c": {
+  "first_seen": 1783875354.7312407,
+  "title": "STAGE- Juriste Sanctions Economiques et Contrôle des Exportations - H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "f86da13a833b93a9cc2c53dd661584cf": {
+  "first_seen": 1783875354.7312517,
+  "title": "Thèse tube à décharge par ultraviolets F/H - IH - CEI HABILLAGE & EQUIPEMENTS",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "bb874ed0e6abab92674a48dd31c32b80": {
+  "first_seen": 1783875354.7312584,
+  "title": "STAGE VENTE (H/F)",
+  "company": "DECATHLON FRANCE",
+  "source": "linkedin"
+ },
+ "343a09dc04528b07bbf73514fcb03b5b": {
+  "first_seen": 1783875354.7312734,
+  "title": "Assistant Community Manager H/F - Stage",
+  "company": "Saatchi & Saatchi France",
+  "source": "linkedin"
+ },
+ "8337c981f582ee5c4d1d163a10097c83": {
+  "first_seen": 1783875354.7312868,
+  "title": "Chargé / Chargée de communication",
+  "company": "Leihia",
+  "source": "linkedin"
+ },
+ "c9a2b018072d4c95f28cf84e05abb69a": {
+  "first_seen": 1783875354.731318,
+  "title": "Université de Paris offre ses étudiants.es la possibilité de partir en échange ou en stage dans le cadre des accords ou ",
+  "company": "ILVV - Institut de la longévité, des vieillesses et du vieillissement",
+  "source": "linkedin"
+ },
+ "e89ca4425aa5509aaf58110e6adc4cda": {
+  "first_seen": 1783875354.7313278,
+  "title": "Stage Séminaire & Banquets (A partir de Septembre 2026) (H/F)",
+  "company": "Sofitel",
+  "source": "linkedin"
+ },
+ "ed86bbcc37ea543ef4282b57697ad075": {
+  "first_seen": 1783875354.7313466,
+  "title": "Commercial & Opérations Digitales – Bilingue Chinois/Français",
+  "company": "3E",
+  "source": "linkedin"
+ },
+ "54de2b39eedaadd63f1fb7d48983fd88": {
+  "first_seen": 1783875354.7313547,
+  "title": "ID Install Tech, DCC Communities",
+  "company": "Amazon Web Services (AWS)",
+  "source": "linkedin"
+ },
+ "b40de87418077893b6c3c8a8a229f232": {
+  "first_seen": 1783875354.7313654,
+  "title": "Apprenti(e) RH - Chargée de recrutement international & gestion du programme VIE (H/F)",
+  "company": "Valeo",
+  "source": "linkedin"
+ },
+ "72d364bf43ee0179981cdda5d8f71f54": {
+  "first_seen": 1783875354.7313719,
+  "title": "Alternant Analytics/BI F/H",
+  "company": "asmodee",
+  "source": "linkedin"
+ },
+ "e8a20d878a002cfd82bac873adb30e83": {
+  "first_seen": 1783875354.7313826,
+  "title": "Internship - Assistant Chef de Produits Immunologie (contrat d'alternance)",
+  "company": "Sobi - Swedish Orphan Biovitrum AB (publ)",
+  "source": "linkedin"
+ },
+ "b2ddfe2f049efb6250b352c3e4b1fbc3": {
+  "first_seen": 1783875354.7313921,
+  "title": "Support Applicatif Pre-Trade / Trading Tools",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin"
+ },
+ "7a823f06eff3d9ae5c71645cdfc2614c": {
+  "first_seen": 1783875354.7314048,
+  "title": "Ingénieur Système Radar et Station  F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "1f8263f19e58c28925247e3d5b45a209": {
+  "first_seen": 1783875354.7314162,
+  "title": "[Stage] Juriste en Responsabilité Civile – Expertise technique et souscription F/H",
+  "company": "Abeille Assurances",
   "source": "linkedin"
  }
 }
