@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783895538.1460254,
+   "last_success": 1783897383.7621033,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783895538.1460319,
+   "last_success": 1783897383.7621086,
    "alerted": false
   }
  },
@@ -2689,6 +2689,30 @@
   "first_seen": 1783894505.4491694,
   "title": "Ingénieur(e) système (H/F)",
   "company": "Thales",
+  "source": "linkedin"
+ },
+ "d088e69500543b8d3fa345c08f4fd7b3": {
+  "first_seen": 1783897383.7624893,
+  "title": "Stage - Assistant de projet sûreté, gestion des risques et continuité d'activité (F-H)",
+  "company": "FRANCE TELEVISIONS SVOD",
+  "source": "linkedin"
+ },
+ "ca0809ef144a212e99dc21862cd0a6c7": {
+  "first_seen": 1783897383.7625222,
+  "title": "Stage - Assistant Recherchiste (F-H)",
+  "company": "FRANCE TELEVISIONS SVOD",
+  "source": "linkedin"
+ },
+ "ded2e1f5df744db348ca6c17aaabb99f": {
+  "first_seen": 1783897383.7626276,
+  "title": "Chargé.e de projets RH H/F",
+  "company": "Palatine",
+  "source": "linkedin"
+ },
+ "0e0751089326a71e4306cdde8ae9edcb": {
+  "first_seen": 1783897383.7627044,
+  "title": "[Stage] Ingénieur en Diagnostic des Infrastructures H/F",
+  "company": "SOCOTEC",
   "source": "linkedin"
  }
 }
