@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783836154.6298563,
+   "last_success": 1783837972.6110303,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783836154.6298616,
+   "last_success": 1783837972.6110358,
    "alerted": false
   }
  },
@@ -1603,6 +1603,60 @@
   "first_seen": 1783834355.0809808,
   "title": "Product Regulatory Legal Counsel (EU)",
   "company": "Mistral",
+  "source": "linkedin"
+ },
+ "5f8dc20d864ae3bd53ddcdcedc79e780": {
+  "first_seen": 1783837972.6114478,
+  "title": "Web Analyst H/F",
+  "company": "NEXTON",
+  "source": "linkedin"
+ },
+ "f965184649949996c32040edc969f05b": {
+  "first_seen": 1783837972.6114545,
+  "title": "AI-Enhanced Graphic Designer",
+  "company": "Scoresist",
+  "source": "linkedin"
+ },
+ "4a7ee4e0189fc52d872ef63fc2961f7b": {
+  "first_seen": 1783837972.6114702,
+  "title": "Doctoral Student",
+  "company": "USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.H",
+  "source": "linkedin"
+ },
+ "467bc061adf5503fb4e1f627a68dbd61": {
+  "first_seen": 1783837972.6114845,
+  "title": "Integrity Engineer",
+  "company": "Addison Group",
+  "source": "linkedin"
+ },
+ "be57e4bcce24ff310bb7778245d0f9f8": {
+  "first_seen": 1783837972.6114905,
+  "title": "APP - CHEF DE PRODUIT NEUROSCIENCE EN ALTERNANCE",
+  "company": "Novartis",
+  "source": "linkedin"
+ },
+ "b3e9a0e3425bb641e9709a43dda05652": {
+  "first_seen": 1783837972.6114979,
+  "title": "Consultant confirmé en Data Product Management - F/H",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "763a468df839e996ae60bae2d4058d9f": {
+  "first_seen": 1783837972.6115036,
+  "title": "Analyste SOC (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "c6d1ecfb07ab8410204e64d55ea7093f": {
+  "first_seen": 1783837972.611513,
+  "title": "Conseiller de Vente (F/H) - CDI Temps Complet - Champs Elysées",
+  "company": "Christian Dior Couture",
+  "source": "linkedin"
+ },
+ "a911de561e5d00d33603f269bb64d6a7": {
+  "first_seen": 1783837972.6115265,
+  "title": "stage 6 mois – gestion de projet",
+  "company": "Sanofi",
   "source": "linkedin"
  }
 }
