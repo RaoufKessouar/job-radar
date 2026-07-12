@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783886541.4104989,
+   "last_success": 1783887240.8140218,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783886541.4105055,
+   "last_success": 1783887240.8140278,
    "alerted": false
   }
  },
@@ -2581,6 +2581,78 @@
   "first_seen": 1783886541.410798,
   "title": "Ingénieur chercheur mesure, instrumentation et électronique (H/F) - ONERA",
   "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "a63f29c7b7caf9ff68d24f8976ae95cd": {
+  "first_seen": 1783887240.8144376,
+  "title": "Alternance - 1 an - Trading Risk Office F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin"
+ },
+ "615281349a4cb52f08de8add8778ec61": {
+  "first_seen": 1783887240.8144581,
+  "title": "Agentic Delivery Manager / Product Owner technique (F/H)",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "e7320648d3e1d3c26223b3a4f4439b4e": {
+  "first_seen": 1783887240.814468,
+  "title": "STAGE - Assistant Chargé Ordonnancement (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "824218eabdc274c34b3068cc723b7415": {
+  "first_seen": 1783887240.8145244,
+  "title": "Growth Account Manager - Internship",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "fd0ed2bbf67ec79544eefe4ed91003b7": {
+  "first_seen": 1783887240.814541,
+  "title": "Architecte AWS (H/F)",
+  "company": "Adikts",
+  "source": "linkedin"
+ },
+ "dcc87cd9e1a8ca49f2917a8fc42acc95": {
+  "first_seen": 1783887240.8145702,
+  "title": "Stage - Finance / Controlling Corporate Functions H/F",
+  "company": "Ipsen",
+  "source": "linkedin"
+ },
+ "26e2b81c9ab351cb97931aac1f86a67a": {
+  "first_seen": 1783887240.8145876,
+  "title": "Chargé.e de CRM et service clients - Alternance",
+  "company": "RIU Paris",
+  "source": "linkedin"
+ },
+ "fba4976cbc495cbff295e6fe5b2ae095": {
+  "first_seen": 1783887240.8145945,
+  "title": "Stage Approvisionneur Alimentaire PGC F/H",
+  "company": "Monoprix",
+  "source": "linkedin"
+ },
+ "e29daa22e1ae06a2aeaf19a8d623baf9": {
+  "first_seen": 1783887240.8146515,
+  "title": "Ingénieur-e de recherche  Remaillage mécanique des fluides appliqués aux turbomachines F/H - SAFRAN SA (FRANCE)",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "cc244d46075ef031a3c0183eafbda166": {
+  "first_seen": 1783887240.8146694,
+  "title": "Lead Statistical Programming Architect – Macro, Automation & AI",
+  "company": "Ipsen",
+  "source": "linkedin"
+ },
+ "9ff2ffe5084edf9f620ca70f221ca449": {
+  "first_seen": 1783887240.814677,
+  "title": "FR - Agent/Technicien de maintenance (H/F/X)",
+  "company": "Accor",
+  "source": "linkedin"
+ },
+ "a000c8cf913115a708d5578c355ceca3": {
+  "first_seen": 1783887240.814689,
+  "title": "ingénieur informatique quantitatif risques - validation des modèles crédit retail (IT) / Freelance",
+  "company": "Free-Work",
   "source": "linkedin"
  }
 }
