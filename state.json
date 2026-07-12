@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783875354.730655,
+   "last_success": 1783875757.3429484,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783875354.730661,
+   "last_success": 1783875757.342991,
    "alerted": false
   }
  },
@@ -2377,6 +2377,18 @@
   "first_seen": 1783875354.7314162,
   "title": "[Stage] Juriste en Responsabilité Civile – Expertise technique et souscription F/H",
   "company": "Abeille Assurances",
+  "source": "linkedin"
+ },
+ "3ab94370a3a510e0775ffa043c3c9c7b": {
+  "first_seen": 1783875757.3433187,
+  "title": "Data Analyst – Tableau / Dataiku (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin"
+ },
+ "e1fa63d92b97f5adb59c65b3d65b694b": {
+  "first_seen": 1783875757.3433287,
+  "title": "Data analyst Sénior H/F",
+  "company": "NEXTON",
   "source": "linkedin"
  }
 }
