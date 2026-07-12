@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783881130.3226845,
+   "last_success": 1783882951.5952346,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783881130.322691,
+   "last_success": 1783882951.59524,
    "alerted": false
   }
  },
@@ -2539,6 +2539,42 @@
   "first_seen": 1783879371.3232691,
   "title": "Apprenticeship - Incident management and activity continuity coordinator F/M",
   "company": "Technip Energies",
+  "source": "linkedin"
+ },
+ "a3781ded13e1dd452f16ef190a70592c": {
+  "first_seen": 1783882951.59554,
+  "title": "STAGE - Assistant Direction Création et Image - Métaphores (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "b569b5dca12afa3163e21fab540a3b0e": {
+  "first_seen": 1783882951.595558,
+  "title": "Monteur video",
+  "company": "Esport News",
+  "source": "linkedin"
+ },
+ "90e4a897c39494ad06d5c5323899f243": {
+  "first_seen": 1783882951.5956028,
+  "title": "Stage - 6 mois - Analyste Rémunération F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin"
+ },
+ "68acc349bb894ba2a56fe20d4d4aa238": {
+  "first_seen": 1783882951.5956113,
+  "title": "Stage Achats Energies Marines Renouvelables - H/F",
+  "company": "EDF power solutions",
+  "source": "linkedin"
+ },
+ "a9eab8aa2b72ed8d942865d222b57fe1": {
+  "first_seen": 1783882951.595621,
+  "title": "Stage - Assistant(e) Trade Marketing produits dérivés",
+  "company": "Warner Bros. Discovery",
+  "source": "linkedin"
+ },
+ "2897c20671910e335488a7a91401b424": {
+  "first_seen": 1783882951.5956378,
+  "title": "APPRENTISSAGE - ASSISTANT CHEF DE PROJET SI",
+  "company": "Département de l'Essonne",
   "source": "linkedin"
  }
 }
