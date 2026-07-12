@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783863181.4207616,
+   "last_success": 1783864960.660866,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783863181.420768,
+   "last_success": 1783864960.660872,
    "alerted": false
   }
  },
@@ -2107,6 +2107,12 @@
   "first_seen": 1783863181.4216175,
   "title": "H/F Ingénieur de Recherche Développement oscillateurs sur puce",
   "company": "CNRS Centre-Est",
+  "source": "linkedin"
+ },
+ "20b0ad5862291b0ff45111564f0b615f": {
+  "first_seen": 1783864960.6612592,
+  "title": "Algorithmic Screening of Materials for Rydberg Quantum Simulators internship - W/M",
+  "company": "Pasqal",
   "source": "linkedin"
  }
 }
