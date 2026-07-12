@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783871789.109692,
+   "last_success": 1783872177.5330844,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783871789.109698,
+   "last_success": 1783872177.5330906,
    "alerted": false
   }
  },
@@ -2203,6 +2203,66 @@
   "first_seen": 1783871789.1102805,
   "title": "Conseiller de vente - 30 avenue Montaigne",
   "company": "Christian Dior Couture",
+  "source": "linkedin"
+ },
+ "46ca2b9374f1bc7f4e45d04554335d9b": {
+  "first_seen": 1783872177.5336206,
+  "title": "Ingénieur(e) / DevOps services HPC H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "a0bd7734ed4a461ee7b5ddc74774d446": {
+  "first_seen": 1783872177.5336797,
+  "title": "IT Quant Credit Models H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "befec1ec344cf50948be4ef0bcda1a1e": {
+  "first_seen": 1783872177.5337005,
+  "title": "STAGE - Communication (Laboratoire de Création et de Développement des Parfums) - Parfums Beauté (H/F/X)",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "a4d21933a40158dac9b072221a1e40a2": {
+  "first_seen": 1783872177.533707,
+  "title": "Développeur C++ Sénior (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "12fbe87293eaf1b6dece826ae47fe41e": {
+  "first_seen": 1783872177.5337124,
+  "title": "Analyste conformité",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "440f9c53309c2c69795bc395f5a64935": {
+  "first_seen": 1783872177.5337355,
+  "title": "Global Banking & Markets, FICCs Credit Strats – Embedded Control Strat - Associate - Paris",
+  "company": "Goldman Sachs",
+  "source": "linkedin"
+ },
+ "7c982aa51b175847c71c3ac51a8a451c": {
+  "first_seen": 1783872177.5337439,
+  "title": "STAGE - Assistant Contrôle Interne - JUILLET 2026 (H/F/NB)",
+  "company": "Maison Francis Kurkdjian",
+  "source": "linkedin"
+ },
+ "3248997a8e4f7114032b26d54e13b729": {
+  "first_seen": 1783872177.5337565,
+  "title": "Stage de fin d'études : Conseil en rémunération F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "72b9a0f52a0091d474ab974b442ec84a": {
+  "first_seen": 1783872177.5337613,
+  "title": "Service Technician",
+  "company": "UNOX S.p.A.",
+  "source": "linkedin"
+ },
+ "3266f43dea999164a8d3bfebdeba8e25": {
+  "first_seen": 1783872177.5337749,
+  "title": "Opératrice ou opérateur de Maintenance Frein des TGV, Saint-Denis",
+  "company": "SNCF Voyageurs",
   "source": "linkedin"
  }
 }
