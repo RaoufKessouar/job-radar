@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783879067.4795554,
+   "last_success": 1783879371.3226762,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783879067.4795616,
+   "last_success": 1783879371.322682,
    "alerted": false
   }
  },
@@ -2509,6 +2509,36 @@
   "first_seen": 1783879067.4800901,
   "title": "Technicien electronique SAV",
   "company": "Eddyfi Technologies",
+  "source": "linkedin"
+ },
+ "aa710acff2dee0202c17bf9ec92e4979": {
+  "first_seen": 1783879371.3231575,
+  "title": "Full Stack Software Engineer",
+  "company": "Hashlist",
+  "source": "linkedin"
+ },
+ "b88740765069539b2fbe75263b27a2da": {
+  "first_seen": 1783879371.3231714,
+  "title": "Mueller Polarimetric Imaging (Head & Neck Cancer)",
+  "company": "FINYS - French Imaging Network of Young Scientists",
+  "source": "linkedin"
+ },
+ "d76ae14717e2fed73470d6e5fefe5353": {
+  "first_seen": 1783879371.3232062,
+  "title": "Chercheur·euse post-doctoral·e en musicologie empirique",
+  "company": "IRCAM",
+  "source": "linkedin"
+ },
+ "5da69adb8f3bc025fddfccb877224759": {
+  "first_seen": 1783879371.3232615,
+  "title": "Research, Innovation & Development Platform Director KIRI _BOURSIN_OOH (W/M)",
+  "company": "Bel",
+  "source": "linkedin"
+ },
+ "d09696cf724910253f5663c71d444027": {
+  "first_seen": 1783879371.3232691,
+  "title": "Apprenticeship - Incident management and activity continuity coordinator F/M",
+  "company": "Technip Energies",
   "source": "linkedin"
  }
 }
