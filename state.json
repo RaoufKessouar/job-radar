@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783875757.3429484,
+   "last_success": 1783877565.1838777,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783875757.342991,
+   "last_success": 1783877565.1838834,
    "alerted": false
   }
  },
@@ -2389,6 +2389,102 @@
   "first_seen": 1783875757.3433287,
   "title": "Data analyst Sénior H/F",
   "company": "NEXTON",
+  "source": "linkedin"
+ },
+ "d9f3df472d04b2bc18d5baa8ed9c782b": {
+  "first_seen": 1783877565.184175,
+  "title": "Consultant Senior - Engineering Excellence & AI Paris F/H",
+  "company": "Zenika",
+  "source": "linkedin"
+ },
+ "350b7a59efafa01869d60ab3fc83f57c": {
+  "first_seen": 1783877565.1842098,
+  "title": "Consultant - Product Owner, Chef de Projet Data et IA H/F",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "d5a9b3641cb6c88609a15db5187e2579": {
+  "first_seen": 1783877565.1842344,
+  "title": "Ki",
+  "company": "OneBridge Partners",
+  "source": "linkedin"
+ },
+ "90a59da6c88eac610927105215dcbe52": {
+  "first_seen": 1783877565.1842704,
+  "title": "Apprenticeship – Reward Assistant - (H/F)",
+  "company": "Moët Hennessy",
+  "source": "linkedin"
+ },
+ "44cee3f4b1d8ef7cfe97a283dd50d652": {
+  "first_seen": 1783877565.1842852,
+  "title": "Mid-Senior Quantum Developer - W/M",
+  "company": "Pasqal",
+  "source": "linkedin"
+ },
+ "70e64db56fd2e405515afe7241039146": {
+  "first_seen": 1783877565.1842954,
+  "title": "Product Designer - BeReal",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "5e4348f595a5e7776b830b4e49b18ab0": {
+  "first_seen": 1783877565.1843002,
+  "title": "EU Engagement Manager",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "9b8a339b3ff4eb2c3f99e4324942295e": {
+  "first_seen": 1783877565.1843066,
+  "title": "Chef de projet Architecture TR F/H",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "3fe2f6f69270e52b9f36a20f7ba41e28": {
+  "first_seen": 1783877565.1843321,
+  "title": "Chef de projet Market Data Administration H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "969418e46c471b512eb011de85d0baea": {
+  "first_seen": 1783877565.1843395,
+  "title": "Chargé de recrutement en alternance (92)-F/H",
+  "company": "Groupe Casino",
+  "source": "linkedin"
+ },
+ "540aa70ca54de7c1a88593c69faaa7be": {
+  "first_seen": 1783877565.184347,
+  "title": "Ingénieur Systèmes - CDI - H/F",
+  "company": "Lagardère Travel Retail",
+  "source": "linkedin"
+ },
+ "32311e6f6ace204ff251fa98bfa2ff34": {
+  "first_seen": 1783877565.1843562,
+  "title": "Ingénieur d'Étude en Expérimentation Biologique - H/F",
+  "company": "Inserm Paris / Île-de-France",
+  "source": "linkedin"
+ },
+ "db2410b8f9cc0d0f106af7f07c0d2dea": {
+  "first_seen": 1783877565.1843631,
+  "title": "Apprentissage - Assistant(e) Commercial(e) et Marketing B2B (H/F)",
+  "company": "Canon EMEA",
+  "source": "linkedin"
+ },
+ "1e19aea0e77fd93ff2a8ce7fc5e45d86": {
+  "first_seen": 1783877565.1843684,
+  "title": "Business Analyst (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "dfa85cfb8837e92aad931b7ea50f8e4a": {
+  "first_seen": 1783877565.184394,
+  "title": "Alternance - Channel & Engagement Apprentice H/F",
+  "company": "Levi Strauss & Co.",
+  "source": "linkedin"
+ },
+ "20dfafa79dd27bdfb32873d1408fb91f": {
+  "first_seen": 1783877565.1844025,
+  "title": "Tech Lead - Full Stack - Défense & Sécurité - Ile de France",
+  "company": "Sopra Steria",
   "source": "linkedin"
  }
 }
