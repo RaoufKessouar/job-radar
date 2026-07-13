@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783924383.6962056,
+   "last_success": 1783926182.5254347,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783924383.696211,
+   "last_success": 1783926182.5254407,
    "alerted": false
   }
  },
@@ -2911,6 +2911,66 @@
   "first_seen": 1783924383.69677,
   "title": "Lead développeur Python Full stack H/F",
   "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "adbd7273ae67be10b3414e89cd1c7dfc": {
+  "first_seen": 1783926182.5258794,
+  "title": "Local Account Manager Global Accounts FRANCE (d/w/m)",
+  "company": "Lenovo Vehicle Computing",
+  "source": "linkedin"
+ },
+ "746bf281889d8108149f07af5bc25621": {
+  "first_seen": 1783926182.5258923,
+  "title": "Responsable de Projets SIRH H/F",
+  "company": "Palatine",
+  "source": "linkedin"
+ },
+ "e18048c9be54e9398b26c3d2ba7870bc": {
+  "first_seen": 1783926182.5258992,
+  "title": "Directeur de projet H/F",
+  "company": "Devoteam | Microsoft Partner",
+  "source": "linkedin"
+ },
+ "ac8a19310b596f51636341ba59b5b4b8": {
+  "first_seen": 1783926182.5259047,
+  "title": "Technical Account Manager",
+  "company": "MendixApp",
+  "source": "linkedin"
+ },
+ "bba026b1621989f9ebab6e45561feec9": {
+  "first_seen": 1783926182.5259182,
+  "title": "ALTERNANCE PROXY PRODUCT OWNER (PPO) MULTIPRODUITS H/F TOTALENERGIES DIGITAL FACTORY",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "da03176ef4eee5d9d5f21d2545472520": {
+  "first_seen": 1783926182.5259247,
+  "title": "Global Director, Scent Technology & Operations Fine Fragrances",
+  "company": "IFF",
+  "source": "linkedin"
+ },
+ "dceb288407daf3952a2f30bec3d05ddb": {
+  "first_seen": 1783926182.5259314,
+  "title": "FR - Specialist: Fixed Term Contracts, Full-time and Part-time",
+  "company": "Apple",
+  "source": "linkedin"
+ },
+ "fae62dcf2a29842243e0ecb77829349d": {
+  "first_seen": 1783926182.525938,
+  "title": "Consultant / ingénierie Poste de Travail H/F",
+  "company": "METSYS",
+  "source": "linkedin"
+ },
+ "add6bab44231e192e10b509a1887170e": {
+  "first_seen": 1783926182.5259576,
+  "title": "Data Scientist – IA, Machine Learning & Business Intelligence",
+  "company": "SoTalent",
+  "source": "linkedin"
+ },
+ "45485fa2e8ea68cb257842548349efa3": {
+  "first_seen": 1783926182.5260394,
+  "title": "Ingénieur Supervision en alternance F/H",
+  "company": "APIXIT",
   "source": "linkedin"
  }
 }
