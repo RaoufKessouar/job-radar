@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783971174.848938,
+   "last_success": 1783972969.7303398,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783971174.848944,
+   "last_success": 1783972969.7303457,
    "alerted": false
   }
  },
@@ -4081,6 +4081,18 @@
   "first_seen": 1783971174.8495421,
   "title": "Ingénieur Validation Logiciel ATS f/h",
   "company": "Siemens",
+  "source": "linkedin"
+ },
+ "4148c871a5bc8f0978907638f9a21c02": {
+  "first_seen": 1783972969.730835,
+  "title": "Responsable de la transformation IA (F/H)/ AI Transformation Leader (F/M)",
+  "company": "GE Vernova",
+  "source": "linkedin"
+ },
+ "102e3cce9b01001729f14b69fe9bb90e": {
+  "first_seen": 1783972969.7308793,
+  "title": "[STAGE] ASSISTANT DEVELOPPEUR DE PROJETS ENERGIES RENOUVELABLES (F/H)",
+  "company": "GROUPE CORIANCE",
   "source": "linkedin"
  }
 }
