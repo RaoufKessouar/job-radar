@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783954998.8877487,
+   "last_success": 1783956792.5185046,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783954998.8877542,
+   "last_success": 1783956792.5185106,
    "alerted": false
   }
  },
@@ -3757,6 +3757,156 @@
   "first_seen": 1783954998.8885138,
   "title": "Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)",
   "company": "TikTok",
+  "source": "linkedin"
+ },
+ "ebd7d308d2c2bce35945c6eabb07fbc1": {
+  "first_seen": 1783956792.5187407,
+  "title": "Business Development Representative (Stage Juillet - Décembre 2026)",
+  "company": "ZAION",
+  "source": "wttj"
+ },
+ "70bbe6cc7ed276795a1345379ec47df7": {
+  "first_seen": 1783956792.5189018,
+  "title": "Data Engineer F/H",
+  "company": "DEEP",
+  "source": "linkedin"
+ },
+ "26e2afa5430ff4a67c05c5da860f8e12": {
+  "first_seen": 1783956792.5189216,
+  "title": "APPRENTISSAGE - Data Analyst e-Commerce (F/H)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin"
+ },
+ "4b132fb567ac51778e38e20f56376f96": {
+  "first_seen": 1783956792.518934,
+  "title": "Stage - Chargé(e) de performance opérationnelle et pricing",
+  "company": "BURGER KING® FRANCE",
+  "source": "linkedin"
+ },
+ "308ecabbd658b3af51337b96dfe27dc1": {
+  "first_seen": 1783956792.5189414,
+  "title": "Data Engineer",
+  "company": "Devoteam Data Driven",
+  "source": "linkedin"
+ },
+ "27020a1c14deb85353325dce47e286aa": {
+  "first_seen": 1783956792.5189607,
+  "title": "Alternance 12 à 24 mois - Chargé projet digital (H/F)",
+  "company": "PHOENIX OCP",
+  "source": "linkedin"
+ },
+ "8e09128bbf9b92bf81371abdd27258e2": {
+  "first_seen": 1783956792.519036,
+  "title": "Reporting analyst H/F",
+  "company": "Lagardère Travel Retail",
+  "source": "linkedin"
+ },
+ "4658211a0332c7d3528efc294de7afbe": {
+  "first_seen": 1783956792.5190465,
+  "title": "Alternance 24 mois - Assistant business analyst (H/F)",
+  "company": "OCP Répartition",
+  "source": "linkedin"
+ },
+ "5e4e34142978cb2158e2b2beff0b8567": {
+  "first_seen": 1783956792.5190938,
+  "title": "Apprentice Financial Controlling – Fine Fragrance EAME & Global Key Accounts (f/m/d)",
+  "company": "IFF",
+  "source": "linkedin"
+ },
+ "2025fba16e52bb8acf073043ccc37d98": {
+  "first_seen": 1783956792.5191042,
+  "title": "Stagiaire Revenue Management – Direction Revenu Management (F/H)",
+  "company": "Corsair",
+  "source": "linkedin"
+ },
+ "2b6bcbcadc830969252456ca31d63cba": {
+  "first_seen": 1783956792.519128,
+  "title": "Data Analyste– Tableau / Python - Hedge Found",
+  "company": "LeGratin",
+  "source": "linkedin"
+ },
+ "005d6c99c54bae4445e3ef2e29d89bde": {
+  "first_seen": 1783956792.5191505,
+  "title": "Apprenti.e E-commerce, CRM et Fidélisation",
+  "company": "Ohm Energie",
+  "source": "linkedin"
+ },
+ "027dceca892d4970385b5b519e7b64b9": {
+  "first_seen": 1783956792.5191631,
+  "title": "Alternance 1 an - Ingénieur innovation au sein de l’équipe agrivoltaïsme (F/H)",
+  "company": "PHOTOSOL",
+  "source": "linkedin"
+ },
+ "285ce7b85d4cd3f108202b52ce5fe072": {
+  "first_seen": 1783956792.5192392,
+  "title": "Founding AI Implementation Manager",
+  "company": "Bravi (YC F25)",
+  "source": "linkedin"
+ },
+ "5fe5659ae2ecc60ad2ab040df6289f90": {
+  "first_seen": 1783956792.5192544,
+  "title": "Product Owner IA (F/H/X)",
+  "company": "Epsilon France",
+  "source": "linkedin"
+ },
+ "02cdc3fa80b05be86ea5814a7a9404a0": {
+  "first_seen": 1783956792.51927,
+  "title": "Architecte IA / Senior Datascientist – IA générative - F/H",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "852b813290fcd4804b580852ce2bb8d1": {
+  "first_seen": 1783956792.5192988,
+  "title": "Project Design Authority et architecte IA - F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "3a858ec37109ae327fe91741cbca66ff": {
+  "first_seen": 1783956792.5193055,
+  "title": "Expert Automation / RPA - F/H",
+  "company": "Niji",
+  "source": "linkedin"
+ },
+ "8eb57399fe8c471e47d9cfbffd895a52": {
+  "first_seen": 1783956792.5193179,
+  "title": "Alternance - 1 an - Assistant Ingénieur Financier Indices F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin"
+ },
+ "0d8df6c2093838201cd07c2500805c22": {
+  "first_seen": 1783956792.5193284,
+  "title": "alternance 12 mois – transformation et amélioration performance fournisseurs",
+  "company": "Sanofi",
+  "source": "linkedin"
+ },
+ "f2c6b2307e53feec277999da67312a9c": {
+  "first_seen": 1783956792.5193348,
+  "title": "Apprentie support scheduling",
+  "company": "Shell",
+  "source": "linkedin"
+ },
+ "b008af52704390a41a34d31c707d4932": {
+  "first_seen": 1783956792.519341,
+  "title": "Playable Ads Developer",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "79af154d4332c6fef4a275bd4c92ea0b": {
+  "first_seen": 1783956792.5193753,
+  "title": "Technical Marketing Engineer",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "91b6fcd1a3f706ef94b196dd60c24d8b": {
+  "first_seen": 1783956792.519407,
+  "title": "Ingénieur Développement Logiciel Embarqué (H/F)",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "6af345245f2c33078baf3825e32cded4": {
+  "first_seen": 1783956792.5194163,
+  "title": "Ingénieur Développeur C++ embarqué - Paris, France  (H/F)",
+  "company": "Astek",
   "source": "linkedin"
  }
 }
