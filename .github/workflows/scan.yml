@@ -2,8 +2,9 @@ name: Stage Radar scan
 
 on:
   schedule:
-    # Toutes les 30 min, de 05h à 21h UTC (~7h-23h Paris). Cron GitHub = UTC.
-    - cron: "*/30 5-21 * * *"
+    # Filet de secours (3 runs/jour) : le déclencheur principal est
+    # cron-job.org toutes les 30 min, 7h-22h30 Paris (A1+A2, quota Actions).
+    - cron: "0 6,11,16 * * *"   # ≈ 8h, 13h, 18h Paris (cron GitHub = UTC)
   workflow_dispatch: {}   # bouton "Run workflow" pour tester à la main
 
 permissions:
