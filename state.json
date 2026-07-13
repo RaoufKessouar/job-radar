@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783933350.5584846,
+   "last_success": 1783935178.798228,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783933350.558493,
+   "last_success": 1783935178.7982333,
    "alerted": false
   }
  },
@@ -3097,6 +3097,36 @@
   "first_seen": 1783931582.2330716,
   "title": "Juriste en droit bancaire et financier H/F",
   "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "8166b93b2f03396312193472ec9a26b4": {
+  "first_seen": 1783935178.7984128,
+  "title": "STAGE - DATA SCIENTIST - SEPTEMBRE 2026",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "47886d525c4b647114f84e1305b87bc0": {
+  "first_seen": 1783935178.7985284,
+  "title": "Manager Data/IA [Luxe-Retail] (H/F)",
+  "company": "Adone Conseil",
+  "source": "linkedin"
+ },
+ "b8a0706739b8f713a775703da20f67d4": {
+  "first_seen": 1783935178.7985435,
+  "title": "Stage Sales / Business Developer – CleanTech & IA",
+  "company": "Istya",
+  "source": "linkedin"
+ },
+ "e2a86dee7dd5de769d48a0064c1fbf51": {
+  "first_seen": 1783935178.7986662,
+  "title": "STAGE - ASSISTANT(E) CHEF DE PROJET RESPONSABILITE SOCIALE /RSE - JUILLET 2026",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "6add1d1c5eb7ec4adbe78a4b395802ff": {
+  "first_seen": 1783935178.7987115,
+  "title": "Chargé de mission pilotage conformité",
+  "company": "Societe Generale",
   "source": "linkedin"
  }
 }
