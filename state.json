@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783942710.8041275,
+   "last_success": 1783944193.957151,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783942710.8041327,
+   "last_success": 1783944193.957157,
    "alerted": false
   }
  },
@@ -3343,6 +3343,78 @@
   "first_seen": 1783942710.8046236,
   "title": "Stagiaire Assistant Presse H/F",
   "company": "Levi Strauss & Co.",
+  "source": "linkedin"
+ },
+ "04e1ed9c203f07e14c5d87cb44472a91": {
+  "first_seen": 1783944193.9575622,
+  "title": "Consultant·e Agile, Design Thinking, Innovation – Stage de fin d'études",
+  "company": "Saegus",
+  "source": "linkedin"
+ },
+ "8128d12015da5a10b1c0941448b095e2": {
+  "first_seen": 1783944193.9576106,
+  "title": "Customer Services Project Intern (GBS) - 2026 Start (BS/MS)",
+  "company": "TikTok",
+  "source": "linkedin"
+ },
+ "e2141f2998825340e9183d68fc48807e": {
+  "first_seen": 1783944193.9576247,
+  "title": "STAGE rémunéré - Chef.fe de projet Communication (stage uniquement) - Septembre 2026",
+  "company": "moderato 0% 🍷",
+  "source": "linkedin"
+ },
+ "9e6946bbc4db453072778df7d8f4758e": {
+  "first_seen": 1783944193.9576821,
+  "title": "STAGE - Réceptionniste H/F",
+  "company": "ALFRED HOTELS",
+  "source": "linkedin"
+ },
+ "595ddaad5e06f717b9b761068b575ecd": {
+  "first_seen": 1783944193.9577239,
+  "title": "AI Infrastructure Engineer",
+  "company": "XpertDirect",
+  "source": "linkedin"
+ },
+ "f711c6f52b4bee4c0f543286f387ede2": {
+  "first_seen": 1783944193.9577332,
+  "title": "Chargé(e) de Recrutement IT",
+  "company": "UNITECH Solutions",
+  "source": "linkedin"
+ },
+ "f32156ff5e0c4997bd2356ca3daf5699": {
+  "first_seen": 1783944193.9577425,
+  "title": "STAGE – Customer Success (H/F) – Marketplace Luxe",
+  "company": "58 Facettes",
+  "source": "linkedin"
+ },
+ "2b65605c030453558724162480f14eb6": {
+  "first_seen": 1783944193.9577663,
+  "title": "Stagiaire juriste en droit du vin et des spiritueux (H/F)",
+  "company": "CASALONGA",
+  "source": "linkedin"
+ },
+ "006680078f6f5973eccb25417cacf630": {
+  "first_seen": 1783944193.9577782,
+  "title": "Stagiaire avocat/contentieux PI (H/F)",
+  "company": "CASALONGA",
+  "source": "linkedin"
+ },
+ "d8055bf825d35dda4930cbe9d83e99f7": {
+  "first_seen": 1783944193.9577928,
+  "title": "Stagiaire Assistant.e Achats Matières H/F/x",
+  "company": "SCHIAPARELLI",
+  "source": "linkedin"
+ },
+ "ef735fdcf9eeb612525c23809500758d": {
+  "first_seen": 1783944193.9578996,
+  "title": "Un(e) ingénieur lead développement électronique (start-up en forte croissance)H/F",
+  "company": "MCG ENGINEERING",
+  "source": "linkedin"
+ },
+ "2d67305b17ff93f17fd60448a159c7dd": {
+  "first_seen": 1783944193.957906,
+  "title": "Ingénieur électronique/Ingénieure électronique",
+  "company": "ALTEN",
   "source": "linkedin"
  }
 }
