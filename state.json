@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783952626.4341998,
+   "last_success": 1783953201.9711971,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783952626.434206,
+   "last_success": 1783953201.9712029,
    "alerted": false
   }
  },
@@ -3565,6 +3565,114 @@
   "first_seen": 1783951394.2066488,
   "title": "Stage - Bac+4/+5 - Wave Function Collapse et reconstruction d'interfaces discrètes - H/F",
   "company": "CEA",
+  "source": "linkedin"
+ },
+ "08ca903f26536250b08838341e101272": {
+  "first_seen": 1783953201.9715512,
+  "title": "Data Owner - Sales et Distribution (F/H/X)",
+  "company": "Guerlain",
+  "source": "linkedin"
+ },
+ "11368ae5bdd51ba94a21fca24ad0cc5c": {
+  "first_seen": 1783953201.9715617,
+  "title": "Responsable Data Analyste Force de Vente, CDI, H/F",
+  "company": "PepsiCo",
+  "source": "linkedin"
+ },
+ "e9a8237e7e7daa128aa61ce2b0119380": {
+  "first_seen": 1783953201.9715767,
+  "title": "Stagiaire Analyste Retail Europe – F/H",
+  "company": "GIVENCHY",
+  "source": "linkedin"
+ },
+ "1b3b09d1b331112806189462e96840fe": {
+  "first_seen": 1783953201.9716532,
+  "title": "Chef de projet technique Data & BI",
+  "company": "agap2IT France",
+  "source": "linkedin"
+ },
+ "d5b115fb2bd9ff17197a9f37be502129": {
+  "first_seen": 1783953201.9716992,
+  "title": "Research Intern (Flow Matching models)",
+  "company": "OWKIN",
+  "source": "linkedin"
+ },
+ "803d72d8936b58dce377d601a817c1b5": {
+  "first_seen": 1783953201.9717176,
+  "title": "Développeur Logiciel",
+  "company": "CLAAS",
+  "source": "linkedin"
+ },
+ "cfaae5605e794db4b97f61da32599dfb": {
+  "first_seen": 1783953201.9717493,
+  "title": "Ingénieur développement logiciel temps réel embarqué F.H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "d416ee9088bbdba33ea3584a3e07572f": {
+  "first_seen": 1783953201.9717712,
+  "title": "Développeur senior basic Software  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "7224d7ccc27e53103d90fb2cc7c7943d": {
+  "first_seen": 1783953201.971779,
+  "title": "Ingénieur Intégration & Validation Logiciel f/h",
+  "company": "Siemens",
+  "source": "linkedin"
+ },
+ "863fd73ffd5f728a1f62b2d2c4d343a4": {
+  "first_seen": 1783953201.9717903,
+  "title": "Formal methodology for the exploration and the evaluation of complex critical SW architecture M/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "4a11c4fa4fb51526df0bc1391f13ef0d": {
+  "first_seen": 1783953201.9718482,
+  "title": "CHEF DE PROJET LOGICIEL ET ÉLECTRONIQUE (SWEPL)",
+  "company": "SEGULA Technologies",
+  "source": "linkedin"
+ },
+ "96485887d944bbdc9945661ba55d9892": {
+  "first_seen": 1783953201.9718547,
+  "title": "Frontend Engineer Intern",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "563f427dcb74ad49612114e84e018583": {
+  "first_seen": 1783953201.9718719,
+  "title": "HW/SW Co-Design Research Engineer for Manycores - Gem5 / Computer Architecture / Memory",
+  "company": "European Tech Recruit",
+  "source": "linkedin"
+ },
+ "c3e7906f7ed3f2ca0b74f9ac3e816df7": {
+  "first_seen": 1783953201.9718843,
+  "title": "Technicien d'assemblage",
+  "company": "Parrot",
+  "source": "linkedin"
+ },
+ "ec938b9575e343643927d9f3f59163dd": {
+  "first_seen": 1783953201.9718904,
+  "title": "VP of Engineering, Navigation",
+  "company": "Mapbox",
+  "source": "linkedin"
+ },
+ "a2a4024f7e7e6df80b5985f9b83efd38": {
+  "first_seen": 1783953201.9719152,
+  "title": "Stage Ingénieur Essais Mécaniques et Développement Produit",
+  "company": "COLD PAD",
+  "source": "linkedin"
+ },
+ "d544e65da9ab35b8a7871f930c3ec436": {
+  "first_seen": 1783953201.9719243,
+  "title": "Développeur Web Full stack Python/Angular H/F - Paris",
+  "company": "eiG sas",
+  "source": "linkedin"
+ },
+ "d983246c7ba5941a3241562c1fd9ccf8": {
+  "first_seen": 1783953201.971937,
+  "title": "Dev Full Stack Php NATIF",
+  "company": "Cabinet EKINOX",
   "source": "linkedin"
  }
 }
