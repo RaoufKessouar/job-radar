@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783917152.3272533,
+   "last_success": 1783918951.5553145,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783917152.327259,
+   "last_success": 1783918951.5553203,
    "alerted": false
   }
  },
@@ -2803,6 +2803,18 @@
   "first_seen": 1783917152.3277798,
   "title": "Ingénieur Intégration, Vérification & Validation Logiciel (IVV)",
   "company": "act digital EMEA - Alter Solutions",
+  "source": "linkedin"
+ },
+ "0b7950da9888106aeea27e8bdd747f9b": {
+  "first_seen": 1783918951.5554953,
+  "title": "Senior Data Scientist",
+  "company": "GTMfund",
+  "source": "linkedin"
+ },
+ "ff2d48e168dfed158ed7443ee795bd72": {
+  "first_seen": 1783918951.5556343,
+  "title": "Software Engineer - Internal AI Platform",
+  "company": "GTMfund",
   "source": "linkedin"
  }
 }
