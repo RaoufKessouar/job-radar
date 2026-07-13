@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783947774.7212648,
+   "last_success": 1783949573.1439183,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783947774.721271,
+   "last_success": 1783949573.1439245,
    "alerted": false
   }
  },
@@ -3445,6 +3445,18 @@
   "first_seen": 1783947774.721621,
   "title": "Senior AI/ML Engineer, France",
   "company": "vector8",
+  "source": "linkedin"
+ },
+ "35e3787a1fb40172ff553d27f3f34cd1": {
+  "first_seen": 1783949573.1443212,
+  "title": "Ingénieur.e IA - Stage",
+  "company": "Colombus Consulting",
+  "source": "linkedin"
+ },
+ "6dad767ccd035ccd0c9e7e183a3fce6d": {
+  "first_seen": 1783949573.1443374,
+  "title": "IA - Développeur augmenté (H/F)",
+  "company": "TDF",
   "source": "linkedin"
  }
 }
