@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783930465.1741066,
+   "last_success": 1783931582.2324781,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783930465.1741147,
+   "last_success": 1783931582.2324848,
    "alerted": false
   }
  },
@@ -3049,6 +3049,54 @@
   "first_seen": 1783929791.0318167,
   "title": "Ingénieur-e Système  Fonctions Avancées de Perception F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
   "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "a942ccabc48714c719e6aeec3933b4f1": {
+  "first_seen": 1783931582.2328238,
+  "title": "Développeur Python Senior (H/F)",
+  "company": "ABC arbitrage",
+  "source": "linkedin"
+ },
+ "37a2de538afb57ccfc4af5f6edf9e7f7": {
+  "first_seen": 1783931582.2328396,
+  "title": "ALTERNANCE - Assistant (e) Responsable Outils Opérationnels H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "fc282cbd4f7afbbe0317190907b11434": {
+  "first_seen": 1783931582.2329028,
+  "title": "Apprenti(e) - Technicien(ne) Chimiste et Qualité - 2 ans (H/F/X)",
+  "company": "PerkinElmer",
+  "source": "linkedin"
+ },
+ "992a7e88cd2bdac746b8d51ae2f66123": {
+  "first_seen": 1783931582.2329109,
+  "title": "Stage - Juriste en droit public, droit de l'audiovisuel et du numérique (F-H)",
+  "company": "FRANCE TELEVISIONS SVOD",
+  "source": "linkedin"
+ },
+ "ce0ad70712bdf7074aca78b46ece9177": {
+  "first_seen": 1783931582.2329168,
+  "title": "Consultant Senior en Données",
+  "company": "Synergie France",
+  "source": "linkedin"
+ },
+ "fca05267fc22e6870e7cf740485c7b62": {
+  "first_seen": 1783931582.2329316,
+  "title": "ML platform Engineer",
+  "company": "Capital Fund Management (CFM)",
+  "source": "linkedin"
+ },
+ "be6aa2bd3a8b2bc6fa58713e36df8d67": {
+  "first_seen": 1783931582.2330658,
+  "title": "Apprenti technicien ascensoriste (H/F)",
+  "company": "Otis Elevator Co.",
+  "source": "linkedin"
+ },
+ "3f251b480d71043f8847a1829c3aa4d8": {
+  "first_seen": 1783931582.2330716,
+  "title": "Juriste en droit bancaire et financier H/F",
+  "company": "Banque de France",
   "source": "linkedin"
  }
 }
