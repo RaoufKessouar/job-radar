@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783902735.0828328,
+   "last_success": 1783904575.564004,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783902735.0828385,
+   "last_success": 1783904575.5640097,
    "alerted": false
   }
  },
@@ -2731,6 +2731,12 @@
   "first_seen": 1783900970.803777,
   "title": "STAGE - Assistant(e) Sales Merchandiser Fashion Accessoires - Juillet 2026 (H/F/X)",
   "company": "Chloé",
+  "source": "linkedin"
+ },
+ "1377704f64dc4e7a607f7f55435e9329": {
+  "first_seen": 1783904575.5643206,
+  "title": "Stagiaire analyste",
+  "company": "Cushman & Wakefield",
   "source": "linkedin"
  }
 }
