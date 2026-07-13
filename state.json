@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783904575.564004,
+   "last_success": 1783906366.1633537,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783904575.5640097,
+   "last_success": 1783906366.1633594,
    "alerted": false
   }
  },
@@ -2737,6 +2737,30 @@
   "first_seen": 1783904575.5643206,
   "title": "Stagiaire analyste",
   "company": "Cushman & Wakefield",
+  "source": "linkedin"
+ },
+ "c59f23ca958b8690deef83a69ead4685": {
+  "first_seen": 1783906366.1638193,
+  "title": "STAGE ACCUEIL MUSEE GRATALOUP",
+  "company": "GRATALOUP MUSEUM CONTEMPORARY  ART CHEVREUSE",
+  "source": "linkedin"
+ },
+ "7d3da1c6baa3fedbbec364534f56daa3": {
+  "first_seen": 1783906366.1638324,
+  "title": "Apprenti  QHSE",
+  "company": "DELAGE AERO INDUSTRIES",
+  "source": "linkedin"
+ },
+ "542018212021f0a10f9fde169a430790": {
+  "first_seen": 1783906366.1640322,
+  "title": "HR Intern – France",
+  "company": "Basware",
+  "source": "linkedin"
+ },
+ "83ce0e9e6535dcea91ba168c608485dc": {
+  "first_seen": 1783906366.164043,
+  "title": "Stage RH / Psychologie / Psychologie du travail",
+  "company": "PEAJ – le centre de formation qui fait avancer les projets utiles",
   "source": "linkedin"
  }
 }
