@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783953201.9711971,
+   "last_success": 1783954998.8877487,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783953201.9712029,
+   "last_success": 1783954998.8877542,
    "alerted": false
   }
  },
@@ -3673,6 +3673,90 @@
   "first_seen": 1783953201.971937,
   "title": "Dev Full Stack Php NATIF",
   "company": "Cabinet EKINOX",
+  "source": "linkedin"
+ },
+ "019aca03442ddb2a3319ac184d6e8120": {
+  "first_seen": 1783954998.88802,
+  "title": "Data Scientist MMM",
+  "company": "ObjectWare",
+  "source": "linkedin"
+ },
+ "08f96d711a57ed1f9a1c47e97f6aedc6": {
+  "first_seen": 1783954998.8882594,
+  "title": "Senior Software Engineer",
+  "company": "CybelAngel",
+  "source": "linkedin"
+ },
+ "ee8835c57a60f3e790f6a2f75eddaf77": {
+  "first_seen": 1783954998.888268,
+  "title": "Founding Implementation Manager (Paris)",
+  "company": "Bravi (YC F25)",
+  "source": "linkedin"
+ },
+ "c0a9b4fc0aad01169597952a139798c3": {
+  "first_seen": 1783954998.8882847,
+  "title": "Senior Full Stack Développeur Data & AI Applications (H/F) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "05f9e170eaa3d039f5dc7d1f38a58a45": {
+  "first_seen": 1783954998.8882906,
+  "title": "Account Executive, SEMEA",
+  "company": "Botify",
+  "source": "linkedin"
+ },
+ "55e21568aa7204a299a07eb4b6a47cfb": {
+  "first_seen": 1783954998.8882966,
+  "title": "Senior Research/Standardization Specialist",
+  "company": "Nokia",
+  "source": "linkedin"
+ },
+ "0ec0c5e39ea077de23b3355089da1d26": {
+  "first_seen": 1783954998.8883054,
+  "title": "Community Manager / Créateur de contenu",
+  "company": "L'agence Snazzy",
+  "source": "linkedin"
+ },
+ "499812ddede54259587ad9f907b20770": {
+  "first_seen": 1783954998.888348,
+  "title": "Lead Tech Data/IA F/H",
+  "company": "DEEP",
+  "source": "linkedin"
+ },
+ "6ca97b15402864d779f654f42f450cee": {
+  "first_seen": 1783954998.888413,
+  "title": "Stage  - Opérateur/Opératrice de numérisation - Archiviste  F/H",
+  "company": "EDF",
+  "source": "linkedin"
+ },
+ "d800347b17d8ce295af763d9b5570acf": {
+  "first_seen": 1783954998.8884695,
+  "title": "Stage - Junior Influence Manager",
+  "company": "We Are Social",
+  "source": "linkedin"
+ },
+ "ab41e6d3a29afe678b6ccec738e90660": {
+  "first_seen": 1783954998.888475,
+  "title": "Stage Customer Success Manager",
+  "company": "ChouetteCopro",
+  "source": "linkedin"
+ },
+ "d8685fef85bb75a3e7a97b301958c8fa": {
+  "first_seen": 1783954998.888492,
+  "title": "IT QUANT C++/C# (H/F) 🚀",
+  "company": "XRAYS TRADING",
+  "source": "linkedin"
+ },
+ "0eba2dd35811d43a9671fbc482123040": {
+  "first_seen": 1783954998.8884997,
+  "title": "[Stage 2 ou 6 mois] Assistant(e) Création de Contenu",
+  "company": "Meeps",
+  "source": "linkedin"
+ },
+ "cad274d33a6ca7bdb71ecea9d72fd6e8": {
+  "first_seen": 1783954998.8885138,
+  "title": "Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)",
+  "company": "TikTok",
   "source": "linkedin"
  }
 }
