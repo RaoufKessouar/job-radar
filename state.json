@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783942365.7661479,
+   "last_success": 1783942710.8041275,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783942365.766154,
+   "last_success": 1783942710.8041327,
    "alerted": false
   }
  },
@@ -3319,6 +3319,30 @@
   "first_seen": 1783942365.7666318,
   "title": "Stage- IT Support and automation",
   "company": "INCO",
+  "source": "linkedin"
+ },
+ "ef7648fe0bce47ef031c9e98af3567c1": {
+  "first_seen": 1783942710.8044143,
+  "title": "Chargé du traitement des données scientifiques - H/F",
+  "company": "Inserm Paris / Île-de-France",
+  "source": "linkedin"
+ },
+ "c54a8a122cb6c4a70ea53c1548322af6": {
+  "first_seen": 1783942710.804598,
+  "title": "Stage 6 mois - Chef de Projet Commercial & Relation Client H/F - Issy-les-Moulineaux -Septembre 2026",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin"
+ },
+ "5587ad0264dc455cf09bf50b4bd8ed98": {
+  "first_seen": 1783942710.8046052,
+  "title": "Contrôle de gestion - Stage / Alternance",
+  "company": "IDEMIA Public Security",
+  "source": "linkedin"
+ },
+ "d73a3aa300abb77ebe5c73c2b32f5d70": {
+  "first_seen": 1783942710.8046236,
+  "title": "Stagiaire Assistant Presse H/F",
+  "company": "Levi Strauss & Co.",
   "source": "linkedin"
  }
 }
