@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783922569.5407708,
+   "last_success": 1783924383.6962056,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783922569.5407765,
+   "last_success": 1783924383.696211,
    "alerted": false
   }
  },
@@ -2869,6 +2869,48 @@
   "first_seen": 1783922569.541162,
   "title": "Ingénieur logiciel embarqué H/F",
   "company": "Kicklox",
+  "source": "linkedin"
+ },
+ "c44ca36756dfb398f23ccdb07d17af24": {
+  "first_seen": 1783924383.6964562,
+  "title": "STAGE : Méthode de Transfert Learning pour composites stratifiés F/H - SAFRAN SA (FRANCE)",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "149bc7b659b76bb602c4606cf803aed9": {
+  "first_seen": 1783924383.6964903,
+  "title": "DATA ANALYST  QUALITÉ INDUSTRIELLE & SUPPLY CHAIN F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "ad375e9404b42a73429472896cba8367": {
+  "first_seen": 1783924383.6965637,
+  "title": "Directeur de projet produits Data H/F",
+  "company": "CNAM",
+  "source": "linkedin"
+ },
+ "65d5c826f75b65cdceb61900a8d149d5": {
+  "first_seen": 1783924383.6966615,
+  "title": "Staff Product Manager - AI Journey",
+  "company": "GTMfund",
+  "source": "linkedin"
+ },
+ "3c1fe961e4c698e6121f39d06b30e83f": {
+  "first_seen": 1783924383.69671,
+  "title": "Webmaster Claude / GitHub",
+  "company": "My Paris Concierge",
+  "source": "linkedin"
+ },
+ "3ce086ff969f24a5b27ca179cd990fb0": {
+  "first_seen": 1783924383.6967514,
+  "title": "Quality Analyst – Orchestrade Core Team H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "fccfa4e61510f572f289373c970ed56c": {
+  "first_seen": 1783924383.69677,
+  "title": "Lead développeur Python Full stack H/F",
+  "company": "Free-Work",
   "source": "linkedin"
  }
 }
