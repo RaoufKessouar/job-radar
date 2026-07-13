@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783972969.7303398,
+   "last_success": 1783974776.8186255,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783972969.7303457,
+   "last_success": 1783974776.8186314,
    "alerted": false
   }
  },
@@ -4093,6 +4093,36 @@
   "first_seen": 1783972969.7308793,
   "title": "[STAGE] ASSISTANT DEVELOPPEUR DE PROJETS ENERGIES RENOUVELABLES (F/H)",
   "company": "GROUPE CORIANCE",
+  "source": "linkedin"
+ },
+ "c8a1902eb87d8d17c81e644c0eb4fe50": {
+  "first_seen": 1783974776.8192446,
+  "title": "Technicien Application logiciel H/F",
+  "company": "SOGECLAIR",
+  "source": "linkedin"
+ },
+ "2bb17809f1e8f4249be2c5973e1c55b9": {
+  "first_seen": 1783974776.819293,
+  "title": "Ingénieur automaticien/Ingénieure automaticienne",
+  "company": "agap2",
+  "source": "linkedin"
+ },
+ "d8f1167dbe3074885df7ccfa9de58736": {
+  "first_seen": 1783974776.81932,
+  "title": "Apprenti Développement et configuration dans un outil de Gestion électronique des documents (GED) et d’automatisation de",
+  "company": "CY Cergy Paris Université",
+  "source": "linkedin"
+ },
+ "488047beba02415685becbcc604fa863": {
+  "first_seen": 1783974776.8193305,
+  "title": "Ingénieur d’application spécialisé automation H/F",
+  "company": "MCG ENGINEERING",
+  "source": "linkedin"
+ },
+ "f4e03a6c0ed2e222653984857441e3a3": {
+  "first_seen": 1783974776.81934,
+  "title": "Ingénieur Système Médical (H/F)",
+  "company": "AWAKE Group x INNOVATEAM",
   "source": "linkedin"
  }
 }
