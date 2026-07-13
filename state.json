@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783969386.8510284,
+   "last_success": 1783971174.848938,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783969386.851036,
+   "last_success": 1783971174.848944,
    "alerted": false
   }
  },
@@ -4039,6 +4039,48 @@
   "first_seen": 1783969386.851616,
   "title": "Stage - Chargé·e de projets RSE (F/H)",
   "company": "Prodigious Paris",
+  "source": "linkedin"
+ },
+ "eac92a97285a74c05e68609523b169e9": {
+  "first_seen": 1783971174.8493235,
+  "title": "Data Analyst / Data Analytics Engineer",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "e83be147a30a17faa04b6eae4280ec58": {
+  "first_seen": 1783971174.8493364,
+  "title": "Internship: Business Analyst Assistant – Market and Consumer Intelligence",
+  "company": "LVMH Perfumes & Cosmetics",
+  "source": "linkedin"
+ },
+ "2ea6b23839f2b0020767b3605d522646": {
+  "first_seen": 1783971174.8493803,
+  "title": "Stagiaire Ingénieur Conception - Vision par Ordinateur et Reconstruction 3D (H/F)",
+  "company": "Alstom",
+  "source": "linkedin"
+ },
+ "9437296b6d2ffab3a8fb3a4cbe3526d8": {
+  "first_seen": 1783971174.849389,
+  "title": "Internship - Computer Vision & 3D Reconstruction Design Engineer F/H",
+  "company": "Alstom",
+  "source": "linkedin"
+ },
+ "b1d759104b2c3c758a595243e729c9df": {
+  "first_seen": 1783971174.8494747,
+  "title": "Senior Robotics Engineer",
+  "company": "IC Resources",
+  "source": "linkedin"
+ },
+ "d5dccd72b4076a97afbcd8e85e80b4fa": {
+  "first_seen": 1783971174.8495345,
+  "title": "Ingénieur Développement Logiciel Contrôles & Diagnostics (H/F)",
+  "company": "GE Vernova",
+  "source": "linkedin"
+ },
+ "cede55ca8e6fc966ab6d3fa7b9e7388f": {
+  "first_seen": 1783971174.8495421,
+  "title": "Ingénieur Validation Logiciel ATS f/h",
+  "company": "Siemens",
   "source": "linkedin"
  }
 }
