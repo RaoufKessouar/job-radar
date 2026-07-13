@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783938760.8242939,
+   "last_success": 1783940591.6385572,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783938760.8243005,
+   "last_success": 1783940591.6385632,
    "alerted": false
   }
  },
@@ -3205,6 +3205,102 @@
   "first_seen": 1783936987.687046,
   "title": "Ingénieur systèmes embarqués (H/F)",
   "company": "ALTEN",
+  "source": "linkedin"
+ },
+ "d998ff15c1b7af01eecc6f62234fd03d": {
+  "first_seen": 1783940591.638814,
+  "title": "Developper - Lovable",
+  "company": "Visibl.",
+  "source": "linkedin"
+ },
+ "204bed2eb581f3797bd2e59cb985a647": {
+  "first_seen": 1783940591.6388285,
+  "title": "Stagiaire de fin d'études Equipe DPO / Privacy Office F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "f07ee2ea3d403c23e820c88632816cc6": {
+  "first_seen": 1783940591.6388488,
+  "title": "ALTERNANCE – Data Science / IA Digital Manufacturing - F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "6d2b5ac34c1e711b0d2e9f0c9ed2ccab": {
+  "first_seen": 1783940591.6388695,
+  "title": "Développeur Python IA - F/H",
+  "company": "Niji",
+  "source": "linkedin"
+ },
+ "c6eedbf4071fbe9873d7d08323b3e446": {
+  "first_seen": 1783940591.6388788,
+  "title": "DATA MANAGER - H/F",
+  "company": "Inserm Paris / Île-de-France",
+  "source": "linkedin"
+ },
+ "4d455ae2b809be6a09c6ac61ca3b81b2": {
+  "first_seen": 1783940591.638886,
+  "title": "Intern - Data Analyst",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "023d588961d19f9902acece3ac2959ac": {
+  "first_seen": 1783940591.6389387,
+  "title": "AI Engineer [Freelance]",
+  "company": "Equativ",
+  "source": "linkedin"
+ },
+ "bf26b9ff5d682bbc3089606664932a44": {
+  "first_seen": 1783940591.6389449,
+  "title": "AI Senior Engineer",
+  "company": "Bain & Company",
+  "source": "linkedin"
+ },
+ "557c4199ee4dd938620654c847916ca5": {
+  "first_seen": 1783940591.6389587,
+  "title": "Head Of Data & AI Factory F/H",
+  "company": "Fnac Darty",
+  "source": "linkedin"
+ },
+ "3ab957a1e326d57ce5f471cd1662eaad": {
+  "first_seen": 1783940591.638972,
+  "title": "AI Portfolio Lead H/F",
+  "company": "Air Liquide",
+  "source": "linkedin"
+ },
+ "42a88ed7d51d14598b5592663b6029c5": {
+  "first_seen": 1783940591.6390438,
+  "title": "CTO H/F",
+  "company": "Team.is",
+  "source": "linkedin"
+ },
+ "865fa413b2a5ad9d6a501dd58285133c": {
+  "first_seen": 1783940591.6390502,
+  "title": "Lead Software Engineer",
+  "company": "Bain & Company",
+  "source": "linkedin"
+ },
+ "5622f904bfe488ef9d0146bb0616797c": {
+  "first_seen": 1783940591.6390882,
+  "title": "Ingénieur Data & IA F/H",
+  "company": "Atos",
+  "source": "linkedin"
+ },
+ "db4d2c1ff146eeffc2cb163f76bb3b9a": {
+  "first_seen": 1783940591.6391084,
+  "title": "Senior MLOps Engineer (H/F)",
+  "company": "NTT DATA, Inc.",
+  "source": "linkedin"
+ },
+ "fb8c1f5f5c1b1d20849bf34b88c8dd92": {
+  "first_seen": 1783940591.639155,
+  "title": "Assistant.e Pôle Risques et Réglementations Data",
+  "company": "Comutitres",
+  "source": "linkedin"
+ },
+ "017af72e7f54b1e78e36c3068b38c4e1": {
+  "first_seen": 1783940591.6391914,
+  "title": "Assistant Product Owner, stage de fin d'études [Luxe-Retail] (H/F)",
+  "company": "Adone Conseil",
   "source": "linkedin"
  }
 }
