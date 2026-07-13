@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783962168.6534915,
+   "last_success": 1783963963.487828,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783962168.653498,
+   "last_success": 1783963963.4878345,
    "alerted": false
   }
  },
@@ -3919,6 +3919,36 @@
   "first_seen": 1783962168.6538818,
   "title": "CDI - Manager R&I AI & Algorithm - (H/F)",
   "company": "Danone",
+  "source": "linkedin"
+ },
+ "640ef67604735a4d44d069449149868b": {
+  "first_seen": 1783963963.488073,
+  "title": "Stage - 6 mois - Développeur Outil de Filtrage - Alertes de Production F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin"
+ },
+ "498d92cb19b89248970ecea9f6a6ca36": {
+  "first_seen": 1783963963.4881768,
+  "title": "Data Scientist Senior H/F",
+  "company": "OVENTI Consulting",
+  "source": "linkedin"
+ },
+ "0108cea867a4d15eae080bb1df291f11": {
+  "first_seen": 1783963963.488231,
+  "title": "Stagiaire chargé de missions SI - Data et Innovation",
+  "company": "AILANCY",
+  "source": "linkedin"
+ },
+ "1d069e7899d24f517d4c06730719abbb": {
+  "first_seen": 1783963963.4882674,
+  "title": "STAGIAIRE DATA ANALYST SUPPLY CHAIN F/H",
+  "company": "Fnac",
+  "source": "linkedin"
+ },
+ "b3e82be1ccf5bebf8e590fe772fa7e1a": {
+  "first_seen": 1783963963.4882915,
+  "title": "Data Engineer - Cloud GCP F/H",
+  "company": "Zenika",
   "source": "linkedin"
  }
 }
