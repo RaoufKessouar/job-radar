@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783927944.802279,
+   "last_success": 1783929791.031031,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783927944.802284,
+   "last_success": 1783929791.0310361,
    "alerted": false
   }
  },
@@ -2971,6 +2971,84 @@
   "first_seen": 1783926182.5260394,
   "title": "Ingénieur Supervision en alternance F/H",
   "company": "APIXIT",
+  "source": "linkedin"
+ },
+ "7f4e0ee6a677ffcd71bec2a78deb174b": {
+  "first_seen": 1783929791.0312417,
+  "title": "Data Analyst",
+  "company": "SoTalent",
+  "source": "linkedin"
+ },
+ "5c8483fa2af2dc8e3e6c4dd4f113289c": {
+  "first_seen": 1783929791.0315604,
+  "title": "ALTERNANCE 12 MOIS - Assistant RMGM (Revenue Margin Growth Management) H/F - SEPTEMBRE  2026",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin"
+ },
+ "4b344e06fa6d99d051976953e747abec": {
+  "first_seen": 1783929791.0315742,
+  "title": "Chargé de projets qualité engagements en alternance AMC – F/H",
+  "company": "Groupe Casino",
+  "source": "linkedin"
+ },
+ "bd97b248a9a64fec5279249cd5d51921": {
+  "first_seen": 1783929791.031582,
+  "title": "Assistant Comptabilité Fournisseur F/H - Alternance",
+  "company": "Christian Dior Couture",
+  "source": "linkedin"
+ },
+ "c1936332d9dff586be2d8da791f9d9b2": {
+  "first_seen": 1783929791.0315945,
+  "title": "Factoring & Trade Credit Insurance Apprentice (M/F)",
+  "company": "Interpath",
+  "source": "linkedin"
+ },
+ "14b3a0cc97839c6deb06c9e3b7998631": {
+  "first_seen": 1783929791.0316021,
+  "title": "Département Bancaire - Stage janvier/juin 2028",
+  "company": "Linklaters Paris",
+  "source": "linkedin"
+ },
+ "a2b868b7677f7ad2766ea51fd015aaa5": {
+  "first_seen": 1783929791.0316076,
+  "title": "Apprenti RH (H/F)",
+  "company": "Otis Elevator Co.",
+  "source": "linkedin"
+ },
+ "ede19ca417312f26383d90e44354a0c8": {
+  "first_seen": 1783929791.03169,
+  "title": "Stage - Talent Acquisition H/F",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "9a090915f18fe63d5823e0773d84a9a7": {
+  "first_seen": 1783929791.0317526,
+  "title": "Développeur Typescript / Node / API (h/f)",
+  "company": "emagine",
+  "source": "linkedin"
+ },
+ "f48c001ef29e3d9e2f343101203fd0b8": {
+  "first_seen": 1783929791.0317664,
+  "title": "Stage  - Gestionnaire d'Opérations Clientèle  - Actif (PERES) H/F",
+  "company": "CACEIS",
+  "source": "linkedin"
+ },
+ "3ca01c40176c38cb09e3c5ee97b19e4f": {
+  "first_seen": 1783929791.03178,
+  "title": "Junior Human Resources Generalist",
+  "company": "Reply",
+  "source": "linkedin"
+ },
+ "55503d2845c0da92d767cb8f01dc8a9d": {
+  "first_seen": 1783929791.0317903,
+  "title": "Officier soutien du supercalculateur pour l'IA de défense F/H",
+  "company": "Commissariat au Numérique de Défense - CND",
+  "source": "linkedin"
+ },
+ "d64db274236e362eef172b7866ee9038": {
+  "first_seen": 1783929791.0318167,
+  "title": "Ingénieur-e Système  Fonctions Avancées de Perception F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
   "source": "linkedin"
  }
 }
