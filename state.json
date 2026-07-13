@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783935178.798228,
+   "last_success": 1783936987.6863942,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783935178.7982333,
+   "last_success": 1783936987.6863997,
    "alerted": false
   }
  },
@@ -3127,6 +3127,84 @@
   "first_seen": 1783935178.7987115,
   "title": "Chargé de mission pilotage conformité",
   "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "d8b4e306aa8fc73981c3fe18f2db20c3": {
+  "first_seen": 1783936987.686791,
+  "title": "Vice President of Artificial Intelligence",
+  "company": "Aspire Life Sciences Search",
+  "source": "linkedin"
+ },
+ "6f03362670aa44d64dd693725160c819": {
+  "first_seen": 1783936987.6868055,
+  "title": "Delivery Lead Data RH - Débutant H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "20e2c9cad0ef40b230f67e05291fd8f2": {
+  "first_seen": 1783936987.6868277,
+  "title": "Consultant Junior eDiscovery - Forensic (H/F)",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "f9a4ccbdb0f8b0e361a06fbf6178158d": {
+  "first_seen": 1783936987.6868536,
+  "title": "Analyste Développeur SI Décisionnel Data N3 (F/H)",
+  "company": "BPCE Solutions informatiques",
+  "source": "linkedin"
+ },
+ "15a76aacf797b1447fe5b348656e660e": {
+  "first_seen": 1783936987.6868882,
+  "title": "Ingénieur d'études F/H",
+  "company": "Immobilière 3F",
+  "source": "linkedin"
+ },
+ "9985ca745d87997918f61dfa270ed2f8": {
+  "first_seen": 1783936987.6868968,
+  "title": "Stage – Office Manager Développement Souliers - Mode - Janvier (H/F/X)",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "08faeefbd181d9d6b0e3787a488fee0f": {
+  "first_seen": 1783936987.6869028,
+  "title": "Ingénieur Supervision F/H",
+  "company": "APIXIT",
+  "source": "linkedin"
+ },
+ "2515541988fcb9fb02418706a701a7f6": {
+  "first_seen": 1783936987.6869106,
+  "title": "Ingénieur(e) études – Applications Paiements et Services",
+  "company": "Boursorama",
+  "source": "linkedin"
+ },
+ "57eacc2fc7332541e8be29fd90108e58": {
+  "first_seen": 1783936987.6869206,
+  "title": "alternance 12 mois - Chargé de communication H/F - Grigny - Septembre 2026",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin"
+ },
+ "d8cdd630692651d22b5477f5b2679726": {
+  "first_seen": 1783936987.6869445,
+  "title": "Stage (6 mois) - Chef de projet développement - Paris (F/H)",
+  "company": "PHOTOSOL",
+  "source": "linkedin"
+ },
+ "4a9c05a03cd0e972b09beee368ebf384": {
+  "first_seen": 1783936987.686965,
+  "title": "Global Product Development Manager",
+  "company": "The Estée Lauder Companies Inc.",
+  "source": "linkedin"
+ },
+ "c7fcfd9e144ecf6d85508710e71164d8": {
+  "first_seen": 1783936987.6870036,
+  "title": "Stage de fin d’études - Consultant CX (Customer Experience) - F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "d3eb2b1ac1bc1b109e38517121d63c05": {
+  "first_seen": 1783936987.687046,
+  "title": "Ingénieur systèmes embarqués (H/F)",
+  "company": "ALTEN",
   "source": "linkedin"
  }
 }
