@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783899145.311922,
+   "last_success": 1783900970.8033628,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783899145.3119278,
+   "last_success": 1783900970.803369,
    "alerted": false
   }
  },
@@ -2713,6 +2713,24 @@
   "first_seen": 1783897383.7627044,
   "title": "[Stage] Ingénieur en Diagnostic des Infrastructures H/F",
   "company": "SOCOTEC",
+  "source": "linkedin"
+ },
+ "6639f60a196005b10be7af69d848c7e1": {
+  "first_seen": 1783900970.803724,
+  "title": "Directrice / Directeur de programme Data F/H",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "f5509f868dc445305b9570a9055aa5b5": {
+  "first_seen": 1783900970.8037443,
+  "title": "STAGE - Assistant(e) Retail Planner H/F",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "ea567b56287d43f3a2a0d51c7e3e8a2a": {
+  "first_seen": 1783900970.803777,
+  "title": "STAGE - Assistant(e) Sales Merchandiser Fashion Accessoires - Juillet 2026 (H/F/X)",
+  "company": "Chloé",
   "source": "linkedin"
  }
 }
