@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783918951.5553145,
+   "last_success": 1783920753.3899465,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783918951.5553203,
+   "last_success": 1783920753.3899527,
    "alerted": false
   }
  },
@@ -2815,6 +2815,36 @@
   "first_seen": 1783918951.5556343,
   "title": "Software Engineer - Internal AI Platform",
   "company": "GTMfund",
+  "source": "linkedin"
+ },
+ "a56715999822035ea7c021a635eb9cd9": {
+  "first_seen": 1783920753.3902252,
+  "title": "Ingénieur Développement Traitement d’Images – C++ / Python – H/F",
+  "company": "Kicklox",
+  "source": "linkedin"
+ },
+ "0474241577b98cbf9f6ee295f6501192": {
+  "first_seen": 1783920753.3903964,
+  "title": "Ingénieur étude faisceau électrique et électronique",
+  "company": "TerX",
+  "source": "linkedin"
+ },
+ "c2faf44f2bbac17f00e4c5404f851a90": {
+  "first_seen": 1783920753.3904133,
+  "title": "ingénieur informatique Validation Système SW – Automotive (F/H) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "0ce8cd611c97159cf7bb1d96f85c607b": {
+  "first_seen": 1783920753.3904335,
+  "title": "Ingénieur test validation électronique hardware",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "14463265d69c623616301090d6c5cb95": {
+  "first_seen": 1783920753.3904557,
+  "title": "Consultant(e) Technique PLM - 3DEXPERIENCE H/F",
+  "company": "Visiativ",
   "source": "linkedin"
  }
 }
