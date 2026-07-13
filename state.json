@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783913542.3974876,
+   "last_success": 1783915382.6178393,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783913542.3974946,
+   "last_success": 1783915382.6178455,
    "alerted": false
   }
  },
@@ -2767,6 +2767,24 @@
   "first_seen": 1783908156.0352182,
   "title": "Ingénieur en conception électronique",
   "company": "IT Link Group",
+  "source": "linkedin"
+ },
+ "d52bdf8c2ac045e61bd9507362dd6d53": {
+  "first_seen": 1783915382.6181905,
+  "title": "Apprenti-e Transformation Digitale F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "377cb3e4b9821fcc0f2a5a3faaa71872": {
+  "first_seen": 1783915382.6182842,
+  "title": "Consultant stagiaire ESG F/H",
+  "company": "KPMG France",
+  "source": "linkedin"
+ },
+ "09b40a377d08e58a5ad5144cf2a61f0c": {
+  "first_seen": 1783915382.618301,
+  "title": "French Speech Annotation & Evaluation Specialist (TTS Direction)",
+  "company": "Dyna.Ai",
   "source": "linkedin"
  }
 }
