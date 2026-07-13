@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783945949.5169983,
+   "last_success": 1783947774.7212648,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783945949.5170083,
+   "last_success": 1783947774.721271,
    "alerted": false
   }
  },
@@ -3427,6 +3427,24 @@
   "first_seen": 1783945949.5172179,
   "title": "ALTERNANCE -Assistant Data Scientist (H/F)",
   "company": "Hermès",
+  "source": "linkedin"
+ },
+ "47dc2441d086f57506606c6293c8dea8": {
+  "first_seen": 1783947774.721523,
+  "title": "Data Scientist Suptech (H/F)",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "9e58a17251cf2f25ec19f563bb479b0c": {
+  "first_seen": 1783947774.72157,
+  "title": "Data Analyst - Alternance",
+  "company": "Boursorama",
+  "source": "linkedin"
+ },
+ "fa10dc5811d27a0f2166097f811e204c": {
+  "first_seen": 1783947774.721621,
+  "title": "Senior AI/ML Engineer, France",
+  "company": "vector8",
   "source": "linkedin"
  }
 }
