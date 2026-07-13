@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783967560.9736528,
+   "last_success": 1783969386.8510284,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783967560.9736583,
+   "last_success": 1783969386.851036,
    "alerted": false
   }
  },
@@ -3985,6 +3985,60 @@
   "first_seen": 1783967560.9741192,
   "title": "Ingénieur Développeur Embarqué Linux Kernel & Bas Niveau – Ferroviaire H/F",
   "company": "Smile",
+  "source": "linkedin"
+ },
+ "e95b9dd7b64a7824477d317fa07ea953": {
+  "first_seen": 1783969386.851457,
+  "title": "AI Senior Engineer",
+  "company": "Tech Economy",
+  "source": "linkedin"
+ },
+ "5552c280d353acf0c79020dc3d9da248": {
+  "first_seen": 1783969386.8515174,
+  "title": "Alternance Septembre 2026 - Assistant AI & Automation Ops (H/F)",
+  "company": "Publicis Media",
+  "source": "linkedin"
+ },
+ "e730d1960e61e55eaba8f3ca39ec7303": {
+  "first_seen": 1783969386.8515248,
+  "title": "STAGE – R&I Product Intern – Septembre - (H/F)",
+  "company": "Danone",
+  "source": "linkedin"
+ },
+ "965db81b9ab4afdf8b494efc6e5694b4": {
+  "first_seen": 1783969386.8515532,
+  "title": "Social media & influence Manager (stage/alternance)",
+  "company": "Sezame",
+  "source": "linkedin"
+ },
+ "04f7d352b57c2d46095f41e4fd170567": {
+  "first_seen": 1783969386.8515654,
+  "title": "Alernance _ Pôle Risques et Réglementations Data",
+  "company": "Comutitres",
+  "source": "linkedin"
+ },
+ "c5fed26b83f21daffa21e86f11464dea": {
+  "first_seen": 1783969386.8515732,
+  "title": "Stage Product Designer UI UX AI Design System",
+  "company": "Alumnforce - Alumni Students Success Platform",
+  "source": "linkedin"
+ },
+ "8e7261b8e612623cf69db6cb900e9e88": {
+  "first_seen": 1783969386.8515828,
+  "title": "Marketing (stage)",
+  "company": "Webyn",
+  "source": "linkedin"
+ },
+ "655a862eeaaf65e1707376e31b5c3f6b": {
+  "first_seen": 1783969386.851609,
+  "title": "Ingénieur gestion de projet / PMO IT - Stage H/F",
+  "company": "Assystem",
+  "source": "linkedin"
+ },
+ "2ffb71369f150a5e4410c7d0e1912d08": {
+  "first_seen": 1783969386.851616,
+  "title": "Stage - Chargé·e de projets RSE (F/H)",
+  "company": "Prodigious Paris",
   "source": "linkedin"
  }
 }
