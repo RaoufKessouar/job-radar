@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783915382.6178393,
+   "last_success": 1783917152.3272533,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783915382.6178455,
+   "last_success": 1783917152.327259,
    "alerted": false
   }
  },
@@ -2785,6 +2785,24 @@
   "first_seen": 1783915382.618301,
   "title": "French Speech Annotation & Evaluation Specialist (TTS Direction)",
   "company": "Dyna.Ai",
+  "source": "linkedin"
+ },
+ "812b907f1457286f2a4e129caf8d098a": {
+  "first_seen": 1783917152.3276992,
+  "title": "consultant informatique Talend (h/f) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "c7a6e35697d00fef8c5607d412dd4cc4": {
+  "first_seen": 1783917152.3277678,
+  "title": "Ingénieur pilote validation Diag Auto (H/F)",
+  "company": "TerX",
+  "source": "linkedin"
+ },
+ "3bf2e0d6b3dafde04cfdac3df9e1235e": {
+  "first_seen": 1783917152.3277798,
+  "title": "Ingénieur Intégration, Vérification & Validation Logiciel (IVV)",
+  "company": "act digital EMEA - Alter Solutions",
   "source": "linkedin"
  }
 }
