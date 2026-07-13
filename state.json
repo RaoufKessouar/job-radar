@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1783949573.1439183,
+   "last_success": 1783951394.2060103,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1783949573.1439245,
+   "last_success": 1783951394.2060165,
    "alerted": false
   }
  },
@@ -3457,6 +3457,114 @@
   "first_seen": 1783949573.1443374,
   "title": "IA - Développeur augmenté (H/F)",
   "company": "TDF",
+  "source": "linkedin"
+ },
+ "891e34816e927ad5aae7043bb53065aa": {
+  "first_seen": 1783951394.2062795,
+  "title": "Lead Data Scientist",
+  "company": "URBAN LINKER",
+  "source": "linkedin"
+ },
+ "df06755d57b0ca147a18816ff65b552e": {
+  "first_seen": 1783951394.20632,
+  "title": "Data Analysis Internship",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "dd2ed54c631c32ea24e03a2c84791241": {
+  "first_seen": 1783951394.2063394,
+  "title": "Stage Gestion de Projet / Intelligence Artificielle – Septembre / Octobre 2026",
+  "company": "Rothschild & Co",
+  "source": "linkedin"
+ },
+ "d88898e4d8f8174af21cea913d73170e": {
+  "first_seen": 1783951394.2063613,
+  "title": "Fixed Income Quantitative Analyst F/M",
+  "company": "Candriam",
+  "source": "linkedin"
+ },
+ "41445a9721c9a2bf57a5f6f0b383f263": {
+  "first_seen": 1783951394.2063894,
+  "title": "Commercial & Analytics Projects - Mid-Level (H/F)",
+  "company": "Picnic Technologies",
+  "source": "linkedin"
+ },
+ "29a9cfcf0c4f04e5cd198d43a4f93442": {
+  "first_seen": 1783951394.2064054,
+  "title": "Member of Technical Staff, Agent Code",
+  "company": "Cohere",
+  "source": "linkedin"
+ },
+ "eb70b612a6648b0ea8cf91924aaaed85": {
+  "first_seen": 1783951394.2064137,
+  "title": "Data Analyst Power BI confirmé (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin"
+ },
+ "d28bb6f377e5762332ca2cad3bbdf93e": {
+  "first_seen": 1783951394.2064447,
+  "title": "STAGE - Global Business Controller (F/H)",
+  "company": "Lacoste",
+  "source": "linkedin"
+ },
+ "618c62961eba56eb40e07b11ff1c0f41": {
+  "first_seen": 1783951394.2064548,
+  "title": "Ingénieure / Ingénieur IA Agentique - Alternance",
+  "company": "Capgemini Engineering",
+  "source": "linkedin"
+ },
+ "36cb2d16c3964c5cfcd645017528f7d5": {
+  "first_seen": 1783951394.206464,
+  "title": "Reporting analyst - CDI - H/F",
+  "company": "Lagardère Travel Retail",
+  "source": "linkedin"
+ },
+ "9352f03ab7997cd225d1c15d0baf361a": {
+  "first_seen": 1783951394.2064888,
+  "title": "Analyste des Ventes (F/H)",
+  "company": "L'EQUIPE",
+  "source": "linkedin"
+ },
+ "664639e1bd8fa357aab1dc8143f00412": {
+  "first_seen": 1783951394.2065034,
+  "title": "Product Owner Data & IA expérimenté H/F",
+  "company": "NEXTON",
+  "source": "linkedin"
+ },
+ "32d8672aa03cc4e43caf823d036b0cfb": {
+  "first_seen": 1783951394.206527,
+  "title": "Data Manager VITRO",
+  "company": "Excelya",
+  "source": "linkedin"
+ },
+ "79c5526ca6c1bc69417b9569f8adee5c": {
+  "first_seen": 1783951394.206549,
+  "title": "Chef de Produit Junior, CDI, H/F",
+  "company": "PepsiCo",
+  "source": "linkedin"
+ },
+ "4bf51f5b01b2907ef5147795e462cf66": {
+  "first_seen": 1783951394.206579,
+  "title": "CISO O+O (Online + Offline)",
+  "company": "L'Oréal",
+  "source": "linkedin"
+ },
+ "c55f2ba9f77ee616c6e7081ecb51fb6c": {
+  "first_seen": 1783951394.2065861,
+  "title": "Développeur - (F/H)",
+  "company": "Goyard",
+  "source": "linkedin"
+ },
+ "0423947c8a09c5d31bfee4e40f50b9f6": {
+  "first_seen": 1783951394.2066364,
+  "title": "Stage - Bac+4/+5 - Implémentation d'optimisations pour le générateur de code C++ de Modane - H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "808153dfe67bcd9263c31fb99d27c78e": {
+  "first_seen": 1783951394.2066488,
+  "title": "Stage - Bac+4/+5 - Wave Function Collapse et reconstruction d'interfaces discrètes - H/F",
+  "company": "CEA",
   "source": "linkedin"
  }
 }
