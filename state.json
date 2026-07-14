@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784037763.5559723,
+   "last_success": 1784039575.2961392,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784037763.555978,
+   "last_success": 1784039575.296145,
    "alerted": false
   }
  },
@@ -4645,6 +4645,78 @@
   "first_seen": 1784035983.1410053,
   "title": "Forward Deployed Engineer, GTM, France",
   "company": "Fresh Ventures",
+  "source": "linkedin"
+ },
+ "5f39e8e902e8f5bfa7cda4f32ab72ae1": {
+  "first_seen": 1784039575.2963645,
+  "title": "Stage Data Scientist - Risques climatiques - Septembre 2026",
+  "company": "Deepki",
+  "source": "linkedin"
+ },
+ "33b9a9fd09f72ef3739b33d01bcf3f5a": {
+  "first_seen": 1784039575.29654,
+  "title": "STAGE - Assistant Performance Achats Directs (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "5458b65a513fbbde28b2fd1e2504a30a": {
+  "first_seen": 1784039575.2966814,
+  "title": "AI Implementation Manager (Paris then NY in VIE)",
+  "company": "Bravi (YC F25)",
+  "source": "linkedin"
+ },
+ "f2b0dce57f129b23c3a1f13202a3fcea": {
+  "first_seen": 1784039575.2967057,
+  "title": "Associate Solution Engineer",
+  "company": "Snowflake",
+  "source": "linkedin"
+ },
+ "d4698c22f2f689deba941165a23a670e": {
+  "first_seen": 1784039575.2967367,
+  "title": "Stage - Bac+4/+5 - MCTS appliqué à la classification topologie vers géométrie pour le maillage - H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "ec9610fbaf843af6a3c36534062feb11": {
+  "first_seen": 1784039575.2967837,
+  "title": "Apprentissage : Amélioration de la qualité. Relation Client - Europe",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "da9c78bf2fd767321cb9a3eb6e7d53f1": {
+  "first_seen": 1784039575.2967923,
+  "title": "Assistant(e) Chef(fe) de projets innovation - R&D",
+  "company": "Groupe Delineo",
+  "source": "linkedin"
+ },
+ "18953146a588b2542abb2a3cccc67e99": {
+  "first_seen": 1784039575.2967994,
+  "title": "Consultant Junior - Strategy Consulting - H/F",
+  "company": "Talan",
+  "source": "linkedin"
+ },
+ "8c2c051902e2132812c3597148f1f116": {
+  "first_seen": 1784039575.2968092,
+  "title": "Responsable Qualité & Innovation Service Client (H/F)",
+  "company": "vente-unique.com",
+  "source": "linkedin"
+ },
+ "ab5ac8d2a2aff72c121ef2c7f7ffdf13": {
+  "first_seen": 1784039575.2968206,
+  "title": "Stage - Consultant(e) junior / Analyste - Stratégie & Innovation",
+  "company": "IMPULSE PARTNERS - A FAST LANE FOR INNOVATION",
+  "source": "linkedin"
+ },
+ "1015a2ee43856f2a21f14965236968d3": {
+  "first_seen": 1784039575.296839,
+  "title": "Campus - Stage - Assistant(e) Junior Chef de Projet SEO/GEO & Web Analytics - Digital Performance - (6 mois, France)",
+  "company": "American Express",
+  "source": "linkedin"
+ },
+ "67fad9848a0cd7d20a04d4500aebc40d": {
+  "first_seen": 1784039575.2968535,
+  "title": "Ingénieur(e) / Consultant(e) Junior – Stage Fin d'Études 6 mois - Innovation & Stratégie",
+  "company": "IMPULSE PARTNERS - A FAST LANE FOR INNOVATION",
   "source": "linkedin"
  }
 }
