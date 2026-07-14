@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784034172.019081,
+   "last_success": 1784035983.140188,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784034172.0190876,
+   "last_success": 1784035983.140194,
    "alerted": false
   }
  },
@@ -4543,6 +4543,108 @@
   "first_seen": 1784031286.081873,
   "title": "Apprentissage par réseaux de neurones à valeurs complexes pour la résolution de problèmes inverses en diffraction des on",
   "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin"
+ },
+ "e8de12249f3e128b5b71f05b6fde0e55": {
+  "first_seen": 1784035983.1405106,
+  "title": "Stage - HR Data Analyst H/F",
+  "company": "Richemont",
+  "source": "linkedin"
+ },
+ "ae1535414d44727bd99b3141a2d69670": {
+  "first_seen": 1784035983.14055,
+  "title": "Data Analysis Internship",
+  "company": "Gulf Associates",
+  "source": "linkedin"
+ },
+ "57d643a0353636f73c3b72f02fb687e9": {
+  "first_seen": 1784035983.140559,
+  "title": "Stagiaire AIOps - IBM Client Innovation Center - H/F",
+  "company": "IBM",
+  "source": "linkedin"
+ },
+ "5d09b430ac6c4ed1df3002d9e9f99c71": {
+  "first_seen": 1784035983.1406598,
+  "title": "Stage Développeur Backend Crawler",
+  "company": "ChapsVision",
+  "source": "linkedin"
+ },
+ "6a805b1b3a718342f0553da7b26a6603": {
+  "first_seen": 1784035983.140744,
+  "title": "Ingénieur développement électronique embarqué - F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "a0e614e6f0ea8f7d98fed174f0880ac3": {
+  "first_seen": 1784035983.14092,
+  "title": "102897/testeur informatique Valideur IoT Vehicule connectes (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "1ec3a9b32fb0b4473ebba1ed05df1f23": {
+  "first_seen": 1784035983.1409311,
+  "title": "Stage– Assistant(e) Employee Program Manager – IT EUROPE - Octobre 2026 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "5d0692a9587398d2a9344624674d5280": {
+  "first_seen": 1784035983.1409378,
+  "title": "IT Defense Lab France Engineer",
+  "company": "Nokia",
+  "source": "linkedin"
+ },
+ "49d2984411d25adfcc671d2ef9504d96": {
+  "first_seen": 1784035983.140947,
+  "title": "Assistant(e) Ingénieur(e) R&D - Développement Produits",
+  "company": "Groupe Delineo",
+  "source": "linkedin"
+ },
+ "40b2d543af7f07ef1427028d966dafd5": {
+  "first_seen": 1784035983.1409533,
+  "title": "Software Engineer - Banking",
+  "company": "INFINIT",
+  "source": "linkedin"
+ },
+ "a9f7cd7e648f2f1a612b7c10aef6b61c": {
+  "first_seen": 1784035983.1409595,
+  "title": "Data Project Associate - Stage",
+  "company": "DiliTrust",
+  "source": "linkedin"
+ },
+ "d3844b1800c5b33ad290fed89a8458c9": {
+  "first_seen": 1784035983.1409655,
+  "title": "Staff Platform Engineer",
+  "company": "Collibra",
+  "source": "linkedin"
+ },
+ "7b315dde64f44bf68dbe48fe495532a2": {
+  "first_seen": 1784035983.1409724,
+  "title": "Tech lead / Expert technique - Paris F/H",
+  "company": "Zenika",
+  "source": "linkedin"
+ },
+ "e122f118fb26a4e9354b20633078e64f": {
+  "first_seen": 1784035983.1409855,
+  "title": "Développeur Drupal H/F",
+  "company": "Klee Group",
+  "source": "linkedin"
+ },
+ "6755a379b251abaf8becb790d0e2b438": {
+  "first_seen": 1784035983.1409924,
+  "title": "CDD - Technicien Homologation Packaging (H/F)",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "2852ed1a33aa980d406e8b130f9d7034": {
+  "first_seen": 1784035983.140998,
+  "title": "PIC Design Engineer",
+  "company": "Quandela",
+  "source": "linkedin"
+ },
+ "6eda911c0509298538367966a1fb6860": {
+  "first_seen": 1784035983.1410053,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Fresh Ventures",
   "source": "linkedin"
  }
 }
