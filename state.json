@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784021591.268614,
+   "last_success": 1784023399.5976346,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784021591.2686203,
+   "last_success": 1784023399.597641,
    "alerted": false
   }
  },
@@ -4399,6 +4399,30 @@
   "first_seen": 1784021591.269053,
   "title": "Data Analyst Supply Chain",
   "company": "Leonar",
+  "source": "linkedin"
+ },
+ "02e3907c760b80f0490815649fb41754": {
+  "first_seen": 1784023399.5982718,
+  "title": "Product Owner / Chef de Produit IA (H/F)",
+  "company": "ALTEN",
+  "source": "linkedin"
+ },
+ "c33c8a5080090429ca7acd130b860053": {
+  "first_seen": 1784023399.598309,
+  "title": "Senior Manager Transformation IA [Luxe-Retail] (H/F)",
+  "company": "Adone Conseil",
+  "source": "linkedin"
+ },
+ "797ad2f6f2f9ffa95faf0e08078f9291": {
+  "first_seen": 1784023399.5983217,
+  "title": "Stage en Droit du numérique et Données Personnelles - Janvier 2027 - F/H",
+  "company": "PwC France",
+  "source": "linkedin"
+ },
+ "6fe47cc44bde9061f489dd0e59faf61b": {
+  "first_seen": 1784023399.5983405,
+  "title": "un(e) Développeur(se) Python / PySpark confirmé(e)",
+  "company": "AUDEAMUS",
   "source": "linkedin"
  }
 }
