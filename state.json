@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784028762.658502,
+   "last_success": 1784030582.4714513,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784028762.6585088,
+   "last_success": 1784030582.4714577,
    "alerted": false
   }
  },
@@ -4489,6 +4489,54 @@
   "first_seen": 1784026985.6312284,
   "title": "Technicien installations internationales et support à distance (H/F)",
   "company": "ACRELEC",
+  "source": "linkedin"
+ },
+ "6740006eed518d45d855a729d4fbebee": {
+  "first_seen": 1784030582.4717221,
+  "title": "Stage - Bac+4/+5 - Implémentation et optimisation du calcul de volume d’intersection - H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "5520672f937345bb0252b70e71771ef3": {
+  "first_seen": 1784030582.4717426,
+  "title": "Stage - Bac+4/+5 - Etude des configurations IOVEC sur les collectives MPI - H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "e433349818c881ecb8488c09c691522a": {
+  "first_seen": 1784030582.471786,
+  "title": "Data analyst",
+  "company": "FRANFINANCE",
+  "source": "linkedin"
+ },
+ "8a1b4bcaf0fb9d14c96b47abc7394c0c": {
+  "first_seen": 1784030582.4718494,
+  "title": "Data manager expert - H/F",
+  "company": "Inserm Paris / Île-de-France",
+  "source": "linkedin"
+ },
+ "4b3742194a5d08b23e44c476744dc252": {
+  "first_seen": 1784030582.4718661,
+  "title": "AI Engineer",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin"
+ },
+ "607477b2492ad8e6afda1a8e66555673": {
+  "first_seen": 1784030582.4719667,
+  "title": "Ingénieur(e) R&D en Graph Neural Networks",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin"
+ },
+ "7e26d4ec99a3b927f1ab40b015b61dbf": {
+  "first_seen": 1784030582.4720125,
+  "title": "Manager - Data & IA - F/H",
+  "company": "Yélé Consulting",
+  "source": "linkedin"
+ },
+ "bd6de2cac95fa63c00bb8e442307b448": {
+  "first_seen": 1784030582.4720182,
+  "title": "Data Scientist - Data Lab",
+  "company": "Societe Generale",
   "source": "linkedin"
  }
 }
