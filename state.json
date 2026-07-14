@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784046750.2980902,
+   "last_success": 1784048577.5613265,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784046750.298096,
+   "last_success": 1784048577.5613327,
    "alerted": false
   }
  },
@@ -4747,6 +4747,72 @@
   "first_seen": 1784043158.5228617,
   "title": "Ingénieur Développement Logiciel F/H",
   "company": "Thales",
+  "source": "linkedin"
+ },
+ "30737ba5ffcbb69b115eb9221a394150": {
+  "first_seen": 1784048577.5615852,
+  "title": "Data Scientist (NLP & Graph AI) (French Speaking)",
+  "company": "SBS",
+  "source": "linkedin"
+ },
+ "35f3029c8720cfc8659a02af58a0e53a": {
+  "first_seen": 1784048577.561628,
+  "title": "Data Scientist Senior H/F",
+  "company": "OVENTI",
+  "source": "linkedin"
+ },
+ "a89d404ee8d13dc7f9894cd91ebfb56a": {
+  "first_seen": 1784048577.5618193,
+  "title": "Analytics Coordinator",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "eeb83c69f24fbecc62517384ca4875b2": {
+  "first_seen": 1784048577.5618312,
+  "title": "Harmonisation des reportings clients",
+  "company": "Societe Generale Securities Services - SGSS",
+  "source": "linkedin"
+ },
+ "4227cbbb221c3a02300e1b13efde0f07": {
+  "first_seen": 1784048577.5618489,
+  "title": "Revenue Management Analyst - Paris, FR",
+  "company": "Flight Centre Travel Group",
+  "source": "linkedin"
+ },
+ "91b01194a2d8d66c179cd4cc7422ef21": {
+  "first_seen": 1784048577.561859,
+  "title": "Assistant Communication informatique et Adoption (UX / UI) F/H - Stage",
+  "company": "Christian Dior Couture",
+  "source": "linkedin"
+ },
+ "7702e3116b3aa4661ea489a8322e8ce4": {
+  "first_seen": 1784048577.5618787,
+  "title": "Equity Quant Senior H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "799567d171798171e4041fb1bb9c76b6": {
+  "first_seen": 1784048577.5618856,
+  "title": "Data Engineer - Migration NiFi (H/F)",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "4f8afddf1ae1bb03e9d197b101f3dc30": {
+  "first_seen": 1784048577.5618913,
+  "title": "Software Engineer Intern",
+  "company": "TwoWay",
+  "source": "linkedin"
+ },
+ "5d2299cb6f275f69b92a1d3810ca7963": {
+  "first_seen": 1784048577.5618992,
+  "title": "Stage - Contrôleur financier - Septembre 2026",
+  "company": "AXA",
+  "source": "linkedin"
+ },
+ "6c52de07c16e1e4c6588e218e502a59c": {
+  "first_seen": 1784048577.5619655,
+  "title": "Tech Lead AI/ML (F/H/X)",
+  "company": "Epsilon France",
   "source": "linkedin"
  }
 }
