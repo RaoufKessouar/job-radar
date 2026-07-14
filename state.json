@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784014368.6097753,
+   "last_success": 1784016184.7554362,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784014368.6097813,
+   "last_success": 1784016184.7554424,
    "alerted": false
   }
  },
@@ -4315,6 +4315,42 @@
   "first_seen": 1784014368.610345,
   "title": "Ingénieur Systèmes \"prompt engineering\" (F/H)",
   "company": "Thales",
+  "source": "linkedin"
+ },
+ "9f7e5751973d046707b71fb4b83c5fa2": {
+  "first_seen": 1784016184.755692,
+  "title": "Consultant Data Scientist/AI Engineer",
+  "company": "Leonar",
+  "source": "linkedin"
+ },
+ "b1a001f47de502b99580cb0bb2c2c2bc": {
+  "first_seen": 1784016184.7558348,
+  "title": "Analytics Engineer",
+  "company": "Pluxee",
+  "source": "linkedin"
+ },
+ "3e98d40cee0a564f0d6af6f26b538292": {
+  "first_seen": 1784016184.7558494,
+  "title": "Data Analyst (Front End App Developer)",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "5d20db53f0f11ae20a64850eb2f6393f": {
+  "first_seen": 1784016184.7559783,
+  "title": "Stage Analyste Reporting Financier au sein d'HSBC Global ASSET MANAGEMENT (f/m/d)",
+  "company": "HSBC",
+  "source": "linkedin"
+ },
+ "c357a66b58b0826d255425161456bd1b": {
+  "first_seen": 1784016184.756009,
+  "title": "AI Lead Engineer",
+  "company": "Leonar",
+  "source": "linkedin"
+ },
+ "f636cadc833669474eb51cf452369577": {
+  "first_seen": 1784016184.7560577,
+  "title": "Software Engineer",
+  "company": "nami",
   "source": "linkedin"
  }
 }
