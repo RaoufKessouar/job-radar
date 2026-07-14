@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784012579.5987842,
+   "last_success": 1784014368.6097753,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784012579.59879,
+   "last_success": 1784014368.6097813,
    "alerted": false
   }
  },
@@ -4291,6 +4291,30 @@
   "first_seen": 1784012579.5992174,
   "title": "Apprentissage  IA/LLM pour la Transformation de l'Ingénierie Navigation F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
   "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "7886617c1c44b5782539c421015503aa": {
+  "first_seen": 1784014368.6101594,
+  "title": "Bioinformatics Scientist",
+  "company": "That Startup Job",
+  "source": "linkedin"
+ },
+ "5049dffaa8febe077921c22fdc0bc2ed": {
+  "first_seen": 1784014368.610309,
+  "title": "Senior Manager Data & IA - H/F",
+  "company": "Yélé Consulting",
+  "source": "linkedin"
+ },
+ "fd1c2ac1abc66dc6b9f47b2a7a868814": {
+  "first_seen": 1784014368.6103299,
+  "title": "Architecte Google Cloud Platform & Agentic AI",
+  "company": "Devoteam",
+  "source": "linkedin"
+ },
+ "9758b06061da400a3807700b24d77270": {
+  "first_seen": 1784014368.610345,
+  "title": "Ingénieur Systèmes \"prompt engineering\" (F/H)",
+  "company": "Thales",
   "source": "linkedin"
  }
 }
