@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784049402.7938197,
+   "last_success": 1784050420.2543108,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784049402.7938256,
+   "last_success": 1784050420.2543168,
    "alerted": false
   }
  },
@@ -4813,6 +4813,228 @@
   "first_seen": 1784048577.5619655,
   "title": "Tech Lead AI/ML (F/H/X)",
   "company": "Epsilon France",
+  "source": "linkedin"
+ },
+ "c4449d4dec8b6568da69d36d92429092": {
+  "first_seen": 1784050420.2547216,
+  "title": "Junior Data Quality Analyst",
+  "company": "Gulf Associates",
+  "source": "linkedin"
+ },
+ "d5544f1d8dc702dd51ae37b09201cfef": {
+  "first_seen": 1784050420.254735,
+  "title": "Contrôleuse/Contrôleur (F/H) - Validation des Modèles - Contrôleur Quantitatif",
+  "company": "Crédit Mutuel",
+  "source": "linkedin"
+ },
+ "02423e9c048c361f7e269b687334c958": {
+  "first_seen": 1784050420.2547624,
+  "title": "ML Engineer / DevOps (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "e8ccb079cdaa78e1bb788fd8bc7dd10e": {
+  "first_seen": 1784050420.2547922,
+  "title": "ALTERNANCE - Ingénieur Amélioration continue – F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "ed44549683fc3660a42beb00daf5fc92": {
+  "first_seen": 1784050420.2548003,
+  "title": "Alternance - Attribution de Performance (f/m/d)",
+  "company": "HSBC",
+  "source": "linkedin"
+ },
+ "1e2e668c13d9d7cbcaa31b7fb5e3b4fc": {
+  "first_seen": 1784050420.2548285,
+  "title": "Assistant stratégie Système d'Information",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "befda8cb3ee0ef37511be0f125ddaeba": {
+  "first_seen": 1784050420.254838,
+  "title": "Guest Researcher, F/M/NB, Trilingual-French, English, Spanish, Fixed-T",
+  "company": "Disneyland Paris",
+  "source": "linkedin"
+ },
+ "3fd41525b0011318278d6ba791e08441": {
+  "first_seen": 1784050420.2548542,
+  "title": "ALTERNANCE 12 mois - Assistant Microbiologie H/F - Grigny - SEPT 2026",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin"
+ },
+ "0f6cc03299bcafa58e48898cfcc29004": {
+  "first_seen": 1784050420.2548716,
+  "title": "Stagiaire - Valuation & Modeling - Neuilly-sur-Seine (H/F)",
+  "company": "Grant-Thornton France",
+  "source": "linkedin"
+ },
+ "33972280240ff20c455416eb838629ce": {
+  "first_seen": 1784050420.254879,
+  "title": "People Analytics & Social Reporting Manager",
+  "company": "Nexans",
+  "source": "linkedin"
+ },
+ "bc1abb070ce2d4d2950d5c41d93bf8a8": {
+  "first_seen": 1784050420.2548866,
+  "title": "STAGE - Assistant Supply Chain - ASAP (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "31b8f7de184b42b9b443ed68c0c41bd6": {
+  "first_seen": 1784050420.2548966,
+  "title": "Chargé de Projet Digital en alternance relevanC – F/H",
+  "company": "Groupe Casino",
+  "source": "linkedin"
+ },
+ "ea491efc54080218b863bc6c6eb1fcad": {
+  "first_seen": 1784050420.2549055,
+  "title": "Stagiaire - Planification et analyse financière Corporate",
+  "company": "Lynxeo",
+  "source": "linkedin"
+ },
+ "4e5669d5691497083ecc4606eef429d7": {
+  "first_seen": 1784050420.2549121,
+  "title": "Tech Lead Data - H/F",
+  "company": "Manutan Group",
+  "source": "linkedin"
+ },
+ "6286153b939c70dd5b1c143483a24b6f": {
+  "first_seen": 1784050420.2549207,
+  "title": "Alternance - Assistant(e) Business Planner End of Life (F/H)",
+  "company": "GIVENCHY",
+  "source": "linkedin"
+ },
+ "d5ce5293373af50248c69360a2bd69a3": {
+  "first_seen": 1784050420.2549279,
+  "title": "Stagiaire - Evenementiel (F/H/X)",
+  "company": "Groupe SeLoger",
+  "source": "linkedin"
+ },
+ "ed87a5f8f44040086d34dccaebb439ac": {
+  "first_seen": 1784050420.254934,
+  "title": "Growth Marketing Intern",
+  "company": "OCUS",
+  "source": "linkedin"
+ },
+ "34e7a498bd1a807b9a3aefd0bc5b9886": {
+  "first_seen": 1784050420.2549412,
+  "title": "Associate, France",
+  "company": "Boston Consulting Group (BCG)",
+  "source": "linkedin"
+ },
+ "2ae4a55c8384a27b71973168758ceae0": {
+  "first_seen": 1784050420.2550285,
+  "title": "Stage - Gestion de projets - Relations artistes / labels",
+  "company": "Diggers Factory",
+  "source": "linkedin"
+ },
+ "ee0ff70965bc319a2aeb5674c62ba1ab": {
+  "first_seen": 1784050420.2551606,
+  "title": "Ingénieur de recherche en Bio-informatique - H/F",
+  "company": "Inserm Paris / Île-de-France",
+  "source": "linkedin"
+ },
+ "36f0454ac524f02beb4b119460e9cbaa": {
+  "first_seen": 1784050420.2552114,
+  "title": "[STAGE] Assistant Consultant RP - H/F",
+  "company": "Zeno Group France",
+  "source": "linkedin"
+ },
+ "66208a31f67728d21df583e9e15d3ddf": {
+  "first_seen": 1784050420.255219,
+  "title": "Stage - Merger & Acquisition - H/F",
+  "company": "Schneider Electric",
+  "source": "linkedin"
+ },
+ "ba3888f9e64de1816fcacb1829b6a995": {
+  "first_seen": 1784050420.2552273,
+  "title": "[STAGE] Assistant Consultant RP - H/F",
+  "company": "Zeno Group",
+  "source": "linkedin"
+ },
+ "0c68274c3115a2fff5efeaddcdca73b2": {
+  "first_seen": 1784050420.2552361,
+  "title": "Stage - Monteur (H/F)",
+  "company": "Le Média Positif 🍀",
+  "source": "linkedin"
+ },
+ "9e90a372f4cc57a76f796d29105b0d7d": {
+  "first_seen": 1784050420.2552445,
+  "title": "Stage - Design 3D, Visualisation & Réalité Virtuelle (VR/XR)",
+  "company": "SEGULA Technologies",
+  "source": "linkedin"
+ },
+ "a4c31aaba6940307b8aa7d7285517e0c": {
+  "first_seen": 1784050420.2552538,
+  "title": "INTERNSHIP - EU Innovation & Productivity Project Management Intern for Dairy  - September 2026 (W/M)",
+  "company": "Danone",
+  "source": "linkedin"
+ },
+ "803abe559c3b06d98a1ed130d72e7601": {
+  "first_seen": 1784050420.2552612,
+  "title": "Stage - Chef de projet qualité H/F",
+  "company": "Devoteam",
+  "source": "linkedin"
+ },
+ "b32b6ab25983280c0a35112534503ad0": {
+  "first_seen": 1784050420.255276,
+  "title": "Stage - Assistant(e) Chef de Produit 1664 - (F/H)",
+  "company": "Brasserie Kronenbourg",
+  "source": "linkedin"
+ },
+ "cc83e910a9972ab441ca649ecde9335c": {
+  "first_seen": 1784050420.2552836,
+  "title": "STAGE - Assistant Consultant Stratégie Communication H/F",
+  "company": "dentsu",
+  "source": "linkedin"
+ },
+ "8ed0e5b58a9ee06508dbc5b1cd112195": {
+  "first_seen": 1784050420.255297,
+  "title": "Stage - Digital Assistant Designer Brands H/F - Septembre 2026",
+  "company": "Shiseido",
+  "source": "linkedin"
+ },
+ "6824ff3ae954aebe8bcd6c8a581d1593": {
+  "first_seen": 1784050420.2553165,
+  "title": "Engineering Manager - AI platform",
+  "company": "DiliTrust",
+  "source": "linkedin"
+ },
+ "6792c725a8c61c6447b6bd1825a2ee3d": {
+  "first_seen": 1784050420.2553232,
+  "title": "Stagiaire RH - Soho House Paris",
+  "company": "Soho House & Co",
+  "source": "linkedin"
+ },
+ "ac12d343e0b658356dfa5b7cca9eb8d5": {
+  "first_seen": 1784050420.2553277,
+  "title": "AML Apprentice",
+  "company": "Swan",
+  "source": "linkedin"
+ },
+ "23c35abdc1703abc45d6d40f6f8d33c3": {
+  "first_seen": 1784050420.255333,
+  "title": "Founders Associate (Internship)",
+  "company": "Raison",
+  "source": "linkedin"
+ },
+ "b40753a2194f001dfb2b8e247f396ebe": {
+  "first_seen": 1784050420.2553778,
+  "title": "Ingénieur OS Temps Réel & Cybersécurité F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "41151eca26027df5c64ee06a4ab5a6ef": {
+  "first_seen": 1784050420.2554138,
+  "title": "Technicien·ne Intégration & Vérification Electronique F/H",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "62e6099abf24b0055ed35425c2ed83b6": {
+  "first_seen": 1784050420.2554297,
+  "title": "PLC Engineer",
+  "company": "Autoliv",
   "source": "linkedin"
  }
 }
