@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784030582.4714513,
+   "last_success": 1784031286.081366,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784030582.4714577,
+   "last_success": 1784031286.081371,
    "alerted": false
   }
  },
@@ -4537,6 +4537,12 @@
   "first_seen": 1784030582.4720182,
   "title": "Data Scientist - Data Lab",
   "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "1cae3514341cfff9ab6c717406d5c728": {
+  "first_seen": 1784031286.081873,
+  "title": "Apprentissage par réseaux de neurones à valeurs complexes pour la résolution de problèmes inverses en diffraction des on",
+  "company": "Institut DataIA Paris-Saclay",
   "source": "linkedin"
  }
 }
