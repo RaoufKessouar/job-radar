@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784052158.271801,
+   "last_success": 1784053993.3564718,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784052158.271807,
+   "last_success": 1784053993.3564782,
    "alerted": false
   }
  },
@@ -5035,6 +5035,48 @@
   "first_seen": 1784050420.2554297,
   "title": "PLC Engineer",
   "company": "Autoliv",
+  "source": "linkedin"
+ },
+ "2503fcbc5f412e4415f12340bfcafec3": {
+  "first_seen": 1784053993.3569617,
+  "title": "Alternance - Assistant.e Opérations et Logistique EMEA (F/H) - Septembre 2026",
+  "company": "Louis Vuitton",
+  "source": "linkedin"
+ },
+ "e5cbdad0c784ff57901284a7390af66f": {
+  "first_seen": 1784053993.3570302,
+  "title": "[STAGE]  Digitalization of Warehouse Management",
+  "company": "Air Liquide",
+  "source": "linkedin"
+ },
+ "d540493d850ab2bb4a127228af9e94c5": {
+  "first_seen": 1784053993.3570426,
+  "title": "Stage – Conseil Secteur Public / Politiques publiques",
+  "company": "IMPULSE PARTNERS - A FAST LANE FOR INNOVATION",
+  "source": "linkedin"
+ },
+ "055d81db45ce36503a8ea61a081d0549": {
+  "first_seen": 1784053993.357052,
+  "title": "Guest Researcher, F/M/NB, Trilingual-French, English, Dutch, Fixed-Ter",
+  "company": "Disneyland Paris",
+  "source": "linkedin"
+ },
+ "e9c34d1b528ec07d7ff90c97a96711db": {
+  "first_seen": 1784053993.3570902,
+  "title": "Technicien Hotline (F/H)",
+  "company": "Carrefour",
+  "source": "linkedin"
+ },
+ "3934022476144004c9fe9797d373a709": {
+  "first_seen": 1784053993.3571024,
+  "title": "Consultant IngÃ©nieur Data Cloud â€“ Cloudera, Databricks H/F",
+  "company": "ami Consulting",
+  "source": "linkedin"
+ },
+ "854be05c4448afdfcf6e00a6d2d5bc00": {
+  "first_seen": 1784053993.357111,
+  "title": "Stage - Sales Support Analyst – Banking Sector",
+  "company": "AXA XL",
   "source": "linkedin"
  }
 }
