@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784055749.0195892,
+   "last_success": 1784057570.067803,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784055749.019595,
+   "last_success": 1784057570.0678089,
    "alerted": false
   }
  },
@@ -5077,6 +5077,60 @@
   "first_seen": 1784053993.357111,
   "title": "Stage - Sales Support Analyst – Banking Sector",
   "company": "AXA XL",
+  "source": "linkedin"
+ },
+ "b0238ce91d098c490d4057d9ce79355f": {
+  "first_seen": 1784057570.0681608,
+  "title": "Client Insights Data Analyst (F/H)",
+  "company": "Louis Vuitton",
+  "source": "linkedin"
+ },
+ "34efa2bca8ae76b40d7781b424ce7fb0": {
+  "first_seen": 1784057570.0682518,
+  "title": "AI Senior Product Manager",
+  "company": "bsport",
+  "source": "linkedin"
+ },
+ "060b81319972c5fced48834ae08f5225": {
+  "first_seen": 1784057570.0682986,
+  "title": "Senior Generalist Programmer (H/F/NB)",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin"
+ },
+ "d64b772551cd05d679f6326fe7a55ce9": {
+  "first_seen": 1784057570.0683103,
+  "title": "Professional Services Consultant, France",
+  "company": "Notion",
+  "source": "linkedin"
+ },
+ "7a09f9b0a4be4bea453762f319b55c37": {
+  "first_seen": 1784057570.0683157,
+  "title": "Tech Lead - Platform Squad",
+  "company": "Pelico",
+  "source": "linkedin"
+ },
+ "c560c6910065f581405340ab312e319c": {
+  "first_seen": 1784057570.0683308,
+  "title": "Solutions Engineer, Enterprise, France",
+  "company": "Fresh Ventures",
+  "source": "linkedin"
+ },
+ "d385baabcffb499b826de675aa80d8f5": {
+  "first_seen": 1784057570.06834,
+  "title": "Senior Product Manager, Scibids AI",
+  "company": "DoubleVerify",
+  "source": "linkedin"
+ },
+ "1cb02f66747cf533f659c0ff49999827": {
+  "first_seen": 1784057570.0683475,
+  "title": "Technical Consultant – Expert Data – Paris",
+  "company": "NeoXam",
+  "source": "linkedin"
+ },
+ "bfd3e7ae855d23a883d1117142cd3543": {
+  "first_seen": 1784057570.068353,
+  "title": "Startup Partnerships - France & Southern Europe",
+  "company": "Anthropic",
   "source": "linkedin"
  }
 }
