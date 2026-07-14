@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784005373.700913,
+   "last_success": 1784007192.2450109,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784005373.7009187,
+   "last_success": 1784007192.2450168,
    "alerted": false
   }
  },
@@ -4141,6 +4141,96 @@
   "first_seen": 1784005373.701348,
   "title": "Autonomous Drones Engineer Internship",
   "company": "HyLight",
+  "source": "linkedin"
+ },
+ "9b259bc903bf4d6ce1486ea85710d173": {
+  "first_seen": 1784007192.2453752,
+  "title": "Alternance intégration de l'IA générative dans les tests F/H",
+  "company": "Fondation Bouygues Telecom",
+  "source": "linkedin"
+ },
+ "73d78ac9d5089a7f7a8346f7b1a8a7f1": {
+  "first_seen": 1784007192.2454562,
+  "title": "Chef de projets IA H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "afbc27e7066a6ec30379f7291b82b5d8": {
+  "first_seen": 1784007192.2454817,
+  "title": "Discovery Scientists, AI for Science",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "a5a7e635f0b263cc6b570c35246dd319": {
+  "first_seen": 1784007192.2456322,
+  "title": "Ingénieur système informatique H/F - MANPOWER",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "c99c629d957f88ae83d9446f060c3798": {
+  "first_seen": 1784007192.2456777,
+  "title": "Développeur Python & Automatisation",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "dab3e73ede7209cda06de6b1fd7bf06f": {
+  "first_seen": 1784007192.2456872,
+  "title": "Ingénieur Développement Système Electrique et Contrôle H/F",
+  "company": "GE Vernova",
+  "source": "linkedin"
+ },
+ "2088b220b0cbdb0fa1f843ae55ed3176": {
+  "first_seen": 1784007192.2457294,
+  "title": "Automatisien devOps",
+  "company": "Societe Generale Assurances",
+  "source": "linkedin"
+ },
+ "49b4ec34e7ddf420fdb9d7bad1cf9368": {
+  "first_seen": 1784007192.2457366,
+  "title": "Backend Software Engineer - Product Engineering",
+  "company": "Criteo",
+  "source": "linkedin"
+ },
+ "ab9b503e10f6c3d75f197cb1a11fb3de": {
+  "first_seen": 1784007192.245746,
+  "title": "Stage - Ingénieur technico-commercial  H/F",
+  "company": "Sirius Space Services",
+  "source": "linkedin"
+ },
+ "bcfb51238279a7386f1895c14343f405": {
+  "first_seen": 1784007192.2457535,
+  "title": "Développeur Back-End - Team Poker (H/F)",
+  "company": "WINAMAX",
+  "source": "linkedin"
+ },
+ "199c2215277688c6e1864d16443f7b26": {
+  "first_seen": 1784007192.24576,
+  "title": "AI-Native Developer F/H",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "8767c3e0ecd9bed086780f88de06f600": {
+  "first_seen": 1784007192.2457879,
+  "title": "Architecte Électronique",
+  "company": "WhiteCrow Research",
+  "source": "linkedin"
+ },
+ "d27d700fed65d86fadbdf90b232ca074": {
+  "first_seen": 1784007192.2457986,
+  "title": "Software Engineer C#/Python pricer (H/F) 👩🏻💼",
+  "company": "XRAYS TRADING",
+  "source": "linkedin"
+ },
+ "7858a09be39956c88cbad3a437c78459": {
+  "first_seen": 1784007192.2458067,
+  "title": "Technicien réparation électronique (H/F)",
+  "company": "Otis Elevator Co.",
+  "source": "linkedin"
+ },
+ "77049f43a7a00fa3c9a729f5cd0f3cda": {
+  "first_seen": 1784007192.2458181,
+  "title": "Junior Website Engineer / Webflow",
+  "company": "KLIMB",
   "source": "linkedin"
  }
 }
