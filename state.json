@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784041367.555045,
+   "last_success": 1784043158.52236,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784041367.5550508,
+   "last_success": 1784043158.5223653,
    "alerted": false
   }
  },
@@ -4717,6 +4717,36 @@
   "first_seen": 1784039575.2968535,
   "title": "Ingénieur(e) / Consultant(e) Junior – Stage Fin d'Études 6 mois - Innovation & Stratégie",
   "company": "IMPULSE PARTNERS - A FAST LANE FOR INNOVATION",
+  "source": "linkedin"
+ },
+ "a672fefdd5a0497a130df11a0aeb28ba": {
+  "first_seen": 1784043158.5226743,
+  "title": "ML Engineer H/F",
+  "company": "OVENTI",
+  "source": "linkedin"
+ },
+ "ad94ff591c744aff4a5b9a6847530921": {
+  "first_seen": 1784043158.522729,
+  "title": "Ingénieur(e) IA",
+  "company": "Galadrim",
+  "source": "linkedin"
+ },
+ "5c974447ef21f63f92d491a98fa255b2": {
+  "first_seen": 1784043158.5227783,
+  "title": "INGENIEUR(E) ETUDE ET DEVELOPPEMENT C/ADA (H/F)",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "d1bd51f0eaa279df6c48dce60156217e": {
+  "first_seen": 1784043158.5228477,
+  "title": "Ingénieur(e) Back end C orienté instrumentation",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "e2cb09d88f561b7ef77e5b7e4245c150": {
+  "first_seen": 1784043158.5228617,
+  "title": "Ingénieur Développement Logiciel F/H",
+  "company": "Thales",
   "source": "linkedin"
  }
 }
