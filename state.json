@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784025151.216545,
+   "last_success": 1784026985.6303685,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784025151.2165508,
+   "last_success": 1784026985.6303747,
    "alerted": false
   }
  },
@@ -4423,6 +4423,72 @@
   "first_seen": 1784023399.5983405,
   "title": "un(e) Développeur(se) Python / PySpark confirmé(e)",
   "company": "AUDEAMUS",
+  "source": "linkedin"
+ },
+ "98de9a26c9d320c900d01700f7c2ceec": {
+  "first_seen": 1784026985.6307316,
+  "title": "Apprenti en Ingénierie logicielle - H/F",
+  "company": "Inserm Paris / Île-de-France",
+  "source": "linkedin"
+ },
+ "787a0563ac04a31c4083afd64fd6506b": {
+  "first_seen": 1784026985.630791,
+  "title": "Research Scientist, Pretraining, Gemini Data, DeepMind",
+  "company": "Google DeepMind",
+  "source": "linkedin"
+ },
+ "2d94e25315d9988747d62f5d4cdd407f": {
+  "first_seen": 1784026985.630798,
+  "title": "Data Scientist",
+  "company": "JD.COM",
+  "source": "linkedin"
+ },
+ "09cd0f444c6aca47ebd9680c725bd716": {
+  "first_seen": 1784026985.6308608,
+  "title": "Research Scientist, Omni-lingual (FAIR)",
+  "company": "Meta",
+  "source": "linkedin"
+ },
+ "f7b10033840b4404151a0ab0ba045e9f": {
+  "first_seen": 1784026985.6309814,
+  "title": "Market-Driven Mechatronics Engineer",
+  "company": "Microfluidics Innovation Center",
+  "source": "linkedin"
+ },
+ "ca4c7f080f2e1b1e7689f62f7bb3f07f": {
+  "first_seen": 1784026985.6310627,
+  "title": "Concepteur ATP F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin"
+ },
+ "e66d94e0a90e109969b8e6904e3fdd4d": {
+  "first_seen": 1784026985.6310775,
+  "title": "Concepteur Applicatifs de Tests F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin"
+ },
+ "4cc77dc2af83fe4cb5afba12bafa8df4": {
+  "first_seen": 1784026985.6311212,
+  "title": "Internship Offer: Numerical & Room Acoustics Simulation",
+  "company": "Echo Silence",
+  "source": "linkedin"
+ },
+ "e19e12e75eff03887dd034d422e3050f": {
+  "first_seen": 1784026985.6311862,
+  "title": "Technicien placement routage circuit imprimé F/H",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "abda4bedf183a708e5240d43dfcf9a19": {
+  "first_seen": 1784026985.631206,
+  "title": "Ingénieur Automatisation de Test w/ Playwright (F/H)",
+  "company": "ALTEN",
+  "source": "linkedin"
+ },
+ "281d0ba381082bcf88cf018df90a6241": {
+  "first_seen": 1784026985.6312284,
+  "title": "Technicien installations internationales et support à distance (H/F)",
+  "company": "ACRELEC",
   "source": "linkedin"
  }
 }
