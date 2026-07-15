@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784061160.0994978,
+   "last_success": 1784091791.1353588,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784061160.0995066,
+   "last_success": 1784091791.135365,
    "alerted": false
   }
  },
@@ -5227,6 +5227,60 @@
   "first_seen": 1784059393.8259902,
   "title": "Développeur Logiciel C++ F/H",
   "company": "MBDA",
+  "source": "linkedin"
+ },
+ "e34e0f8c022f73ef4646a7530d38acaa": {
+  "first_seen": 1784091791.1357458,
+  "title": "AI Engineer",
+  "company": "SaclAI-School",
+  "source": "linkedin"
+ },
+ "3769b6360a8ff68cf5554756fdf52b10": {
+  "first_seen": 1784091791.13579,
+  "title": "Ingénieur(e) R&D en Graph Neural Networks",
+  "company": "SaclAI-School",
+  "source": "linkedin"
+ },
+ "2b35cf5d4d3ebc9143f7018e2139c645": {
+  "first_seen": 1784091791.1358669,
+  "title": "Stage Developer Full Stack (Symfony & Angular/React)",
+  "company": "Webyn",
+  "source": "linkedin"
+ },
+ "dc5f819f51803efbf1d8417b76db48c9": {
+  "first_seen": 1784091791.1358883,
+  "title": "Marketing Technologist Intern",
+  "company": "Procter & Gamble",
+  "source": "linkedin"
+ },
+ "16cadcdb0733660f9544855b11d0247b": {
+  "first_seen": 1784091791.1359591,
+  "title": "Apprentice Methodist Engineer",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "ff53493b9afae9eb61ae47c6ecd96e39": {
+  "first_seen": 1784091791.1359706,
+  "title": "Marketing AI Program Manager (W/M/X)",
+  "company": "Bel",
+  "source": "linkedin"
+ },
+ "dc783a041fd359d741d6a265cd7bd517": {
+  "first_seen": 1784091791.135998,
+  "title": "Ingénieur développement logiciel embarqué",
+  "company": "TerX",
+  "source": "linkedin"
+ },
+ "091cd525f23e30aa3a73a1bc556b5b43": {
+  "first_seen": 1784091791.1360233,
+  "title": "Développeur C/C++ (H/F)",
+  "company": "TerX",
+  "source": "linkedin"
+ },
+ "463ca117ee108d0a76bc283cf0eb5c4c": {
+  "first_seen": 1784091791.1360934,
+  "title": "Ingénieur Essais & Validation Électronique – Automotive (F/H)",
+  "company": "Free-Work",
   "source": "linkedin"
  }
 }
