@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784125947.927157,
+   "last_success": 1784127787.0725772,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784125947.927163,
+   "last_success": 1784127787.0725832,
    "alerted": false
   }
  },
@@ -5971,6 +5971,102 @@
   "first_seen": 1784125947.9275563,
   "title": "Ingénieur en Machine Learning - Quantum-H/F - IBM FutureNow",
   "company": "IBM",
+  "source": "linkedin"
+ },
+ "7813adb7d36b4b4a2a69474550343cec": {
+  "first_seen": 1784127787.0728927,
+  "title": "Chef de projet débutant Consumer Insights en stage",
+  "company": "relevanC",
+  "source": "linkedin"
+ },
+ "27cc8449885492d17f0f67885c34a16e": {
+  "first_seen": 1784127787.072994,
+  "title": "Data Scientist – Machine Deep learning (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "1f1d407ae776c0f165fc67825bedce98": {
+  "first_seen": 1784127787.0730631,
+  "title": "Data Engineer & Analyst H/F",
+  "company": "Options",
+  "source": "linkedin"
+ },
+ "10e378f380ea6b749db2993721cb56d6": {
+  "first_seen": 1784127787.0730689,
+  "title": "Member of Technical Staff, Multilingual",
+  "company": "Cohere",
+  "source": "linkedin"
+ },
+ "92463247aec5a46f3189ad6cd1942437": {
+  "first_seen": 1784127787.0731,
+  "title": "Stage - Software Engineer - Backend / Fullstack",
+  "company": "Numberly",
+  "source": "linkedin"
+ },
+ "1c3589513b4d2768bf0644e15ccfbc6f": {
+  "first_seen": 1784127787.0731223,
+  "title": "Data Engineer",
+  "company": "Launchmetrics",
+  "source": "linkedin"
+ },
+ "8405c1fd09cd0ada42d55926867c7cf1": {
+  "first_seen": 1784127787.0731306,
+  "title": "Data Scientist Senior - Pricing et Revenue Management (F/H)",
+  "company": "CTS Consulting & Technical Support",
+  "source": "linkedin"
+ },
+ "0dde85e0560e0c4732aa4f6a3975ca94": {
+  "first_seen": 1784127787.073165,
+  "title": "STAGE - Assistant Chef de Projet RSE (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "393a94d292242843fe2d7f16071f6681": {
+  "first_seen": 1784127787.0731816,
+  "title": "Cloud Data Engineer GCP (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "0ae08fcb9c1d5d618fe31d9c01b60cad": {
+  "first_seen": 1784127787.0731876,
+  "title": "Directeur Data/IA - F/H",
+  "company": "Niji",
+  "source": "linkedin"
+ },
+ "5371662cc4e3cbc0aa12e0824701ec9c": {
+  "first_seen": 1784127787.0732088,
+  "title": "Stage Ingénieur étude mécanique des sols",
+  "company": "TRACTEBEL",
+  "source": "linkedin"
+ },
+ "ecb07622cc7918d9b0b8f84433a21415": {
+  "first_seen": 1784127787.0732157,
+  "title": "Stage - Assistant développement Packaging H/F",
+  "company": "Diptyque Paris",
+  "source": "linkedin"
+ },
+ "a5197c399347af696b311f197a635c03": {
+  "first_seen": 1784127787.0732203,
+  "title": "Assistant",
+  "company": "GEFI Immobilier",
+  "source": "linkedin"
+ },
+ "5721a2c22722b3641ba26cfe199d1a48": {
+  "first_seen": 1784127787.0732257,
+  "title": "Forward Deployed Engineer",
+  "company": "YOOBIC",
+  "source": "linkedin"
+ },
+ "7a194a68ea4b7bcb7154302881a814e8": {
+  "first_seen": 1784127787.0732324,
+  "title": "Software Engineer Fullstack Python/React (F/H)",
+  "company": "AXA en France",
+  "source": "linkedin"
+ },
+ "9c0ea3302d120da6e942754b4c0e0e22": {
+  "first_seen": 1784127787.0732534,
+  "title": "Chargé de mission transformation numérique et innovation F/H",
+  "company": "Greater Paris University Hospitals - AP-HP",
   "source": "linkedin"
  }
 }
