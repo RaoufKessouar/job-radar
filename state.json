@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784113357.3026953,
+   "last_success": 1784115195.93276,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784113357.3027015,
+   "last_success": 1784115195.932766,
    "alerted": false
   }
  },
@@ -5557,6 +5557,132 @@
   "first_seen": 1784113357.3029861,
   "title": "ALTERNANCE – Développement d'une application d'intelligence artificielle - F/H",
   "company": "Thales",
+  "source": "linkedin"
+ },
+ "1ec5c867b72bff7d26582a09fdcad82e": {
+  "first_seen": 1784115195.9329407,
+  "title": "Stage Septembre 2026 – Assistant Creative Strategist GEO F/H",
+  "company": "Reworld Media",
+  "source": "wttj"
+ },
+ "181675f386c77c19d132210630f96bd9": {
+  "first_seen": 1784115195.9330726,
+  "title": "Stage - Quantitative Risk Analyst H/F",
+  "company": "Swiss Life Asset Managers France",
+  "source": "linkedin"
+ },
+ "006fa9a6f38038cd90cdb111fa98d1a3": {
+  "first_seen": 1784115195.9331186,
+  "title": "Stage - Assistant Merchandising Analyst (F/H/X)",
+  "company": "SEPHORA",
+  "source": "linkedin"
+ },
+ "ebdaf6e8b53ba134ddc071b0ee9ce7cc": {
+  "first_seen": 1784115195.9331317,
+  "title": "Data Analyst SQL / Power BI / Alteryx (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin"
+ },
+ "d84c6960622487162665f457e7203196": {
+  "first_seen": 1784115195.9331481,
+  "title": "Data Analyst Tableau (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin"
+ },
+ "7a1c22a395a1ca863cfa41551a60fc52": {
+  "first_seen": 1784115195.9331577,
+  "title": "Ingénieur-e en analyse bioinformatique de séquences",
+  "company": "INRAE",
+  "source": "linkedin"
+ },
+ "51b66777657d357b99c293b042aa0039": {
+  "first_seen": 1784115195.9332063,
+  "title": "CONCEPTEUR DEVELOPPEUR ETL DATASTAGE PX H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin"
+ },
+ "094248ea24690381728feb610d718339": {
+  "first_seen": 1784115195.9332259,
+  "title": "CONCEPTEUR DEVELOPPEUR PYTHON CONFIRME - IA H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin"
+ },
+ "6933c5d30389bcb9383f9cbe6c567603": {
+  "first_seen": 1784115195.933252,
+  "title": "Administrateur-trice de la plateforme d'IA",
+  "company": "INRAE",
+  "source": "linkedin"
+ },
+ "92a564ccc6a3caab3879a9e8a49a7f3d": {
+  "first_seen": 1784115195.9333003,
+  "title": "Ingénieur logiciel intégré/Ingénieure logiciel intégré",
+  "company": "ADENTIS",
+  "source": "linkedin"
+ },
+ "14819b867a279cb994bea10ff9e7ca6a": {
+  "first_seen": 1784115195.9333081,
+  "title": "Ingénieur logiciel C/C++/ADA (F/H)",
+  "company": "Groupe SII",
+  "source": "linkedin"
+ },
+ "cb02c181ca4a04ab1f38567f916a1aaa": {
+  "first_seen": 1784115195.9333143,
+  "title": "Ingénieur linux embarqué",
+  "company": "ADENTIS",
+  "source": "linkedin"
+ },
+ "d0a85b8fd958739ebd612362069f90e4": {
+  "first_seen": 1784115195.9334335,
+  "title": "Ingénieur Etudes et Développement C++ (H/F)",
+  "company": "Algofi",
+  "source": "linkedin"
+ },
+ "5c01e2d55614709c9e089d1f9d184ff9": {
+  "first_seen": 1784115195.9334643,
+  "title": "Alternance Ingénieur Produit Onduleur H/F",
+  "company": "Valeo",
+  "source": "linkedin"
+ },
+ "1523a15105fb142b5c457b3690551f9c": {
+  "first_seen": 1784115195.933477,
+  "title": "Commando Front Office",
+  "company": "Talan",
+  "source": "linkedin"
+ },
+ "e5d529db5cea2b19aa177ded41684648": {
+  "first_seen": 1784115195.9334831,
+  "title": "Graduate AWS Cloud Engineer",
+  "company": "Reply",
+  "source": "linkedin"
+ },
+ "e0e867210c6e8cd877a9d635fffd0bab": {
+  "first_seen": 1784115195.9334888,
+  "title": "Développeur full stack",
+  "company": "kodemade",
+  "source": "linkedin"
+ },
+ "335a87c96cb7ed372d6f9fb7589e3bb4": {
+  "first_seen": 1784115195.9335203,
+  "title": "CDI - Ingénieure / Ingénieur d'Etudes Performance Système",
+  "company": "ArianeGroup",
+  "source": "linkedin"
+ },
+ "1e6ebeff210947042398c87e2a251402": {
+  "first_seen": 1784115195.9335394,
+  "title": "Technicien(ne) Analyst QA Junior (H/F)",
+  "company": "Acrelec Software (Romania)",
+  "source": "linkedin"
+ },
+ "c1950a45f585a555683298eebaecaf5a": {
+  "first_seen": 1784115195.9335458,
+  "title": "Software Engineer - Javascript - B2B",
+  "company": "Sander",
+  "source": "linkedin"
+ },
+ "acde373c2cde3c438f635a6e4ced021e": {
+  "first_seen": 1784115195.933559,
+  "title": "Staff Backend Engineer (Golang) - BeReal",
+  "company": "Voodoo",
   "source": "linkedin"
  }
 }
