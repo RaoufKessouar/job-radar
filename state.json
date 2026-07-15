@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784127787.0725772,
+   "last_success": 1784129563.2997181,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784127787.0725832,
+   "last_success": 1784129563.299724,
    "alerted": false
   }
  },
@@ -6067,6 +6067,48 @@
   "first_seen": 1784127787.0732534,
   "title": "Chargé de mission transformation numérique et innovation F/H",
   "company": "Greater Paris University Hospitals - AP-HP",
+  "source": "linkedin"
+ },
+ "8f5dfcadfa96e452c482938259634dc8": {
+  "first_seen": 1784129563.3000946,
+  "title": "Stage Intelligence Artificielle & Transformation Digitale – H/F",
+  "company": "Devoteam",
+  "source": "linkedin"
+ },
+ "a925937cea971f6db3910a06725b909e": {
+  "first_seen": 1784129563.300103,
+  "title": "Data Analyst Retail F/H",
+  "company": "Catalina Marketing France",
+  "source": "linkedin"
+ },
+ "79ced1289f3e69feb6b5c1cebe05b6c8": {
+  "first_seen": 1784129563.300117,
+  "title": "Research Scientist, AI, Formal and informal Reasoning",
+  "company": "Meta",
+  "source": "linkedin"
+ },
+ "d51fb41db577f7aabed8b2d3daca9bf6": {
+  "first_seen": 1784129563.3002424,
+  "title": "Ingénieur-e Développement FPGA",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "7bdc5094cf18a6638c87343aa1cda424": {
+  "first_seen": 1784129563.3002484,
+  "title": "Ingénieur simulation radar C F/H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "0dd88fc40b51349ec21f4336f6a68c29": {
+  "first_seen": 1784129563.300262,
+  "title": "Développeur Logiciel Algorithmes des Systèmes d'Arme F/H",
+  "company": "MBDA",
+  "source": "linkedin"
+ },
+ "75ef4f89aca1182243167f1951dfe9da": {
+  "first_seen": 1784129563.3002791,
+  "title": "RESPONSABLE ÉQUIPE ÉLECTRONIQUE DE CONTRÔLE (H/F)",
+  "company": "FLYING WHALES",
   "source": "linkedin"
  }
 }
