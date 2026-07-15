@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784107956.8127422,
+   "last_success": 1784109749.4153602,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784107956.8127482,
+   "last_success": 1784109749.4153655,
    "alerted": false
   }
  },
@@ -5528,5 +5528,11 @@
   "title": "Data scientist confirmé (H/F/X)",
   "company": "Qwant",
   "source": "linkedin"
+ },
+ "a1afd36d7871e4cf0d0a6ee994dcacbd": {
+  "first_seen": 1784109749.4155238,
+  "title": "Stage Marketing & Production de contenu – Paris – Dès que possible - Stage (H/F)",
+  "company": "MISTER IA",
+  "source": "wttj"
  }
 }
