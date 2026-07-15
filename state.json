@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784140368.4285717,
+   "last_success": 1784142178.061832,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784140368.428578,
+   "last_success": 1784142178.0618377,
    "alerted": false
   }
  },
@@ -6325,6 +6325,84 @@
   "first_seen": 1784140368.429079,
   "title": "Ingénieur conception et développement logiciel Algorithmie - Simulation H/F",
   "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "3fdffc0668941c58b7fd6112a0f6e7a7": {
+  "first_seen": 1784142178.0622408,
+  "title": "Senior Data Scientist / Industrial Data Analyst",
+  "company": "dsm-firmenich",
+  "source": "linkedin"
+ },
+ "cc9a55473790f7f8dbadd1f88cb1b82f": {
+  "first_seen": 1784142178.0622506,
+  "title": "APRENTICESHIP - Global Media Analytics Apprentice - September 2026 - (H/F)",
+  "company": "Danone",
+  "source": "linkedin"
+ },
+ "6ab3572beee1c4f49b64075bd6982e16": {
+  "first_seen": 1784142178.0622663,
+  "title": "Quantitative Analyst FI NL H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin"
+ },
+ "0b5809fec08bf42fe8133b2c0738a584": {
+  "first_seen": 1784142178.0622833,
+  "title": "Data Analyst / Cibleur Marketing – CRM H/F",
+  "company": "LCL",
+  "source": "linkedin"
+ },
+ "cc2d23fd489a34d4e941e8a6668e87e5": {
+  "first_seen": 1784142178.0623052,
+  "title": "Team lead analytics H/F",
+  "company": "ALDI France",
+  "source": "linkedin"
+ },
+ "0e6838437831b15e7be261d28043dd6f": {
+  "first_seen": 1784142178.0623186,
+  "title": "Analyste de portefeuille Crédit Corporates",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "74b183ec19d6e815e6697fcb27d39e7f": {
+  "first_seen": 1784142178.06233,
+  "title": "Senior Data Scientist - Banking AI (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "dccb4f75f61de4add17b3f2e64dfc150": {
+  "first_seen": 1784142178.0623364,
+  "title": "Analyste Quantitatif - Finance de Marché",
+  "company": "eXalt",
+  "source": "linkedin"
+ },
+ "da03b0c67b305bb3e64422b7396590f8": {
+  "first_seen": 1784142178.062349,
+  "title": "Analyste Data & Performance OTC (N/F/H)",
+  "company": "Leboncoin.fr",
+  "source": "linkedin"
+ },
+ "57700a3c29af30cb47141e69747bf19e": {
+  "first_seen": 1784142178.062359,
+  "title": "NIQ Early Career Program: Stage - Analyse de Données Marketing & Développement Commercial F/H",
+  "company": "NielsenIQ",
+  "source": "linkedin"
+ },
+ "3a80c0b5e289c0daeda68414ac86ff78": {
+  "first_seen": 1784142178.0624027,
+  "title": "Assitant de gestion de crise financière",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "a626ac23dde654e94a1b57cafd1a4c27": {
+  "first_seen": 1784142178.0624084,
+  "title": "TRACKING ET WEBANALYTICS",
+  "company": "Societe Generale Assurances",
+  "source": "linkedin"
+ },
+ "784890310784e55b14338dad4c14d942": {
+  "first_seen": 1784142178.0624433,
+  "title": "AI/ML Engineer, France",
+  "company": "vector8",
   "source": "linkedin"
  }
 }
