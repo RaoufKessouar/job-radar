@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784102577.4595523,
+   "last_success": 1784103229.0791469,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784102577.4595573,
+   "last_success": 1784103229.0791533,
    "alerted": false
   }
  },
@@ -5461,6 +5461,18 @@
   "first_seen": 1784102577.4600773,
   "title": "Principal Statistical Programmer - FSP  (Permanent Homebased)",
   "company": "IQVIA",
+  "source": "linkedin"
+ },
+ "b3c3be1e0e0c274bf4c48f30d70fc160": {
+  "first_seen": 1784103229.0795949,
+  "title": "GenAI Business Development Manager — Paris - Permanent Contract (CDI)",
+  "company": "Sailglobal",
+  "source": "linkedin"
+ },
+ "bb321c5bd71e6c8b662e48350a2433fe": {
+  "first_seen": 1784103229.0795991,
+  "title": "Back End Developer",
+  "company": "BAO",
   "source": "linkedin"
  }
 }
