@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784115195.93276,
+   "last_success": 1784116958.4163556,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784115195.932766,
+   "last_success": 1784116958.4163618,
    "alerted": false
   }
  },
@@ -5683,6 +5683,18 @@
   "first_seen": 1784115195.933559,
   "title": "Staff Backend Engineer (Golang) - BeReal",
   "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "3768de646eb644d0959c2beda1b2c278": {
+  "first_seen": 1784116958.4166365,
+  "title": "Stagiaire Software Engineer (H/F)",
+  "company": "Marianne Education",
+  "source": "linkedin"
+ },
+ "e5d5de8039fed6c67cc538460cdc3a73": {
+  "first_seen": 1784116958.416848,
+  "title": "Ingénieur-e en développement d'outils pour l'évaluation génomique",
+  "company": "INRAE",
   "source": "linkedin"
  }
 }
