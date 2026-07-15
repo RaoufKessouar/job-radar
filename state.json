@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784138569.7748241,
+   "last_success": 1784140368.4285717,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784138569.77483,
+   "last_success": 1784140368.428578,
    "alerted": false
   }
  },
@@ -6307,6 +6307,24 @@
   "first_seen": 1784138569.7754228,
   "title": "Automaticien—Maintenance, Robotique & Systèmes Automatisés",
   "company": "Amazon",
+  "source": "linkedin"
+ },
+ "2144706ca85d127d09f2415c06f3c3a3": {
+  "first_seen": 1784140368.429063,
+  "title": "Senior Edge Systems Engineer",
+  "company": "DeepRec.ai",
+  "source": "linkedin"
+ },
+ "fb46390ab086a8ff8b5839fbbcac7947": {
+  "first_seen": 1784140368.42907,
+  "title": "Ingénieur(e) systèmes",
+  "company": "ALTEN",
+  "source": "linkedin"
+ },
+ "8839a7040e685660a873000cd67c58e9": {
+  "first_seen": 1784140368.429079,
+  "title": "Ingénieur conception et développement logiciel Algorithmie - Simulation H/F",
+  "company": "Free-Work",
   "source": "linkedin"
  }
 }
