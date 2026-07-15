@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784100766.4313183,
+   "last_success": 1784102577.4595523,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784100766.431324,
+   "last_success": 1784102577.4595573,
    "alerted": false
   }
  },
@@ -5419,6 +5419,48 @@
   "first_seen": 1784100766.431933,
   "title": "Cloud Services Consultant",
   "company": "Axway",
+  "source": "linkedin"
+ },
+ "93ee506937dc687a117e4edc14db8f7e": {
+  "first_seen": 1784102577.4599512,
+  "title": "CDI - Data Engineer - H/F",
+  "company": "Mediaperformances",
+  "source": "linkedin"
+ },
+ "d679c406b073d173f34b75710f32126b": {
+  "first_seen": 1784102577.4599864,
+  "title": "Business analyste informatique Data référentiel (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "07880a055c09894aef8e87d4c156e568": {
+  "first_seen": 1784102577.459993,
+  "title": "Junior R&D & Regulatory Officer",
+  "company": "Sova",
+  "source": "linkedin"
+ },
+ "a1c06fd8e49d93edadd5fcb716d56c7a": {
+  "first_seen": 1784102577.460004,
+  "title": "Data Analytics Engineer",
+  "company": "Addison Group",
+  "source": "linkedin"
+ },
+ "e65c75c9846e2a9507631f726d5949e1": {
+  "first_seen": 1784102577.4600408,
+  "title": "STAGE - Chargé(e) de missions RH (H/F)",
+  "company": "STUDIO TF1",
+  "source": "linkedin"
+ },
+ "9244931fc32625a6cadfe9cc2f3cc352": {
+  "first_seen": 1784102577.460061,
+  "title": "Intern CRA - FSO",
+  "company": "Fortrea",
+  "source": "linkedin"
+ },
+ "32136bbae48350d87e713f10dc6b09a6": {
+  "first_seen": 1784102577.4600773,
+  "title": "Principal Statistical Programmer - FSP  (Permanent Homebased)",
+  "company": "IQVIA",
   "source": "linkedin"
  }
 }
