@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784120559.3681717,
+   "last_success": 1784122398.5003796,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784120559.3681784,
+   "last_success": 1784122398.5003853,
    "alerted": false
   }
  },
@@ -5725,6 +5725,240 @@
   "first_seen": 1784118756.9309142,
   "title": "Stage Data Scientist – Modélisation des Risques Climatiques H/F",
   "company": "Groupama Assurances Mutuelles",
+  "source": "linkedin"
+ },
+ "5eec3404ccff71a1f12b35e0864f96aa": {
+  "first_seen": 1784122398.500695,
+  "title": "Lead Data Scientist - BI Prediction",
+  "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "f01eb9257e8f66d65923d688c2e88e39": {
+  "first_seen": 1784122398.5007088,
+  "title": "Data Scientist  Terrain & Performance Industrielle F/H - SAFRAN TRANSMISSION SYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "50ddedfa2f175ab95f8d1ee391c228af": {
+  "first_seen": 1784122398.500729,
+  "title": "Analytics - Future Leaders Graduate Program",
+  "company": "Picnic Technologies",
+  "source": "linkedin"
+ },
+ "509e3698cbdcd0196b3c1d7767bd1ddb": {
+  "first_seen": 1784122398.5007472,
+  "title": "Campus - Alternance - Data Analyst Credit Risk - Anglais Courant - (1an, France)",
+  "company": "American Express",
+  "source": "linkedin"
+ },
+ "f38882332623b08a0a4e0927b0935e42": {
+  "first_seen": 1784122398.5007641,
+  "title": "Junior Data Scientist - Casablanca",
+  "company": "Artefact",
+  "source": "linkedin"
+ },
+ "f02645b8a8310ddde8c4e445560eed49": {
+  "first_seen": 1784122398.5007915,
+  "title": "DATA SCIENTIST IA GEN (IT)",
+  "company": "RED TIC",
+  "source": "linkedin"
+ },
+ "8cca06cdead3045d62fa5f3802bd7986": {
+  "first_seen": 1784122398.5008397,
+  "title": "Data Science Manager",
+  "company": "Teads",
+  "source": "linkedin"
+ },
+ "c45e19af6abaf8a5fbe0ce7c25530251": {
+  "first_seen": 1784122398.5008512,
+  "title": "Chief Data Officer (H/F)",
+  "company": "BIOGARAN",
+  "source": "linkedin"
+ },
+ "6163d4ba6cf27693ea3b0229651eee50": {
+  "first_seen": 1784122398.5008585,
+  "title": "Consultant Stagiaire Tech & Data & Cyber (H/F)",
+  "company": "BearingPoint",
+  "source": "linkedin"
+ },
+ "84bd321b5adec12171e3107faa381c81": {
+  "first_seen": 1784122398.5008652,
+  "title": "Forward Deployed Engineer",
+  "company": "URBAN LINKER",
+  "source": "linkedin"
+ },
+ "ee7d84be7d377296d3d6148602edfe5f": {
+  "first_seen": 1784122398.5008857,
+  "title": "Consultant scientifique innovation IT - Stage F/H",
+  "company": "Dynergie",
+  "source": "linkedin"
+ },
+ "13bbb3ce22040d7b0fc0fef460ac287d": {
+  "first_seen": 1784122398.5008929,
+  "title": "Business Analyst Apprentice (2 Years Program)",
+  "company": "Criteo",
+  "source": "linkedin"
+ },
+ "5141bbbd594ee63e624f80d5427540a3": {
+  "first_seen": 1784122398.5008993,
+  "title": "DATA PROCESSOR CONFIRME(E) (H/F)",
+  "company": "Symetic",
+  "source": "linkedin"
+ },
+ "e297052549763c957aab1014e029d1e3": {
+  "first_seen": 1784122398.500924,
+  "title": "AI ENGINEER H/F",
+  "company": "LCL",
+  "source": "linkedin"
+ },
+ "6cdc5f822f8a1f32ccf5b9f4bcdb0a8b": {
+  "first_seen": 1784122398.5009708,
+  "title": "Thèse de doctorat: Génération assistée par LLM de modèles matériels fonctionnels et formels H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "eb50360b7eb671a1de91860eb22bef5b": {
+  "first_seen": 1784122398.5009835,
+  "title": "Forward Deployed Engineer",
+  "company": "PALO IT",
+  "source": "linkedin"
+ },
+ "9c1758583eb866606e574728ed4bcdd1": {
+  "first_seen": 1784122398.5009918,
+  "title": "Doctorant en Vérification formelle d'IA (H/F)",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "eae1ae213028f21ecf60178444aa0da5": {
+  "first_seen": 1784122398.50102,
+  "title": "Manager AI-Augmented Design & Tech",
+  "company": "Saegus",
+  "source": "linkedin"
+ },
+ "7fd515008a07a1f1abf31d4b0080c110": {
+  "first_seen": 1784122398.501032,
+  "title": "MOE H/F",
+  "company": "Viveris",
+  "source": "linkedin"
+ },
+ "361205d26932d4f07d3610e1ad606a23": {
+  "first_seen": 1784122398.50104,
+  "title": "Data & Transformation Project Manager, EMEA",
+  "company": "Cushman & Wakefield",
+  "source": "linkedin"
+ },
+ "a2e335676c3c4aee40e7d8ed844a6434": {
+  "first_seen": 1784122398.5010529,
+  "title": "Stage - Juriste Innovation de Produit (x/f/m) - Janvier 2027",
+  "company": "Doctolib",
+  "source": "linkedin"
+ },
+ "0304c816b44d3b536cf83e13da17c14b": {
+  "first_seen": 1784122398.5010724,
+  "title": "Consultant(e) confirmé(e)",
+  "company": "Vusion",
+  "source": "linkedin"
+ },
+ "fbf8ece6745a85d06b5b3eaca14eb699": {
+  "first_seen": 1784122398.5010788,
+  "title": "Content Apprentice - 1 year",
+  "company": "BlaBlaCar",
+  "source": "linkedin"
+ },
+ "0a741271304d7037e61fb3daa88c8a95": {
+  "first_seen": 1784122398.5010958,
+  "title": "Chef de Projet - DSPE Data Analyse (H/F)",
+  "company": "Club Med",
+  "source": "linkedin"
+ },
+ "7f7ffbac00f6f582d793ad90c90b76ac": {
+  "first_seen": 1784122398.501103,
+  "title": "Développeur JS/TS – Compliance",
+  "company": "Sander",
+  "source": "linkedin"
+ },
+ "95677036eba447fb5d57ea3aebd494c8": {
+  "first_seen": 1784122398.5011108,
+  "title": "Software Engineer Intern - Crossbeam Ventures (M/F/X)",
+  "company": "Crossbeam",
+  "source": "linkedin"
+ },
+ "c36af0ae653d339825b7a8b08dbb4009": {
+  "first_seen": 1784122398.5011206,
+  "title": "Consultant Stagiaire Tech, Data & IA – Consumer Retail & Manufacturing H/F",
+  "company": "BearingPoint",
+  "source": "linkedin"
+ },
+ "aa18d59ac318f05432ee4ebda81e454d": {
+  "first_seen": 1784122398.5011272,
+  "title": "Staff Engineer (AI Project) - Full remote",
+  "company": "Skello",
+  "source": "linkedin"
+ },
+ "4b318b613fcf92ea414c052f038faa50": {
+  "first_seen": 1784122398.5011327,
+  "title": "AI Ops PM Intern",
+  "company": "Skello",
+  "source": "linkedin"
+ },
+ "e05234919c664ffafaa6901547108fb2": {
+  "first_seen": 1784122398.5011458,
+  "title": "Consultant Stagiaire Tech Transformation SI (H/F)",
+  "company": "BearingPoint",
+  "source": "linkedin"
+ },
+ "391cb5b1499ae2423223e2e6f68dbbc4": {
+  "first_seen": 1784122398.5011523,
+  "title": "Fullstack software engineer",
+  "company": "TheFork",
+  "source": "linkedin"
+ },
+ "ae11f857d38e34814827281c29db182c": {
+  "first_seen": 1784122398.5011573,
+  "title": "Digital Apprentice",
+  "company": "Coty",
+  "source": "linkedin"
+ },
+ "8e018cdc12faa4b308549c911f412293": {
+  "first_seen": 1784122398.501169,
+  "title": "Stagiaire en développement Web",
+  "company": "Loopsider",
+  "source": "linkedin"
+ },
+ "41b7a9b2f771ce7e7ed6494abd787061": {
+  "first_seen": 1784122398.5011773,
+  "title": "Stagiaire Chargé/Chargée d'étude durabilité",
+  "company": "Saipol",
+  "source": "linkedin"
+ },
+ "531fca9011a3d6fb7d80c59e0fa8664e": {
+  "first_seen": 1784122398.5011895,
+  "title": "Stagiaire Revenue Manager (H/F)",
+  "company": "Louvre Hotels Group",
+  "source": "linkedin"
+ },
+ "a1c756c49c54fc168eea88c020af0507": {
+  "first_seen": 1784122398.5012007,
+  "title": "APPRENTI(E) SPÉCIALISTE APPLICATIONS ET SUPPORT TECHNIQUE / TAS FRANCE (H/F)",
+  "company": "BUCHI Laboratory Equipment",
+  "source": "linkedin"
+ },
+ "6029108069931b53909af83440fc6665": {
+  "first_seen": 1784122398.5012107,
+  "title": "Alternance – Ingénieur Packaging – Parfums Beauté – Septembre 2026 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "b55e132fc5e71d752d2e6d53ac4b1c23": {
+  "first_seen": 1784122398.501272,
+  "title": "Stage - Chef de projet junior/PMO H/F",
+  "company": "Devoteam",
+  "source": "linkedin"
+ },
+ "b65020e87c3a6dfbbcdeb7f051649201": {
+  "first_seen": 1784122398.5012841,
+  "title": "Data Engineer - Paris, France  (H/F)",
+  "company": "Astek",
   "source": "linkedin"
  }
 }
