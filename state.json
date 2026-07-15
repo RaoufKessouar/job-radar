@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784134959.7124012,
+   "last_success": 1784136004.1634095,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784134959.712408,
+   "last_success": 1784136004.1634157,
    "alerted": false
   }
  },
@@ -6193,6 +6193,90 @@
   "first_seen": 1784133156.1889603,
   "title": "AI Consultant [H/F/D]",
   "company": "Infosys",
+  "source": "linkedin"
+ },
+ "b77bc7fedff8e59f0316af749a63a33b": {
+  "first_seen": 1784136004.1638641,
+  "title": "Consultant(e) Senior en Intelligence Artificielle — GenAI & Risk",
+  "company": "MPG Partners",
+  "source": "linkedin"
+ },
+ "7c76dc93604cc6a6e8014df78e820823": {
+  "first_seen": 1784136004.1638746,
+  "title": "Consultant confirmé/senior - IA - Neuilly (H/F)",
+  "company": "Grant-Thornton France",
+  "source": "linkedin"
+ },
+ "5e9cd9e1a686b5e6608a2f58d0549df4": {
+  "first_seen": 1784136004.1638813,
+  "title": "IA Product Manager H/F - CDI",
+  "company": "Converteo",
+  "source": "linkedin"
+ },
+ "0f7ee7a7a464b8e6228e0be074b322c4": {
+  "first_seen": 1784136004.1638868,
+  "title": "Gen AI Principal Consultant [H/F/D]",
+  "company": "Infosys",
+  "source": "linkedin"
+ },
+ "22657e56b6d883cad146e8041422f27a": {
+  "first_seen": 1784136004.1638968,
+  "title": "Product Owner",
+  "company": "AXA Group Operations",
+  "source": "linkedin"
+ },
+ "03ccdb4723e06f48c02b8541adbf4e77": {
+  "first_seen": 1784136004.163914,
+  "title": "Solution Architect Cloud AI – CONSULTANT(E) AVANT-VENTE (H/F)",
+  "company": "SCC France",
+  "source": "linkedin"
+ },
+ "cf799e19a2442a95c4fdcf19aebf4757": {
+  "first_seen": 1784136004.1639247,
+  "title": "BUSINESS ANALYST CONFIRME IA H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin"
+ },
+ "484167acd6ba62da60eeca87c4dd874b": {
+  "first_seen": 1784136004.1639311,
+  "title": "Chef de projet Senior Data/ IA H.F",
+  "company": "Data Reply FR",
+  "source": "linkedin"
+ },
+ "f04920d75b48284f897303c2e37d82b9": {
+  "first_seen": 1784136004.1639614,
+  "title": "CX Ops Lead",
+  "company": "Poppins",
+  "source": "linkedin"
+ },
+ "7696d8f835561ecb039875a41a24dea1": {
+  "first_seen": 1784136004.1639738,
+  "title": "Développeur Logiciel Junior Python / PHP (H/F)",
+  "company": "Talents IT",
+  "source": "linkedin"
+ },
+ "41c8a769979db3c3a4545845686ac2a4": {
+  "first_seen": 1784136004.1639838,
+  "title": "Analyste Stratégie, Modélisation et Données H/F",
+  "company": "Eramet",
+  "source": "linkedin"
+ },
+ "3733407e74abec22753484fd89fd2d59": {
+  "first_seen": 1784136004.1639907,
+  "title": "Deloitte Digital - Consultant Junior CX (Customer Experience) - F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "0ec302d62991b6f4dcd995b5ab95fa30": {
+  "first_seen": 1784136004.1640065,
+  "title": "Software Engineer - Visualization",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "b3fb2df076fcc689c1ba4ceaaef4a7e2": {
+  "first_seen": 1784136004.1640115,
+  "title": "Apprenti(e) Junior Data Scientist H/F",
+  "company": "Valeo",
   "source": "linkedin"
  }
 }
