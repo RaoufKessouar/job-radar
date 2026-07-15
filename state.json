@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784129563.2997181,
+   "last_success": 1784131395.486379,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784129563.299724,
+   "last_success": 1784131395.4863842,
    "alerted": false
   }
  },
@@ -6109,6 +6109,60 @@
   "first_seen": 1784129563.3002791,
   "title": "RESPONSABLE ÉQUIPE ÉLECTRONIQUE DE CONTRÔLE (H/F)",
   "company": "FLYING WHALES",
+  "source": "linkedin"
+ },
+ "31de0855e629207a26e0bda1b85cf372": {
+  "first_seen": 1784131395.4867322,
+  "title": "Lead AI engineer",
+  "company": "Mirakl",
+  "source": "linkedin"
+ },
+ "383563fb269560fa4b5d24a2516251bf": {
+  "first_seen": 1784131395.4867628,
+  "title": "AI Software Engineer / Développeur Augmenté (H/F)",
+  "company": "SFEIR",
+  "source": "linkedin"
+ },
+ "c9438f8fb36ae20f4ec26d47faccdbdc": {
+  "first_seen": 1784131395.4867933,
+  "title": "Ingénieur architecte python et industrialisation IA - CDI Saclay (91) H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "e655e5654928d799a85ebff3002eb697": {
+  "first_seen": 1784131395.486825,
+  "title": "Senior Applied Scientist",
+  "company": "bsport",
+  "source": "linkedin"
+ },
+ "066a72109d42bb34c191bb61e7be6acf": {
+  "first_seen": 1784131395.4868383,
+  "title": "Stage - Assistant(e) International Retail Performance - Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "1f69f00b3780b0bddc23669f3544a7dc": {
+  "first_seen": 1784131395.4868512,
+  "title": "BALENCIAGA – EMEA Client Engagement Data Analyst Intern (F/M)",
+  "company": "BALENCIAGA",
+  "source": "linkedin"
+ },
+ "11e602215f0cee019229fea0bf9577cc": {
+  "first_seen": 1784131395.4868631,
+  "title": "Consultant Modélisation & Mesure MMM H/F - CDI",
+  "company": "Converteo",
+  "source": "linkedin"
+ },
+ "aa62eae48138445b55833932badeea68": {
+  "first_seen": 1784131395.4868715,
+  "title": "Apprenticeship – People Technology – CHANEL Europe – September 2026 – M/F/D",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "76c12934edfc52d94c726cdf604dbb9f": {
+  "first_seen": 1784131395.4869065,
+  "title": "Stage Consultant·e Data & IA",
+  "company": "Flowt",
   "source": "linkedin"
  }
 }
