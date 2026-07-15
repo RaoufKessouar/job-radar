@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784095369.150389,
+   "last_success": 1784097178.24048,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784095369.150394,
+   "last_success": 1784097178.2404857,
    "alerted": false
   }
  },
@@ -5317,6 +5317,42 @@
   "first_seen": 1784095369.1508713,
   "title": "STAGE - Assistant Coordinateur Retail, Performance et Data - JUILLET 2026 (H/F/NB)",
   "company": "Maison Francis Kurkdjian",
+  "source": "linkedin"
+ },
+ "ed39b8d8332a14f9758f1f816a1aa646": {
+  "first_seen": 1784097178.2410185,
+  "title": "Chef de Projets Essais - Contre-Mesures F/H",
+  "company": "MBDA",
+  "source": "linkedin"
+ },
+ "cdc88c0b41fee25a83ffdb6a0bdfd3a3": {
+  "first_seen": 1784097178.2410362,
+  "title": "Senior Software Engineer (Python/TypeScript)",
+  "company": "Lithosquare",
+  "source": "linkedin"
+ },
+ "c7f75a412c257bd3e11b543aff11a2aa": {
+  "first_seen": 1784097178.2410462,
+  "title": "Sales Development Representative (Stage)",
+  "company": "Webyn",
+  "source": "linkedin"
+ },
+ "c737f21d9e2d2d28a8ed6c8e8149ccd4": {
+  "first_seen": 1784097178.241055,
+  "title": "巴黎巡店",
+  "company": "MOVA TECH",
+  "source": "linkedin"
+ },
+ "47a4ca435059dd4398846f24401c804b": {
+  "first_seen": 1784097178.2410593,
+  "title": "Execution Engineer",
+  "company": "Greenvolt Group",
+  "source": "linkedin"
+ },
+ "d0f5c1a7a83062cb0acfb68f330a9676": {
+  "first_seen": 1784097178.241073,
+  "title": "Java Engineering Team Lead",
+  "company": "Euronext",
   "source": "linkedin"
  }
 }
