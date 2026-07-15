@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784145763.440528,
+   "last_success": 1784147575.4394152,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784145763.4405346,
+   "last_success": 1784147575.4394221,
    "alerted": false
   }
  },
@@ -6409,6 +6409,24 @@
   "first_seen": 1784145763.440801,
   "title": "Product & Software Engineer - Stage de fin d'études",
   "company": "Galadrim",
+  "source": "linkedin"
+ },
+ "e77b491e96cd2ea018e5059b2e39eb1e": {
+  "first_seen": 1784147575.4398851,
+  "title": "Alternant(e) Chef de projet IA",
+  "company": "2CGroup",
+  "source": "linkedin"
+ },
+ "0cda794aada62b768763ae2d8bf59633": {
+  "first_seen": 1784147575.439931,
+  "title": "Stage de fin d'étude - Data & Business Intelligence Analyst for Nature",
+  "company": "Removall Carbon",
+  "source": "linkedin"
+ },
+ "7a1a0d3030b4ac2b200d21454e3c6473": {
+  "first_seen": 1784147575.4399588,
+  "title": "Stage R&D - Paris",
+  "company": "Wifirst",
   "source": "linkedin"
  }
 }
