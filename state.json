@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784091791.1353588,
+   "last_success": 1784093589.3303137,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784091791.135365,
+   "last_success": 1784093589.3303185,
    "alerted": false
   }
  },
@@ -5281,6 +5281,30 @@
   "first_seen": 1784091791.1360934,
   "title": "Ingénieur Essais & Validation Électronique – Automotive (F/H)",
   "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "71e802170f5c0252c35c5b88c9991963": {
+  "first_seen": 1784093589.3307555,
+  "title": "Ingénieur de recherche en conception de dispositifs biomédicaux - H/F",
+  "company": "Inserm Paris / Île-de-France",
+  "source": "linkedin"
+ },
+ "9234b6d8f0758c661bf082e25b2b217b": {
+  "first_seen": 1784093589.3307614,
+  "title": "Processing Hardware Engineer - H/F",
+  "company": "Pasqal",
+  "source": "linkedin"
+ },
+ "d9eb868bc5f3e1754a1bdf916204b99f": {
+  "first_seen": 1784093589.330766,
+  "title": "Python Product Engineer",
+  "company": "SaclAI-School",
+  "source": "linkedin"
+ },
+ "481b6036ecf41c70d8990b77026b9bd7": {
+  "first_seen": 1784093589.3307714,
+  "title": "Technicien-ne test et intégration électronique F/H",
+  "company": "Safran",
   "source": "linkedin"
  }
 }
