@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784199763.521052,
+   "last_success": 1784201598.7723978,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784199763.5210578,
+   "last_success": 1784201598.772404,
    "alerted": false
   }
  },
@@ -6955,6 +6955,96 @@
   "first_seen": 1784199763.5215194,
   "title": "Stagiaire de fin d’études – Junior Innovation & Emerging Tech Officer F/H",
   "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "0e3d39d9d41759c1a378a2e0f0ebf13e": {
+  "first_seen": 1784201598.7727017,
+  "title": "ML Engineer H/F",
+  "company": "NEXTON",
+  "source": "linkedin"
+ },
+ "58cd83520b86678729eab54585e6ff61": {
+  "first_seen": 1784201598.7728891,
+  "title": "Lead IA & ML Engineer - F/H",
+  "company": "Niji",
+  "source": "linkedin"
+ },
+ "d2448ce7e249f8600bfb8399eea9c634": {
+  "first_seen": 1784201598.7728972,
+  "title": "Data Analyst Power BI / GCP H/F",
+  "company": "NEXTON",
+  "source": "linkedin"
+ },
+ "f6ea7330be6d0607f2048b2e64b67785": {
+  "first_seen": 1784201598.7729537,
+  "title": "Expert data SNDS H/F",
+  "company": "Plateforme des données de santé",
+  "source": "linkedin"
+ },
+ "50df9516023849f46cae9b48cd765630": {
+  "first_seen": 1784201598.7729602,
+  "title": "Data Quality Analyst H/F",
+  "company": "Worldgrid",
+  "source": "linkedin"
+ },
+ "e3d6204c98843529950257cc5110222c": {
+  "first_seen": 1784201598.7729666,
+  "title": "Data Analyst H/F",
+  "company": "Soors",
+  "source": "linkedin"
+ },
+ "ea6dca8843d7c2080bed286c256a89bf": {
+  "first_seen": 1784201598.7729743,
+  "title": "Offre d'alternance : Data Analyst (H/F)",
+  "company": "Arundo Re",
+  "source": "linkedin"
+ },
+ "5dc2a60da09bee9c10527119d66b518a": {
+  "first_seen": 1784201598.772987,
+  "title": "Consultant Tracking & Analytics - alternance - datashake",
+  "company": "datashake",
+  "source": "linkedin"
+ },
+ "0541be8023372bf0b65297d72f61aa1c": {
+  "first_seen": 1784201598.7729924,
+  "title": "AI Applied Engineer",
+  "company": "Devoteam",
+  "source": "linkedin"
+ },
+ "a1c5bd7c222b1cd347db80726d631a31": {
+  "first_seen": 1784201598.7729988,
+  "title": "Data Analyst Supply Chain H/F",
+  "company": "SKIILS",
+  "source": "linkedin"
+ },
+ "c234f2fe12345f15f70cb27e7353b6fb": {
+  "first_seen": 1784201598.7730064,
+  "title": "Stagiaire Ingénieur(e) Full-Stack",
+  "company": "Datapolitics",
+  "source": "linkedin"
+ },
+ "afa51663d000cceef3b04bdac2c7b3cd": {
+  "first_seen": 1784201598.7732124,
+  "title": "Data analyst - stage",
+  "company": "Air Liquide Healthcare",
+  "source": "linkedin"
+ },
+ "71bc524ff26e35251407bb4f9756d1c2": {
+  "first_seen": 1784201598.773271,
+  "title": "Architecte Solution & Intelligence Artificielle",
+  "company": "Line",
+  "source": "linkedin"
+ },
+ "80fe35c9577c89475b25a0a5258157ef": {
+  "first_seen": 1784201598.7732866,
+  "title": "STAGE- Validation de codes de simulation Monte-Carlo sur données réelles à basse énergie . H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "c1c021e5c268d63c863e18bb41da8305": {
+  "first_seen": 1784201598.7732973,
+  "title": "Stage AMOA SI et transformation numérique",
+  "company": "Flexia",
   "source": "linkedin"
  }
 }
