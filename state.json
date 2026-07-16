@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784232156.2911057,
+   "last_success": 1784233951.063251,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784232156.2911117,
+   "last_success": 1784233951.0632565,
    "alerted": false
   }
  },
@@ -7567,6 +7567,30 @@
   "first_seen": 1784232156.291716,
   "title": "Embedded Software Engineer - Multimedia",
   "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "c9a83ba8be1adae26543db4a3c2e2c8e": {
+  "first_seen": 1784233951.0635722,
+  "title": "Chargé(e) de mission analyse data et automatisation IA F/H",
+  "company": "Société des grands projets",
+  "source": "linkedin"
+ },
+ "93b3c7043eb2108f10ac2519803b36b5": {
+  "first_seen": 1784233951.063722,
+  "title": "ML / MLOps Engineer - Consultant",
+  "company": "JAKALA",
+  "source": "linkedin"
+ },
+ "993a9404f414ebe03f405d66a93b4390": {
+  "first_seen": 1784233951.0638137,
+  "title": "Alternant(e) – Développement d’une plateforme de simulation générative (F/H)",
+  "company": "Valeo",
+  "source": "linkedin"
+ },
+ "97e8e13bbb24cff2c9206fc575fb044f": {
+  "first_seen": 1784233951.06383,
+  "title": "Director, Reinforcement Learning & Agentic Post-Training",
+  "company": "Blue Yonder",
   "source": "linkedin"
  }
 }
