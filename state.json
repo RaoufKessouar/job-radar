@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784215936.6751885,
+   "last_success": 1784217762.5242624,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784215936.6751955,
+   "last_success": 1784217762.5242686,
    "alerted": false
   }
  },
@@ -7201,6 +7201,54 @@
   "first_seen": 1784214162.9978669,
   "title": "Machine Learning Engineer – IA Conversationnelle & Voicebot (h/f)",
   "company": "emagine",
+  "source": "linkedin"
+ },
+ "06f363677221de86a5a3814c2b8d2dad": {
+  "first_seen": 1784217762.524664,
+  "title": "Ingénieur DevOps IA/LLM APPRENTISSAGE (H/F)",
+  "company": "AXA Group Operations",
+  "source": "linkedin"
+ },
+ "9fa1ff1069d0cfd7208565e41a4cc7cb": {
+  "first_seen": 1784217762.5246913,
+  "title": "Ingénieur IA – LLM & Agent Conversationnel (H/F)",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "5e6008e5cd71f5365dcce55d4f4873b0": {
+  "first_seen": 1784217762.524737,
+  "title": "Senior Machine Learning Engineer - H/F/NB",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin"
+ },
+ "bc4d13a4442501528680d49ffc5808d6": {
+  "first_seen": 1784217762.5247612,
+  "title": "Ingénieur FullStack Data GenAI (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "78c92e280ae10b8ca6725d335385e623": {
+  "first_seen": 1784217762.5247672,
+  "title": "Lead data scientist & IA (F/N/H)",
+  "company": "Leboncoin.fr",
+  "source": "linkedin"
+ },
+ "f0f0976910fda2651bd7b3375867eaf1": {
+  "first_seen": 1784217762.5247793,
+  "title": "Manager Data IA & ML - F/H",
+  "company": "Niji",
+  "source": "linkedin"
+ },
+ "e2fca1302526e8bf8c17624a2ea1a7c7": {
+  "first_seen": 1784217762.5247908,
+  "title": "AI & Data Strategy - Stage",
+  "company": "Elevate | Conseil Data, IA & Agentique",
+  "source": "linkedin"
+ },
+ "1d59e068e41efb21abc0542bf61efafe": {
+  "first_seen": 1784217762.5247955,
+  "title": "AI Agent Orchestration Specialist",
+  "company": "Edflex",
   "source": "linkedin"
  }
 }
