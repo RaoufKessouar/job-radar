@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784210569.4893007,
+   "last_success": 1784212380.3706617,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784210569.489307,
+   "last_success": 1784212380.370668,
    "alerted": false
   }
  },
@@ -7135,6 +7135,48 @@
   "first_seen": 1784210569.4896326,
   "title": "Alternant(e) Développeur React Native - App Mobile ULTEAM",
   "company": "ULTEAM",
+  "source": "linkedin"
+ },
+ "1f896a6b59ce60216d15e4b8738bc261": {
+  "first_seen": 1784212380.3710067,
+  "title": "QUANTITATIVE CONSULTANT",
+  "company": "Management Solutions",
+  "source": "linkedin"
+ },
+ "6e8638807296fc7929be0fae5b49e840": {
+  "first_seen": 1784212380.3711703,
+  "title": "Data Scientist F/H",
+  "company": "EDF",
+  "source": "linkedin"
+ },
+ "aac111ad50e6c00d0171578e52a76392": {
+  "first_seen": 1784212380.371187,
+  "title": "Data Scientist Intern",
+  "company": "Equativ",
+  "source": "linkedin"
+ },
+ "5ac708d8768c426c34ed7ffebe84d328": {
+  "first_seen": 1784212380.3712492,
+  "title": "AI Applied Researcher",
+  "company": "URBAN LINKER",
+  "source": "linkedin"
+ },
+ "0f9e2bdf15db23fa8bbebf429e156965": {
+  "first_seen": 1784212380.371264,
+  "title": "Junior AI Implementation Specialist",
+  "company": "Pixel Systems",
+  "source": "linkedin"
+ },
+ "38dd0396f37cef55f2ca58f1965f28f4": {
+  "first_seen": 1784212380.3712835,
+  "title": "Senior Data Scientist I",
+  "company": "Checkout.com",
+  "source": "linkedin"
+ },
+ "3a497067b64e3dbb05bf81168b9cc45f": {
+  "first_seen": 1784212380.3713248,
+  "title": "Ingénieur Cybersécurité H/F",
+  "company": "Banque de France",
   "source": "linkedin"
  }
 }
