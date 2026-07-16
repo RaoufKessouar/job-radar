@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784189785.4847987,
+   "last_success": 1784190765.715884,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784189785.4848044,
+   "last_success": 1784190765.71589,
    "alerted": false
   }
  },
@@ -6673,6 +6673,24 @@
   "first_seen": 1784188968.143527,
   "title": "Junior Data Operations Analyst",
   "company": "Gulf Associates",
+  "source": "linkedin"
+ },
+ "f8260ac1f904e95945c048121c154308": {
+  "first_seen": 1784190765.7162054,
+  "title": "Stage Innovation : Ingénieur Génie Logiciel / Intelligence Artificielle",
+  "company": "ALTEN",
+  "source": "linkedin"
+ },
+ "87057f007bac9d05ed6bbf11db1dabf6": {
+  "first_seen": 1784190765.7162375,
+  "title": "Stagiaire en financement de l’innovation - Ingénieur Informatique / Finance F/H",
+  "company": "KPMG France",
+  "source": "linkedin"
+ },
+ "c72eee33f1033ff22fed41aa119d4459": {
+  "first_seen": 1784190765.7163403,
+  "title": "Stage Innovation : Ingénieur Développement Embarqué avec Expertise en 5G",
+  "company": "ALTEN",
   "source": "linkedin"
  }
 }
