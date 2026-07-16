@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784181794.7991478,
+   "last_success": 1784183585.8164487,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784181794.7991543,
+   "last_success": 1784183585.8164546,
    "alerted": false
   }
  },
@@ -6571,6 +6571,96 @@
   "first_seen": 1784181794.799749,
   "title": "Ingénieur(e) Algorithmes de Navigation Aéronautique F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
   "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "b93d6e581307743fa6b59ee620478ac8": {
+  "first_seen": 1784183585.8167477,
+  "title": "Data Analyst & Intelligence Artificielle (H/F)",
+  "company": "GREENRECUP'",
+  "source": "linkedin"
+ },
+ "f0f99438a8e18a06d8a7168f54bc4f37": {
+  "first_seen": 1784183585.8169417,
+  "title": "Data, automation & AI - Stage H/F",
+  "company": "L'Étincelle",
+  "source": "linkedin"
+ },
+ "e9ce6a35fdaabc1f2e07311270a787f6": {
+  "first_seen": 1784183585.8169465,
+  "title": "Data & AI Solution Architect",
+  "company": "Avanade",
+  "source": "linkedin"
+ },
+ "a9ada0a3502099aebd4bddecb864264a": {
+  "first_seen": 1784183585.8170366,
+  "title": "Concepteur controle commande supervision powertrain",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "6083601a9e5684ecf97132a2b5bcfe1e": {
+  "first_seen": 1784183585.8170428,
+  "title": "Ingénieur en Systèmes Électroniques et Embarqués (H/F) - Canada",
+  "company": "EIC - Experience Internship Canada",
+  "source": "linkedin"
+ },
+ "5a4146fddffd05cba2bc6809a1f32952": {
+  "first_seen": 1784183585.8170495,
+  "title": "Ingénieur Systèmes Embarqués (H/F) - Canada",
+  "company": "EIC - Experience Internship Canada",
+  "source": "linkedin"
+ },
+ "2036abd1798eedc359084a304d398c8c": {
+  "first_seen": 1784183585.8170545,
+  "title": "Technicien électronique",
+  "company": "act digital EMEA - Alter Solutions",
+  "source": "linkedin"
+ },
+ "9a493f2345ead53ca001e551f4945d59": {
+  "first_seen": 1784183585.8170748,
+  "title": "Ingénieur Développeur C++ H/F",
+  "company": "LUSIS",
+  "source": "linkedin"
+ },
+ "228bd72c2c682f0691b76220a1433f6e": {
+  "first_seen": 1784183585.817079,
+  "title": "Ingénieur en Automatisme (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "87fa220fd463808dc6338c22f109396f": {
+  "first_seen": 1784183585.8170836,
+  "title": "Software Engineer Network Automation, Data Center Fabrics",
+  "company": "Mistral",
+  "source": "linkedin"
+ },
+ "f527f0274b4e44aa98b55445a2c4397b": {
+  "first_seen": 1784183585.8170896,
+  "title": "Ingénieur tests intégration/Ingénieure tests intégration",
+  "company": "Pacte Novation",
+  "source": "linkedin"
+ },
+ "0c9665643698943453a8e142f41ef194": {
+  "first_seen": 1784183585.8170938,
+  "title": "Full-Stack Engineer, Office of the CEO",
+  "company": "Arago",
+  "source": "linkedin"
+ },
+ "70ce498fbac3a9005a21ba1b5dfc8299": {
+  "first_seen": 1784183585.8170984,
+  "title": "Ingénieur Conception Cartes Électroniques F/H",
+  "company": "VACOA",
+  "source": "linkedin"
+ },
+ "1b709922e57a4df9fbec586862a7ecea": {
+  "first_seen": 1784183585.8171053,
+  "title": "Back-End Golang Developer (W/M/X)",
+  "company": "Ubisoft",
+  "source": "linkedin"
+ },
+ "3f5b410245508aa41836a4155809aff6": {
+  "first_seen": 1784183585.8171105,
+  "title": "Ingénieur(e) Développement et Industrialisation",
+  "company": "Fed Engineering",
   "source": "linkedin"
  }
 }
