@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784196171.684405,
+   "last_success": 1784197969.9696338,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784196171.684411,
+   "last_success": 1784197969.9696398,
    "alerted": false
   }
  },
@@ -6811,6 +6811,132 @@
   "first_seen": 1784196171.68494,
   "title": "Ingénieur·e Systèmes Embarqués Senior",
   "company": "exceenis",
+  "source": "linkedin"
+ },
+ "63370fb747ae1eb92c56a721fffdf6d6": {
+  "first_seen": 1784197969.9700477,
+  "title": "Senior Data Scientist",
+  "company": "Paylead",
+  "source": "linkedin"
+ },
+ "65de8f638fe89554b72a220b17bc6bd6": {
+  "first_seen": 1784197969.9700587,
+  "title": "alternance 12 mois – data analyse",
+  "company": "Sanofi",
+  "source": "linkedin"
+ },
+ "b2b273fa302ca9748cd6a0ddd3791332": {
+  "first_seen": 1784197969.9700794,
+  "title": "279 - Data Engineer Python Junior (F/H) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "338236991c7bb17cf9f4d023a48a9f00": {
+  "first_seen": 1784197969.9701283,
+  "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+  "company": "Datadog",
+  "source": "linkedin"
+ },
+ "afa5a3d9940e1dece53b58ba00380bdc": {
+  "first_seen": 1784197969.970137,
+  "title": "Software Engineer – Risk Modelling & Data (H/F)",
+  "company": "Citalid",
+  "source": "linkedin"
+ },
+ "b780caec6a2382d1d99c86351fc32a52": {
+  "first_seen": 1784197969.9701476,
+  "title": "Data analytics engineer",
+  "company": "Visian",
+  "source": "linkedin"
+ },
+ "1175a0f964898d94bf5e20724813565e": {
+  "first_seen": 1784197969.970154,
+  "title": "Data Analyst Assistant",
+  "company": "Gulf Associates",
+  "source": "linkedin"
+ },
+ "5a7f7d2e63d436e6e3c0f4b210cf6b07": {
+  "first_seen": 1784197969.9701724,
+  "title": "Computer Vision Scientist - American Football",
+  "company": "SkillCorner",
+  "source": "linkedin"
+ },
+ "cb510b8d8764f62d0dd30703f936ef9e": {
+  "first_seen": 1784197969.9702373,
+  "title": "AI Engineer Intern, GenAI Internal Automation (GAIA)",
+  "company": "Equativ",
+  "source": "linkedin"
+ },
+ "6ac847ccbf7cd2335e0dda9f52334a81": {
+  "first_seen": 1784197969.970258,
+  "title": "AI Research Engineer - Datadog AI Research (DAIR)",
+  "company": "Datadog",
+  "source": "linkedin"
+ },
+ "2db28e83c5aa76bd1283c841eb530bf4": {
+  "first_seen": 1784197969.970273,
+  "title": "DS / ML Engineer (confirmé) : Sud-Est",
+  "company": "MP DATA",
+  "source": "linkedin"
+ },
+ "5570be3f284ec5789d09042593b401eb": {
+  "first_seen": 1784197969.9703412,
+  "title": "Data Scientist & AI - Senior Consultant",
+  "company": "JAKALA",
+  "source": "linkedin"
+ },
+ "3c8e7c1648af66c34fedeeadc198354d": {
+  "first_seen": 1784197969.9703555,
+  "title": "Spécialiste Donnée IA et Llm H/F",
+  "company": "BASSETTI TALENT POOL",
+  "source": "linkedin"
+ },
+ "169d5ce7414acb5b707b704eefa7a7f1": {
+  "first_seen": 1784197969.970375,
+  "title": "Développeur back-end/Développeuse back-end",
+  "company": "Ad4Screen",
+  "source": "linkedin"
+ },
+ "35696928f2cc9776878549617ed60a68": {
+  "first_seen": 1784197969.9703834,
+  "title": "Tech Lead - Agentic AI / IA générative H/F",
+  "company": "Soors",
+  "source": "linkedin"
+ },
+ "e3b909ec76d000c8cb0a6393138dffc3": {
+  "first_seen": 1784197969.9703915,
+  "title": "AI Engineer – Consultant·e confirmé·e / senior",
+  "company": "Saegus",
+  "source": "linkedin"
+ },
+ "d15d9f142ad486c72051b1ebbd22e1ca": {
+  "first_seen": 1784197969.970407,
+  "title": "Manager Data & AI — Projets au Forfait",
+  "company": "Elevate | Conseil Data, IA & Agentique",
+  "source": "linkedin"
+ },
+ "ea67f32431b6360eebfefb904d2fda72": {
+  "first_seen": 1784197969.9704154,
+  "title": "Responsable de Projets en Intelligence Artificielle H/F",
+  "company": "Datawords Group",
+  "source": "linkedin"
+ },
+ "795f7e3fbe07a47de27b93f06b78d8bf": {
+  "first_seen": 1784197969.9704216,
+  "title": "INTERNSHIP - STRESS ENGINEER",
+  "company": "FLYING WHALES",
+  "source": "linkedin"
+ },
+ "48a93a98245db1efd5f0163bd1f9dbcc": {
+  "first_seen": 1784197969.9704306,
+  "title": "Stage – Assistant(e) Business Analyst – Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "c1d3643153d7f909ab2dc92874fb6fd7": {
+  "first_seen": 1784197969.9704492,
+  "title": "[Stage] Développeur Full Stack H/F",
+  "company": "KONCRETE",
   "source": "linkedin"
  }
 }
