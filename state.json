@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784187170.781005,
+   "last_success": 1784188968.1430383,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784187170.781011,
+   "last_success": 1784188968.1430457,
    "alerted": false
   }
  },
@@ -6661,6 +6661,18 @@
   "first_seen": 1784183585.8171105,
   "title": "Ingénieur(e) Développement et Industrialisation",
   "company": "Fed Engineering",
+  "source": "linkedin"
+ },
+ "e07e59d68515142bee1af0b4fc145588": {
+  "first_seen": 1784188968.1435163,
+  "title": "Senior Data analyst / Data scientist",
+  "company": "Oderis Consulting",
+  "source": "linkedin"
+ },
+ "f63f9f984edabc99409802ca950b30fb": {
+  "first_seen": 1784188968.143527,
+  "title": "Junior Data Operations Analyst",
+  "company": "Gulf Associates",
   "source": "linkedin"
  }
 }
