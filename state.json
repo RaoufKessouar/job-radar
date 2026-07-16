@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784147575.4394152,
+   "last_success": 1784178152.48756,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784147575.4394221,
+   "last_success": 1784178152.4875658,
    "alerted": false
   }
  },
@@ -6427,6 +6427,24 @@
   "first_seen": 1784147575.4399588,
   "title": "Stage R&D - Paris",
   "company": "Wifirst",
+  "source": "linkedin"
+ },
+ "3449d57cac360efa3120de4b78ad54be": {
+  "first_seen": 1784178152.4878204,
+  "title": "Data Scientist / AI Engineer H/F",
+  "company": "Soors",
+  "source": "linkedin"
+ },
+ "3cdb4b282eec1bd59afc7a5001f3ad60": {
+  "first_seen": 1784178152.4878483,
+  "title": "AI Engineer (H/F) – Lille & Paris",
+  "company": "Cenova",
+  "source": "linkedin"
+ },
+ "fca0de250ae6e81b2d9b63225393b1f6": {
+  "first_seen": 1784178152.487884,
+  "title": "Machine Learning Engineer",
+  "company": "ELECTRA",
   "source": "linkedin"
  }
 }
