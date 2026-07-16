@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784203365.550693,
+   "last_success": 1784204504.978286,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784203365.5506978,
+   "last_success": 1784204504.978292,
    "alerted": false
   }
  },
@@ -7057,6 +7057,12 @@
   "first_seen": 1784203365.5512857,
   "title": "Ingénieur-e Système Embarqué - Optronique Aéroportée F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
   "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "d7fbfa006ec7d776d355e6a7af63fbbd": {
+  "first_seen": 1784204504.9786174,
+  "title": "Stage    -     Stage Fin d’études /  Ingénieur innovation en informatique, sciences des données  - Paris, France  (H/F)",
+  "company": "Astek",
   "source": "linkedin"
  }
 }
