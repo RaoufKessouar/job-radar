@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784194365.9016602,
+   "last_success": 1784196171.684405,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784194365.9016657,
+   "last_success": 1784196171.684411,
    "alerted": false
   }
  },
@@ -6769,6 +6769,48 @@
   "first_seen": 1784194365.9023197,
   "title": "Technicien Systèmes Embarqués – Électronique Véhicule H/F",
   "company": "Dunasys",
+  "source": "linkedin"
+ },
+ "93d047c853f218e7a5a593cb607d49e0": {
+  "first_seen": 1784196171.6845963,
+  "title": "Stage de fin d'étude AI Engineer - F/H",
+  "company": "EY",
+  "source": "wttj"
+ },
+ "a06dc59d4d23f005c59e32556f9dde4b": {
+  "first_seen": 1784196171.6846833,
+  "title": "Data Scientist (H/F) - Analytics - Stage 6 mois (stage de fin d'études)",
+  "company": "Allphins",
+  "source": "linkedin"
+ },
+ "e53646b0143f1018ae030e9e8a8dbd79": {
+  "first_seen": 1784196171.6847117,
+  "title": "Data Scientist IA Générative & LLM – ADAS  (F/H)",
+  "company": "TRISKELL CONSULTING",
+  "source": "linkedin"
+ },
+ "c8623afba10d1b98b8d57ab8ada355c4": {
+  "first_seen": 1784196171.6847277,
+  "title": "Data Scientist confirmé – Modélisation Physique & IA (H/F)",
+  "company": "MP DATA",
+  "source": "linkedin"
+ },
+ "9c9272676f745a8384dc307b125b9170": {
+  "first_seen": 1784196171.6848915,
+  "title": "AI Engineer (H/F) - Stage 6 mois (stage de fin d’études)",
+  "company": "Allphins",
+  "source": "linkedin"
+ },
+ "1360080094f14b3018f6bcfb42fc1754": {
+  "first_seen": 1784196171.6849036,
+  "title": "Ingénieur R&D H/F",
+  "company": "EFICIA",
+  "source": "linkedin"
+ },
+ "51d3ef8cb9a0e99767d52f1dc4aea295": {
+  "first_seen": 1784196171.68494,
+  "title": "Ingénieur·e Systèmes Embarqués Senior",
+  "company": "exceenis",
   "source": "linkedin"
  }
 }
