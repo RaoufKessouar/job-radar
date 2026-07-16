@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784201598.7723978,
+   "last_success": 1784203365.550693,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784201598.772404,
+   "last_success": 1784203365.5506978,
    "alerted": false
   }
  },
@@ -7045,6 +7045,18 @@
   "first_seen": 1784201598.7732973,
   "title": "Stage AMOA SI et transformation numérique",
   "company": "Flexia",
+  "source": "linkedin"
+ },
+ "08367311d0d6a91376cfee31c4d63f76": {
+  "first_seen": 1784203365.5511646,
+  "title": "Alternant(e) Innovation & Intelligence Artificielle",
+  "company": "MeltOne Advisory",
+  "source": "linkedin"
+ },
+ "3d75b0408780a8d3b43b119a7e7292c5": {
+  "first_seen": 1784203365.5512857,
+  "title": "Ingénieur-e Système Embarqué - Optronique Aéroportée F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
   "source": "linkedin"
  }
 }
