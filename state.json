@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784192579.6115377,
+   "last_success": 1784194365.9016602,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784192579.6115437,
+   "last_success": 1784194365.9016657,
    "alerted": false
   }
  },
@@ -6703,6 +6703,72 @@
   "first_seen": 1784192579.61203,
   "title": "Data Scientist (H/F) - Core platform - Stage 6 mois (stage de fin d'études)",
   "company": "Allphins",
+  "source": "linkedin"
+ },
+ "8c135c3f4dbf4391493a3e81fc1dfb3f": {
+  "first_seen": 1784194365.9019842,
+  "title": "Stage Innovation : Ingénieur Data Science / Science Cognitive",
+  "company": "ALTEN",
+  "source": "linkedin"
+ },
+ "8742b53b739509ae48bff44fa69b88c5": {
+  "first_seen": 1784194365.9020183,
+  "title": "stagiaire Software Engineer",
+  "company": "Popsink",
+  "source": "linkedin"
+ },
+ "f064c5f85843c7497e4ca596ec2dca0e": {
+  "first_seen": 1784194365.90203,
+  "title": "Développeur full stack & IA logiciel de paie SaaS - Stage de fin d'études",
+  "company": "Galadrim",
+  "source": "linkedin"
+ },
+ "d8cf87ba79364403108afd18fb61e546": {
+  "first_seen": 1784194365.9020488,
+  "title": "Stage développement .net F/H/X",
+  "company": "Honoré Gaming",
+  "source": "linkedin"
+ },
+ "63de14c7535de57683c81b9a81508709": {
+  "first_seen": 1784194365.9020875,
+  "title": "Stage - Billing & Revenue Operations Analyst (Data)",
+  "company": "Tilak Healthcare",
+  "source": "linkedin"
+ },
+ "7bdba183b424b27f51ea5fa1242a0524": {
+  "first_seen": 1784194365.902129,
+  "title": "Stagiaire Ingénieur IA Générative F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "d6f1a523b1cb053f8a754b2f9247dba5": {
+  "first_seen": 1784194365.9021478,
+  "title": "Data Scientist / Applied AI Developer",
+  "company": "Animaj",
+  "source": "linkedin"
+ },
+ "97198a9b20db3a74a1d855feb4e31ddc": {
+  "first_seen": 1784194365.9021578,
+  "title": "AI Engineer – IA Générative & Systèmes Agentiques (H/F)",
+  "company": "Skapa Agency",
+  "source": "linkedin"
+ },
+ "8c295359947b323b128887d030b46c41": {
+  "first_seen": 1784194365.9021757,
+  "title": "AI Engineer",
+  "company": "Parallel",
+  "source": "linkedin"
+ },
+ "9b26e505b21fbc47eb3e64d6e7a00b96": {
+  "first_seen": 1784194365.902206,
+  "title": "277 - AI Engineer Python (F/H) — Systèmes Agentiques (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "b7e14a880a64cd97c1a7f4c178d22b78": {
+  "first_seen": 1784194365.9023197,
+  "title": "Technicien Systèmes Embarqués – Électronique Véhicule H/F",
+  "company": "Dunasys",
   "source": "linkedin"
  }
 }
