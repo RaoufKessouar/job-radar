@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784223155.4682336,
+   "last_success": 1784224985.4900596,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784223155.4682395,
+   "last_success": 1784224985.4900646,
    "alerted": false
   }
  },
@@ -7357,6 +7357,84 @@
   "first_seen": 1784223155.4686224,
   "title": "AI Engineer - Stage / Alternance",
   "company": "OMOTE ADVISORY",
+  "source": "linkedin"
+ },
+ "6ec5803f0c5ffd4e1a41a62891f13c6e": {
+  "first_seen": 1784224985.4902737,
+  "title": "Stage - Assistant.e Chef.fe de Projet Data Science (F/H) - Octobre 2026",
+  "company": "Louis Vuitton",
+  "source": "linkedin"
+ },
+ "9d753bcc3e727afcbc97b629019d301c": {
+  "first_seen": 1784224985.49038,
+  "title": "Stage - Data Analytics – Arcueil (94) - 6 mois",
+  "company": "Aramisauto",
+  "source": "linkedin"
+ },
+ "72e300046970f9322c80c80bddfb9c1d": {
+  "first_seen": 1784224985.4903846,
+  "title": "Data Engineer",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "ebf71d40f092b83ec980d5ea2a0933e0": {
+  "first_seen": 1784224985.4903903,
+  "title": "Alternance - CRM Data Analyst - F/H - Septembre 2026",
+  "company": "RIMOWA",
+  "source": "linkedin"
+ },
+ "b06f7d30c860331ee06154fbdf5b3413": {
+  "first_seen": 1784224985.4903948,
+  "title": "Data Analyst - Alternance - Paris, Bordeaux",
+  "company": "Article 1",
+  "source": "linkedin"
+ },
+ "29b2dbb26b7951d92257d7c0cb460e29": {
+  "first_seen": 1784224985.4904203,
+  "title": "Chargé des projets digitaux débutant H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "2d8768cd7f36f11664dc40aff37432c6": {
+  "first_seen": 1784224985.4904242,
+  "title": "Operations & Analytics Intern",
+  "company": "ELECTRA",
+  "source": "linkedin"
+ },
+ "64252cb91505d3a316983f9923b3f873": {
+  "first_seen": 1784224985.4904287,
+  "title": "Data analyst",
+  "company": "Visian",
+  "source": "linkedin"
+ },
+ "e09d247187e1aed554f765e8b32a1ff6": {
+  "first_seen": 1784224985.490445,
+  "title": "Financial Data Analyst",
+  "company": "Peach State Capital Group",
+  "source": "linkedin"
+ },
+ "a74b2064765e052397bb15a1cead67fb": {
+  "first_seen": 1784224985.4904492,
+  "title": "Alternant.e Data Analyst H/F",
+  "company": "Leetchi",
+  "source": "linkedin"
+ },
+ "200795cb0532c692f541aea1231e45b2": {
+  "first_seen": 1784224985.4904525,
+  "title": "Data Engineer",
+  "company": "INVIVOO",
+  "source": "linkedin"
+ },
+ "b8ffbd27ac0de3014cb047f7fcbd24c6": {
+  "first_seen": 1784224985.4904609,
+  "title": "Pricing Analyst",
+  "company": "L'olivier Assurance | Admiral Group Plc",
+  "source": "linkedin"
+ },
+ "386c4158bacd20d09b9d15421611cbe7": {
+  "first_seen": 1784224985.4905894,
+  "title": "Senior ML Engineer",
+  "company": "Voodoo",
   "source": "linkedin"
  }
 }
