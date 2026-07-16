@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784226777.5952716,
+   "last_success": 1784228540.7215133,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784226777.5952775,
+   "last_success": 1784228540.7215195,
    "alerted": false
   }
  },
@@ -7513,6 +7513,18 @@
   "first_seen": 1784226777.5962813,
   "title": "RESPONSABLE DE BANC ELECTRIQUE (H/F)",
   "company": "FLYING WHALES",
+  "source": "linkedin"
+ },
+ "391777c0a05e700e58ed6692ea000140": {
+  "first_seen": 1784228540.7218378,
+  "title": "Operations Intern — Stage (H/F) - Dès que possible",
+  "company": "Mister IA",
+  "source": "linkedin"
+ },
+ "2e340bb189e25a032eb1f273634f310e": {
+  "first_seen": 1784228540.7218852,
+  "title": "Senior Data Scientist I",
+  "company": "DoubleVerify",
   "source": "linkedin"
  }
 }
