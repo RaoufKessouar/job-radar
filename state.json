@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784205173.001889,
+   "last_success": 1784206978.8161917,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784205173.0018935,
+   "last_success": 1784206978.8161976,
    "alerted": false
   }
  },
@@ -7075,6 +7075,18 @@
   "first_seen": 1784205173.0021713,
   "title": "Forward-Deployed Data Scientist II",
   "company": "Braze",
+  "source": "linkedin"
+ },
+ "674cb6be3f6c29becf25370335fef0c9": {
+  "first_seen": 1784206978.8168375,
+  "title": "ML Engineer (H/F/X)",
+  "company": "Ekkiden",
+  "source": "linkedin"
+ },
+ "cc18e2c1b9b730c7254804b655465c8a": {
+  "first_seen": 1784206978.8168514,
+  "title": "IA & Transformation des usages Apprentice",
+  "company": "Pixid",
   "source": "linkedin"
  }
 }
