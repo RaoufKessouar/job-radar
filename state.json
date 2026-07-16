@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784178152.48756,
+   "last_success": 1784179978.7496786,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784178152.4875658,
+   "last_success": 1784179978.749685,
    "alerted": false
   }
  },
@@ -6445,6 +6445,114 @@
   "first_seen": 1784178152.487884,
   "title": "Machine Learning Engineer",
   "company": "ELECTRA",
+  "source": "linkedin"
+ },
+ "7c014c83faa4ac04df34c7af50550274": {
+  "first_seen": 1784179978.7499902,
+  "title": "Stage Data SQL BI IA LLM - Dev SaaS Communautaire CRM",
+  "company": "Alumnforce - Alumni Students Success Platform",
+  "source": "linkedin"
+ },
+ "97152a2645ad8ec9b5db5037a22c6f4a": {
+  "first_seen": 1784179978.7500613,
+  "title": "AI Engineer — MLOps & Industrialisation | Paris",
+  "company": "MP DATA",
+  "source": "linkedin"
+ },
+ "2fd452e04e6eb31ce45315b965c1ba86": {
+  "first_seen": 1784179978.7501254,
+  "title": "AI Research Scientist (Paris)",
+  "company": "Lexsi Labs",
+  "source": "linkedin"
+ },
+ "0352ee7bfc408907e3f03393b2ab7333": {
+  "first_seen": 1784179978.750165,
+  "title": "Stage – IA & Transformation des usages",
+  "company": "Pixid",
+  "source": "linkedin"
+ },
+ "0211e68e37761915c9c2858cbb0845ca": {
+  "first_seen": 1784179978.7502337,
+  "title": "AI Engineer / Data Engineer – IA Générative, LLM & Databricks (H/F)",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "bdac1f019eb149dd65264dd22a9c5cf9": {
+  "first_seen": 1784179978.7502496,
+  "title": "Stage assistant de développement",
+  "company": "Fremantle France",
+  "source": "linkedin"
+ },
+ "98605987ef9b7413e00746c9818b3298": {
+  "first_seen": 1784179978.7502618,
+  "title": "Stage - Assistant(e) Chef(fe) de Projet Digital Retail Education International - Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "7f3884cbd2bc67e3e9ae74fe1b16e82e": {
+  "first_seen": 1784179978.7502697,
+  "title": "STAGE DEVELOPPEUR FULL STACK APPLICATION WEB & MOBILE HYBRIDE H/F",
+  "company": "Euris",
+  "source": "linkedin"
+ },
+ "3f990d0e0e915b2b24338516249216a2": {
+  "first_seen": 1784179978.7502766,
+  "title": "Développeur.euse IA senior",
+  "company": "ATLANSE",
+  "source": "linkedin"
+ },
+ "20240a2a82407925368d2c977130de77": {
+  "first_seen": 1784179978.7502825,
+  "title": "Job Title",
+  "company": "UncleJean.ai",
+  "source": "linkedin"
+ },
+ "a9485d037a1a436fd6bf5dc1aecb5960": {
+  "first_seen": 1784179978.7502904,
+  "title": "STAGE CHEF DE PROJET LOGICIELS SAAS F/H",
+  "company": "Euris",
+  "source": "linkedin"
+ },
+ "d72f543d9af812da9d35d30179077010": {
+  "first_seen": 1784179978.7503035,
+  "title": "Stagiaire Chargé(e) de veille médias et réseaux sociaux",
+  "company": "Ministère de l'Intérieur",
+  "source": "linkedin"
+ },
+ "b15e781559b2aa50d907c1b01794dcce": {
+  "first_seen": 1784179978.7503119,
+  "title": "Analyste de données monétaires (H/F)",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "93a9620bf26343d3df6d7ebf23e703a7": {
+  "first_seen": 1784179978.7503211,
+  "title": "Ingénieur développeur/concepteur sur bastid H/F",
+  "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "8f9227ef2498e7c73a77c94e01d5d5cf": {
+  "first_seen": 1784179978.7503288,
+  "title": "Software Engineer (R&D Hardware Tooling)",
+  "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "9434d182c6310084c793505fc1a912f8": {
+  "first_seen": 1784179978.7503426,
+  "title": "Ingénieur(e) Développeur C/C++",
+  "company": "Randstad Digital France",
+  "source": "linkedin"
+ },
+ "18e14abeb1840db82f287493540d7510": {
+  "first_seen": 1784179978.750373,
+  "title": "Ingénieur-e Logiciel Embarqué F/H - SAFRAN LANDING SYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "398b1357d98a863b5ce3d8b8f8ee3e5e": {
+  "first_seen": 1784179978.7503862,
+  "title": "Ingénieur(e) Systèmes Embarqués Automobile H/F",
+  "company": "Dunasys",
   "source": "linkedin"
  }
 }
