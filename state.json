@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784212380.3706617,
+   "last_success": 1784214162.9973257,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784212380.370668,
+   "last_success": 1784214162.9973314,
    "alerted": false
   }
  },
@@ -7177,6 +7177,30 @@
   "first_seen": 1784212380.3713248,
   "title": "Ingénieur Cybersécurité H/F",
   "company": "Banque de France",
+  "source": "linkedin"
+ },
+ "767c51aede674b9946f140c98681067f": {
+  "first_seen": 1784214162.9976041,
+  "title": "Data Scientist F/H",
+  "company": "BNP Paribas Asset Management",
+  "source": "linkedin"
+ },
+ "5df8625613cdc9be19a00fd1c865a259": {
+  "first_seen": 1784214162.9976938,
+  "title": "Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin"
+ },
+ "1f50d56073b8fb1ce3dcfe80b1736bc7": {
+  "first_seen": 1784214162.9977124,
+  "title": "Consultant.e Confirmé.e - data science et IA",
+  "company": "Wavestone",
+  "source": "linkedin"
+ },
+ "9c9a33faf2104ef090f61edd3f21feb4": {
+  "first_seen": 1784214162.9978669,
+  "title": "Machine Learning Engineer – IA Conversationnelle & Voicebot (h/f)",
+  "company": "emagine",
   "source": "linkedin"
  }
 }
