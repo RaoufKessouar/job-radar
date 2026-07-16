@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784179978.7496786,
+   "last_success": 1784181794.7991478,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784179978.749685,
+   "last_success": 1784181794.7991543,
    "alerted": false
   }
  },
@@ -6553,6 +6553,24 @@
   "first_seen": 1784179978.7503862,
   "title": "Ingénieur(e) Systèmes Embarqués Automobile H/F",
   "company": "Dunasys",
+  "source": "linkedin"
+ },
+ "4c1cc178523d8d87c95543a9b8a15a05": {
+  "first_seen": 1784181794.7996266,
+  "title": "Machine Learning Lead (F/H)",
+  "company": "Dalma.",
+  "source": "linkedin"
+ },
+ "68cc2b0a19e52b160d70d22d1dc04846": {
+  "first_seen": 1784181794.799738,
+  "title": "Software Engineer",
+  "company": "ELECTRA",
+  "source": "linkedin"
+ },
+ "835a0e9ffb45707a05bc2debab9fad13": {
+  "first_seen": 1784181794.799749,
+  "title": "Ingénieur(e) Algorithmes de Navigation Aéronautique F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
   "source": "linkedin"
  }
 }
