@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784197969.9696338,
+   "last_success": 1784199763.521052,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784197969.9696398,
+   "last_success": 1784199763.5210578,
    "alerted": false
   }
  },
@@ -6937,6 +6937,24 @@
   "first_seen": 1784197969.9704492,
   "title": "[Stage] Développeur Full Stack H/F",
   "company": "KONCRETE",
+  "source": "linkedin"
+ },
+ "7468a115726c4ec70527fc4cd284941f": {
+  "first_seen": 1784199763.5214884,
+  "title": "Founders Associate - Alternance/Stage - Paris 8",
+  "company": "Mister IA",
+  "source": "linkedin"
+ },
+ "59cdbc935c9f54eef2f55b405dd8610e": {
+  "first_seen": 1784199763.5215073,
+  "title": "Stage Consultant IA & Business Transformation F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "8cd59bef4372ef831c7abdde40dd2981": {
+  "first_seen": 1784199763.5215194,
+  "title": "Stagiaire de fin d’études – Junior Innovation & Emerging Tech Officer F/H",
+  "company": "Deloitte",
   "source": "linkedin"
  }
 }
