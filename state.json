@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784204504.978286,
+   "last_success": 1784205173.001889,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784204504.978292,
+   "last_success": 1784205173.0018935,
    "alerted": false
   }
  },
@@ -7063,6 +7063,18 @@
   "first_seen": 1784204504.9786174,
   "title": "Stage    -     Stage Fin d’études /  Ingénieur innovation en informatique, sciences des données  - Paris, France  (H/F)",
   "company": "Astek",
+  "source": "linkedin"
+ },
+ "5346a31c779a9c5905068e15b1d39568": {
+  "first_seen": 1784205173.0021503,
+  "title": "Data Scientist en Risk Management",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "8e845f029a746cf7e357041a61ff959d": {
+  "first_seen": 1784205173.0021713,
+  "title": "Forward-Deployed Data Scientist II",
+  "company": "Braze",
   "source": "linkedin"
  }
 }
