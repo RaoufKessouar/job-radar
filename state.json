@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784208763.2316732,
+   "last_success": 1784210569.4893007,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784208763.23168,
+   "last_success": 1784210569.489307,
    "alerted": false
   }
  },
@@ -7129,6 +7129,12 @@
   "first_seen": 1784208763.2323875,
   "title": "Internship High-speed optical communications",
   "company": "Nokia",
+  "source": "linkedin"
+ },
+ "c4fd2c6dc634e35534a89d6ba05c526f": {
+  "first_seen": 1784210569.4896326,
+  "title": "Alternant(e) Développeur React Native - App Mobile ULTEAM",
+  "company": "ULTEAM",
   "source": "linkedin"
  }
 }
