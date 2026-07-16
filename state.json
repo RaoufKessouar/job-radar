@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784224985.4900596,
+   "last_success": 1784226777.5952716,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784224985.4900646,
+   "last_success": 1784226777.5952775,
    "alerted": false
   }
  },
@@ -7435,6 +7435,84 @@
   "first_seen": 1784224985.4905894,
   "title": "Senior ML Engineer",
   "company": "Voodoo",
+  "source": "linkedin"
+ },
+ "392215a906dcf912095cc66ff0ddd510": {
+  "first_seen": 1784226777.5958145,
+  "title": "Ingénieur DevOps IA/LLM Apprenticeship h/f",
+  "company": "AXA Group Operations",
+  "source": "linkedin"
+ },
+ "e5aa17196b93232104cf159da8c99df0": {
+  "first_seen": 1784226777.5961912,
+  "title": "Ingénieur·e IVVQ Systèmes / Logiciels (H/F)",
+  "company": "SII Group Switzerland",
+  "source": "linkedin"
+ },
+ "fa829826b5609813b74237e872d60d01": {
+  "first_seen": 1784226777.5962133,
+  "title": "Software Engineer",
+  "company": "Animaj",
+  "source": "linkedin"
+ },
+ "fa1d1cc35e7b0b656c442163a73d7e25": {
+  "first_seen": 1784226777.5962238,
+  "title": "Solution Manager Robots H/F",
+  "company": "innov8 Group",
+  "source": "linkedin"
+ },
+ "828af18829381663888c1c2996e09be6": {
+  "first_seen": 1784226777.596229,
+  "title": "Manager, Software Engineering (France)",
+  "company": "AMETEK",
+  "source": "linkedin"
+ },
+ "9081a9ace9456dd79b51441ebec1b1be": {
+  "first_seen": 1784226777.5962355,
+  "title": "Architecte Controle Commande Simulink F/H",
+  "company": "KNDS France",
+  "source": "linkedin"
+ },
+ "6437fb8c283f1c7fdb752d33fc415e28": {
+  "first_seen": 1784226777.5962408,
+  "title": "Développeur Web H/F",
+  "company": "Xerfi",
+  "source": "linkedin"
+ },
+ "7f35ede1fdb5336e1245b9c83426f0e2": {
+  "first_seen": 1784226777.5962472,
+  "title": "Ingénieur développement logiciel python - énergie H/F",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "2dbd620adc283adda0b31f6a69e6e8ab": {
+  "first_seen": 1784226777.5962536,
+  "title": "Automaticien Itinérant H/F",
+  "company": "B-Hive Engineering",
+  "source": "linkedin"
+ },
+ "84f1f9833e68e02d4470d7fc15f0b355": {
+  "first_seen": 1784226777.5962603,
+  "title": "Lead Développeur Go - Paris - H/F",
+  "company": "Groupe iliad",
+  "source": "linkedin"
+ },
+ "4a4777697030fea0e39aa31aae39ed21": {
+  "first_seen": 1784226777.5962672,
+  "title": "Ingénieur-e système EMA (actionneur électromécanique) F/H",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "4d4f981617e298a49d1ad055e1da93a4": {
+  "first_seen": 1784226777.5962749,
+  "title": "Ingénieur QA Pytest & Linux H/F",
+  "company": "Plateforme des données de santé",
+  "source": "linkedin"
+ },
+ "4b5145072b559a228a0cabb571b92998": {
+  "first_seen": 1784226777.5962813,
+  "title": "RESPONSABLE DE BANC ELECTRIQUE (H/F)",
+  "company": "FLYING WHALES",
   "source": "linkedin"
  }
 }
