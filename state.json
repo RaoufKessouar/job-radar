@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784206978.8161917,
+   "last_success": 1784208763.2316732,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784206978.8161976,
+   "last_success": 1784208763.23168,
    "alerted": false
   }
  },
@@ -7087,6 +7087,48 @@
   "first_seen": 1784206978.8168514,
   "title": "IA & Transformation des usages Apprentice",
   "company": "Pixid",
+  "source": "linkedin"
+ },
+ "9ea5012d1e1644149e54919113c45b4d": {
+  "first_seen": 1784208763.2320874,
+  "title": "Lead Data Scientist GenAI",
+  "company": "Kaino",
+  "source": "linkedin"
+ },
+ "1e9efaeced44fe8355698059dd990500": {
+  "first_seen": 1784208763.2322724,
+  "title": "Ingénieur Logiciel Embarqué C/C++ H/F",
+  "company": "Expleo Group",
+  "source": "linkedin"
+ },
+ "ad11f1071d7ddfec4dad44fe5db9092b": {
+  "first_seen": 1784208763.2323115,
+  "title": "Ingénieur développement C embarqué H/F",
+  "company": "Expleo Group",
+  "source": "linkedin"
+ },
+ "4e5ee705772c44f5de3f1efac6789c25": {
+  "first_seen": 1784208763.2323396,
+  "title": "Ingénieur Développement Logiciel Bancs de Tests H/F",
+  "company": "CEA",
+  "source": "linkedin"
+ },
+ "248f3ad45d577cf48aba3552f769653d": {
+  "first_seen": 1784208763.2323463,
+  "title": "Ingénieur Système H/F",
+  "company": "Akkodis",
+  "source": "linkedin"
+ },
+ "fc7f6b1c9d47d331bf5c2738c71b23ce": {
+  "first_seen": 1784208763.2323556,
+  "title": "Ingénieur-e Système - Fonctions Avancées de Perception F/H",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "d5caa2ddef89e7bc2ed8c43c6d5887f8": {
+  "first_seen": 1784208763.2323875,
+  "title": "Internship High-speed optical communications",
+  "company": "Nokia",
   "source": "linkedin"
  }
 }
