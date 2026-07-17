@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784273550.5364084,
+   "last_success": 1784275368.7288656,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784273550.5364146,
+   "last_success": 1784275368.72887,
    "alerted": false
   }
  },
@@ -7735,6 +7735,36 @@
   "first_seen": 1784271771.8373847,
   "title": "STAGE - Stagiaire Chargé de communication corporate (F/H)",
   "company": "Havas",
+  "source": "linkedin"
+ },
+ "23d5d35920c60de00a85d9e3df7ebc49": {
+  "first_seen": 1784275368.7291079,
+  "title": "Stage (6mois) - Data Analyst H/F",
+  "company": "autobiz France",
+  "source": "linkedin"
+ },
+ "45aece74d2211b14368437be106259de": {
+  "first_seen": 1784275368.7291958,
+  "title": "Alternance - Data Analyst - Corporate - Septembre 2026 - F/H/X",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "dea02ca25dacd73b2157e32282df7632": {
+  "first_seen": 1784275368.7292137,
+  "title": "Stagiaire Data Analyst (F/H)",
+  "company": "SVP",
+  "source": "linkedin"
+ },
+ "54e5f6088449056becfcc77e5e2753c3": {
+  "first_seen": 1784275368.7292926,
+  "title": "Transport, Infrastructure, Manufacturing & Energy - Stage de fin d'études/Alternance",
+  "company": "Wavestone",
+  "source": "linkedin"
+ },
+ "2bfd8c9d382e7e467ae9d94ec01b28b5": {
+  "first_seen": 1784275368.7293494,
+  "title": "AI / ML Engineer",
+  "company": "Skaleet",
   "source": "linkedin"
  }
 }
