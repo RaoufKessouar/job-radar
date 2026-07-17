@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784293365.7372792,
+   "last_success": 1784295150.410628,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784293365.7372847,
+   "last_success": 1784295150.410634,
    "alerted": false
   }
  },
@@ -7999,6 +7999,60 @@
   "first_seen": 1784293365.738032,
   "title": "Ingénieur.e Data Scientist - Imagerie médicale",
   "company": "SOLENT SAS",
+  "source": "linkedin"
+ },
+ "8dfcb0aaec1ab3315424c21ac94fc9c2": {
+  "first_seen": 1784295150.410888,
+  "title": "Data Scientist H/F - Paris",
+  "company": "AVISIA",
+  "source": "linkedin"
+ },
+ "3e02ae8152e77e03f460311b63ef1476": {
+  "first_seen": 1784295150.4109516,
+  "title": "Data Scientist Senior H/F",
+  "company": "NEXTON",
+  "source": "linkedin"
+ },
+ "ea9a620c261ea8c8d43bb81b8548481e": {
+  "first_seen": 1784295150.4110174,
+  "title": "KERING Data Analyst Intern",
+  "company": "Kering",
+  "source": "linkedin"
+ },
+ "00ec67daedd2e12b6770f293ceeafe76": {
+  "first_seen": 1784295150.4110334,
+  "title": "ALTERNANCE - Ingénieure / Ingénieur en analyse et traitement de données avec intégration d’IA par pipeline et gestion de",
+  "company": "ArianeGroup",
+  "source": "linkedin"
+ },
+ "a17af5544f5d8b125b0b2e70ca46ea2a": {
+  "first_seen": 1784295150.4110854,
+  "title": "Data analyst activité, process, population client H/F",
+  "company": "CNAM",
+  "source": "linkedin"
+ },
+ "c66c690e7f744794d464f38a2828122b": {
+  "first_seen": 1784295150.4110985,
+  "title": "Stage - Assistant Client Intelligence Analyst - Mode EUROPE - Janvier 2027 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin"
+ },
+ "1ccba39278257fbd4577a3cd5ccf435e": {
+  "first_seen": 1784295150.4111035,
+  "title": "AI Engineer Senior",
+  "company": "Agorastore",
+  "source": "linkedin"
+ },
+ "f123a36008384bb1d54b9926670dda0a": {
+  "first_seen": 1784295150.4111104,
+  "title": "Assistant Analyste Business et Market Intelligence - H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin"
+ },
+ "58a6cb7917b34f2b7c2f755d50acdcf4": {
+  "first_seen": 1784295150.4111178,
+  "title": "Analytics Engineer - Pricing data (f/m/d)",
+  "company": "Decathlon Digital",
   "source": "linkedin"
  }
 }
