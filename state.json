@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784304176.43459,
+   "last_success": 1784305937.5337436,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784304176.4345963,
+   "last_success": 1784305937.5337486,
    "alerted": false
   }
  },
@@ -8251,6 +8251,12 @@
   "first_seen": 1784304176.4354172,
   "title": "Data Science Consultant Intern (H/F)",
   "company": "fifty-five",
+  "source": "linkedin"
+ },
+ "29f58401cbeb5bdd405dd3a75ba60978": {
+  "first_seen": 1784305937.534031,
+  "title": "Data Scientist H/F",
+  "company": "Klee Group",
   "source": "linkedin"
  }
 }
