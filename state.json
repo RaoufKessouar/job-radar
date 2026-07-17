@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784307758.097077,
+   "last_success": 1784308486.413701,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784307758.0970848,
+   "last_success": 1784308486.4137075,
    "alerted": false
   }
  },
@@ -8257,6 +8257,48 @@
   "first_seen": 1784305937.534031,
   "title": "Data Scientist H/F",
   "company": "Klee Group",
+  "source": "linkedin"
+ },
+ "873e6ca73bdf8eabff1cbb90a4e0ee42": {
+  "first_seen": 1784308486.4142249,
+  "title": "Développeur.euse IA senior H/F",
+  "company": "Kicklox",
+  "source": "linkedin"
+ },
+ "a0a1bb5d31cb1189c32921634e04f609": {
+  "first_seen": 1784308486.414266,
+  "title": "Manager - Data & AI engineer (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin"
+ },
+ "3226ebededbe7dfc16562f65b14d5ed8": {
+  "first_seen": 1784308486.4142811,
+  "title": "Responsable de projets Gen-AI -  F/H",
+  "company": "MBDA",
+  "source": "linkedin"
+ },
+ "2ff4b36fecd645f3d6b794609856bc50": {
+  "first_seen": 1784308486.414362,
+  "title": "Senior/Staff Machine Learning Engineer",
+  "company": "Vestiaire Collective",
+  "source": "linkedin"
+ },
+ "410f1aed36596f7c26da7fd5254994f8": {
+  "first_seen": 1784308486.414386,
+  "title": "AI Software Engineer",
+  "company": "Beamy",
+  "source": "linkedin"
+ },
+ "f1dcd0fcabc32cb507951bf1b3e3578a": {
+  "first_seen": 1784308486.414394,
+  "title": "Fullstack developer (H/F) - Business Automation - Stage - Paris",
+  "company": "papernest",
+  "source": "linkedin"
+ },
+ "b4a376dfed2a9ef233eb956885a9830f": {
+  "first_seen": 1784308486.4144504,
+  "title": "Customer Solutions Engineer - Stage de 6 mois - Septembre 2026 - Paris (F/H/X)",
+  "company": "Deepki",
   "source": "linkedin"
  }
 }
