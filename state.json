@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784296959.7635734,
+   "last_success": 1784298749.2764237,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784296959.7635787,
+   "last_success": 1784298749.27643,
    "alerted": false
   }
  },
@@ -8071,6 +8071,48 @@
   "first_seen": 1784296959.7639525,
   "title": "Member of Technical Staff",
   "company": "Medal",
+  "source": "linkedin"
+ },
+ "b62262c12d215f4fe3ed392b740a19c8": {
+  "first_seen": 1784298749.2766848,
+  "title": "Stage TFE – Chargé de développement application eco2VE F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin"
+ },
+ "ff13bc36dff338377e5ee23049098e2a": {
+  "first_seen": 1784298749.2766957,
+  "title": "Stage - Sustainable Performance Data Analyst (F/H/X)",
+  "company": "Accor",
+  "source": "linkedin"
+ },
+ "39d5f67d2fdf648d4bc66aec1f26cc1c": {
+  "first_seen": 1784298749.2767136,
+  "title": "Stagiaire Analyste Etudes Trafic & Revenus – Mobilité & Data",
+  "company": "VINCI",
+  "source": "linkedin"
+ },
+ "5cb45ed2855f104ebaad5947370ab7e5": {
+  "first_seen": 1784298749.2767692,
+  "title": "Data Scientist Senior H/F  - Paris",
+  "company": "AVISIA",
+  "source": "linkedin"
+ },
+ "0fd12cfec63e2ca7779400c90bfc118f": {
+  "first_seen": 1784298749.2769442,
+  "title": "Stagiaire IA & Opérations",
+  "company": "IDEMIA Public Security",
+  "source": "linkedin"
+ },
+ "b595139bccb42411c8551d9857c8b5ec": {
+  "first_seen": 1784298749.2769866,
+  "title": "Développeur informatique junior (stage)",
+  "company": "Fitle",
+  "source": "linkedin"
+ },
+ "b1f38f211e2562885838a59f725b6fb6": {
+  "first_seen": 1784298749.277022,
+  "title": "ML Manager - Paris 🇫🇷",
+  "company": "DentalMonitoring",
   "source": "linkedin"
  }
 }
