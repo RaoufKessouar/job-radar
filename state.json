@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784308486.413701,
+   "last_success": 1784309561.692937,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784308486.4137075,
+   "last_success": 1784309561.692943,
    "alerted": false
   }
  },
@@ -8299,6 +8299,60 @@
   "first_seen": 1784308486.4144504,
   "title": "Customer Solutions Engineer - Stage de 6 mois - Septembre 2026 - Paris (F/H/X)",
   "company": "Deepki",
+  "source": "linkedin"
+ },
+ "d27d9998d8d5e2bcf43daf7f68859002": {
+  "first_seen": 1784309561.6933186,
+  "title": "Final Year Internship Consultant - Data Analyst",
+  "company": "Sia",
+  "source": "linkedin"
+ },
+ "a59c68c1dd2ef5b99a346f8e30e6ecba": {
+  "first_seen": 1784309561.6933796,
+  "title": "Chargé d'études statistiques Junior F/H",
+  "company": "Groupe ADSN",
+  "source": "linkedin"
+ },
+ "46e51e45082b22434b3c2183c44d2ee3": {
+  "first_seen": 1784309561.6934006,
+  "title": "Research Engineer - Embodied World Models",
+  "company": "UMA",
+  "source": "linkedin"
+ },
+ "e35b09576706567ba91464fb0b349fb8": {
+  "first_seen": 1784309561.6934164,
+  "title": "Alternance - 2 ans - Data analyst F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin"
+ },
+ "37befc6d77a05d1738502130ab24c120": {
+  "first_seen": 1784309561.693443,
+  "title": "IT Quant",
+  "company": "QUANTEAM (RAINBOW PARTNERS Group)",
+  "source": "linkedin"
+ },
+ "f4b9c35d684a96362fc445e2e9ebdab1": {
+  "first_seen": 1784309561.6936224,
+  "title": "Stage - 6 mois - Digital Solutions Trade Finance - F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin"
+ },
+ "979e4366ee101ff9edded807d588deff": {
+  "first_seen": 1784309561.693627,
+  "title": "EMS Engineer Intern",
+  "company": "Akuo",
+  "source": "linkedin"
+ },
+ "b8e120c5a2e4033db14706f83c21bb9d": {
+  "first_seen": 1784309561.6936517,
+  "title": "AI Research Lead (PhD)",
+  "company": "CityZeen",
+  "source": "linkedin"
+ },
+ "081f4bb17511c50d0b394694ba84811d": {
+  "first_seen": 1784309561.6936584,
+  "title": "apprenticeship 24 months – digital product owner",
+  "company": "Sanofi",
   "source": "linkedin"
  }
 }
