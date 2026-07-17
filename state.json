@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784314936.3073163,
+   "last_success": 1784316762.483072,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784314936.307323,
+   "last_success": 1784316762.483077,
    "alerted": false
   }
  },
@@ -8479,6 +8479,102 @@
   "first_seen": 1784314936.3075945,
   "title": "Data Scientist",
   "company": "FRANFINANCE",
+  "source": "linkedin"
+ },
+ "a62a7553ce57b7065234ed4313ba4399": {
+  "first_seen": 1784316762.483599,
+  "title": "CTO / Founding AI Engineer",
+  "company": "Marianne Education",
+  "source": "linkedin"
+ },
+ "6a72468ab9dd5ee3d305b17051a46f8d": {
+  "first_seen": 1784316762.4836106,
+  "title": "Consultant.e Data H/F — Cabinet de conseil en stratégie & data (Paris)",
+  "company": "MP Recruiting",
+  "source": "linkedin"
+ },
+ "f63043e0966ab1ac67b6d6bc95a21683": {
+  "first_seen": 1784316762.4836326,
+  "title": "Stagiaire analyste opérations F/H",
+  "company": "VINCI",
+  "source": "linkedin"
+ },
+ "a19326229725510716e2b5fad3d53ef1": {
+  "first_seen": 1784316762.4837284,
+  "title": "Ingénieur Linux Embarqué & Yocto / Buildroot H/F",
+  "company": "Smile",
+  "source": "linkedin"
+ },
+ "dc89e9940ffaef9e4b40a408f5c2077f": {
+  "first_seen": 1784316762.4837868,
+  "title": "Ingénieur(e) logiciel F/H",
+  "company": "CGI",
+  "source": "linkedin"
+ },
+ "0a3faf76327a382df1760363f91aeb81": {
+  "first_seen": 1784316762.483795,
+  "title": "Ingénieur(e) test et validation software embarqué - Secteur médical",
+  "company": "TerX",
+  "source": "linkedin"
+ },
+ "be83093c4dafa68ef4e0fb1dceb2f5c5": {
+  "first_seen": 1784316762.483801,
+  "title": "Architecte Logiciel essaim de drones F.H",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "d549261eaa647fe6800478c6e436ed05": {
+  "first_seen": 1784316762.483819,
+  "title": "Developer Apprentice",
+  "company": "Finastra",
+  "source": "linkedin"
+ },
+ "5bae02b87f7ff089026bee8d13a9d773": {
+  "first_seen": 1784316762.4838269,
+  "title": "Développeur Logiciel Algorithmes des Systèmes d&apos;Arme F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin"
+ },
+ "d5a09d0e69c0e34b194064dcc3f29f47": {
+  "first_seen": 1784316762.483835,
+  "title": "Ingénieur·e Intégration & Validation Logicielle (H/F) – Défense",
+  "company": "SII Group Switzerland",
+  "source": "linkedin"
+ },
+ "de17036a7d4f139a26d1a5c8c09ed7e9": {
+  "first_seen": 1784316762.4838436,
+  "title": "Technicien R&D F/H",
+  "company": "VINCI",
+  "source": "linkedin"
+ },
+ "acc7179995ba8d1be4493ffaf5e0cb39": {
+  "first_seen": 1784316762.4838512,
+  "title": "Ingénieur en Tests Unitaires / Validation Logicielle F/H",
+  "company": "Randstad Digital France",
+  "source": "linkedin"
+ },
+ "40cd9808274ad03c7a09cf94e125586f": {
+  "first_seen": 1784316762.4838572,
+  "title": "Ingénieur Automatisation F/H",
+  "company": "Freyssinet",
+  "source": "linkedin"
+ },
+ "56fe13522d0068cf72cf9c326282bcf7": {
+  "first_seen": 1784316762.4838636,
+  "title": "INGENIEUR VALIDATION ELECTRIQUE/ELECTRONIQUE F/H",
+  "company": "Emitech Group",
+  "source": "linkedin"
+ },
+ "2263d1994a19a04bb71e69e91aed26be": {
+  "first_seen": 1784316762.4838688,
+  "title": "Research Scientist - Embodied World Models",
+  "company": "UMA",
+  "source": "linkedin"
+ },
+ "472984c21bfb3d703aebb912d7e60968": {
+  "first_seen": 1784316762.483876,
+  "title": "System Engineering Intern – Functional Sequencing & Data Consistency",
+  "company": "MaiaSpace",
   "source": "linkedin"
  }
 }
