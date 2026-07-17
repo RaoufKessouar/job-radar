@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784264547.8887026,
+   "last_success": 1784266333.1210938,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784264547.8887079,
+   "last_success": 1784266333.1210995,
    "alerted": false
   }
  },
@@ -7621,6 +7621,12 @@
   "first_seen": 1784264547.8891773,
   "title": "Internship — Multimodal Perception and Sensor Fusion for Robotics (6-12 months)",
   "company": "PROPHESEE",
+  "source": "linkedin"
+ },
+ "97b67de02773e757730d7c2bf67c2d33": {
+  "first_seen": 1784266333.1214712,
+  "title": "Data scientist",
+  "company": "ENGIE - International Supply & Energy Management",
   "source": "linkedin"
  }
 }
