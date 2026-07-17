@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784269954.6782014,
+   "last_success": 1784271771.8366485,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784269954.678207,
+   "last_success": 1784271771.8366544,
    "alerted": false
   }
  },
@@ -7669,6 +7669,72 @@
   "first_seen": 1784269954.6789799,
   "title": "INGÉNIEUR FPGA Bureau d'études (H/F)",
   "company": "SERMA Ingénierie",
+  "source": "linkedin"
+ },
+ "5c558f887af752ae370890d29290d5d1": {
+  "first_seen": 1784271771.8372471,
+  "title": "Consultant “AI Booster” en mission de transformation",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "c4d7eff12e020d76db6444d989c0336a": {
+  "first_seen": 1784271771.8372772,
+  "title": "Stage développeur C#/.NET H/F",
+  "company": "All Virtual",
+  "source": "linkedin"
+ },
+ "3f00b2d01212586fb0e5de7527c413bb": {
+  "first_seen": 1784271771.8372834,
+  "title": "Solution Area Specialists Apprentice",
+  "company": "Microsoft",
+  "source": "linkedin"
+ },
+ "cf5b4ab80ba16d10d89b494b92a28e7d": {
+  "first_seen": 1784271771.8373213,
+  "title": "Senior Deep Learning Scientist – Acoustic (H/F)",
+  "company": "Safran.AI (ex Preligens)",
+  "source": "linkedin"
+ },
+ "8402b402bdb0725ebe4e8bcb6a1294fa": {
+  "first_seen": 1784271771.8373277,
+  "title": "AI Engineering / Agentic AI Engineering Senior Manager",
+  "company": "Accenture",
+  "source": "linkedin"
+ },
+ "91cdcbfd3fb813a6cf925938e43d41f5": {
+  "first_seen": 1784271771.8373373,
+  "title": "Stage - Assistant Développement & Industrialisation Matières Accessoires (H/F)",
+  "company": "Maison Alaïa",
+  "source": "linkedin"
+ },
+ "dd777ef1de2ba82edd5830f70d75c7b0": {
+  "first_seen": 1784271771.8373454,
+  "title": "Stage/Alternance - Ingénieur(e) Assistance Technique (H/F)",
+  "company": "Dahua Technology France",
+  "source": "linkedin"
+ },
+ "3ede46905ff314bebb644f965e12de76": {
+  "first_seen": 1784271771.8373508,
+  "title": "Full-Stack & Web Engineer - Internship",
+  "company": "Initiativ",
+  "source": "linkedin"
+ },
+ "12e38116c81c95e142a8bdcb0024e1a3": {
+  "first_seen": 1784271771.8373592,
+  "title": "STAGIAIRE",
+  "company": "Cartier",
+  "source": "linkedin"
+ },
+ "f20c078dd1ff036a09dccce2c5f72893": {
+  "first_seen": 1784271771.8373716,
+  "title": "STAGE - Stagiaire Chargé de contenu (H/F)",
+  "company": "L'Agence Verte",
+  "source": "linkedin"
+ },
+ "842630fdcea74d4f45e41caf0ba3fe05": {
+  "first_seen": 1784271771.8373847,
+  "title": "STAGE - Stagiaire Chargé de communication corporate (F/H)",
+  "company": "Havas",
   "source": "linkedin"
  }
 }
