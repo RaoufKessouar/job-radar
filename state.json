@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784275368.7288656,
+   "last_success": 1784275975.5576615,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784275368.72887,
+   "last_success": 1784275975.5576675,
    "alerted": false
   }
  },
@@ -7765,6 +7765,36 @@
   "first_seen": 1784275368.7293494,
   "title": "AI / ML Engineer",
   "company": "Skaleet",
+  "source": "linkedin"
+ },
+ "c45311d61c4cb0de1f10143583fd348a": {
+  "first_seen": 1784275975.557955,
+  "title": "Data & AI Specialist",
+  "company": "sunday",
+  "source": "linkedin"
+ },
+ "1839737852b358475a185f080b5739ee": {
+  "first_seen": 1784275975.558157,
+  "title": "Statisticien(ne) accidents de travail et maladies professionnelles",
+  "company": "CNAM",
+  "source": "linkedin"
+ },
+ "e85f835178bc4c8e2d3fc83f99b5bb4d": {
+  "first_seen": 1784275975.558167,
+  "title": "Alternance / Stage - Analyse de données juridiques et investigations numériques (E-Discovery) F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "4eede08cfef965f9e2cbd14660018ac8": {
+  "first_seen": 1784275975.5581717,
+  "title": "Analytics Engineer",
+  "company": "ELECTRA",
+  "source": "linkedin"
+ },
+ "025503c7c4255a27a552b74998fdca53": {
+  "first_seen": 1784275975.5582962,
+  "title": "Ingénieur-e Électronique Embarquée Junior  Architectures Numériques pour Autodirecteurs & Missiles F/H - SAFRAN ELECTRO",
+  "company": "AEROCONTACT",
   "source": "linkedin"
  }
 }
