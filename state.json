@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784233951.063251,
+   "last_success": 1784264547.8887026,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784233951.0632565,
+   "last_success": 1784264547.8887079,
    "alerted": false
   }
  },
@@ -7591,6 +7591,36 @@
   "first_seen": 1784233951.06383,
   "title": "Director, Reinforcement Learning & Agentic Post-Training",
   "company": "Blue Yonder",
+  "source": "linkedin"
+ },
+ "44fb67830a7b8064db6c3e4233ca85dc": {
+  "first_seen": 1784264547.8888829,
+  "title": "Data Scientist en Risk Management",
+  "company": "Société Générale",
+  "source": "wttj"
+ },
+ "56f7d7c83e8ab21dc3d10ffc7ad8e8bf": {
+  "first_seen": 1784264547.8890004,
+  "title": "Artificial Intelligence (AI) Engineer",
+  "company": "Milliman",
+  "source": "linkedin"
+ },
+ "ec4f8726283ce8f373bab4502729e21d": {
+  "first_seen": 1784264547.8890078,
+  "title": "Ingénieur Intelligence Artificielle H/F",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "eba1357f0a8429146190c1e586d5a219": {
+  "first_seen": 1784264547.889159,
+  "title": "Internship / Master project - Robotics and AI computer vision for healthcare",
+  "company": "Opifer Robotics",
+  "source": "linkedin"
+ },
+ "22ce9877e4d9a1aa661c419e8e2209e9": {
+  "first_seen": 1784264547.8891773,
+  "title": "Internship — Multimodal Perception and Sensor Fusion for Robotics (6-12 months)",
+  "company": "PROPHESEE",
   "source": "linkedin"
  }
 }
