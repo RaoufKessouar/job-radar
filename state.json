@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784302327.674623,
+   "last_success": 1784304176.43459,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784302327.6746285,
+   "last_success": 1784304176.4345963,
    "alerted": false
   }
  },
@@ -8143,6 +8143,114 @@
   "first_seen": 1784302327.6750755,
   "title": "Ingénieur Machine Learning  – IA Conversationnelle & Voicebot",
   "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "f8e1018551773953b0cb8e307c59a887": {
+  "first_seen": 1784304176.4350839,
+  "title": "Ingénieur Data Science (F/H/X)",
+  "company": "Epsilon France",
+  "source": "linkedin"
+ },
+ "678b4d7e7307b51bb1f228db47a60e50": {
+  "first_seen": 1784304176.4351165,
+  "title": "Machine Learning Engineer (H/F) - 75 (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "1775449e5e6cc1c861d388c8dba34825": {
+  "first_seen": 1784304176.4351466,
+  "title": "Research Engineer / Scientist, Post-training - Paris",
+  "company": "H Company",
+  "source": "linkedin"
+ },
+ "b352b603d1d51bcd138cf785a8ea4191": {
+  "first_seen": 1784304176.4351625,
+  "title": "Apprenti.e data analyst F/H",
+  "company": "Groupe Caisse des Dépôts",
+  "source": "linkedin"
+ },
+ "79f6db3fb3abcc3994a20801bf576c98": {
+  "first_seen": 1784304176.435174,
+  "title": "Ingénieur-e IA/ML simulation multiphysique et optimisation F/H",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "c91bceb0059d38c1a2754835c668e02c": {
+  "first_seen": 1784304176.435218,
+  "title": "Consultant - CIO, Data & AI Advisory",
+  "company": "Sia",
+  "source": "linkedin"
+ },
+ "758a6fa201d3390cae7338f00ab03e6f": {
+  "first_seen": 1784304176.4352236,
+  "title": "Forward Deployed Engineer",
+  "company": "Cleo Labs",
+  "source": "linkedin"
+ },
+ "eb9f0ac7eb75a4f09e1f33ccb0504036": {
+  "first_seen": 1784304176.4352286,
+  "title": "Data Analyst",
+  "company": "ENGIE",
+  "source": "linkedin"
+ },
+ "e0b148b3afc28cb6685105f52c22cdea": {
+  "first_seen": 1784304176.4352345,
+  "title": "Consultant Avant-Vente & Delivery IA - F/H",
+  "company": "Bull",
+  "source": "linkedin"
+ },
+ "704ef190c4a30c8d77977807ebc7b9b2": {
+  "first_seen": 1784304176.4352808,
+  "title": "Senior AI Agent Engineer – Moveworks | Customer Deployment",
+  "company": "ServiceNow",
+  "source": "linkedin"
+ },
+ "454213104ee6d4a81021fb6922bb263b": {
+  "first_seen": 1784304176.4352927,
+  "title": "Business & Strategy Analyst - H/F",
+  "company": "BNP Paribas",
+  "source": "linkedin"
+ },
+ "70c9795363b1079ea1f43afec55d039a": {
+  "first_seen": 1784304176.435308,
+  "title": "Programmer Assistant - Alternance (F/H/NB)",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin"
+ },
+ "326326875a3d57ac035753f6f2507d8e": {
+  "first_seen": 1784304176.4353237,
+  "title": "Stage « Chargé(e) de projets digitaux » (H/F)",
+  "company": "BNP Paribas Real Estate",
+  "source": "linkedin"
+ },
+ "a55ddbc568af36b55ce858b482f01114": {
+  "first_seen": 1784304176.4353318,
+  "title": "Senior Applied Artificial Intelligence (AI) Engineer (Insurance Domain Experience)",
+  "company": "Milliman",
+  "source": "linkedin"
+ },
+ "e569a7ae912aea5f5bdc51c1ef11a1db": {
+  "first_seen": 1784304176.4353378,
+  "title": "Tech Lead Full Stack et IA",
+  "company": "Bpifrance",
+  "source": "linkedin"
+ },
+ "c252327845f680f0772c34a71c1b9c0b": {
+  "first_seen": 1784304176.4353614,
+  "title": "STAGE – Ingénieur Développement et intégration d'un outil IA dans une chaine MLOPS (H/F) – 6 mois",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "38f1f498a47193cbba54593417990c75": {
+  "first_seen": 1784304176.435391,
+  "title": "Data Scientist Senior",
+  "company": "Damae Medical",
+  "source": "linkedin"
+ },
+ "c0b90a604e4cda70753e54bd086eb7b2": {
+  "first_seen": 1784304176.4354172,
+  "title": "Data Science Consultant Intern (H/F)",
+  "company": "fifty-five",
   "source": "linkedin"
  }
 }
