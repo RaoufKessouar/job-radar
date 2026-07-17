@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784298749.2764237,
+   "last_success": 1784300539.5201378,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784298749.27643,
+   "last_success": 1784300539.5201442,
    "alerted": false
   }
  },
@@ -8113,6 +8113,18 @@
   "first_seen": 1784298749.277022,
   "title": "ML Manager - Paris 🇫🇷",
   "company": "DentalMonitoring",
+  "source": "linkedin"
+ },
+ "c6ee62860302dfbe8984a964bd909521": {
+  "first_seen": 1784300539.5204296,
+  "title": "Data Scientist Junior (F/M) F/H",
+  "company": "VINCI",
+  "source": "linkedin"
+ },
+ "034a7dfe2c78169fca5837e7a11a6c07": {
+  "first_seen": 1784300539.520479,
+  "title": "Stage Innovation : Ingénieur Intelligence Artificielle / Computer Vision",
+  "company": "ALTEN",
   "source": "linkedin"
  }
 }
