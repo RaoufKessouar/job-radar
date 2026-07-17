@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784295150.410628,
+   "last_success": 1784296959.7635734,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784295150.410634,
+   "last_success": 1784296959.7635787,
    "alerted": false
   }
  },
@@ -8053,6 +8053,24 @@
   "first_seen": 1784295150.4111178,
   "title": "Analytics Engineer - Pricing data (f/m/d)",
   "company": "Decathlon Digital",
+  "source": "linkedin"
+ },
+ "0685e6182bba6fef2ff636027044c5b1": {
+  "first_seen": 1784296959.7639034,
+  "title": "AI Engineer Intern",
+  "company": "Nodalview",
+  "source": "linkedin"
+ },
+ "bc9450bb3e96f0e1b22e03e588b3acdc": {
+  "first_seen": 1784296959.7639155,
+  "title": "Data Scientist - H/F/NB",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin"
+ },
+ "4ccf012f81d1b348faeddba58d7eb53f": {
+  "first_seen": 1784296959.7639525,
+  "title": "Member of Technical Staff",
+  "company": "Medal",
   "source": "linkedin"
  }
 }
