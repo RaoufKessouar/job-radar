@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784311348.2273414,
+   "last_success": 1784313159.3853977,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784311348.2273474,
+   "last_success": 1784313159.3854039,
    "alerted": false
   }
  },
@@ -8365,6 +8365,114 @@
   "first_seen": 1784311348.2277968,
   "title": "Logiciel embarqué / Intégration système F/H",
   "company": "Fondation Bouygues Telecom",
+  "source": "linkedin"
+ },
+ "f88d819233f1257b7280ae855e516f79": {
+  "first_seen": 1784313159.3856547,
+  "title": "STAGE -  Data Analyst F/H - SAFRAN SA (FRANCE)",
+  "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "f5642133aaca3189d5211525878bae6d": {
+  "first_seen": 1784313159.3856742,
+  "title": "Stagiaire Analyste Etudes Trafic & Revenus – Mobilité & Data",
+  "company": "VINCI Concessions",
+  "source": "linkedin"
+ },
+ "74f1b70627dcf0b992dd9815717ee594": {
+  "first_seen": 1784313159.3856916,
+  "title": "Data Scientist F/H/X",
+  "company": "L'olivier Assurance | Admiral Group Plc",
+  "source": "linkedin"
+ },
+ "88b527f95462b754d46eec65a0127670": {
+  "first_seen": 1784313159.3856988,
+  "title": "Data Scientist ML et IA – SG Retail France",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "4c27978cfad1c097f7cf5340ba934f3c": {
+  "first_seen": 1784313159.3857057,
+  "title": "R&D Data Scientist, IA Générative & agentique H/F",
+  "company": "Air Liquide",
+  "source": "linkedin"
+ },
+ "17b7a02c9a5aeec54e51daeed077381d": {
+  "first_seen": 1784313159.3857472,
+  "title": "Assistant analyse et traitement de données",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "52419b3da78c53bf108c11633965d701": {
+  "first_seen": 1784313159.3857985,
+  "title": "Digital Analyst",
+  "company": "RATP Smart Systems",
+  "source": "linkedin"
+ },
+ "726fe4b82d6694d3bdc3376fc3408e19": {
+  "first_seen": 1784313159.385803,
+  "title": "Consultant Data Technico Fonctionnel H/F",
+  "company": "NEXTON",
+  "source": "linkedin"
+ },
+ "0e837fce17cbfd312eeccb677db9d3eb": {
+  "first_seen": 1784313159.3858087,
+  "title": "Assistant Origination / Structuration - Stage F/H",
+  "company": "BRED Banque Populaire",
+  "source": "linkedin"
+ },
+ "3bf1d42355802cd86dc18fecf8a5d92e": {
+  "first_seen": 1784313159.3858156,
+  "title": "STAGE – ASSISTANT(E) PROJETS RETAIL PERFORMANCE – JANVIER 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin"
+ },
+ "3a211c172468786e0497be9d779059d9": {
+  "first_seen": 1784313159.3858206,
+  "title": "Data Analyst (H/F) en alternance",
+  "company": "EUROGROUP CONSULTING",
+  "source": "linkedin"
+ },
+ "e0846080b5e23bee8ebfeb8b68e899ab": {
+  "first_seen": 1784313159.3858256,
+  "title": "AI Platform Engineer (F/H)",
+  "company": "Devoteam",
+  "source": "linkedin"
+ },
+ "4f1853dd3e999fd6c3e475d8091aa2e1": {
+  "first_seen": 1784313159.3858297,
+  "title": "Data Engineer H/F",
+  "company": "Klee Group",
+  "source": "linkedin"
+ },
+ "79d5833ee6b72ccde9749b0e38dc354c": {
+  "first_seen": 1784313159.3858333,
+  "title": "Forward Deployed Engineer",
+  "company": "Lithosquare",
+  "source": "linkedin"
+ },
+ "09a51036c6815ef9d49e1499801cafbc": {
+  "first_seen": 1784313159.3858376,
+  "title": "CDI - Data Manager (H/F)",
+  "company": "Hermès",
+  "source": "linkedin"
+ },
+ "3ff4c91987a1aaf721f1bcc4a1ed1f9e": {
+  "first_seen": 1784313159.3858418,
+  "title": "Stagiaire Business Intelligence & Marketing F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin"
+ },
+ "318f121b4893fb14a4f6b286ee0577bd": {
+  "first_seen": 1784313159.3858478,
+  "title": "Chef de projet Data & IA – H/F",
+  "company": "Onepoint",
+  "source": "linkedin"
+ },
+ "390b445d8d3953d5bd6a135df278a9df": {
+  "first_seen": 1784313159.385867,
+  "title": "Data Scientist Junior (F/M) F/H",
+  "company": "VINCI Airports",
   "source": "linkedin"
  }
 }
