@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784266333.1210938,
+   "last_success": 1784268180.7051702,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784266333.1210995,
+   "last_success": 1784268180.705176,
    "alerted": false
   }
  },
@@ -7627,6 +7627,24 @@
   "first_seen": 1784266333.1214712,
   "title": "Data scientist",
   "company": "ENGIE - International Supply & Energy Management",
+  "source": "linkedin"
+ },
+ "cdb2bdcf0482f0044c1a8de056b709ba": {
+  "first_seen": 1784268180.7058477,
+  "title": "CDI - Ingénieure/Ingénieur en Contrôle d'Attitude",
+  "company": "ArianeGroup",
+  "source": "linkedin"
+ },
+ "7ee7d1107bdf4cdb007edf6116660d48": {
+  "first_seen": 1784268180.7058563,
+  "title": "TECHNICIEN INTEGRATION SYSTEMES DE CONTROLES VEHICULES H/F",
+  "company": "AVANTIS",
+  "source": "linkedin"
+ },
+ "c02a8b48145da3c57a99325d57b8f15d": {
+  "first_seen": 1784268180.7058651,
+  "title": "Ingénieur de recherche en guidage-pilotage (H/F)",
+  "company": "ONERA - The French Aerospace Lab",
   "source": "linkedin"
  }
 }
