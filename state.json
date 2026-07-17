@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784286135.4340973,
+   "last_success": 1784287933.5270462,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784286135.4341385,
+   "last_success": 1784287933.5270524,
    "alerted": false
   }
  },
@@ -7867,6 +7867,24 @@
   "first_seen": 1784286135.4344978,
   "title": "Apprenti(e) développeur en IA",
   "company": "Wabtec Corporation",
+  "source": "linkedin"
+ },
+ "b23f0895db85c316ac2d71f6b962e2cc": {
+  "first_seen": 1784287933.5274923,
+  "title": "Développeur C microcontroller - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "520ceb6ba216a2c3a5692e776692df05": {
+  "first_seen": 1784287933.5275187,
+  "title": "Ingénieur Développement Veristand - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin"
+ },
+ "887654024dca9211abc51d2ac3612c39": {
+  "first_seen": 1784287933.5275402,
+  "title": "Ingénieur-e Développement Logiciel Embarqué F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
   "source": "linkedin"
  }
 }
