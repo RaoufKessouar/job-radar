@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784268180.7051702,
+   "last_success": 1784269954.6782014,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784268180.705176,
+   "last_success": 1784269954.678207,
    "alerted": false
   }
  },
@@ -7645,6 +7645,30 @@
   "first_seen": 1784268180.7058651,
   "title": "Ingénieur de recherche en guidage-pilotage (H/F)",
   "company": "ONERA - The French Aerospace Lab",
+  "source": "linkedin"
+ },
+ "7907a27e7bed9e1dfc19b6c00e2b1816": {
+  "first_seen": 1784269954.6786501,
+  "title": "Ingénieur.e IA",
+  "company": "Tech4KIN",
+  "source": "linkedin"
+ },
+ "2af63bccca6015c6f21f652f3137a973": {
+  "first_seen": 1784269954.678774,
+  "title": "Consultant Junior IA & Business Transformation F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "7d047e751d9bd1216d08fe4fb42f6231": {
+  "first_seen": 1784269954.6789618,
+  "title": "Alternance ingénieur automatisation plateformes TV F/H",
+  "company": "Bouygues Telecom",
+  "source": "linkedin"
+ },
+ "69f7ae8608fd4725c32c9a1003700ad2": {
+  "first_seen": 1784269954.6789799,
+  "title": "INGÉNIEUR FPGA Bureau d'études (H/F)",
+  "company": "SERMA Ingénierie",
   "source": "linkedin"
  }
 }
