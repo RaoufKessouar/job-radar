@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784291533.5218463,
+   "last_success": 1784293365.7372792,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784291533.5218515,
+   "last_success": 1784293365.7372847,
    "alerted": false
   }
  },
@@ -7897,6 +7897,108 @@
   "first_seen": 1784291533.522329,
   "title": "alternance 12 mois – ingénierie logicielle native IA",
   "company": "Sanofi",
+  "source": "linkedin"
+ },
+ "bad622c39a25527b8990559c9940bbbd": {
+  "first_seen": 1784293365.737495,
+  "title": "Data Science Analyst",
+  "company": "Visa",
+  "source": "linkedin"
+ },
+ "35b82ac90f1ea887a44d4b5f81a7acf6": {
+  "first_seen": 1784293365.7375238,
+  "title": "Data Scientist F/H",
+  "company": "BNP Paribas",
+  "source": "linkedin"
+ },
+ "a6d772a5730c3697dc5329af2d73b46a": {
+  "first_seen": 1784293365.737813,
+  "title": "Ingénieur(e) Software Embarqué C DO 178 F/H",
+  "company": "CHELA+",
+  "source": "linkedin"
+ },
+ "173fe4444a15d15b0d3bb688bd74ba0d": {
+  "first_seen": 1784293365.737846,
+  "title": "INGENIEUR INTEGRATION SYSTEMES DE CONTROLES VEHICULES H/F",
+  "company": "AVANTIS",
+  "source": "linkedin"
+ },
+ "148646846fb6082ede4f9bdd8b26b4d9": {
+  "first_seen": 1784293365.7378743,
+  "title": "(H/F) AI & Control Senior Engineer – Manipulation",
+  "company": "Wandercraft",
+  "source": "linkedin"
+ },
+ "a9171a812b3177323a0b3e88ed3cae72": {
+  "first_seen": 1784293365.7379003,
+  "title": "Responsable Développement Composants  Logiciel (F/H)",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "7cfd396a2659fae95da36b4046ca75c9": {
+  "first_seen": 1784293365.7379093,
+  "title": "CS27 - BAC +5 - Développeur fullstack (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin"
+ },
+ "919b436cb7bc89667e7e08eee608933b": {
+  "first_seen": 1784293365.737966,
+  "title": "Stage en informatique quantique R&D H/F",
+  "company": "Atos",
+  "source": "linkedin"
+ },
+ "2c7646ba9d9641c7a639b7e804ff991c": {
+  "first_seen": 1784293365.7379773,
+  "title": "Ingénieur design électronique VHDL FPGA pour équipements spatiaux (h/f)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin"
+ },
+ "a905768bde2b90f69c92b95badedcb98": {
+  "first_seen": 1784293365.737983,
+  "title": "AI Engineer",
+  "company": "Lithosquare",
+  "source": "linkedin"
+ },
+ "61392792cb1ce431d940ecfe55c529ca": {
+  "first_seen": 1784293365.73799,
+  "title": "Project Quality Manager - Software & Calibration",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "664fc89b0f583f53b5fb579c130eb3af": {
+  "first_seen": 1784293365.7379968,
+  "title": "Développeur C#/.NET",
+  "company": "tesselate",
+  "source": "linkedin"
+ },
+ "afadd5c24111cf760d77e6f86179c9da": {
+  "first_seen": 1784293365.738003,
+  "title": "Développeur RPA F/H",
+  "company": "Eiffage",
+  "source": "linkedin"
+ },
+ "630ca505801b5a08e2708816e49d233b": {
+  "first_seen": 1784293365.7380114,
+  "title": "Technicien-ne intégration et tests électronique F/H",
+  "company": "Safran",
+  "source": "linkedin"
+ },
+ "ad905671fe8d04029e6650525e455697": {
+  "first_seen": 1784293365.7380183,
+  "title": "Software Engineer in Test - QA",
+  "company": "Dataiku",
+  "source": "linkedin"
+ },
+ "e340e97b7a479d2a556bcf70a8d2b62b": {
+  "first_seen": 1784293365.7380238,
+  "title": "Staff Engineer",
+  "company": "Partnered",
+  "source": "linkedin"
+ },
+ "e27285873a65fdeb5356b20d677927af": {
+  "first_seen": 1784293365.738032,
+  "title": "Ingénieur.e Data Scientist - Imagerie médicale",
+  "company": "SOLENT SAS",
   "source": "linkedin"
  }
 }
