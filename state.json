@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784282557.0558243,
+   "last_success": 1784284334.5414681,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784282557.0558333,
+   "last_success": 1784284334.541474,
    "alerted": false
   }
  },
@@ -7843,6 +7843,24 @@
   "first_seen": 1784282557.0564468,
   "title": "STAGE _Growth & Operations Junior Marketing Manager",
   "company": "Wizaly",
+  "source": "linkedin"
+ },
+ "8a2fb8a9ac519bf1bbc63df54ffa86c5": {
+  "first_seen": 1784284334.5417805,
+  "title": "Actuaire Data Scientist (F/H) alternance",
+  "company": "AXA en France",
+  "source": "linkedin"
+ },
+ "d1a504f15c860e283822b97c5b9efe1e": {
+  "first_seen": 1784284334.5418088,
+  "title": "Data Scientist",
+  "company": "Vibe.co",
+  "source": "linkedin"
+ },
+ "1ccaa767f0b70352a388eb54fdacf307": {
+  "first_seen": 1784284334.5418642,
+  "title": "Data Scientist Senior",
+  "company": "Irly",
   "source": "linkedin"
  }
 }
