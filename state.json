@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784318543.1751456,
+   "last_success": 1784320347.649773,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784318543.1751513,
+   "last_success": 1784320347.649778,
    "alerted": false
   }
  },
@@ -8575,6 +8575,96 @@
   "first_seen": 1784316762.483876,
   "title": "System Engineering Intern – Functional Sequencing & Data Consistency",
   "company": "MaiaSpace",
+  "source": "linkedin"
+ },
+ "2bd8bc08e0fe53e7a6b007334e75796a": {
+  "first_seen": 1784320347.650155,
+  "title": "AI Ops Engineer - F/H - Paris – CDI",
+  "company": "Spartes",
+  "source": "linkedin"
+ },
+ "2d9cf3dc11df91d29ee996efde68ccff": {
+  "first_seen": 1784320347.6503854,
+  "title": "Ingénieur(e) Support Logiciel Supervision (SCADA) (France)",
+  "company": "PcVue Middle East",
+  "source": "linkedin"
+ },
+ "480c45f055615487ca523981ba78fd3a": {
+  "first_seen": 1784320347.6503925,
+  "title": "Développeur Full Stack Agile",
+  "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "7443376a01d4a2eff38bce0c3e99599f": {
+  "first_seen": 1784320347.6503985,
+  "title": "Développeur C++",
+  "company": "INFOGENE",
+  "source": "linkedin"
+ },
+ "dd3b62117aa13eede36a9c359527d9c7": {
+  "first_seen": 1784320347.6504037,
+  "title": "Backend engineer",
+  "company": "Voice AI Space",
+  "source": "linkedin"
+ },
+ "c099d5d218bc68aa018ad803a1139ac7": {
+  "first_seen": 1784320347.6504114,
+  "title": "Ingénieur fullstack - Villes intelligentes et durables F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin"
+ },
+ "2088058b0efeeca5c9b32b1fd5b1a8a5": {
+  "first_seen": 1784320347.6504183,
+  "title": "Software Developpeur C / C++ ou Python H/F",
+  "company": "QUANTEAM (RAINBOW PARTNERS Group)",
+  "source": "linkedin"
+ },
+ "4c76ad434644d1167ef220519359bc10": {
+  "first_seen": 1784320347.6504235,
+  "title": "Full-Stack Software Engineer (H/F)",
+  "company": "Sahar",
+  "source": "linkedin"
+ },
+ "a745a20dee4d98d5dda6e77732333fec": {
+  "first_seen": 1784320347.6504357,
+  "title": "Ingénieur conception et développement logiciel JAVA/JNI - Défense H/F",
+  "company": "Viveris",
+  "source": "linkedin"
+ },
+ "41343bcd1fc4fd84209592b4357a2ffe": {
+  "first_seen": 1784320347.650448,
+  "title": "Ingénieur Études Signalisation Ferroviaire (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "c97e39117ae57e86ba6f685626f1eeec": {
+  "first_seen": 1784320347.650457,
+  "title": "Ingénieur SAV Electronique / Mécatronique - itinérance monde (H/F)",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin"
+ },
+ "193ab8aaeb8063121058c69ef55be589": {
+  "first_seen": 1784320347.650471,
+  "title": "Opérateur(trice) de production de cartes électroniques (H/F)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin"
+ },
+ "d48069e9662d0a0bea4c87795cad4806": {
+  "first_seen": 1784320347.650476,
+  "title": "Field Service Engineer, France (East Paris)",
+  "company": "Illumina",
+  "source": "linkedin"
+ },
+ "eaa39d25cbd45be252b5c5b105504d02": {
+  "first_seen": 1784320347.6504824,
+  "title": "Développeur / Intégrateur applicatif expérimenté H/F",
+  "company": "Inetum",
+  "source": "linkedin"
+ },
+ "f762f924e7cf02cb54cb9dac1f8ae510": {
+  "first_seen": 1784320347.650488,
+  "title": "Développeur JAVA (H/F)",
+  "company": "VIDAL",
   "source": "linkedin"
  }
 }
