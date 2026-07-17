@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784278936.2303555,
+   "last_success": 1784280740.9821072,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784278936.2303617,
+   "last_success": 1784280740.9821131,
    "alerted": false
   }
  },
@@ -7807,6 +7807,24 @@
   "first_seen": 1784277170.8871877,
   "title": "Consultant.e Adoption des usages IA – Stage de fin d'études",
   "company": "Saegus",
+  "source": "linkedin"
+ },
+ "997575f99878f23bf75baf5e95e8350a": {
+  "first_seen": 1784280740.9824173,
+  "title": "STAGE - Data analyst",
+  "company": "Le Monde",
+  "source": "linkedin"
+ },
+ "b31a37a78a53588c1b2b1a09b56fa06c": {
+  "first_seen": 1784280740.9825673,
+  "title": "Stage - Ingénieur IA (H/F)",
+  "company": "Kickmaker",
+  "source": "linkedin"
+ },
+ "b9a7c6ba1e4b02af4acba2cad90a8dfe": {
+  "first_seen": 1784280740.9825807,
+  "title": "IA Engineer H/F",
+  "company": "SKIILS",
   "source": "linkedin"
  }
 }
