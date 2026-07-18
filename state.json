@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784363534.3736682,
+   "last_success": 1784365364.364945,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784363534.3736753,
+   "last_success": 1784365364.3649504,
    "alerted": false
   }
  },
@@ -8701,6 +8701,18 @@
   "first_seen": 1784363534.373972,
   "title": "Machine Learning Engineer IA Générative & Voicebot (H/F)",
   "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "f4ff51ff93da2b8fb64e936af76bae17": {
+  "first_seen": 1784365364.3652573,
+  "title": "Deloitte Digital - Stage Product Designer F/H",
+  "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "050425edd3c26ea0f024f414b422feff": {
+  "first_seen": 1784365364.3652673,
+  "title": "Deloitte Digital - Stage Marketing Digital F/H",
+  "company": "Deloitte",
   "source": "linkedin"
  }
 }
