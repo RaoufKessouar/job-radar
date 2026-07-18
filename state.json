@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784350956.621896,
+   "last_success": 1784352749.2183018,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784350956.6219013,
+   "last_success": 1784352749.2183087,
    "alerted": false
   }
  },
@@ -8677,6 +8677,12 @@
   "first_seen": 1784350956.6222138,
   "title": "Data Scientist Junior (F/M) F/H",
   "company": "VINCI Energies",
+  "source": "linkedin"
+ },
+ "764c53303aa0e37d79ea1e3c81b91661": {
+  "first_seen": 1784352749.2187972,
+  "title": "Ingnénieur Logiciel embarqué / Intégration système F/H",
+  "company": "Fondation Bouygues Telecom",
   "source": "linkedin"
  }
 }
