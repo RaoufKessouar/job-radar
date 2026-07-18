@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784368940.6781976,
+   "last_success": 1784370744.8849795,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784368940.6782038,
+   "last_success": 1784370744.884994,
    "alerted": false
   }
  },
@@ -8713,6 +8713,12 @@
   "first_seen": 1784365364.3652673,
   "title": "Deloitte Digital - Stage Marketing Digital F/H",
   "company": "Deloitte",
+  "source": "linkedin"
+ },
+ "25398adb76d101dd1606c50c3a685c4e": {
+  "first_seen": 1784370744.8857505,
+  "title": "Data Consultant Intern (m/f/d) - Stage de fin d’études",
+  "company": "Simon-Kucher",
   "source": "linkedin"
  }
 }
