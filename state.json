@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784392353.9617145,
+   "last_success": 1784394002.5735168,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784392353.9617212,
+   "last_success": 1784394002.5735223,
    "alerted": false
   }
  },
@@ -8773,6 +8773,12 @@
   "first_seen": 1784392353.962027,
   "title": "Data Scientist - Compliance",
   "company": "CACEIS",
+  "source": "linkedin"
+ },
+ "bb1c5d50d7462468507cd244f695c362": {
+  "first_seen": 1784394002.5738938,
+  "title": "Forward Deployed AI Engineer",
+  "company": "Keyrus",
   "source": "linkedin"
  }
 }
