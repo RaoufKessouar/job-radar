@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784375690.3830743,
+   "last_success": 1784376145.0807176,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784375690.38308,
+   "last_success": 1784376145.0807233,
    "alerted": false
   }
  },
@@ -8725,6 +8725,12 @@
   "first_seen": 1784374386.4185884,
   "title": "Ingénieur logiciel embarqué en C (H/F)",
   "company": "Neonitium",
+  "source": "linkedin"
+ },
+ "36fb28f025652b1b7b46aab53dbc99c8": {
+  "first_seen": 1784376145.0811222,
+  "title": "Développeur IOT H/F",
+  "company": "Inetum",
   "source": "linkedin"
  }
 }
