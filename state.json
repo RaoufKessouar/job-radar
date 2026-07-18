@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784354546.3983517,
+   "last_success": 1784356337.5322425,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784354546.3983572,
+   "last_success": 1784356337.5322483,
    "alerted": false
   }
  },
@@ -8683,6 +8683,12 @@
   "first_seen": 1784352749.2187972,
   "title": "Ingnénieur Logiciel embarqué / Intégration système F/H",
   "company": "Fondation Bouygues Telecom",
+  "source": "linkedin"
+ },
+ "8622dc8cdc6e5896f4bc41278325e854": {
+  "first_seen": 1784356337.532731,
+  "title": "Stagiaire ingénieur télécom (h/f) - 2 mois",
+  "company": "VEDECOM",
   "source": "linkedin"
  }
 }
