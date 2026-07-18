@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784361740.820027,
+   "last_success": 1784363534.3736682,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784361740.820035,
+   "last_success": 1784363534.3736753,
    "alerted": false
   }
  },
@@ -8689,6 +8689,18 @@
   "first_seen": 1784356337.532731,
   "title": "Stagiaire ingénieur télécom (h/f) - 2 mois",
   "company": "VEDECOM",
+  "source": "linkedin"
+ },
+ "43b1f2417d8e5b08ea7a4eaabc6cc4f2": {
+  "first_seen": 1784363534.3739529,
+  "title": "Consultant Agentic AI - Framework ADK (H/F)",
+  "company": "Inetum",
+  "source": "linkedin"
+ },
+ "93f1b773af8c61721fd72423387fc096": {
+  "first_seen": 1784363534.373972,
+  "title": "Machine Learning Engineer IA Générative & Voicebot (H/F)",
+  "company": "Free-Work",
   "source": "linkedin"
  }
 }
