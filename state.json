@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784390567.2924874,
+   "last_success": 1784392353.9617145,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784390567.2924943,
+   "last_success": 1784392353.9617212,
    "alerted": false
   }
  },
@@ -8767,6 +8767,12 @@
   "first_seen": 1784390567.292868,
   "title": "Stage NLP Engineer",
   "company": "ChapsVision",
+  "source": "linkedin"
+ },
+ "82ba0c611ba8e671b97d69e2e7dd3927": {
+  "first_seen": 1784392353.962027,
+  "title": "Data Scientist - Compliance",
+  "company": "CACEIS",
   "source": "linkedin"
  }
 }
