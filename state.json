@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784379736.5929816,
+   "last_success": 1784381557.7840104,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784379736.592987,
+   "last_success": 1784381557.7840161,
    "alerted": false
   }
  },
@@ -8743,6 +8743,18 @@
   "first_seen": 1784379736.5933151,
   "title": "Stage - Digital Web Master F/H",
   "company": "GIVENCHY",
+  "source": "linkedin"
+ },
+ "4014d1a84e7075f17d1ff74f40fd230f": {
+  "first_seen": 1784381557.7844403,
+  "title": "RESEARCH ENGINEER / DEEP LEARNING ENGINEER (COMPUTER VISION) – CDI",
+  "company": "STATION F",
+  "source": "linkedin"
+ },
+ "b511f113737969fd52117ecdaec05a89": {
+  "first_seen": 1784381557.7844505,
+  "title": "IA solutions & Copilot Engineer",
+  "company": "Societe Generale",
   "source": "linkedin"
  }
 }
