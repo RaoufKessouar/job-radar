@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784397723.4410343,
+   "last_success": 1784399524.1856039,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784397723.441041,
+   "last_success": 1784399524.1856096,
    "alerted": false
   }
  },
@@ -8809,6 +8809,24 @@
   "first_seen": 1784397723.4413881,
   "title": "Ingénieur IA / MLOps",
   "company": "Smile",
+  "source": "linkedin"
+ },
+ "82af91d3153105f23d09c4641ddfd642": {
+  "first_seen": 1784399524.1858966,
+  "title": "Principal Data Scientist H/F",
+  "company": "Thales",
+  "source": "linkedin"
+ },
+ "9939f823391f082d573049211ee1f0c4": {
+  "first_seen": 1784399524.185905,
+  "title": "Apprenti(e) Supply Chain AI & Robotics initiative H/F",
+  "company": "Valeo",
+  "source": "linkedin"
+ },
+ "5e644158e8bd5a99397b97ffc5fc4001": {
+  "first_seen": 1784399524.1859112,
+  "title": "Consultant(e) Data (F/H)",
+  "company": "ACT-ON DATA",
   "source": "linkedin"
  }
 }
