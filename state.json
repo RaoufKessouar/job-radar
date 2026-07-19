@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784480515.0576708,
+   "last_success": 1784482344.1093566,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784480515.0576766,
+   "last_success": 1784482344.1093645,
    "alerted": false
   }
  },
@@ -8977,6 +8977,12 @@
   "first_seen": 1784480515.058008,
   "title": "Apprenti(e) en simulation de chargeurs pour véhicules électriques (H/F)",
   "company": "Valeo",
+  "source": "linkedin"
+ },
+ "fc953bfda3284faa028d2519c8c99b28": {
+  "first_seen": 1784482344.1097612,
+  "title": "STAGE - Assistant(e) Client Data Analyst (H/F)",
+  "company": "CHAUMET",
   "source": "linkedin"
  }
 }
