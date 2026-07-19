@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784484148.1866574,
+   "last_success": 1784485914.0337653,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784484148.1866636,
+   "last_success": 1784485914.0337715,
    "alerted": false
   }
  },
@@ -8995,6 +8995,18 @@
   "first_seen": 1784484148.186955,
   "title": "Ingénieur Systèmes (F/H)",
   "company": "Thales",
+  "source": "linkedin"
+ },
+ "80be39b1915ca1ba14c723904ec4ff9b": {
+  "first_seen": 1784485914.0340195,
+  "title": "APPRENTISSAGE - Consultant Logiciel Services, Sciences de données et IA (F/H)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin"
+ },
+ "8a00955f0f06227bca0f8013fd7d9d2b": {
+  "first_seen": 1784485914.0340576,
+  "title": "Data analyst client",
+  "company": "BRICO DÉPÔT",
   "source": "linkedin"
  }
 }
