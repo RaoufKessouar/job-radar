@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784478726.4629135,
+   "last_success": 1784480406.7532706,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784478726.4629188,
+   "last_success": 1784480406.7532794,
    "alerted": false
   }
  },
@@ -8965,6 +8965,12 @@
   "first_seen": 1784478726.4631732,
   "title": "Consultant.e Stagiaire - Stratégie Data",
   "company": "Colombus Consulting",
+  "source": "linkedin"
+ },
+ "ee8058923fd83087046c6f88620d7541": {
+  "first_seen": 1784480406.7536538,
+  "title": "Member of technical staff - Agent",
+  "company": "H Company",
   "source": "linkedin"
  }
 }
