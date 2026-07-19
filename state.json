@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784476941.4608488,
+   "last_success": 1784478726.4629135,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784476941.460855,
+   "last_success": 1784478726.4629188,
    "alerted": false
   }
  },
@@ -8953,6 +8953,18 @@
   "first_seen": 1784476941.4611712,
   "title": "Member of Technical Staff, Modeling",
   "company": "Cohere",
+  "source": "linkedin"
+ },
+ "56a919561b27d1c6931f534c2c6d9017": {
+  "first_seen": 1784478726.4631157,
+  "title": "Member of Technical Staff, Data Analysis and Evaluation",
+  "company": "Cohere",
+  "source": "linkedin"
+ },
+ "1a587dd8960a34084d158414904e2d07": {
+  "first_seen": 1784478726.4631732,
+  "title": "Consultant.e Stagiaire - Stratégie Data",
+  "company": "Colombus Consulting",
   "source": "linkedin"
  }
 }
