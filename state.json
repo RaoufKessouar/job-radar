@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784475181.017427,
+   "last_success": 1784476941.4608488,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784475181.0174327,
+   "last_success": 1784476941.460855,
    "alerted": false
   }
  },
@@ -8941,6 +8941,18 @@
   "first_seen": 1784475181.0177991,
   "title": "Assistant Chef de projet IA/Innovation appliqué à la gestion de projet",
   "company": "Societe Generale",
+  "source": "linkedin"
+ },
+ "b401488ca716c68023e72c14be4a424b": {
+  "first_seen": 1784476941.4611435,
+  "title": "Développeur PYTHON / R (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin"
+ },
+ "e4fc316c3af8d5f2ac928205440c07b0": {
+  "first_seen": 1784476941.4611712,
+  "title": "Member of Technical Staff, Modeling",
+  "company": "Cohere",
   "source": "linkedin"
  }
 }
