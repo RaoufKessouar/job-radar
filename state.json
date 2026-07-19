@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784440952.7037508,
+   "last_success": 1784442730.5437133,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784440952.7037568,
+   "last_success": 1784442730.5437188,
    "alerted": false
   }
  },
@@ -8863,6 +8863,12 @@
   "first_seen": 1784440952.704007,
   "title": "ALTERNANCE - Assistant Data Analyst Retail (H/F)",
   "company": "Hermès",
+  "source": "linkedin"
+ },
+ "c8dc1a37df6b02c30a4bb9564c56c802": {
+  "first_seen": 1784442730.5439186,
+  "title": "Apprentissage : Ingénieur Data Scientist en Détection d'Anomalies F/H - MBDA",
+  "company": "AEROCONTACT",
   "source": "linkedin"
  }
 }
