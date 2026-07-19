@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784458963.79502,
+   "last_success": 1784460734.4429123,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784458963.7950253,
+   "last_success": 1784460734.4429178,
    "alerted": false
   }
  },
@@ -8875,6 +8875,18 @@
   "first_seen": 1784458963.79536,
   "title": "Graduate Quantitative (C++) Developer",
   "company": "WEBB TRADERS B.V",
+  "source": "linkedin"
+ },
+ "39cf7fa1b57a719e139e3393d7d8ad9a": {
+  "first_seen": 1784460734.4431705,
+  "title": "Data Scientist F/H",
+  "company": "Atos",
+  "source": "linkedin"
+ },
+ "5263c284ff2002472b5467caaf7d4c51": {
+  "first_seen": 1784460734.4433517,
+  "title": "Apprenti(e) Ingénieur Conception Systèmes et Simulation (H/F)",
+  "company": "Valeo",
   "source": "linkedin"
  }
 }
