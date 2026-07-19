@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784464333.4861076,
+   "last_success": 1784466128.313478,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784464333.4861138,
+   "last_success": 1784466128.3134837,
    "alerted": false
   }
  },
@@ -8899,6 +8899,18 @@
   "first_seen": 1784464333.486436,
   "title": "Strategy Consultant & Data Scientist (Entry-Level)",
   "company": "Emerton",
+  "source": "linkedin"
+ },
+ "3c6e1219015e0483fc9dd2c9dce0a76a": {
+  "first_seen": 1784466128.3137627,
+  "title": "AI Engineer — Production & Applied ML (H/F)",
+  "company": "CALIXYS",
+  "source": "linkedin"
+ },
+ "32514e26c859d68f9eb5ec8b23120d54": {
+  "first_seen": 1784466128.3138835,
+  "title": "Apprenti ingénieur - Optimisation de test logiciel f/h",
+  "company": "Siemens",
   "source": "linkedin"
  }
 }
