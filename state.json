@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784439123.6583264,
+   "last_success": 1784440952.7037508,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784439123.658332,
+   "last_success": 1784440952.7037568,
    "alerted": false
   }
  },
@@ -8851,6 +8851,18 @@
   "first_seen": 1784439123.6586986,
   "title": "Alternance Ingénieur électronique H/F",
   "company": "Valeo",
+  "source": "linkedin"
+ },
+ "225800e7343b8e9a8d810dab9079abff": {
+  "first_seen": 1784440952.7039988,
+  "title": "Data and Quality analyst - stage",
+  "company": "Air Liquide Healthcare",
+  "source": "linkedin"
+ },
+ "80d4864204831f5590a441075fdd0e79": {
+  "first_seen": 1784440952.704007,
+  "title": "ALTERNANCE - Assistant Data Analyst Retail (H/F)",
+  "company": "Hermès",
   "source": "linkedin"
  }
 }
