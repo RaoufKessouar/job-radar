@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784469732.430228,
+   "last_success": 1784471529.0543716,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784469732.430235,
+   "last_success": 1784471529.054377,
    "alerted": false
   }
  },
@@ -8923,6 +8923,18 @@
   "first_seen": 1784469732.4304667,
   "title": "Strategy Consultant & Data Scientist (Experienced)",
   "company": "Emerton",
+  "source": "linkedin"
+ },
+ "2b70ddbef3296e9d23d235a107d740bb": {
+  "first_seen": 1784471529.0547254,
+  "title": "Apprentice Electronics Test&Validation (F/H)",
+  "company": "Valeo",
+  "source": "linkedin"
+ },
+ "15da8647763243f04313602706148c81": {
+  "first_seen": 1784471529.054753,
+  "title": "Chef de projet logiciel / système embarqué (H/F)",
+  "company": "Davidson consulting",
   "source": "linkedin"
  }
 }
