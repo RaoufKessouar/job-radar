@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784457121.762144,
+   "last_success": 1784458963.79502,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784457121.7621508,
+   "last_success": 1784458963.7950253,
    "alerted": false
   }
  },
@@ -8869,6 +8869,12 @@
   "first_seen": 1784442730.5439186,
   "title": "Apprentissage : Ingénieur Data Scientist en Détection d'Anomalies F/H - MBDA",
   "company": "AEROCONTACT",
+  "source": "linkedin"
+ },
+ "c30f732f6652be36eff815045f4388ff": {
+  "first_seen": 1784458963.79536,
+  "title": "Graduate Quantitative (C++) Developer",
+  "company": "WEBB TRADERS B.V",
   "source": "linkedin"
  }
 }
