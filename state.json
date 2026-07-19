@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784480406.7532706,
+   "last_success": 1784480515.0576708,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784480406.7532794,
+   "last_success": 1784480515.0576766,
    "alerted": false
   }
  },
@@ -8971,6 +8971,12 @@
   "first_seen": 1784480406.7536538,
   "title": "Member of technical staff - Agent",
   "company": "H Company",
+  "source": "linkedin"
+ },
+ "5f97099f933dc029a0d4dd724738e660": {
+  "first_seen": 1784480515.058008,
+  "title": "Apprenti(e) en simulation de chargeurs pour véhicules électriques (H/F)",
+  "company": "Valeo",
   "source": "linkedin"
  }
 }
