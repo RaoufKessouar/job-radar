@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784462420.7764106,
+   "last_success": 1784462519.6950295,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784462420.7764163,
+   "last_success": 1784462519.6950371,
    "alerted": false
   }
  },
@@ -8887,6 +8887,12 @@
   "first_seen": 1784460734.4433517,
   "title": "Apprenti(e) Ingénieur Conception Systèmes et Simulation (H/F)",
   "company": "Valeo",
+  "source": "linkedin"
+ },
+ "adedf4ae77610f3d5491a4f0f9e148cc": {
+  "first_seen": 1784462519.6952586,
+  "title": "Software Engineer - Photogrammetry",
+  "company": "Harmattan AI",
   "source": "linkedin"
  }
 }
