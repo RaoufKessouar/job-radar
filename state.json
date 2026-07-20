@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784548943.5052946,
+   "last_success": 1784550786.2686942,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784548943.5053,
+   "last_success": 1784550786.2687006,
    "alerted": false
   }
  },
@@ -9187,6 +9187,24 @@
   "first_seen": 1784547133.7262602,
   "title": "Ingénieur logiciel (H/F)",
   "company": "ALTEN",
+  "source": "linkedin"
+ },
+ "8849dbac60f86c94214d6b41476ab655": {
+  "first_seen": 1784550786.2690063,
+  "title": "Data Scientist H/F",
+  "company": "La Banque Postale Consumer Finance",
+  "source": "linkedin"
+ },
+ "b6812f32b58fe45cb69824ed4f958a5b": {
+  "first_seen": 1784550786.2690628,
+  "title": "AI Engineer",
+  "company": "TowardsChange",
+  "source": "linkedin"
+ },
+ "06742786f6078374ae9f4d8f5bc75644": {
+  "first_seen": 1784550786.2691295,
+  "title": "Intern Assistant Developer (f/m/d) - Limited to 6 months",
+  "company": "Allianz Global Investors",
   "source": "linkedin"
  }
 }
