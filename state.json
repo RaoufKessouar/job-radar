@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784536320.3562493,
+   "last_success": 1784538142.1710997,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784536320.356255,
+   "last_success": 1784538142.1711056,
    "alerted": false
   }
  },
@@ -9121,6 +9121,30 @@
   "first_seen": 1784536320.356642,
   "title": "Ingénieur Logiciel Manufacturing (h/f)",
   "company": "emagine",
+  "source": "linkedin"
+ },
+ "ea8c84b4effe7f45cf16b0fc803be7ba": {
+  "first_seen": 1784538142.171361,
+  "title": "Machine Learning Engineer",
+  "company": "Sia",
+  "source": "linkedin"
+ },
+ "ec40311aed138ac8d08ae66173d038fd": {
+  "first_seen": 1784538142.171395,
+  "title": "Final Year Internship - Insurance",
+  "company": "Sia",
+  "source": "linkedin"
+ },
+ "7abb35023c555112902f60020941821a": {
+  "first_seen": 1784538142.1714187,
+  "title": "Applied AI Engineer",
+  "company": "Sia",
+  "source": "linkedin"
+ },
+ "1faa795fa4bdcad26dc23eb121723b0a": {
+  "first_seen": 1784538142.1714892,
+  "title": "Développeur C++QT",
+  "company": "ADENTIS",
   "source": "linkedin"
  }
 }
