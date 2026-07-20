@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784552545.9614656,
+   "last_success": 1784552917.9301703,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784552545.9614716,
+   "last_success": 1784552917.9301767,
    "alerted": false
   }
  },
@@ -9217,6 +9217,12 @@
   "first_seen": 1784552545.9619136,
   "title": "Ingénieur.e intégration systèmes (H/F)",
   "company": "Parrot",
+  "source": "linkedin"
+ },
+ "b7bd4525086d8587b2434bb07e7e80c4": {
+  "first_seen": 1784552917.9304576,
+  "title": "Data Scientist - Retail & Distribution H/F",
+  "company": "SKIILS",
   "source": "linkedin"
  }
 }
