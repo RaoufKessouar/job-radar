@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784539925.7046664,
+   "last_success": 1784541746.3810604,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784539925.7046714,
+   "last_success": 1784541746.3810663,
    "alerted": false
   }
  },
@@ -9151,6 +9151,24 @@
   "first_seen": 1784539925.7048607,
   "title": "Data & AI Engineer Intern (H/F)",
   "company": "fifty-five",
+  "source": "linkedin"
+ },
+ "c6745cdf2197b1a5bed593dd9f89724e": {
+  "first_seen": 1784541746.381316,
+  "title": "Data Scientist - cabinet expert comptable",
+  "company": "Bauhinia Partners",
+  "source": "linkedin"
+ },
+ "63e9f5053d98a551f2912683d687674b": {
+  "first_seen": 1784541746.3813267,
+  "title": "Data Full Stack",
+  "company": "Alan",
+  "source": "linkedin"
+ },
+ "1d4a1690f1b282944cc6d36856fbfb2e": {
+  "first_seen": 1784541746.3813353,
+  "title": "alternance 12 mois – développement analytique & IA",
+  "company": "Sanofi",
   "source": "linkedin"
  }
 }
