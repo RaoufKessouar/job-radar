@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784527320.5101013,
+   "last_success": 1784529134.4286108,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784527320.5101063,
+   "last_success": 1784529134.4286168,
    "alerted": false
   }
  },
@@ -9049,6 +9049,24 @@
   "first_seen": 1784525533.987912,
   "title": "Ingénieur IA – Google Cloud Platform (H/F)",
   "company": "Free-Work",
+  "source": "linkedin"
+ },
+ "7a4edff5ba61eb3e5b5dabcdac303f76": {
+  "first_seen": 1784529134.4288318,
+  "title": "Data Scientist - AI executive",
+  "company": "Stellantis",
+  "source": "linkedin"
+ },
+ "dfc52e43d8f0170b4fdceea470a4a6a1": {
+  "first_seen": 1784529134.4289052,
+  "title": "Ingénieur systèmes embarqués H/F",
+  "company": "Kicklox",
+  "source": "linkedin"
+ },
+ "3ff101c88aeb7d5a101cb48e5dfd1d81": {
+  "first_seen": 1784529134.428958,
+  "title": "RF Electronics Engineer",
+  "company": "Harmattan AI",
   "source": "linkedin"
  }
 }
