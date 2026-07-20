@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784557941.7304883,
+   "last_success": 1784559737.9957123,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784557941.7304945,
+   "last_success": 1784559737.9957173,
    "alerted": false
   }
  },
@@ -9241,6 +9241,24 @@
   "first_seen": 1784557941.7307956,
   "title": "Machine Learning Engineer (Detect & Track Distillation)",
   "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "914c6748e736d66a4094b74c674f9f0e": {
+  "first_seen": 1784559737.9959614,
+  "title": "Applied AI Engineer",
+  "company": "Beamy",
+  "source": "linkedin"
+ },
+ "b865e79d5ff1d871c17bf8d29214fc68": {
+  "first_seen": 1784559737.9960015,
+  "title": "Ingénieur en Intelligence Artificielle / SOC",
+  "company": "SERMA Safety and Security",
+  "source": "linkedin"
+ },
+ "2dbad6928ccf2bde92c8f10c03acde67": {
+  "first_seen": 1784559737.9960089,
+  "title": "Développeur Full-Stack IA",
+  "company": "Indemnisation.ai",
   "source": "linkedin"
  }
 }
