@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784545327.1417644,
+   "last_success": 1784547133.725839,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784545327.14177,
+   "last_success": 1784547133.7258446,
    "alerted": false
   }
  },
@@ -9175,6 +9175,18 @@
   "first_seen": 1784545327.141985,
   "title": "Data Scientist",
   "company": "Orano",
+  "source": "linkedin"
+ },
+ "6fbce87ae9ceec1827f1db8843f91f0b": {
+  "first_seen": 1784547133.726111,
+  "title": "Ingénieur IA – LLM & Agent Conversationnel (H/F)",
+  "company": "DGTL Performance",
+  "source": "linkedin"
+ },
+ "ce41be2360590b68684d7112bfce58b4": {
+  "first_seen": 1784547133.7262602,
+  "title": "Ingénieur logiciel (H/F)",
+  "company": "ALTEN",
   "source": "linkedin"
  }
 }
