@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784550786.2686942,
+   "last_success": 1784552545.9614656,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784550786.2687006,
+   "last_success": 1784552545.9614716,
    "alerted": false
   }
  },
@@ -9205,6 +9205,18 @@
   "first_seen": 1784550786.2691295,
   "title": "Intern Assistant Developer (f/m/d) - Limited to 6 months",
   "company": "Allianz Global Investors",
+  "source": "linkedin"
+ },
+ "6713a05f906a084a717aee4c7951dc98": {
+  "first_seen": 1784552545.9617412,
+  "title": "Data Scientist Apprentice",
+  "company": "Faurecia",
+  "source": "linkedin"
+ },
+ "4fd6f0a8c9ee124ae24f4920c5149f5a": {
+  "first_seen": 1784552545.9619136,
+  "title": "Ingénieur.e intégration systèmes (H/F)",
+  "company": "Parrot",
   "source": "linkedin"
  }
 }
