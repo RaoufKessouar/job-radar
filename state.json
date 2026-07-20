@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784559737.9957123,
+   "last_success": 1784561562.9565418,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784559737.9957173,
+   "last_success": 1784561562.956547,
    "alerted": false
   }
  },
@@ -9259,6 +9259,24 @@
   "first_seen": 1784559737.9960089,
   "title": "Développeur Full-Stack IA",
   "company": "Indemnisation.ai",
+  "source": "linkedin"
+ },
+ "5850b95993157c506612b046b1247a02": {
+  "first_seen": 1784561562.9569583,
+  "title": "Python Developer - Basketball Analysis (Internship)",
+  "company": "SkillCorner",
+  "source": "linkedin"
+ },
+ "388afe84611502bc52d944ce7b00605b": {
+  "first_seen": 1784561562.957007,
+  "title": "Ingénieur logiciel embarqué - Ferroviaire H/F",
+  "company": "Viveris",
+  "source": "linkedin"
+ },
+ "3a029b36b3b69a1aa73b40b273701838": {
+  "first_seen": 1784561562.9570394,
+  "title": "Ingénieur développement logiciel embarqué - sécurité incendie H/F",
+  "company": "Viveris",
   "source": "linkedin"
  }
 }
