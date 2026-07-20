@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784577751.5498698,
+   "last_success": 1784579526.2782128,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784577751.5498753,
+   "last_success": 1784579526.2782185,
    "alerted": false
   }
  },
@@ -9331,6 +9331,12 @@
   "first_seen": 1784577751.5501947,
   "title": "Chef de Projet E-commerce (H/F) - Stage de fin d'études",
   "company": "Alltricks",
+  "source": "linkedin"
+ },
+ "d1ede3bd3b7f0bfc4df9b0e9a85d0176": {
+  "first_seen": 1784579526.2785525,
+  "title": "Alternance - Assistant Ingénieur ML/IA, MLOps et LLMOps – EUROPE - Octobre 2026 – H/F/X",
+  "company": "CHANEL",
   "source": "linkedin"
  }
 }
