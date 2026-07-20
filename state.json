@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784570763.6370137,
+   "last_success": 1784572336.3835778,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784570763.6370196,
+   "last_success": 1784572336.3835843,
    "alerted": false
   }
  },
@@ -9301,6 +9301,18 @@
   "first_seen": 1784566954.276615,
   "title": "Software Engineer",
   "company": "Harmattan AI",
+  "source": "linkedin"
+ },
+ "ba538e8222c064a39d182fb4c84911ea": {
+  "first_seen": 1784572336.383967,
+  "title": "Data Engineer en alternance H/F",
+  "company": "LEASECOM",
+  "source": "linkedin"
+ },
+ "94bfd52701c8c19259a7dfc0814360d0": {
+  "first_seen": 1784572336.3839815,
+  "title": "Stage - 6 mois - Assistant Quant Economiste / Data Scientist  F/H",
+  "company": "Natixis Corporate & Investment Banking",
   "source": "linkedin"
  }
 }
