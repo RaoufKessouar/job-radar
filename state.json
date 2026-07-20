@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784532730.2955801,
+   "last_success": 1784534554.9335966,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784532730.2955856,
+   "last_success": 1784534554.9336026,
    "alerted": false
   }
  },
@@ -9074,5 +9074,17 @@
   "title": "Stage en intelligence artificielle générative H/F",
   "company": "SpinPart",
   "source": "wttj"
+ },
+ "2096ecfb5131480e71a27afc1c45af87": {
+  "first_seen": 1784534554.933919,
+  "title": "Ingénieur/e Systèmes Embarqués Senior",
+  "company": "ADENTIS",
+  "source": "linkedin"
+ },
+ "4c1bc1b474d8b58738942de0977a282a": {
+  "first_seen": 1784534554.9339538,
+  "title": "Ingénieur hardware/Ingénieure hardware",
+  "company": "ADENTIS",
+  "source": "linkedin"
  }
 }
