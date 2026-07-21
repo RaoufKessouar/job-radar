@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784649750.3663013,
+   "last_success": 1784651530.211624,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784649750.3663065,
+   "last_success": 1784651530.2116296,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784649760.2755125,
+   "last_success": 1784651539.087067,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784649760.2755158,
+   "last_success": 1784651539.08707,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784649760.2755177,
+   "last_success": 1784651539.0870714,
    "alerted": false
   }
  },
@@ -10569,6 +10569,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4426302262"
+  ]
+ },
+ "21bcb3bbcc4cae9f5d78e9b72b1f46c2": {
+  "first_seen": 1784651539.0873394,
+  "title": "STAGE - Développeur/euse Full Stack - Java /Angular F/H",
+  "company": "EDF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436741760"
+  ]
+ },
+ "33fc1c275b56ae8b4f62ed3c34fe71f3": {
+  "first_seen": 1784651539.087543,
+  "title": "Ingénieur Model Based Design (H/F)",
+  "company": "AWAKE Group x INNOVATEAM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440455582"
+  ]
+ },
+ "ee546bbd5d05025f39436c51d3696f85": {
+  "first_seen": 1784651539.0875523,
+  "title": "Installation & Maintenance Engineer - Software Intégration & Support (H/F)",
+  "company": "Pasqal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4425664005"
   ]
  }
 }
