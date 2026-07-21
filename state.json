@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784642572.7319114,
+   "last_success": 1784644349.3603327,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784642572.7319164,
+   "last_success": 1784644349.3603387,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784642582.7159584,
+   "last_success": 1784644359.4104567,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784642582.7159605,
+   "last_success": 1784644359.4104593,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784642582.715962,
+   "last_success": 1784644359.410461,
    "alerted": false
   }
  },
@@ -10434,6 +10434,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442647222"
+  ]
+ },
+ "6b71b3685b53128814e6e51b04541978": {
+  "first_seen": 1784644359.4106102,
+  "title": "Stage – Graphiste / Directeur·rice artistique junior",
+  "company": "BACKBONE",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/enderby/jobs/stage-graphiste-directeur-rice-artistique-junior_paris"
+  ]
+ },
+ "4767c4f8ab7b90e7f86ef5cb1bd11f42": {
+  "first_seen": 1784644359.4107656,
+  "title": "Stage Consultant Data & Finance",
+  "company": "Protiviti France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440464401"
+  ]
+ },
+ "f67d83e3f8494bcca6cce11a70d14edc": {
+  "first_seen": 1784644359.4108026,
+  "title": "Stage - Data Sientist/Analyst",
+  "company": "AXA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434499746"
+  ]
+ },
+ "0778eff36820f235d697bd51dd52e215": {
+  "first_seen": 1784644359.4108098,
+  "title": "Data Scientist - (h/f)",
+  "company": "emagine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442635768"
+  ]
+ },
+ "a0616e0e23fe0fd3c883353b5cb9434b": {
+  "first_seen": 1784644359.4108703,
+  "title": "Stagiaire Marketing digital et Communication",
+  "company": "Building Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440453789"
+  ]
+ },
+ "0f4c6d7f8e9dcf7a0d58fef705f982b9": {
+  "first_seen": 1784644359.410879,
+  "title": "STAGE / Assistante Attachée de presse Startup",
+  "company": "Volga Relations Publiques",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434985075"
   ]
  }
 }
