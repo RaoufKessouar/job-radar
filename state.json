@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784622714.0936892,
+   "last_success": 1784622868.069236,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784622714.0936952,
+   "last_success": 1784622868.069242,
    "alerted": false
   }
  },
@@ -9352,7 +9352,7 @@
   "source": "linkedin"
  },
  "65d140fc844401d4980a855cf3b03178": {
-  "first_seen": 1784622714.09386,
+  "first_seen": 1784622868.069453,
   "title": "Stage Data Scientist-NLP",
   "company": "codoc",
   "source": "wttj",
@@ -9361,7 +9361,7 @@
   ]
  },
  "af66c9caa7bffe47382e11ded9382d2e": {
-  "first_seen": 1784622714.0938785,
+  "first_seen": 1784622868.0694726,
   "title": "Stage – AI & Data Scientist",
   "company": "Polynom",
   "source": "wttj",
@@ -9370,7 +9370,7 @@
   ]
  },
  "6ed23db149766bf05cdd674b8c7049e8": {
-  "first_seen": 1784622714.0938897,
+  "first_seen": 1784622868.069484,
   "title": "Data Scientist  (H/F) | Stage",
   "company": "Liora",
   "source": "wttj",
@@ -9379,7 +9379,7 @@
   ]
  },
  "987cfacd4aed0d0c8fc24be34ea8855c": {
-  "first_seen": 1784622714.093902,
+  "first_seen": 1784622868.0694966,
   "title": "Stage en intelligence artificielle générative H/F",
   "company": "SpinPart",
   "source": "wttj",
@@ -9388,7 +9388,7 @@
   ]
  },
  "5ae147803177709d29df762cc0491275": {
-  "first_seen": 1784622714.0939136,
+  "first_seen": 1784622868.069508,
   "title": "Ingénieur(e) IA - Stage de fin d'études",
   "company": "Galadrim",
   "source": "wttj",
@@ -9397,7 +9397,7 @@
   ]
  },
  "1b89c37dc6a8ecd891f62caa51085f79": {
-  "first_seen": 1784622714.0939236,
+  "first_seen": 1784622868.0695186,
   "title": "Stage Graphiste / Designer Graphiste / Directeur artistique",
   "company": "Open2Europe",
   "source": "wttj",
@@ -9406,7 +9406,7 @@
   ]
  },
  "3fda8504ed182c66a01a36f23bdda6b5": {
-  "first_seen": 1784622714.093936,
+  "first_seen": 1784622868.0695317,
   "title": "Stage Data SQL BI IA LLM - Dev SaaS Communautaire CRM",
   "company": "Alumnforce - Alumni Success Platform",
   "source": "wttj",
@@ -9415,7 +9415,7 @@
   ]
  },
  "921c18fff00a8f8d952800b728ebab56": {
-  "first_seen": 1784622714.0939455,
+  "first_seen": 1784622868.0695415,
   "title": "AI Engineer, LLM (Stagiaire, Alternant)",
   "company": "Jimini AI",
   "source": "wttj",
@@ -9423,71 +9423,8 @@
    "https://www.welcometothejungle.com/fr/companies/jimini-ai/jobs/machine-learning-intern_paris"
   ]
  },
- "5a95737122c1fd883a64959d17349bf9": {
-  "first_seen": 1784622714.0939565,
-  "title": "stagiaire étude congres",
-  "company": "Paris je t'aime",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4432268016"
-  ]
- },
- "affd19e8b56302874c31dd8033f06413": {
-  "first_seen": 1784622714.0939696,
-  "title": "Stage - 6 mois - Assistant Quant Economiste / Data Scientist  F/H",
-  "company": "Natixis Corporate & Investment Banking",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4440175666"
-  ]
- },
- "b13956aff1e8d8c5f0b324bec6dff724": {
-  "first_seen": 1784622714.0939794,
-  "title": "Data & AI Engineer Intern (H/F)",
-  "company": "fifty-five",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4442597152"
-  ]
- },
- "60e8031203bdf39090fdf4b616a7a2c6": {
-  "first_seen": 1784622714.0939958,
-  "title": "STAGE  IA/LLM pour la Transformation de l'Ingénierie Navigation F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
-  "company": "AEROCONTACT",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4440500547"
-  ]
- },
- "d55dc24ba30a8d8b23c4e5a4c4105526": {
-  "first_seen": 1784622714.094052,
-  "title": "Data Engineer en alternance H/F",
-  "company": "LEASECOM",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4442762736"
-  ]
- },
- "a7512ec1e44882f9539add809289e7a8": {
-  "first_seen": 1784622714.0940661,
-  "title": "Chef de Projet E-commerce (H/F) - Stage de fin d'études",
-  "company": "Alltricks",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4442222400"
-  ]
- },
- "a57582560a80e6fcf628714d243f38fa": {
-  "first_seen": 1784622714.0940795,
-  "title": "Stage Pricing & Revenue Management - Evaluation de performance d'un projet innovant F/H - Air France KLM",
-  "company": "AEROCONTACT",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4440364302"
-  ]
- },
  "c3ff39026194390dfab6211df9010b28": {
-  "first_seen": 1784622714.094088,
+  "first_seen": 1784622868.0695496,
   "title": "Data Scientist Apprentice",
   "company": "Faurecia",
   "source": "linkedin",
@@ -9496,7 +9433,7 @@
   ]
  },
  "c6b1a4b85847171a8e2ebe2cbbf492dd": {
-  "first_seen": 1784622714.0940957,
+  "first_seen": 1784622868.0695572,
   "title": "Data Scientist",
   "company": "Orano",
   "source": "linkedin",
@@ -9505,7 +9442,7 @@
   ]
  },
  "d1d8c79f4d9d46341541f8b38e047ad6": {
-  "first_seen": 1784622714.0941064,
+  "first_seen": 1784622868.0695684,
   "title": "Data scientist F/H",
   "company": "MSA - Mutualité Sociale Agricole",
   "source": "linkedin",
@@ -9514,7 +9451,7 @@
   ]
  },
  "3341a80658bd7ba8dec00deac6f6ff45": {
-  "first_seen": 1784622714.0941136,
+  "first_seen": 1784622868.0695767,
   "title": "Data Scientist F/H",
   "company": "EDF",
   "source": "linkedin",
@@ -9523,7 +9460,7 @@
   ]
  },
  "debd028cd9c9a95819dc1bb6a166aa17": {
-  "first_seen": 1784622714.0941226,
+  "first_seen": 1784622868.0695865,
   "title": "Data Scientist H/F",
   "company": "La Banque Postale Consumer Finance",
   "source": "linkedin",
@@ -9532,7 +9469,7 @@
   ]
  },
  "190911b2c2b35f997f61d285196d022c": {
-  "first_seen": 1784622714.0941296,
+  "first_seen": 1784622868.0695944,
   "title": "Applied AI Engineer",
   "company": "Beamy",
   "source": "linkedin",
@@ -9541,7 +9478,7 @@
   ]
  },
  "e62f1aea3a254945f51edaf01a307568": {
-  "first_seen": 1784622714.094138,
+  "first_seen": 1784622868.0696025,
   "title": "Data Scientist - Retail & Distribution H/F",
   "company": "SKIILS",
   "source": "linkedin",
@@ -9550,7 +9487,7 @@
   ]
  },
  "8e3985115ef0317ba1a3628306c1893e": {
-  "first_seen": 1784622714.0941458,
+  "first_seen": 1784622868.0696108,
   "title": "Data Scientist",
   "company": "Waiv, formerly Owkin Dx",
   "source": "linkedin",
@@ -9559,7 +9496,7 @@
   ]
  },
  "ca146f4e393d5fcf3603b41e7f89a351": {
-  "first_seen": 1784622714.0941527,
+  "first_seen": 1784622868.0696182,
   "title": "Machine Learning Engineer",
   "company": "Sia",
   "source": "linkedin",
@@ -9568,7 +9505,7 @@
   ]
  },
  "2057cde69de6f4809e5e4a17f3718a04": {
-  "first_seen": 1784622714.09416,
+  "first_seen": 1784622868.0696256,
   "title": "Data Full Stack",
   "company": "Alan",
   "source": "linkedin",
@@ -9576,8 +9513,17 @@
    "https://www.linkedin.com/jobs/view/4442581930"
   ]
  },
+ "60e8031203bdf39090fdf4b616a7a2c6": {
+  "first_seen": 1784622868.0696433,
+  "title": "STAGE  IA/LLM pour la Transformation de l'Ingénierie Navigation F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440500547"
+  ]
+ },
  "f2418efd5f3f05bcb2ef08183f6ea850": {
-  "first_seen": 1784622714.0941675,
+  "first_seen": 1784622868.0696511,
   "title": "Final Year Internship - Insurance",
   "company": "Sia",
   "source": "linkedin",
@@ -9585,53 +9531,35 @@
    "https://www.linkedin.com/jobs/view/4442584560"
   ]
  },
- "fa67a8d8e50d56b4255fa89d3265dc31": {
-  "first_seen": 1784622714.0941777,
-  "title": "Machine Learning Engineer (Detect & Track Distillation)",
-  "company": "Harmattan AI",
+ "6113e9eb4ad1ba7b73c8c6065989c417": {
+  "first_seen": 1784622868.0696607,
+  "title": "Python Developer - Basketball Analysis (Internship)",
+  "company": "SkillCorner",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442728198"
+   "https://www.linkedin.com/jobs/view/4442074619"
   ]
  },
- "30a3533c65bf4735de304b0924e45d26": {
-  "first_seen": 1784622714.0941885,
-  "title": "Ingénieur en Intelligence Artificielle / SOC",
-  "company": "SERMA Safety and Security",
+ "d55dc24ba30a8d8b23c4e5a4c4105526": {
+  "first_seen": 1784622868.069669,
+  "title": "Data Engineer en alternance H/F",
+  "company": "LEASECOM",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4440146993"
+   "https://www.linkedin.com/jobs/view/4442762736"
   ]
  },
- "b30d99ff02ee7fda21b40bb80df1448a": {
-  "first_seen": 1784622714.0942035,
-  "title": "Alternance - Assistant Ingénieur ML/IA, MLOps et LLMOps – EUROPE - Octobre 2026 – H/F/X",
-  "company": "CHANEL",
+ "affd19e8b56302874c31dd8033f06413": {
+  "first_seen": 1784622868.0696812,
+  "title": "Stage - 6 mois - Assistant Quant Economiste / Data Scientist  F/H",
+  "company": "Natixis Corporate & Investment Banking",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442232125"
-  ]
- },
- "98da2005fed71c6f93cff1c240ec5a04": {
-  "first_seen": 1784622714.0942109,
-  "title": "AI Engineer",
-  "company": "TowardsChange",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4442718078"
-  ]
- },
- "09ba5fa532e9f41814da312b8448c835": {
-  "first_seen": 1784622714.0942194,
-  "title": "IA Engineer/ ML Engineer H/F",
-  "company": "Free-Work",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4442271589"
+   "https://www.linkedin.com/jobs/view/4440175666"
   ]
  },
  "ab06f7434cc160e5dd85d4c7581ab824": {
-  "first_seen": 1784622714.0942314,
+  "first_seen": 1784622868.0696938,
   "title": "Développeur logiciel C++ Qt - Secteur Robotique et Drone H/F",
   "company": "Viveris",
   "source": "linkedin",
@@ -9640,7 +9568,7 @@
   ]
  },
  "99b98f242972a7338f3da368fcb1a22f": {
-  "first_seen": 1784622714.0942397,
+  "first_seen": 1784622868.0697021,
   "title": "Embedded Flight Systems Engineer",
   "company": "GTS Group Ltd",
   "source": "linkedin",
@@ -9649,7 +9577,7 @@
   ]
  },
  "d027b6ef9ea5ac0b91893aa19cbe1512": {
-  "first_seen": 1784622714.0942478,
+  "first_seen": 1784622868.0697105,
   "title": "Embedded Software Engineer - Multimedia",
   "company": "Harmattan AI",
   "source": "linkedin",
@@ -9658,7 +9586,7 @@
   ]
  },
  "0f74be4bf42ae34b5c3eceebc33b5bec": {
-  "first_seen": 1784622714.0942597,
+  "first_seen": 1784622868.0697231,
   "title": "Ingénieur-e IA Embarquée F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
   "company": "AEROCONTACT",
   "source": "linkedin",
@@ -9667,7 +9595,7 @@
   ]
  },
  "62fa9df6abe66d231a1fd15e13df3fa8": {
-  "first_seen": 1784622714.0942683,
+  "first_seen": 1784622868.0697327,
   "title": "Ingénieur systèmes embarqués (H/F)",
   "company": "ALTEN",
   "source": "linkedin",
@@ -9676,7 +9604,7 @@
   ]
  },
  "f8ecd628742e48e51a332a255b7dd82c": {
-  "first_seen": 1784622714.094275,
+  "first_seen": 1784622868.0697408,
   "title": "GNC Engineer",
   "company": "Harmattan AI",
   "source": "linkedin",
@@ -9684,17 +9612,8 @@
    "https://www.linkedin.com/jobs/view/4259603961"
   ]
  },
- "1891d740bc76366859da969cda2347fa": {
-  "first_seen": 1784622714.0942822,
-  "title": "Software Engineer",
-  "company": "Harmattan AI",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4311177547"
-  ]
- },
  "3518d4afa984bea20441c454e2a67733": {
-  "first_seen": 1784622714.0942914,
+  "first_seen": 1784622868.0697508,
   "title": "Ingénieur logiciel embarqué - Ferroviaire H/F",
   "company": "Viveris",
   "source": "linkedin",
@@ -9703,7 +9622,7 @@
   ]
  },
  "d23e9a02b00afd20d93ce27aef100426": {
-  "first_seen": 1784622714.0943015,
+  "first_seen": 1784622868.0697613,
   "title": "Ingénieur logiciel intégré/Ingénieure logiciel intégré",
   "company": "ADENTIS",
   "source": "linkedin",
@@ -9712,12 +9631,21 @@
   ]
  },
  "6eaf5a48e5fce652389a925d5892cc97": {
-  "first_seen": 1784622714.0943093,
+  "first_seen": 1784622868.0697694,
   "title": "Ingénieur linux embarqué",
   "company": "ADENTIS",
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440119783"
+  ]
+ },
+ "ab7f7e8be0a4d0d277f2535f414edc7c": {
+  "first_seen": 1784622868.069779,
+  "title": "Ingénieur.e intégration systèmes (H/F)",
+  "company": "Parrot",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429831929"
   ]
  }
 }
