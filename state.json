@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784646138.8354995,
+   "last_success": 1784647952.7995389,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784646138.8355055,
+   "last_success": 1784647952.7995446,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784646148.8224235,
+   "last_success": 1784647961.97916,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784646148.8224266,
+   "last_success": 1784647961.9791632,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784646148.8224285,
+   "last_success": 1784647961.979165,
    "alerted": false
   }
  },
@@ -10506,6 +10506,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4434727984"
+  ]
+ },
+ "b3ed1d65b05700357ae8ae95f319cac5": {
+  "first_seen": 1784647961.979423,
+  "title": "AP26 - BAC +5 - Apprenti data scientist - Metaverse qualité (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442653563"
+  ]
+ },
+ "c20928141b2032dac1f46650d655548b": {
+  "first_seen": 1784647961.979532,
+  "title": "Stage    -     Stage Fin d’études / Ingénieur innovation en Traitement Automatiques des Langues ( - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440467807"
+  ]
+ },
+ "ca96882efc405322022fdbf48e6d01c4": {
+  "first_seen": 1784647961.9795804,
+  "title": "Ingénieur logiciel embarqué - Telecom  H/F",
+  "company": "Viveris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442731757"
+  ]
+ },
+ "483a369ebb67779059d7330fdb610157": {
+  "first_seen": 1784647961.9795876,
+  "title": "Développeur C/C++ (H/F)",
+  "company": "TerX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443391617"
+  ]
+ },
+ "3c4dacabab284141f6212fe3863f245e": {
+  "first_seen": 1784647961.979617,
+  "title": "Ingénieur système embarqué - Secteur Secret Défense (H/F)",
+  "company": "Randstad Digital France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442654228"
   ]
  }
 }
