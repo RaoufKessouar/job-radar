@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784647952.7995389,
+   "last_success": 1784649750.3663013,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784647952.7995446,
+   "last_success": 1784649750.3663065,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784647961.97916,
+   "last_success": 1784649760.2755125,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784647961.9791632,
+   "last_success": 1784649760.2755158,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784647961.979165,
+   "last_success": 1784649760.2755177,
    "alerted": false
   }
  },
@@ -10551,6 +10551,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442654228"
+  ]
+ },
+ "411b33b03621b38a98d5715c2e76a1e5": {
+  "first_seen": 1784649760.2757165,
+  "title": "Stage Développeur Data & IA F/H",
+  "company": "VINCI Energies en France",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/vinci-energies/jobs/stage-developpeur-data-ia-f-h_paris"
+  ]
+ },
+ "5bf9a72b3f08fb00b95acd09e3e1c6f7": {
+  "first_seen": 1784649760.2759418,
+  "title": "Ingénieur intégration de logiciel embarqué, temps réel F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426302262"
   ]
  }
 }
