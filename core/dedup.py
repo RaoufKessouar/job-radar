@@ -20,8 +20,17 @@ def _normalize(s: str) -> str:
 
 
 def offer_key(offer: dict) -> str:
-    """Hash stable titre+entreprise (résiste aux republis avec URL différente)."""
-    raw = _normalize(offer.get("title", "")) + "|" + _normalize(offer.get("company", ""))
+    """Hash stable source+titre+entreprise.
+
+    - La MÊME offre vue sur des canaux différents (LinkedIn, WTTJ, site
+      carrière...) est notifiée une fois PAR canal : chaque canal offre un
+      chemin de candidature distinct, on maximise les pistes.
+    - À l'intérieur d'un canal, les republications de la même offre
+      (URL différente, même titre+entreprise) restent dédupliquées.
+    """
+    raw = (_normalize(offer.get("source", "")) + "|"
+           + _normalize(offer.get("title", "")) + "|"
+           + _normalize(offer.get("company", "")))
     return hashlib.md5(raw.encode()).hexdigest()
 
 
