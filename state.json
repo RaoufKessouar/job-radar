@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784622868.069236,
+   "last_success": 1784624587.9293869,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784622868.069242,
+   "last_success": 1784624587.929394,
    "alerted": false
   }
  },
@@ -9646,6 +9646,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4429831929"
+  ]
+ },
+ "5c356376d03f092201ef164c2e3c42fe": {
+  "first_seen": 1784624587.9297068,
+  "title": "Stage Développement IA et Business Intelligence",
+  "company": "Bouygues Bâtiment Ile-de-France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440438395"
+  ]
+ },
+ "edb8e07b0a8f61d5ac87d271644bc204": {
+  "first_seen": 1784624587.9297264,
+  "title": "Generative AI Engineer - F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4352380126"
+  ]
+ },
+ "09ba5fa532e9f41814da312b8448c835": {
+  "first_seen": 1784624587.929734,
+  "title": "IA Engineer/ ML Engineer H/F",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442271589"
+  ]
+ },
+ "98da2005fed71c6f93cff1c240ec5a04": {
+  "first_seen": 1784624587.929739,
+  "title": "AI Engineer",
+  "company": "TowardsChange",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442718078"
+  ]
+ },
+ "2b811d60ce460cce322eb586b88dcfe8": {
+  "first_seen": 1784624587.929752,
+  "title": "Ingénieur IA – LLM & Agent Conversationnel (H/F)",
+  "company": "DGTL Performance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442589808"
+  ]
+ },
+ "30a3533c65bf4735de304b0924e45d26": {
+  "first_seen": 1784624587.929762,
+  "title": "Ingénieur en Intelligence Artificielle / SOC",
+  "company": "SERMA Safety and Security",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440146993"
+  ]
+ },
+ "b13956aff1e8d8c5f0b324bec6dff724": {
+  "first_seen": 1784624587.929842,
+  "title": "Data & AI Engineer Intern (H/F)",
+  "company": "fifty-five",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442597152"
+  ]
+ },
+ "fa67a8d8e50d56b4255fa89d3265dc31": {
+  "first_seen": 1784624587.929867,
+  "title": "Machine Learning Engineer (Detect & Track Distillation)",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442728198"
+  ]
+ },
+ "3e8e5d5699df37658c611ce63feebabb": {
+  "first_seen": 1784624587.9298756,
+  "title": "Intern Assistant Developer (f/m/d) - Limited to 6 months",
+  "company": "Allianz Global Investors",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437791047"
   ]
  }
 }
