@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784644349.3603327,
+   "last_success": 1784646138.8354995,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784644349.3603387,
+   "last_success": 1784646138.8355055,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784644359.4104567,
+   "last_success": 1784646148.8224235,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784644359.4104593,
+   "last_success": 1784646148.8224266,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784644359.410461,
+   "last_success": 1784646148.8224285,
    "alerted": false
   }
  },
@@ -10488,6 +10488,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4434985075"
+  ]
+ },
+ "4feae722f0745ee81f3553e5c4532dc7": {
+  "first_seen": 1784646148.8227887,
+  "title": "Ingénieur en IA générative",
+  "company": "SOFTEAM Expertise Data & IA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420450359"
+  ]
+ },
+ "e5c0b4f2d177d21c724fadf050474845": {
+  "first_seen": 1784646148.822804,
+  "title": "Legal intern",
+  "company": "CybelAngel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434727984"
   ]
  }
 }
