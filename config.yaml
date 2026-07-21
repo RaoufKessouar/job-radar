@@ -4,6 +4,17 @@
 # Zone : Île-de-France uniquement
 # ============================================================
 
+# --- Sites carrières officiels (détection à la source, avant LinkedIn/WTTJ) ---
+# Filtres côté site : stage pur + France. La géographie (IdF) et la pertinence
+# sont tranchées par Gemini (le profil exige l'Île-de-France).
+carrieres:
+  actif: true
+  max_descriptions_par_run: 15
+  entreprises:
+    renault: {actif: true}
+    valeo: {actif: true}
+    orange: {actif: true}
+
 recherches:
   - keywords: "stage data scientist"
   - keywords: "stage intelligence artificielle"

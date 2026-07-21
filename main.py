@@ -19,7 +19,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from scrapers import wttj, linkedin  # noqa: E402
+from scrapers import wttj, linkedin, carrieres  # noqa: E402
 from core import dedup, scoring, llm, health  # noqa: E402
 from notify import emailer           # noqa: E402
 
@@ -84,7 +84,15 @@ def main() -> int:
         li_offers = linkedin.search(cfg)
         health.check(state, "wttj", len(wttj_offers), cfg, emailer.send_alert)
         health.check(state, "linkedin", len(li_offers), cfg, emailer.send_alert)
-        offers = wttj_offers + li_offers
+        car_offers = []
+        if cfg.get("carrieres", {}).get("actif"):
+            car_offers, car_ok = carrieres.search(cfg)
+            # santé carrières : basée sur le succès de la REQUÊTE (un site
+            # carrière peut légitimement avoir 0 offre de stage)
+            for name, ok in car_ok.items():
+                health.check(state, f"carriere-{name}", 1 if ok else 0,
+                             cfg, emailer.send_alert)
+        offers = wttj_offers + li_offers + car_offers
         print(f"[main] {len(offers)} offres collectées au total")
 
     # 2. Déduplication
@@ -98,9 +106,10 @@ def main() -> int:
     candidates = [o for o in new_offers if scoring.passes_gate(o, cfg)]
     print(f"[main] {len(candidates)} candidates après pré-filtre (règles dures)")
 
-    # 4. Descriptions LinkedIn manquantes (2e passe, plafonnée)
+    # 4. Descriptions manquantes (2e passe, plafonnée) : LinkedIn + carrières
     if not args.sample:
         linkedin.enrich_descriptions(candidates, cfg)
+        carrieres.enrich_descriptions(candidates, cfg)
 
     # 5. Jugement Gemini (plafonné, fallback mots-clés intégré)
     llm.judge(candidates, cfg)
