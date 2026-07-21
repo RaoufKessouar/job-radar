@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784662327.0700707,
+   "last_success": 1784664196.1130311,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784662327.0700762,
+   "last_success": 1784664196.1130366,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784662339.1592526,
+   "last_success": 1784664209.6125011,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784662339.1592574,
+   "last_success": 1784664209.6125054,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784662339.1592593,
+   "last_success": 1784664209.6125069,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784662339.1592612,
+   "last_success": 1784664209.612508,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784662339.159263,
+   "last_success": 1784664209.6125095,
    "alerted": false
   }
  },
@@ -10908,6 +10908,15 @@
   "source": "carriere-dassault",
   "urls": [
    "https://www.3ds.com/careers/jobs/stage-analyse-de-donnees-et-valorisation-du-positionnement-scientifique-f-h-548388"
+  ]
+ },
+ "cb798b42d93f59921b6b7ed5db183e7d": {
+  "first_seen": 1784664209.61352,
+  "title": "Senior Robotics Engineer",
+  "company": "IC Resources",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434013602"
   ]
  }
 }
