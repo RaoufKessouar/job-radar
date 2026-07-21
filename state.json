@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784653345.8067658,
+   "last_success": 1784654526.1298296,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784653345.806774,
+   "last_success": 1784654526.1298356,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784653355.58675,
+   "last_success": 1784654534.3203733,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784653355.5867531,
+   "last_success": 1784654534.3203764,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784653355.5867543,
+   "last_success": 1784654534.3203778,
    "alerted": false
   }
  },
@@ -10605,6 +10605,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440477631"
+  ]
+ },
+ "c8c2c10bc01925b6e2aa15cc372ad257": {
+  "first_seen": 1784654534.3207667,
+  "title": "Embedded Software Internship",
+  "company": "HyLight",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443522092"
+  ]
+ },
+ "5ffcbc59fe1a908601e1e9a2f13eb3ea": {
+  "first_seen": 1784654534.3207905,
+  "title": "GNC Drone Engineer Internship",
+  "company": "HyLight",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443514461"
+  ]
+ },
+ "3a1c526f914cf4ed896679e97994afbe": {
+  "first_seen": 1784654534.3207998,
+  "title": "Ingénieur en développement logiciel (F/H)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443519163"
+  ]
+ },
+ "a31f0374375f7042f4f9463178a70ca2": {
+  "first_seen": 1784654534.3208175,
+  "title": "Développeur·se C/C++ – Embarqué & Applicatif PC (CDI – Hybride)",
+  "company": "HexoTech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443093285"
   ]
  }
 }
