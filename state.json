@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784626329.8140066,
+   "last_success": 1784628194.5450287,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784626329.8140154,
+   "last_success": 1784628194.545036,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784626338.5636306,
+   "last_success": 1784628204.2443151,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784626338.563634,
+   "last_success": 1784628204.2443182,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784626338.5636358,
+   "last_success": 1784628204.2443202,
    "alerted": false
   }
  },
@@ -10245,6 +10245,51 @@
   "source": "carriere-orange",
   "urls": [
    "https://orange.jobs/fr/fr/job/CTS-2026-52791/Stage---Charg%C3%A9%28e%29-de-Mission-RSE-F%2FH"
+  ]
+ },
+ "7a8e61c1ac6ae37ef8b8f7c5b37abda5": {
+  "first_seen": 1784628204.2445316,
+  "title": "Data Scientist F/H",
+  "company": "BNP Paribas Asset Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433086228"
+  ]
+ },
+ "28f5e5a274653aeca20a02bacc5b5ff9": {
+  "first_seen": 1784628204.2445729,
+  "title": "Consultant·e Data & IA - Stage de fin d'études",
+  "company": "Saegus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442299924"
+  ]
+ },
+ "f4c105d12e4ff824bc4d039128bd1b08": {
+  "first_seen": 1784628204.2447188,
+  "title": "Ingénieur en mécatronique",
+  "company": "RegenBox",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443328543"
+  ]
+ },
+ "b2bf282cb67de343c597ec6982f7487d": {
+  "first_seen": 1784628204.24473,
+  "title": "Ingénieur-e logiciel embarqué viseurs optroniques marine de surface F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440598696"
+  ]
+ },
+ "a2251e4590abb2b5b805389d1e91509c": {
+  "first_seen": 1784628204.244736,
+  "title": "[Permanent position] Linux Kernel Engineer",
+  "company": "SiPearl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4383028647"
   ]
  }
 }
