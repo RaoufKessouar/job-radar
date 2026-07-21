@@ -1,23 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784660533.0538998,
+   "last_success": 1784662327.0700707,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784660533.0539055,
+   "last_success": 1784662327.0700762,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784660543.5635266,
+   "last_success": 1784662339.1592526,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784660543.5635293,
+   "last_success": 1784662339.1592574,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784660543.5635307,
+   "last_success": 1784662339.1592593,
+   "alerted": false
+  },
+  "carriere-capgemini": {
+   "last_success": 1784662339.1592612,
+   "alerted": false
+  },
+  "carriere-dassault": {
+   "last_success": 1784662339.159263,
    "alerted": false
   }
  },
@@ -10677,6 +10685,229 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4435124497"
+  ]
+ },
+ "3096c7b23ef90ab1d5d5d6b437c5472c": {
+  "first_seen": 1784662339.159895,
+  "title": "Alternance/Stage – Data scientist – Développeur Python",
+  "company": "AfterData Italia AML & abusi di mercato",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443539439"
+  ]
+ },
+ "269d0d146e3b9097d76f01be9d06c8b9": {
+  "first_seen": 1784662339.1599789,
+  "title": "Software Engineer & IA",
+  "company": "Nobori Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442684451"
+  ]
+ },
+ "01b1b752003ce9715e9e35f842e61aef": {
+  "first_seen": 1784662339.1606016,
+  "title": "Consultante/Consultant Entreprise Data & Analytics - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "41f9140fcdaf09ae1f5fd374cdcbe6b4": {
+  "first_seen": 1784662339.1606102,
+  "title": "Stage Gouvernance et communication Digital Trust",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "99caf92385c48d0f539e42a3ef51e1f2": {
+  "first_seen": 1784662339.16062,
+  "title": "Consultante/Consultant Développement commercial et stratégie régionale - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "fee60ea96145bcb8904ca4f2567fdf90": {
+  "first_seen": 1784662339.1606288,
+  "title": "Consultante / Consultant Luxe/ Beauté/ Retail - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "efbb78ef8055571871cf566965e943b4": {
+  "first_seen": 1784662339.1606364,
+  "title": "Consultante/Consultant Intelligent Industry - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "deb0ed96dbd23a82fe6c7c1a62626032": {
+  "first_seen": 1784662339.1606443,
+  "title": "Capgemini Engineering_Data Engineer & Reporting_Stage_Aix-en-Provence",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "5c3a9e4bcbdfe9c4498c62758d98baf1": {
+  "first_seen": 1784662339.160653,
+  "title": "Chargé(e) de Relations Écoles & Universités - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "040878fc7380fa23dad3997662a40225": {
+  "first_seen": 1784662339.16066,
+  "title": "Stage Référent(e) Handicap",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "7bb839c817d928de87da1225c366bd78": {
+  "first_seen": 1784662339.1606681,
+  "title": "Stagiaire de fin d'études - Automotive",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "57b24d0c88f970fbd43a94a94ba8bc0d": {
+  "first_seen": 1784662339.1606755,
+  "title": "Stagiaire de fin d'études - Manufacturing",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "045c4285010af0c0b92a4795504041ca": {
+  "first_seen": 1784662339.1606836,
+  "title": "Stagiaire Cybersécurité DevSecops",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "309159ab9a6a78d25c7ec6fef8485db7": {
+  "first_seen": 1784662339.1606932,
+  "title": "Chargée Relations Écoles & Universités Île-de-France - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "2b6ed9b4127ee6041517ac8cc3970d5c": {
+  "first_seen": 1784662339.1607015,
+  "title": "Ingénieure / Ingénieur Optimisation Supply Chain - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "f88ea8373b0384bd2298900bceee843c": {
+  "first_seen": 1784662339.1607094,
+  "title": "Consultante / Consultant Data, Risque & Conformité - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "b393422c7ebfd48665a16d309b052370": {
+  "first_seen": 1784662339.160717,
+  "title": "Consultante/Consultant Energy Transition & Utilities - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "3b2e697b30415389ef6cff6b38aa4763": {
+  "first_seen": 1784662339.1607242,
+  "title": "Consultante/Consultant Data & IA - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "6fb4f69e123366bb7f82c204672d8640": {
+  "first_seen": 1784662339.1607313,
+  "title": "Consultante/Consultant Entreprise Transformation - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "9a5d9d7bf6ec61065f9adb2dac3b9d09": {
+  "first_seen": 1784662339.1607382,
+  "title": "Consultante/Consultant CIO Advisory - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "b60b5a2103eead4679fb9d28ab705617": {
+  "first_seen": 1784662339.1607454,
+  "title": "Consultante/Consultant Workforce & Organization - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "9c7c303dda5e7ebe0d6370302bdb2279": {
+  "first_seen": 1784662339.160752,
+  "title": "Consultante/Consultant Corporate Experience - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "2dcb48aa02ffc33257ddcd9c36c1a953": {
+  "first_seen": 1784662339.160759,
+  "title": "Consultante/Consultant Public & Services - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "cf228e202a37e1233bb505c8682f9dfd": {
+  "first_seen": 1784662339.1607685,
+  "title": "Consultante/Consultant en Stratégie Marketing et Expérience Client Frog - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "b530c5c8401e4660895022d6ccd57aa5": {
+  "first_seen": 1784662339.1607761,
+  "title": "Ingénieur / Ingénieure Exploitation Applicative - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "290fa44e029c5dc336886f60ed50f965": {
+  "first_seen": 1784662339.1607828,
+  "title": "Stage Consultante / Consultant SAP Technique",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "de6b43f2cd27bae32a1c213f379d76a9": {
+  "first_seen": 1784662339.1607914,
+  "title": "Consumer Product Retail & Distribution - Stagiaire de Fin d'Etudes - Paris",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "0f00fd9225e66a444509339000b57b33": {
+  "first_seen": 1784662339.1607983,
+  "title": "FRECH_Stage_Consultante / Consultant_Connected Products & Services",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "f733ca5d6be7a5b8cc6d2091dfd340bd": {
+  "first_seen": 1784662339.1608062,
+  "title": "Consultante / Consultant « Digital Engineering » Stage Paris",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "13d9f8e164439a82bc51799a7b9857fc": {
+  "first_seen": 1784662339.1608133,
+  "title": "Consultante / Consultant « Digital Engineering » - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "ec22e46e090cff433f1b1209b8b299b4": {
+  "first_seen": 1784662339.1608233,
+  "title": "STAGE - Analyse de Donnees et Valorisation du Positionnement Scientifique (F/H)",
+  "company": "Dassault Systemes",
+  "source": "carriere-dassault",
+  "urls": [
+   "https://www.3ds.com/careers/jobs/stage-analyse-de-donnees-et-valorisation-du-positionnement-scientifique-f-h-548388"
   ]
  }
 }
