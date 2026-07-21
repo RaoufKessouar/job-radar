@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784628194.5450287,
+   "last_success": 1784629985.648388,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784628194.545036,
+   "last_success": 1784629985.648393,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784628204.2443151,
+   "last_success": 1784629994.239969,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784628204.2443182,
+   "last_success": 1784629994.2399719,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784628204.2443202,
+   "last_success": 1784629994.2399733,
    "alerted": false
   }
  },
@@ -10290,6 +10290,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4383028647"
+  ]
+ },
+ "a7512ec1e44882f9539add809289e7a8": {
+  "first_seen": 1784629994.2402308,
+  "title": "Chef de Projet E-commerce (H/F) - Stage de fin d'études",
+  "company": "Alltricks",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442222400"
+  ]
+ },
+ "a57582560a80e6fcf628714d243f38fa": {
+  "first_seen": 1784629994.2402492,
+  "title": "Stage Pricing & Revenue Management - Evaluation de performance d'un projet innovant F/H - Air France KLM",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440364302"
+  ]
+ },
+ "6b837320d5e817651dd69e522af57855": {
+  "first_seen": 1784629994.2404041,
+  "title": "Consultant.e Data strategy & IA Stages de fin d'études",
+  "company": "Saegus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442616353"
   ]
  }
 }
