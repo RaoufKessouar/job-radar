@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784664196.1130311,
+   "last_success": 1784665947.3327792,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784664196.1130366,
+   "last_success": 1784665947.3327851,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784664209.6125011,
+   "last_success": 1784665958.9123328,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784664209.6125054,
+   "last_success": 1784665958.9123368,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784664209.6125069,
+   "last_success": 1784665958.9123385,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784664209.612508,
+   "last_success": 1784665958.91234,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784664209.6125095,
+   "last_success": 1784665958.9123409,
    "alerted": false
   }
  },
@@ -10917,6 +10917,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4434013602"
+  ]
+ },
+ "2a59cc93f9e61a5b3072aa195e01d862": {
+  "first_seen": 1784665958.9131038,
+  "title": "Alternant(e) développeur web",
+  "company": "AfterData Italia AML & abusi di mercato",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443551065"
   ]
  }
 }
