@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784635385.001781,
+   "last_success": 1784636701.672437,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784635385.001787,
+   "last_success": 1784636701.6724427,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784635394.8852487,
+   "last_success": 1784636711.3201728,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784635394.8852518,
+   "last_success": 1784636711.3201752,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784635394.8852537,
+   "last_success": 1784636711.3201766,
    "alerted": false
   }
  },
@@ -10335,6 +10335,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4312204455"
+  ]
+ },
+ "79373cd186a37e655e844515eaa82552": {
+  "first_seen": 1784636711.320364,
+  "title": "Internship - Data Scientist / Analyst",
+  "company": "AXA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434716049"
   ]
  }
 }
