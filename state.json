@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784658735.3030646,
+   "last_success": 1784660533.0538998,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784658735.3030703,
+   "last_success": 1784660533.0539055,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784658745.3174462,
+   "last_success": 1784660543.5635266,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784658745.3174493,
+   "last_success": 1784660543.5635293,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784658745.3174508,
+   "last_success": 1784660543.5635307,
    "alerted": false
   }
  },
@@ -10659,6 +10659,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4414100425"
+  ]
+ },
+ "ba41b9ae868e6448fe4eb1ee91920cd6": {
+  "first_seen": 1784660543.5640094,
+  "title": "Ingénieur-e Logiciel Embarqué F/H - SAFRAN LANDING SYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441228789"
+  ]
+ },
+ "19d8e88d229cef8d8d3fb312cd9d9fbd": {
+  "first_seen": 1784660543.5640366,
+  "title": "Stage Navigation : Etude du Guidage d'un Système Spatial Réactif  F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435124497"
   ]
  }
 }
