@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784637138.3041728,
+   "last_success": 1784638975.2746944,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784637138.3041787,
+   "last_success": 1784638975.274701,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784637147.9348722,
+   "last_success": 1784638985.3541565,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784637147.9348745,
+   "last_success": 1784638985.3541596,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784637147.934876,
+   "last_success": 1784638985.3541608,
    "alerted": false
   }
  },
@@ -10362,6 +10362,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443346673"
+  ]
+ },
+ "24f97365867668a9c0f19543ab6a5767": {
+  "first_seen": 1784638985.3545911,
+  "title": "Stage Ingénieur R&D Mécatronique - J0048916",
+  "company": "Astemo Ltd.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435117033"
+  ]
+ },
+ "2bbfc27ffbfdef75cedcf0641c4fbf96": {
+  "first_seen": 1784638985.3546002,
+  "title": "Ingénieur AUTOSAR",
+  "company": "TMC Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440439422"
   ]
  }
 }
