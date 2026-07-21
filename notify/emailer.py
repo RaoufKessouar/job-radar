@@ -38,11 +38,16 @@ def _send(subject: str, html: str) -> bool:
 def _offer_html(o: dict) -> str:
     raison = (f"<p style='color:#555;font-style:italic'>&#129302; {o['llm_raison']}</p>"
               if o.get("llm_raison") else "")
+    repub = ("<p style='color:#b65c00'><b>&#128257; Republication</b> : offre "
+             "d&eacute;j&agrave; d&eacute;tect&eacute;e auparavant, repost&eacute;e par "
+             "l'annonceur &mdash; le poste n'est probablement pas encore pourvu.</p>"
+             if o.get("republication") else "")
     return (
         f"<h2 style='margin-bottom:2px'>{o['title']}</h2>"
         f"<p style='margin-top:2px'><b>{o['company']}</b> — {o.get('location','')} "
         f"— score <b>{o['score']}</b> — source {o['source']}"
         f"{' — publiée ' + str(o['date_posted']) if o.get('date_posted') else ''}</p>"
+        f"{repub}"
         f"{raison}"
         f"<p><a href=\"{o['url']}\" style='font-size:16px'>&#9658; Voir l'offre et postuler</a></p>"
     )
@@ -63,7 +68,8 @@ def notify(offers: list[dict], cfg: dict, dry_run: bool = False) -> None:
     singles, rest = offers[:max_single], offers[max_single:]
 
     for o in singles:
-        subject = f"\U0001F3AF [{o['score']}] {o['title'][:60]} — {o['company'][:40]}"
+        prefix = "\U0001F501 " if o.get("republication") else ""
+        subject = f"{prefix}\U0001F3AF [{o['score']}] {o['title'][:60]} — {o['company'][:40]}"
         if dry_run:
             print(f"[email:dry-run] {subject}\n    {o['url']}")
         else:

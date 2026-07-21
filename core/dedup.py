@@ -55,17 +55,37 @@ def save_state(state: dict, path: str | Path) -> None:
 
 
 def filter_new(offers: list[dict], state: dict) -> list[dict]:
-    """Retourne les offres jamais vues et les enregistre dans l'état."""
+    """Retourne les offres à traiter : jamais vues, OU republiées.
+
+    Republication = offre connue (même clé) mais URL jamais vue sur ce canal :
+    l'annonceur a reposté l'annonce. Signal utile (poste non pourvu) →
+    on renotifie avec offer['republication'] = True.
+    """
     new = []
     for offer in offers:
         key = offer_key(offer)
-        if key in state:
+        url = offer.get("url", "")
+        entry = state.get(key)
+        if entry is None:
+            state[key] = {
+                "first_seen": time.time(),
+                "title": offer.get("title", "")[:120],
+                "company": offer.get("company", "")[:80],
+                "source": offer.get("source", ""),
+                "urls": [url] if url else [],
+            }
+            new.append(offer)
             continue
-        state[key] = {
-            "first_seen": time.time(),
-            "title": offer.get("title", "")[:120],
-            "company": offer.get("company", "")[:80],
-            "source": offer.get("source", ""),
-        }
-        new.append(offer)
+        urls = entry.setdefault("urls", [])
+        if not urls:
+            # entrée créée avant cette fonctionnalité : on adopte l'URL
+            # actuelle sans notifier (migration silencieuse)
+            if url:
+                urls.append(url)
+            continue
+        if url and url not in urls:
+            urls.append(url)
+            entry["urls"] = urls[-10:]  # borne la liste
+            offer["republication"] = True
+            new.append(offer)
     return new
