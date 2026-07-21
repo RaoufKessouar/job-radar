@@ -14,6 +14,8 @@ carrieres:
     renault: {actif: true}
     valeo: {actif: true}
     orange: {actif: true}
+    capgemini: {actif: true}
+    dassault: {actif: true}
 
 recherches:
   - keywords: "stage data scientist"

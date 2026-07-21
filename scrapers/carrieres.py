@@ -251,6 +251,119 @@ def _orange_detail(offer: dict) -> None:
                     return
 
 
+# ----------------------------------------------------------------- Capgemini
+
+CAPGEMINI_API = "https://cg-jobstream-api.azurewebsites.net/api/job-search"
+
+
+def _capgemini_list(size: int = 50, max_pages: int = 4) -> list[dict]:
+    offers, page, total = [], 1, None
+    while page <= max_pages:
+        params = {"page": page, "size": size, "country_code": "fr-fr",
+                  "contract_type": "Stage",
+                  "experience_level": "Etudiants/ Jeunes diplômés"}
+        r = requests.get(CAPGEMINI_API, params=params,
+                         headers={"User-Agent": UA}, timeout=TIMEOUT)
+        r.raise_for_status()
+        resp = r.json()
+        if total is None:
+            total = int(resp.get("count") or 0)
+        for item in resp.get("data") or []:
+            title = str(item.get("title") or "").strip()
+            if not title:
+                continue
+            url = str(item.get("wp_url") or item.get("job_url")
+                      or item.get("url") or "").split("?", 1)[0]
+            offers.append({
+                "source": "carriere-capgemini",
+                "title": title,
+                "company": "Capgemini",
+                "location": str(item.get("location") or item.get("city") or ""),
+                "url": url,
+                "date_posted": str(item.get("created_at")
+                                   or item.get("published_at") or "")[:10],
+                # description fournie directement dans la liste
+                "description": _clean_html(item.get("description") or "")[:3000],
+            })
+        if page * size >= (total or 0):
+            break
+        page += 1
+        time.sleep(1.0)
+    return offers
+
+
+# ------------------------------------------------------------------ Dassault
+
+DASSAULT_SEARCH = "https://www.3ds.com/apisearch/card_search_api"
+DASSAULT_DETAIL = "https://www.3ds.com/apisearch/GetCareerCardDetailV2"
+DASSAULT_PUBLIC = "https://www.3ds.com/careers/jobs"
+
+
+def _dassault_metas(hit: dict) -> dict:
+    values = {}
+    for meta in hit.get("metas") or []:
+        name, value = meta.get("name"), meta.get("value")
+        if name and name != "meta_cat" and name not in values:
+            values[name] = value
+    return values
+
+
+def _dassault_list(size: int = 60, max_pages: int = 3) -> list[dict]:
+    # Internship uniquement (pas d'Apprenticeship : cible stage pur)
+    query = ('#all card_content_lang:en  (card_content_type="career")  '
+             'card_content_categories:("Type/Internship" AND "Country/France")')
+    offers, index, total = [], 0, None
+    while index < max_pages:
+        r = requests.get(DASSAULT_SEARCH,
+                         params={"q": query, "b": index * size, "hf": size,
+                                 "output_format": "json",
+                                 "s": "desc(card_content_start_datetime)"},
+                         headers={"User-Agent": UA}, timeout=TIMEOUT)
+        r.raise_for_status()
+        resp = r.json()
+        if total is None:
+            total = int(resp.get("nhits") or resp.get("nmatches") or 0)
+        for hit in resp.get("hits") or []:
+            metas = _dassault_metas(hit)
+            title = str(metas.get("content_title") or "").strip()
+            card_id = str(metas.get("card_id") or hit.get("did") or "")
+            if not title:
+                continue
+            date_raw = str(metas.get("content_start_datetime") or "")
+            m = re.search(r"\d{4}-\d{2}-\d{2}", date_raw)
+            offers.append({
+                "source": "carriere-dassault",
+                "title": title,
+                "company": "Dassault Systemes",
+                "location": str(metas.get("content_info_2_value") or "France"),
+                "url": str(metas.get("content_cta_1_url")
+                           or f"{DASSAULT_PUBLIC}/{card_id}"),
+                "date_posted": m.group(0) if m else date_raw[:10],
+                "description": _clean_html(metas.get("content_summary") or "")[:3000],
+                "_dassault_id": card_id,
+            })
+        index += 1
+        if index * size >= (total or 0):
+            break
+        time.sleep(1.0)
+    return offers
+
+
+def _dassault_detail(offer: dict) -> None:
+    card_id = offer.get("_dassault_id", "")
+    if not card_id:
+        return
+    detail = _get(f"{DASSAULT_DETAIL}/en/{card_id}")
+    metas = _dassault_metas((detail.get("hits") or [{}])[0])
+    parts = [metas.get("external_description"), metas.get("external_qualification")]
+    desc = _clean_html(" ".join(str(p or "") for p in parts))
+    if desc:
+        offer["description"] = desc[:3000]
+    slug = str(metas.get("slug") or "")
+    if slug:
+        offer["url"] = f"{DASSAULT_PUBLIC}/{slug}"
+
+
 # ------------------------------------------------------------------ pipeline
 
 def search(config: dict) -> tuple[list[dict], dict]:
@@ -273,15 +386,20 @@ def search(config: dict) -> tuple[list[dict], dict]:
             print(f"[carriere-{name}] ÉCHEC de collecte: {e}")
         time.sleep(1.0)
 
-    if entreprises.get("orange", {}).get("actif"):
+    autres = {"orange": _orange_list, "capgemini": _capgemini_list,
+              "dassault": _dassault_list}
+    for name, collect in autres.items():
+        if not entreprises.get(name, {}).get("actif"):
+            continue
         try:
-            found = _orange_list()
+            found = collect()
             offers.extend(found)
-            fetch_ok["orange"] = True
-            print(f"[carriere-orange] {len(found)} offres listées")
+            fetch_ok[name] = True
+            print(f"[carriere-{name}] {len(found)} offres listées")
         except (requests.RequestException, ValueError, KeyError) as e:
-            fetch_ok["orange"] = False
-            print(f"[carriere-orange] ÉCHEC de collecte: {e}")
+            fetch_ok[name] = False
+            print(f"[carriere-{name}] ÉCHEC de collecte: {e}")
+        time.sleep(1.0)
 
     return offers, fetch_ok
 
@@ -300,6 +418,8 @@ def enrich_descriptions(offers: list[dict], config: dict) -> None:
         try:
             if "_detail_url" in o:
                 _workday_detail(o)
+            elif "_dassault_id" in o and len(o.get("description", "")) < 300:
+                _dassault_detail(o)
             elif src == "carriere-orange" and len(o.get("description", "")) < 300:
                 _orange_detail(o)
             else:
