@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784640742.2536194,
+   "last_success": 1784642572.7319114,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784640742.2536247,
+   "last_success": 1784642572.7319164,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784640752.66996,
+   "last_success": 1784642582.7159584,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784640752.6699634,
+   "last_success": 1784642582.7159605,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784640752.669965,
+   "last_success": 1784642582.715962,
    "alerted": false
   }
  },
@@ -10380,6 +10380,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440439422"
+  ]
+ },
+ "1182cc66455100a309acc06c2645116d": {
+  "first_seen": 1784642582.7161782,
+  "title": "Data Scientist IA gen",
+  "company": "StarClay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440470006"
+  ]
+ },
+ "82a0db1d69c9cfc6e1e32cc08c3e7ff3": {
+  "first_seen": 1784642582.7162013,
+  "title": "APPLIED AI ENGINEER",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442647170"
+  ]
+ },
+ "6636cb1d102a10f6981ec6d0d361c62f": {
+  "first_seen": 1784642582.7162693,
+  "title": "STAGE — INGÉNIEUR·E AUTOMATISATION IA (MASTER, 6 MOIS)",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442639502"
+  ]
+ },
+ "b0041a989a9fac78571c3b6c6c0c6e1d": {
+  "first_seen": 1784642582.716275,
+  "title": "Embedded Software Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443391226"
+  ]
+ },
+ "de39591211efe6a1754c03fec13352cd": {
+  "first_seen": 1784642582.716281,
+  "title": "Embedded Software Engineer - Launcher",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443375813"
+  ]
+ },
+ "d8f3e7c0807703fae85713e957a9416d": {
+  "first_seen": 1784642582.7163374,
+  "title": "Architecte logiciel embarqué temps réel / Linux embarqué",
+  "company": "Capgemini Engineering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442647222"
   ]
  }
 }
