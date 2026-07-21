@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784655114.405663,
+   "last_success": 1784656937.3847518,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784655114.4056685,
+   "last_success": 1784656937.3847585,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784655123.7031736,
+   "last_success": 1784656946.071977,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784655123.7031763,
+   "last_success": 1784656946.0719802,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784655123.7031775,
+   "last_success": 1784656946.071982,
    "alerted": false
   }
  },
@@ -10641,6 +10641,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443093285"
+  ]
+ },
+ "b0c83fd9f4b6caae2cc3d76b91c392a4": {
+  "first_seen": 1784656946.0723834,
+  "title": "Ingénieur IA",
+  "company": "FACTORHY Avocats",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440497090"
   ]
  }
 }
