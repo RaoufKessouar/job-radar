@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784629985.648388,
+   "last_success": 1784631769.0642505,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784629985.648393,
+   "last_success": 1784631769.0642555,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784629994.239969,
+   "last_success": 1784631778.416203,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784629994.2399719,
+   "last_success": 1784631778.416206,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784629994.2399733,
+   "last_success": 1784631778.4162076,
    "alerted": false
   }
  },
@@ -10317,6 +10317,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442616353"
+  ]
+ },
+ "a140779ebc9808e9a8724b7b2316bf00": {
+  "first_seen": 1784631778.4164822,
+  "title": "Consultante/Consultant Data Scientist",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442622297"
   ]
  }
 }
