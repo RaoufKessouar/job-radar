@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784636701.672437,
+   "last_success": 1784637138.3041728,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784636701.6724427,
+   "last_success": 1784637138.3041787,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784636711.3201728,
+   "last_success": 1784637147.9348722,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784636711.3201752,
+   "last_success": 1784637147.9348745,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784636711.3201766,
+   "last_success": 1784637147.934876,
    "alerted": false
   }
  },
@@ -10344,6 +10344,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4434716049"
+  ]
+ },
+ "c4155429ca00fe415726d35d0da6a234": {
+  "first_seen": 1784637147.935213,
+  "title": "Stage Ingénieur Software / IA (H/F)",
+  "company": "Marianne Education",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441600704"
+  ]
+ },
+ "76383f2e4840220da569a27590c87e7f": {
+  "first_seen": 1784637147.935222,
+  "title": "AI Engineer - Computer Vision/Healthcare",
+  "company": "CT19",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443346673"
   ]
  }
 }
