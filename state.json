@@ -1,11 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784624587.9293869,
+   "last_success": 1784626329.8140066,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784624587.929394,
+   "last_success": 1784626329.8140154,
+   "alerted": false
+  },
+  "carriere-renault": {
+   "last_success": 1784626338.5636306,
+   "alerted": false
+  },
+  "carriere-valeo": {
+   "last_success": 1784626338.563634,
+   "alerted": false
+  },
+  "carriere-orange": {
+   "last_success": 1784626338.5636358,
    "alerted": false
   }
  },
@@ -9727,6 +9739,512 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437791047"
+  ]
+ },
+ "26e6b0106db2c7674018830f05b4c055": {
+  "first_seen": 1784626338.5640426,
+  "title": "Développeur Full-Stack IA",
+  "company": "Indemnisation.ai",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442722520"
+  ]
+ },
+ "b30d99ff02ee7fda21b40bb80df1448a": {
+  "first_seen": 1784626338.5640638,
+  "title": "Alternance - Assistant Ingénieur ML/IA, MLOps et LLMOps – EUROPE - Octobre 2026 – H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442232125"
+  ]
+ },
+ "767f904b304682143ad98c9ca8d93ebb": {
+  "first_seen": 1784626338.5640805,
+  "title": "Ingénieur IA pour la réduction de CO2 débutant H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443332444"
+  ]
+ },
+ "2e45229df65281f206560646f5f2b7a1": {
+  "first_seen": 1784626338.5641212,
+  "title": "Stage - Assistant.e Data Engineer & AI (F/H)",
+  "company": "Proximity Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440444385"
+  ]
+ },
+ "c8091d184a5b72a5bafaa921553d571b": {
+  "first_seen": 1784626338.5641723,
+  "title": "CS27 - BAC +5 - Ingénieur Transformation Digitale (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---BAC--5---Ingnieur-Transformation-Digitale--H-F-_JOBREQ_50272018"
+  ]
+ },
+ "b236d16981698ee7781f0eeda8317cd3": {
+  "first_seen": 1784626338.5641866,
+  "title": "CS27 - BAC +5 - Développeur fullstack (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---BAC--5---Dveloppeur-fullstack--H-F-_JOBREQ_50271987"
+  ]
+ },
+ "926d0692f32d7d2d6cefb48893126e7a": {
+  "first_seen": 1784626338.5641994,
+  "title": "CS27 - BAC +5 - Juriste Energie (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Boulogne-Billancourt/CS27---BAC--5---Juriste-Energie--H-F-_JOBREQ_50271817"
+  ]
+ },
+ "f66e8100422acb711d53d825ef3d2e49": {
+  "first_seen": 1784626338.5642147,
+  "title": "CS27 - BAC +4/+5 - Ingénieur Simulation AUTOFORM (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---BAC--4--5---Ingnieur-Simulation-AUTOFORM--H-F-_JOBREQ_50272010"
+  ]
+ },
+ "500cc83572817917270f1be310919e50": {
+  "first_seen": 1784626338.564229,
+  "title": "CS27 - BAC +5 -  Business Analyst Processus S&OP (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---BAC--5----Business-Analyst-Processus-S-OP--H-F-_JOBREQ_50270822"
+  ]
+ },
+ "963b8117c3453e8885257a026ea76059": {
+  "first_seen": 1784626338.5642436,
+  "title": "CS27 - BAC +5 - Juriste IS/IT & Digital (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Boulogne-Billancourt/CS26---BAC--5---Juriste-PPI--H-F-_JOBREQ_50270426"
+  ]
+ },
+ "56881e6efb0b26d0fa505f15ee14ffde": {
+  "first_seen": 1784626338.5642612,
+  "title": "CS27- Stage - Bac+5 -Stagiaire Propriété Intellectuelle/Contrats (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Boulogne-Billancourt/CS27--Stage---Bac-5--Stagiaire-Proprit-Intellectuelle-Contrats--H-F-_JOBREQ_50269137"
+  ]
+ },
+ "fdd3ffaa0d00a932d601139f2371497d": {
+  "first_seen": 1784626338.5642765,
+  "title": "CS26 Stage - Bac+5 - Ingénieur base de données (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/FR_REN_RSAS---Guyancourt/CS26-Stage---Bac-5---Ingnieur-base-de-donnes--H-F-_JOBREQ_50239703"
+  ]
+ },
+ "ce54d3aac103f7f383e4434984902acf": {
+  "first_seen": 1784626338.5642958,
+  "title": "CS26 Stage - Bac+5 - Digitalisation & Intelligence Artificielle des processus d’innovation (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS26-Bac-5---Digitalisation---Intelligence-Artificielle-des-processus-d-innovation--H-F-_JOBREQ_50262873"
+  ]
+ },
+ "478607448626ea77abd239b44b8fa17c": {
+  "first_seen": 1784626338.5643067,
+  "title": "CS26 Stage ouvrier (F/H)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Ruitz/CS26-Stage-ouvrier--F-H-_JOBREQ_50247855",
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Maubeuge/CS26-Stage-ouvrier--F-H-_JOBREQ_50247848",
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Douai/CS26-Stage-ouvrier--F-H-_JOBREQ_50247841"
+  ]
+ },
+ "e91c327e0ef9eaa0fed8d3c33041d0d3": {
+  "first_seen": 1784626338.5643625,
+  "title": "Stagiaire Ingénieur(e) Qualité Fournisseur",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Reims/Stagiaire-Ingnieur-e--Qualit-Fournisseur_REQ2026078695-1"
+  ]
+ },
+ "551531b2c4830e14a14f425b3b198964": {
+  "first_seen": 1784626338.5643754,
+  "title": "Stagiaire Test & Validation - Banc de tests",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Test---Validation---Banc-de-tests_REQ2026078384"
+  ]
+ },
+ "72f15f4c26073ab6839f2bdd528972b8": {
+  "first_seen": 1784626338.5643873,
+  "title": "Stagiaire Méthode industrialisation projet",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Mthode-industrialisation-projet_REQ2026076869"
+  ]
+ },
+ "f5c4ed278b2909c3a41e46c1ac46216f": {
+  "first_seen": 1784626338.564398,
+  "title": "Stagiaire en Communication H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Bobigny/Stagiaire-en-Communication-H-F_REQ2026077838"
+  ]
+ },
+ "ea14f5faddd2000d42cf25977827b01e": {
+  "first_seen": 1784626338.5644128,
+  "title": "Stagiaire Événementiel – Billetterie Mondial de l'Auto",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Paris/Stagiaire-vnementiel---Billetterie-Mondial-de-l-Auto_REQ2026077320"
+  ]
+ },
+ "9df35a3bc9e83d5418df4fdb29d187de": {
+  "first_seen": 1784626338.5644248,
+  "title": "Stage simulation mécanique H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Crteil/Stage-simulation-mcanique-H-F_REQ2026076653"
+  ]
+ },
+ "8766be82ee06d79309f2fa031bf9b56c": {
+  "first_seen": 1784626338.5644352,
+  "title": "Stagiaire R&D H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Bobigny/Stagiaire-R-D-H-F_REQ2026075515"
+  ]
+ },
+ "abddfc7f1824c8326e037b7d5e6741c3": {
+  "first_seen": 1784626338.5644522,
+  "title": "Stage Ingénieur Informatique  au sein du service Test & Validation Electronique",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stage-Ingnieur-Informatique--au-sein-du-service-Test---Validation-Electronique_REQ2026076454"
+  ]
+ },
+ "a3493e1495489bf38df619d178e5be00": {
+  "first_seen": 1784626338.5644646,
+  "title": "Assistant(e) Trésorier Back-Office - Stage",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Paris/Assistant-e--Trsorier-Back-Office---Stage_REQ2026076176-1"
+  ]
+ },
+ "b20d7d030125070de8be1d40f0be99e9": {
+  "first_seen": 1784626338.564477,
+  "title": "Analyste Trésorerie d'Exploitation - Stage",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Paris/Analyste-Trsorerie-d-Exploitation---Stage_REQ2026074709"
+  ]
+ },
+ "093a3c4e7c1ff5f10000cd7d76e8a940": {
+  "first_seen": 1784626338.5644877,
+  "title": "Stage - Ingénieur système",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Etaples-sur-Mer/Stage---Ingnieur-systme_REQ2026069235-1"
+  ]
+ },
+ "3f1f805c4002b436bf47f41239fffd3d": {
+  "first_seen": 1784626338.564501,
+  "title": "Stagiaire RH Généraliste ( 4 à 6 mois)",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/St-Quentin-Fallavier/Stagiaire-RH-Gnraliste---4--6-mois-_REQ2026073044"
+  ]
+ },
+ "6d6ee6d21096d9f5b3a5e47cc6d9c2c3": {
+  "first_seen": 1784626338.5645146,
+  "title": "Stagiaire Ingénieur amélioration continue et Lean F/H",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/MONDEVILLE---MOV9/Stagiaire-Ingnieur-amlioration-continue-et-Lean-F-H_REQ2026072771"
+  ]
+ },
+ "98da921e21f61ade7a853494325954f7": {
+  "first_seen": 1784626338.564527,
+  "title": "Stagiaire Marketing Produit Beyond Automotive H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Cergy-Pontoise/Stagiaire-Marketing-Produit-Beyond-Automotive-H-F_REQ2026072590"
+  ]
+ },
+ "5be122d481178de05b424842dec1ca6a": {
+  "first_seen": 1784626338.564538,
+  "title": "Stage - Comptabilité / Finance",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Etaples-sur-Mer/Stage---Comptabilit---Finance_REQ2026070799"
+  ]
+ },
+ "0b6be97d078df3934c41c6182c8b98e9": {
+  "first_seen": 1784626338.5645483,
+  "title": "Stage - Coordinateur(rice) HSE",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Etaples-sur-Mer/Stage---Coordinateur-rice--HSE_REQ2026070276"
+  ]
+ },
+ "798bf20633ac22b56f6ee121d760b711": {
+  "first_seen": 1784626338.5645611,
+  "title": "Stagiaire Développeur Front-end H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Reilly/Stagiaire-Dveloppeur-Front-end-H-F_REQ2026072196"
+  ]
+ },
+ "5274359dfd647a5720772064d906a535": {
+  "first_seen": 1784626338.564577,
+  "title": "Stagiaire Communication & Créateur de Contenu (Photographe & Vidéaste) (F/H)",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Crteil/Stagiaire-Communication---Crateur-de-Contenu--Photographe---Vidaste---F-H-_REQ2026071707"
+  ]
+ },
+ "12f9c8d98b3fc0f3136ae20710bda2d7": {
+  "first_seen": 1784626338.5645905,
+  "title": "Stage Administratif dans le domaine de la finance H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Chtellerault/Stage-Administratif-dans-le-domaine-de-la-finance-H-F_REQ2025066289"
+  ]
+ },
+ "43d7a2de5b0b3d90a36f6dbbd0955391": {
+  "first_seen": 1784626338.5646026,
+  "title": "Stage Méthodes Industrialisation H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Chtellerault/Stage-Mthodes-Industrialisation-H-F_REQ2025066288"
+  ]
+ },
+ "6cecc664423c68bf2435f2377e5580d7": {
+  "first_seen": 1784626338.5646157,
+  "title": "Stagiaire - Membre équipe projet Logistique",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Etaples-sur-Mer/Stagiaire---Membre-quipe-projet-Logistique_REQ2026070528"
+  ]
+ },
+ "426bfb179815131877db07cb22a71577": {
+  "first_seen": 1784626338.5646265,
+  "title": "Apprenti ingénieur IS/IT",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/St-Quentin-Fallavier/Apprenti-ingnieur-IS-IT_REQ2026069994"
+  ]
+ },
+ "dae5371cfb880f484ba6f8d23824f070": {
+  "first_seen": 1784626338.564637,
+  "title": "Stagiaire Qualité (H/F)",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/St-Quentin-Fallavier/Stagiaire-Qualit--H-F-_REQ2026069654"
+  ]
+ },
+ "570f553a291f97a591f306f796161fe0": {
+  "first_seen": 1784626338.5646467,
+  "title": "Stagiaire Logistique H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Mazamet/Stagiaire-Logistique-H-F_REQ2026068900"
+  ]
+ },
+ "ad273823285398d0b75a6be3d7913a1e": {
+  "first_seen": 1784626338.5646565,
+  "title": "Stagiaire SPV H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Chtellerault/Stagiaire-SPV-H-F_REQ2025063575"
+  ]
+ },
+ "240bb13fde5947759573e418b4baf74d": {
+  "first_seen": 1784626338.564666,
+  "title": "Stagiaire Projet H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Projet-H-F_REQ2025058759"
+  ]
+ },
+ "4b24fc471208beae4557485b87f9731e": {
+  "first_seen": 1784626338.564678,
+  "title": "Stage Assurance Qualité Fournisseurs H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Chtellerault/Stage-Assurance-Qualit-Fournisseurs-H-F_REQ2025058979"
+  ]
+ },
+ "7b6bf71910e5340b474a6d6d92cabae2": {
+  "first_seen": 1784626338.564695,
+  "title": "Stage contrôle de gestion Division Power – développement de solutions IA H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Cergy-Pontoise/Stage-contrle-de-gestion-Division-Power---dveloppement-de-solutions-IA-H-F_REQ2025056227"
+  ]
+ },
+ "0a084922336f6202cfe7fc38bcf38168": {
+  "first_seen": 1784626338.5647082,
+  "title": "Stage - Chargé(e) Administration des Ventes et Gestion",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/IOS-2026-2395/Stage---Charg%C3%A9%28e%29-Administration-des-Ventes-et-Gestion"
+  ]
+ },
+ "b72565195b97d648aeeb15aad4412528": {
+  "first_seen": 1784626338.5647213,
+  "title": "Stage - Chargé-e de Projet  Événementiel F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-53088/Stage---Charg%C3%A9-e-de-Projet--%C3%89v%C3%A9nementiel-F%2FH"
+  ]
+ },
+ "d2639923543a4840ff57d9558e35b922": {
+  "first_seen": 1784626338.564734,
+  "title": "Stage - Chargé Communication Digitale & Event F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-52927/Stage---Charg%C3%A9-Communication-Digitale-%26-Event-F%2FH"
+  ]
+ },
+ "cb57cb3f6c25c9f9bac76c06efc9b27f": {
+  "first_seen": 1784626338.5647447,
+  "title": "Stagiaire - Data Analyst MMM F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-53297/Stagiaire---Data-Analyst-MMM-F%2FH"
+  ]
+ },
+ "56ab74972371e4ff695c77c20b99c441": {
+  "first_seen": 1784626338.5647564,
+  "title": "Stage Création et Production F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-52559/Stage-Cr%C3%A9ation-et-Production-F%2FH"
+  ]
+ },
+ "958f42c45d135d5f9ecaf9c2f9ad4e06": {
+  "first_seen": 1784626338.5647678,
+  "title": "Assistant(e) Showroom BtoB F/H F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-53076/Assistant%28e%29-Showroom-BtoB-F%2FH-F%2FH"
+  ]
+ },
+ "da5f9dc2f0a789179ad9576449f8565a": {
+  "first_seen": 1784626338.5647798,
+  "title": "Stage Assistant Développement Commercial F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-53341/Stage-Assistant-D%C3%A9veloppement-Commercial-F%2FH"
+  ]
+ },
+ "68ca002700fc9d2edd91ac78b8955df6": {
+  "first_seen": 1784626338.5647912,
+  "title": "Stage Chargé(e) de communication F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-52772/Stage-Charg%C3%A9%28e%29-de-communication-F%2FH"
+  ]
+ },
+ "37e0371bd8b3c3c63d47068e8a15f689": {
+  "first_seen": 1784626338.564807,
+  "title": "Stage 6 mois  - Chargé de projet communication externe - Influence F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2025-46836/Stage-6-mois----Charg%C3%A9-de-projet-communication-externe---Influence-F%2FH"
+  ]
+ },
+ "88dbf968c3a45b10894da6bf17c36ff9": {
+  "first_seen": 1784626338.5648177,
+  "title": "Chargé de Projet F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-52395/Charg%C3%A9-de-Projet-F%2FH"
+  ]
+ },
+ "d5c748f916d3fa9e44d6bcc7701f7d82": {
+  "first_seen": 1784626338.56483,
+  "title": "STAGE - Chargé de Marketing Opérationnel F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-53139/STAGE---Charg%C3%A9-de-Marketing-Op%C3%A9rationnel-F%2FH"
+  ]
+ },
+ "a86b40268010f3000323fbf927b6af72": {
+  "first_seen": 1784626338.5648417,
+  "title": "chargé de projet de formation F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-53063/charg%C3%A9-de-projet-de-formation-F%2FH"
+  ]
+ },
+ "20afa17cb301a2633ce41eeb51f82848": {
+  "first_seen": 1784626338.5648527,
+  "title": "Stage - Procurement analyst F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-50348/Stage---Procurement-analyst-F%2FH"
+  ]
+ },
+ "cb3a3a77a15d64644500eca030dafe35": {
+  "first_seen": 1784626338.5648644,
+  "title": "Stage - Chargé(e) de Mission RSE F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-52791/Stage---Charg%C3%A9%28e%29-de-Mission-RSE-F%2FH"
   ]
  }
 }
