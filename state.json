@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784710954.309172,
+   "last_success": 1784712804.4196138,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784710954.309178,
+   "last_success": 1784712804.4196198,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784710966.7844055,
+   "last_success": 1784712817.1276145,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784710966.7844105,
+   "last_success": 1784712817.127619,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784710966.7844129,
+   "last_success": 1784712817.1276207,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784710966.7844143,
+   "last_success": 1784712817.1276221,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784710966.7844152,
+   "last_success": 1784712817.127623,
    "alerted": false
   }
  },
@@ -11028,6 +11028,42 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Boulogne-Billancourt/CS27---BAC--5---Network-Strategy--H-F-_JOBREQ_50271634"
+  ]
+ },
+ "f06ab79fdd167bcd76495330bcd9837e": {
+  "first_seen": 1784712817.1280675,
+  "title": "Stage – Talent Acquisition Assistant / Chargé de sourcing talents H/F",
+  "company": "Crédit Agricole",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/groupe-credit-agricole/jobs/stage-talent-acquisition-assistant-charge-de-sourcing-talents-h-f_paris"
+  ]
+ },
+ "89f2b0514be49456f78e78c58561fedc": {
+  "first_seen": 1784712817.1282096,
+  "title": "Data scientist - Energie & Infrastructures - H/F",
+  "company": "Yélé Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443776573"
+  ]
+ },
+ "6f7477965dd65830b40d7804657909ae": {
+  "first_seen": 1784712817.1282167,
+  "title": "Data Scientist (F/H)",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443518447"
+  ]
+ },
+ "56a8bc1ebf3f600f4e5c7658a4342344": {
+  "first_seen": 1784712817.1284194,
+  "title": "CS27 - BAC +5 - Chargé de projet Transformation Digital 4.0 (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---BAC--5---Charg-de-projet-Transformation-Digital-40--H-F-_JOBREQ_50272746"
   ]
  }
 }
