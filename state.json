@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784718139.2835782,
+   "last_success": 1784719945.9150748,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784718139.283584,
+   "last_success": 1784719945.9150805,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784718153.7404828,
+   "last_success": 1784719958.560478,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784718153.7404869,
+   "last_success": 1784719958.5604823,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784718153.7404885,
+   "last_success": 1784719958.5604844,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784718153.7404895,
+   "last_success": 1784719958.5604856,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784718153.7404904,
+   "last_success": 1784719958.5604866,
    "alerted": false
   }
  },
@@ -11145,6 +11145,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442669576"
+  ]
+ },
+ "6f893d04b0312561a116813884e7f6f5": {
+  "first_seen": 1784719958.5616264,
+  "title": "Machine Learning Engineer - Foundational",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4381468710"
+  ]
+ },
+ "fb34ccf4061a90f91b38de40c87993d4": {
+  "first_seen": 1784719958.5617,
+  "title": "Ingénieur  Autosar C et ou C++ Embarqué - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422716789"
   ]
  }
 }
