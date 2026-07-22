@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784712804.4196138,
+   "last_success": 1784714582.1022158,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784712804.4196198,
+   "last_success": 1784714582.1022208,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784712817.1276145,
+   "last_success": 1784714596.550196,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784712817.127619,
+   "last_success": 1784714596.5501997,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784712817.1276207,
+   "last_success": 1784714596.5502017,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784712817.1276221,
+   "last_success": 1784714596.5502026,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784712817.127623,
+   "last_success": 1784714596.5502043,
    "alerted": false
   }
  },
@@ -11064,6 +11064,60 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---BAC--5---Charg-de-projet-Transformation-Digital-40--H-F-_JOBREQ_50272746"
+  ]
+ },
+ "3d0f2668c18a6fd5ca6de6f2f0c5062f": {
+  "first_seen": 1784714596.5506446,
+  "title": "Stage – CTO Office, Tech & Innovation",
+  "company": "EXOMIND",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443131056"
+  ]
+ },
+ "ab4ed5468191f718af1db65620ab08b0": {
+  "first_seen": 1784714596.5506718,
+  "title": "Stage/ alternance Chargé(e) de projet (H/F)",
+  "company": "INGEVA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440477631"
+  ]
+ },
+ "d85863a425838f003c2a67f78233b58b": {
+  "first_seen": 1784714596.550688,
+  "title": "Stage – Business Operations & Growth",
+  "company": "EXOMIND",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443104692"
+  ]
+ },
+ "3104416236a25174b900c2d59b6fca65": {
+  "first_seen": 1784714596.5506964,
+  "title": "Stage – Contrôle de gestion & Business Performance",
+  "company": "EXOMIND",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443111779"
+  ]
+ },
+ "07c5d73e209216e53bd1afbe270b1977": {
+  "first_seen": 1784714596.5507035,
+  "title": "Stage – Talent Acquisition & People Operations",
+  "company": "EXOMIND",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443110773"
+  ]
+ },
+ "bc599f9a4fc08409d2642a1d2c7b839b": {
+  "first_seen": 1784714596.5508084,
+  "title": "Computer Vision Engineer",
+  "company": "Leonar",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443105486"
   ]
  }
 }
