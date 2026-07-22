@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784705526.2219758,
+   "last_success": 1784707340.2437851,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784705526.2219818,
+   "last_success": 1784707340.243791,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784705539.5247405,
+   "last_success": 1784707352.2562702,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784705539.5247452,
+   "last_success": 1784707352.256275,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784705539.524747,
+   "last_success": 1784707352.2562768,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784705539.5247486,
+   "last_success": 1784707352.2562783,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784705539.52475,
+   "last_success": 1784707352.2562797,
    "alerted": false
   }
  },
@@ -10989,6 +10989,15 @@
   "source": "wttj",
   "urls": [
    "https://www.welcometothejungle.com/fr/companies/du-bruit-dans-la-cuisine/jobs/community-manager-creation-de-contenus-social-media-stage_paris"
+  ]
+ },
+ "fe625e5141dc9fd5759b755094eb1fc6": {
+  "first_seen": 1784707352.2569888,
+  "title": "Consultant Data Scientist/AI Engineer",
+  "company": "Leonar",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442999635"
   ]
  }
 }
