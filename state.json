@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784725342.3875294,
+   "last_success": 1784727121.1557813,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784725342.3875358,
+   "last_success": 1784727121.1557872,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784725355.4352787,
+   "last_success": 1784727136.3127735,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784725355.435283,
+   "last_success": 1784727136.312778,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784725355.435285,
+   "last_success": 1784727136.3127794,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784725355.4352863,
+   "last_success": 1784727136.3127813,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784725355.4352875,
+   "last_success": 1784727136.3127828,
    "alerted": false
   }
  },
@@ -11209,6 +11209,33 @@
   "source": "carriere-valeo",
   "urls": [
    "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Mthodes-Production-Assemblage_REQ2026078636"
+  ]
+ },
+ "ee03b0be6007eb7ce1c0860a94255abd": {
+  "first_seen": 1784727136.3136399,
+  "title": "Product Owner Intern",
+  "company": "WeeFin",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/weefin/jobs/product-owner-intern_paris"
+  ]
+ },
+ "12187fc82a9f284376f164a6443ad4f8": {
+  "first_seen": 1784727136.3138576,
+  "title": "STAGE - Développement d'un agent IA pour l'optimisation des processus opérationnels (H/F)",
+  "company": "WINAMAX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435530396"
+  ]
+ },
+ "51bd28b2019e0af1d67be429c84a7009": {
+  "first_seen": 1784727136.3139176,
+  "title": "Ingénieur(e) Vision par Ordinateur / IA Détection de Noyade (H/F) - BOULOGNE-BILLANCOURT (92)",
+  "company": "Maytronics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443126945"
   ]
  }
 }
