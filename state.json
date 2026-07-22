@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784745187.8700936,
+   "last_success": 1784746948.6324832,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784745187.8700995,
+   "last_success": 1784746948.6324887,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784745200.087912,
+   "last_success": 1784746961.312717,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784745200.0879173,
+   "last_success": 1784746961.3127213,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784745200.0879197,
+   "last_success": 1784746961.3127232,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784745200.0879211,
+   "last_success": 1784746961.3127248,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784745200.0879226,
+   "last_success": 1784746961.312726,
    "alerted": false
   }
  },
@@ -11428,6 +11428,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4435166548"
+  ]
+ },
+ "f555b81df1a94490d3069cfba55503c0": {
+  "first_seen": 1784746961.313637,
+  "title": "STAGE - Conception et développement d'un générateur automatique de modèles Simulink basé sur MatLab F/H - Y - DIRECTION ",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443957824"
+  ]
+ },
+ "963e97518415120b29f6a969263a64f3": {
+  "first_seen": 1784746961.3137481,
+  "title": "DGSI - AI/ML Engineer (H/F)",
+  "company": "Banque de France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441062749"
   ]
  }
 }
