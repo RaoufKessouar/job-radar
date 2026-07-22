@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784701952.8302138,
+   "last_success": 1784703731.6941469,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784701952.8302197,
+   "last_success": 1784703731.694153,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784701964.5762477,
+   "last_success": 1784703745.4081094,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784701964.576253,
+   "last_success": 1784703745.4081144,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784701964.5762544,
+   "last_success": 1784703745.4081166,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784701964.5762558,
+   "last_success": 1784703745.4081182,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784701964.576257,
+   "last_success": 1784703745.4081194,
    "alerted": false
   }
  },
@@ -10980,6 +10980,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443556844"
+  ]
+ },
+ "0be0d4706fadcb45cb652e191708f724": {
+  "first_seen": 1784703745.4085772,
+  "title": "Community Manager & Création de contenus Social Media (STAGE)",
+  "company": "Du Bruit dans la Cuisine",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/du-bruit-dans-la-cuisine/jobs/community-manager-creation-de-contenus-social-media-stage_paris"
   ]
  }
 }
