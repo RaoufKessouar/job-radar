@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784727121.1557813,
+   "last_success": 1784728972.2962475,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784727121.1557872,
+   "last_success": 1784728972.2962544,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784727136.3127735,
+   "last_success": 1784728987.107828,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784727136.312778,
+   "last_success": 1784728987.107833,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784727136.3127794,
+   "last_success": 1784728987.1078348,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784727136.3127813,
+   "last_success": 1784728987.1078365,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784727136.3127828,
+   "last_success": 1784728987.1078374,
    "alerted": false
   }
  },
@@ -10425,7 +10425,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443391226"
+   "https://www.linkedin.com/jobs/view/4443391226",
+   "https://www.linkedin.com/jobs/view/4443919645"
   ]
  },
  "de39591211efe6a1754c03fec13352cd": {
@@ -10434,7 +10435,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443375813"
+   "https://www.linkedin.com/jobs/view/4443375813",
+   "https://www.linkedin.com/jobs/view/4443920616"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -11236,6 +11238,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443126945"
+  ]
+ },
+ "96b2f45092f9fee8d31939476025de34": {
+  "first_seen": 1784728987.1083648,
+  "title": "Assistant(e) IA / BI – Automatisation & Data Engineering",
+  "company": "Côté Sushi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443136918"
+  ]
+ },
+ "81eba62b34c370c4fcb8074ad7213c47": {
+  "first_seen": 1784728987.1084702,
+  "title": "Alternance - Data Scientist / IA – Sales Operations (H/F)",
+  "company": "Exail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440478845"
+  ]
+ },
+ "0bd04a864759bb1aa3e7024c55e391c1": {
+  "first_seen": 1784728987.1085348,
+  "title": "Machine Learning Engineer - H/F/NB",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404678541"
   ]
  }
 }
