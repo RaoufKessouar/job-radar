@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784723541.5665696,
+   "last_success": 1784725342.3875294,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784723541.566575,
+   "last_success": 1784725342.3875358,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784723554.5166686,
+   "last_success": 1784725355.4352787,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784723554.516673,
+   "last_success": 1784725355.435283,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784723554.5166745,
+   "last_success": 1784725355.435285,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784723554.516676,
+   "last_success": 1784725355.4352863,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784723554.5166774,
+   "last_success": 1784725355.4352875,
    "alerted": false
   }
  },
@@ -11191,6 +11191,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4434334289"
+  ]
+ },
+ "9a75b229f7b5c381fa8ee718b1528fda": {
+  "first_seen": 1784725355.435969,
+  "title": "AI Engineer",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443920093"
+  ]
+ },
+ "89106687a6526e6b69d66bc3e8ef1b73": {
+  "first_seen": 1784725355.4362066,
+  "title": "Stagiaire Méthodes Production Assemblage",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Mthodes-Production-Assemblage_REQ2026078636"
   ]
  }
 }
