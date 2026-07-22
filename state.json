@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784741519.4069183,
+   "last_success": 1784743360.2467852,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784741519.406924,
+   "last_success": 1784743360.2467914,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784741531.870278,
+   "last_success": 1784743375.2805371,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784741531.8702822,
+   "last_success": 1784743375.280542,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784741531.8702836,
+   "last_success": 1784743375.2805436,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784741531.8702848,
+   "last_success": 1784743375.2805448,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784741531.8702857,
+   "last_success": 1784743375.280546,
    "alerted": false
   }
  },
@@ -11373,6 +11373,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4373498458"
+  ]
+ },
+ "2bb001c2cc46e5b37a9f98dc67f2d3e5": {
+  "first_seen": 1784743375.2814636,
+  "title": "Data Scientist ML et IA",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441068273"
+  ]
+ },
+ "7710af46c93336245a8302f0c80b7f3b": {
+  "first_seen": 1784743375.2814722,
+  "title": "Data Scientist",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441057818"
+  ]
+ },
+ "875b5f9f8c2ce939a2cdb900a703f7c2": {
+  "first_seen": 1784743375.2816195,
+  "title": "Apprentissage : Développeur logiciel embarqué",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441062405"
+  ]
+ },
+ "2bd504a3e2c6dd3d46224c988ec5d08c": {
+  "first_seen": 1784743375.281628,
+  "title": "Ingénieur Logiciel Embarqué (H/F) – Domaine Spatial",
+  "company": "Groupe SII",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443951224"
   ]
  }
 }
