@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784716373.2903538,
+   "last_success": 1784718139.2835782,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784716373.290359,
+   "last_success": 1784718139.283584,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784716388.3849373,
+   "last_success": 1784718153.7404828,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784716388.3849423,
+   "last_success": 1784718153.7404869,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784716388.3849447,
+   "last_success": 1784718153.7404885,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784716388.3849459,
+   "last_success": 1784718153.7404895,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784716388.3849473,
+   "last_success": 1784718153.7404904,
    "alerted": false
   }
  },
@@ -11118,6 +11118,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443105486"
+  ]
+ },
+ "263ec33a4d65966b43455315ccf153f4": {
+  "first_seen": 1784718153.7410507,
+  "title": "apprenticeship 12 months planet care data science",
+  "company": "Sanofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443787713"
+  ]
+ },
+ "d04db763b649bc1ba7bd531366bcd5d6": {
+  "first_seen": 1784718153.7410614,
+  "title": "Data Scientist F/H/X",
+  "company": "L'olivier Assurance | Admiral Group Plc",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442675249"
+  ]
+ },
+ "86e4c96146071c2912c31ea327d4a267": {
+  "first_seen": 1784718153.7411358,
+  "title": "Graduate AI software engineer",
+  "company": "Bending Spoons",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442669576"
   ]
  }
 }
