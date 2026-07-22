@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784665947.3327792,
+   "last_success": 1784696550.1478019,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784665947.3327851,
+   "last_success": 1784696550.1478078,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784665958.9123328,
+   "last_success": 1784696562.643765,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784665958.9123368,
+   "last_success": 1784696562.6437693,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784665958.9123385,
+   "last_success": 1784696562.6437707,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784665958.91234,
+   "last_success": 1784696562.6437716,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784665958.9123409,
+   "last_success": 1784696562.6437726,
    "alerted": false
   }
  },
@@ -10926,6 +10926,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443551065"
+  ]
+ },
+ "12a73e95cadd50673943cd9ffc26f3ad": {
+  "first_seen": 1784696562.6446226,
+  "title": "Stage Développeur Data & IA F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443707182"
+  ]
+ },
+ "da901c1d0ef3cc3902f64f4fa57828d6": {
+  "first_seen": 1784696562.6446636,
+  "title": "AI Innovation Engineer",
+  "company": "exponentiel.ai",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443728545"
+  ]
+ },
+ "e2eaa251679b7604cbdc9c7601afdb76": {
+  "first_seen": 1784696562.6446755,
+  "title": "AI Engineer",
+  "company": "Yotta - Expert en recrutement Data, AI & Product",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437767239"
+  ]
+ },
+ "3082117bb3a8f41b27bcbe9fac13897e": {
+  "first_seen": 1784696562.6446903,
+  "title": "AI & Machine Learning Engineer",
+  "company": "exponentiel.ai",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443735039"
+  ]
+ },
+ "14ad60f06252022bae5172b6f7da7335": {
+  "first_seen": 1784696562.644696,
+  "title": "AI Engineer (H/F)",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442952111"
+  ]
+ },
+ "7ee84a4beba1fd5c3c9bfa8af88cec1d": {
+  "first_seen": 1784696562.6447241,
+  "title": "📋Consultant Data / IAG Ingenieur (Stage)",
+  "company": "Cartelis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443556844"
   ]
  }
 }
