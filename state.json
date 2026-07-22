@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784746948.6324832,
+   "last_success": 1784748752.7363348,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784746948.6324887,
+   "last_success": 1784748752.7363398,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784746961.312717,
+   "last_success": 1784748766.6466777,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784746961.3127213,
+   "last_success": 1784748766.6466815,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784746961.3127232,
+   "last_success": 1784748766.6466835,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784746961.3127248,
+   "last_success": 1784748766.6466844,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784746961.312726,
+   "last_success": 1784748766.6466854,
    "alerted": false
   }
  },
@@ -11446,6 +11446,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441062749"
+  ]
+ },
+ "751e18678d90966243b4ce303a0a813a": {
+  "first_seen": 1784748766.6477027,
+  "title": "Développeur Logiciel",
+  "company": "CLAAS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440251704"
   ]
  }
 }
