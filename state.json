@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784728972.2962475,
+   "last_success": 1784730776.9022918,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784728972.2962544,
+   "last_success": 1784730776.9022973,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784728987.107828,
+   "last_success": 1784730790.564,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784728987.107833,
+   "last_success": 1784730790.564005,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784728987.1078348,
+   "last_success": 1784730790.5640063,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784728987.1078365,
+   "last_success": 1784730790.5640078,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784728987.1078374,
+   "last_success": 1784730790.5640092,
    "alerted": false
   }
  },
@@ -11265,6 +11265,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4404678541"
+  ]
+ },
+ "ae98af6b8e8cbb6d5f452f2640a8688f": {
+  "first_seen": 1784730790.5648146,
+  "title": "Data Scientist - Research & Innovation",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409374450"
+  ]
+ },
+ "32d1a1fa63a762fdf04835150cba50cb": {
+  "first_seen": 1784730790.5648322,
+  "title": "Consultant Data scientist - Energie & Infrastructures - H/F",
+  "company": "Yélé Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443776573"
+  ]
+ },
+ "1901e152a259be9ccc7c9e49f8944d50": {
+  "first_seen": 1784730790.5650604,
+  "title": "Embedded System Lead Engineer",
+  "company": "Pelagon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443932044"
   ]
  }
 }
