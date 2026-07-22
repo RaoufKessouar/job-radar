@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784730776.9022918,
+   "last_success": 1784732548.7903056,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784730776.9022973,
+   "last_success": 1784732548.7903116,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784730790.564,
+   "last_success": 1784732560.9822328,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784730790.564005,
+   "last_success": 1784732560.9822373,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784730790.5640063,
+   "last_success": 1784732560.9822395,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784730790.5640078,
+   "last_success": 1784732560.9822407,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784730790.5640092,
+   "last_success": 1784732560.982242,
    "alerted": false
   }
  },
@@ -11292,6 +11292,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443932044"
+  ]
+ },
+ "ffe6a350e00c9218546199b06e27dd77": {
+  "first_seen": 1784732560.9828184,
+  "title": "[Alternance] - Data Scientist H-F",
+  "company": "Abeille Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435175564"
+  ]
+ },
+ "46ed6d02fb71b46aad62d83c9c87508f": {
+  "first_seen": 1784732560.98288,
+  "title": "Data scientist IA GEN",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441058138"
+  ]
+ },
+ "32027cd2a7f13fc408b91c0c5bf2f17b": {
+  "first_seen": 1784732560.9830446,
+  "title": "Apprentissage par réseaux de neurones à valeurs complexes pour la résolution de problèmes inverses en diffraction des on",
+  "company": "Institut DataIA Paris-Saclay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443901999"
+  ]
+ },
+ "45502e034b7e5fd07d3ec86104b43549": {
+  "first_seen": 1784732560.9830694,
+  "title": "Senior Firmware Developer (H/F)",
+  "company": "BALYO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443152584"
   ]
  }
 }
