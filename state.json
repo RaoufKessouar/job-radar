@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784709249.4398477,
+   "last_success": 1784710954.309172,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784709249.439854,
+   "last_success": 1784710954.309178,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784709262.0340402,
+   "last_success": 1784710966.7844055,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784709262.0340445,
+   "last_success": 1784710966.7844105,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784709262.0340457,
+   "last_success": 1784710966.7844129,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784709262.0340466,
+   "last_success": 1784710966.7844143,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784709262.0340478,
+   "last_success": 1784710966.7844152,
    "alerted": false
   }
  },
@@ -11001,6 +11001,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442999635"
+  ]
+ },
+ "3c08f204c52718e721b5a19e01d2b0cf": {
+  "first_seen": 1784710966.7854576,
+  "title": "Ingénieur/Ingénieure IA Alternance ou Stage",
+  "company": "AS International Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443785057"
+  ]
+ },
+ "defcb208be73e03bfdbbe08b9bc14144": {
+  "first_seen": 1784710966.785467,
+  "title": "Ingénieur IA",
+  "company": "DxO Labs",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443760958"
+  ]
+ },
+ "fa8507a32e793eaf0643847df3d55bac": {
+  "first_seen": 1784710966.7856345,
+  "title": "CS27 - BAC +5 - Network Strategy (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Boulogne-Billancourt/CS27---BAC--5---Network-Strategy--H-F-_JOBREQ_50271634"
   ]
  }
 }
