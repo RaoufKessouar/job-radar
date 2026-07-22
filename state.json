@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784721769.7301257,
+   "last_success": 1784723222.5546355,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784721769.7301311,
+   "last_success": 1784723222.5546415,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784721781.7656944,
+   "last_success": 1784723237.493841,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784721781.7656999,
+   "last_success": 1784723237.4938457,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784721781.7657015,
+   "last_success": 1784723237.4938476,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784721781.7657034,
+   "last_success": 1784723237.493849,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784721781.7657046,
+   "last_success": 1784723237.4938507,
    "alerted": false
   }
  },
@@ -10488,7 +10488,8 @@
   "company": "Building Partners",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4440453789"
+   "https://www.linkedin.com/jobs/view/4440453789",
+   "https://www.linkedin.com/jobs/view/4443901703"
   ]
  },
  "0f4c6d7f8e9dcf7a0d58fef705f982b9": {
@@ -11172,6 +11173,15 @@
   "source": "carriere-valeo",
   "urls": [
    "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Bureau-d-tudes-Conception-Mcanique-H-F_REQ2026078183"
+  ]
+ },
+ "dda8bd2f8a2aecb7747b7e9e16026fc5": {
+  "first_seen": 1784723237.494666,
+  "title": "AI Developer",
+  "company": "5 Degrés",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443120173"
   ]
  }
 }
