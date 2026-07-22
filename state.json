@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784740956.3887258,
+   "last_success": 1784741519.4069183,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784740956.3887317,
+   "last_success": 1784741519.406924,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784740968.723647,
+   "last_success": 1784741531.870278,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784740968.723651,
+   "last_success": 1784741531.8702822,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784740968.7236528,
+   "last_success": 1784741531.8702836,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784740968.723654,
+   "last_success": 1784741531.8702848,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784740968.7236557,
+   "last_success": 1784741531.8702857,
    "alerted": false
   }
  },
@@ -11355,6 +11355,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4416238748"
+  ]
+ },
+ "3908bba2e8f9e4a8d82e084d3e9900aa": {
+  "first_seen": 1784741531.8709574,
+  "title": "Data Scientist - IA & Data Science Team",
+  "company": "Teads",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441063179"
+  ]
+ },
+ "05b2dbacfcadc0d310d18edd25e07b14": {
+  "first_seen": 1784741531.8710046,
+  "title": "STAGE-Analyser l'impact d'une intégration d'éléments méthodologiques issus du programme confiance.ia F/H",
+  "company": "KNDS France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4373498458"
   ]
  }
 }
