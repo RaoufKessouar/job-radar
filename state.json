@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784723222.5546355,
+   "last_success": 1784723541.5665696,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784723222.5546415,
+   "last_success": 1784723541.566575,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784723237.493841,
+   "last_success": 1784723554.5166686,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784723237.4938457,
+   "last_success": 1784723554.516673,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784723237.4938476,
+   "last_success": 1784723554.5166745,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784723237.493849,
+   "last_success": 1784723554.516676,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784723237.4938507,
+   "last_success": 1784723554.5166774,
    "alerted": false
   }
  },
@@ -11182,6 +11182,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443120173"
+  ]
+ },
+ "7300983329d21f30d1cca7e0041a0785": {
+  "first_seen": 1784723554.5175185,
+  "title": "Stage H/F - Chargé de Projets - Intelligence Artificielle – Mars 2027",
+  "company": "Lazard",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434334289"
   ]
  }
 }
