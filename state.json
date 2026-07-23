@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784818945.474677,
+   "last_success": 1784820723.2039022,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784818945.4746828,
+   "last_success": 1784820723.2039075,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784818959.5503192,
+   "last_success": 1784820736.2136483,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784818959.5503242,
+   "last_success": 1784820736.213653,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784818959.5503263,
+   "last_success": 1784820736.2136548,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784818959.5503278,
+   "last_success": 1784820736.213656,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784818959.550329,
+   "last_success": 1784820736.2136574,
    "alerted": false
   }
  },
@@ -11727,5 +11727,14 @@
   "company": "Capgemini",
   "source": "carriere-capgemini",
   "urls": []
+ },
+ "d4698a2d7ca1d64ad9d07d6d4a8ddab0": {
+  "first_seen": 1784820736.2142334,
+  "title": "Stagiaire IA & TechOps",
+  "company": "INVIVOO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444464520"
+  ]
  }
 }
