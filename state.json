@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784835152.846986,
+   "last_success": 1784836925.4453516,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784835152.8469915,
+   "last_success": 1784836925.4453578,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784835170.3749049,
+   "last_success": 1784836937.636428,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784835170.3749096,
+   "last_success": 1784836937.6364336,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784835170.3749115,
+   "last_success": 1784836937.6364362,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784835170.3749127,
+   "last_success": 1784836937.6364381,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784835170.3749137,
+   "last_success": 1784836937.63644,
    "alerted": false
   }
  },
@@ -10716,175 +10716,225 @@
   "title": "Consultante/Consultant Entreprise Data & Analytics - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Entreprise-Data-&-Analytics-Stage/1417385133/"
+  ]
  },
  "41f9140fcdaf09ae1f5fd374cdcbe6b4": {
   "first_seen": 1784662339.1606102,
   "title": "Stage Gouvernance et communication Digital Trust",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Stage-Gouvernance-et-communication-Digital-Trust/1400890033/"
+  ]
  },
  "99caf92385c48d0f539e42a3ef51e1f2": {
   "first_seen": 1784662339.16062,
   "title": "Consultante/Consultant Développement commercial et stratégie régionale - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Lyon-ConsultanteConsultant-D%C3%A9veloppement-commercial-et-strat%C3%A9gie-r%C3%A9gionale-Stage/1417095633/"
+  ]
  },
  "fee60ea96145bcb8904ca4f2567fdf90": {
   "first_seen": 1784662339.1606288,
   "title": "Consultante / Consultant Luxe/ Beauté/ Retail - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Consultante-Consultant-Luxe-Beaut%C3%A9-Retail-Stage/1225924201/"
+  ]
  },
  "efbb78ef8055571871cf566965e943b4": {
   "first_seen": 1784662339.1606364,
   "title": "Consultante/Consultant Intelligent Industry - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Intelligent-Industry-Stage/1244960901/"
+  ]
  },
  "deb0ed96dbd23a82fe6c7c1a62626032": {
   "first_seen": 1784662339.1606443,
   "title": "Capgemini Engineering_Data Engineer & Reporting_Stage_Aix-en-Provence",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Aix-en-Provence-Capgemini-Engineering_Data-Engineer-&-Reporting_Stage_Aix-en-Provence/1245485701/"
+  ]
  },
  "5c3a9e4bcbdfe9c4498c62758d98baf1": {
   "first_seen": 1784662339.160653,
   "title": "Chargé(e) de Relations Écoles & Universités - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Charg%C3%A9%28e%29-de-Relations-%C3%89coles-&-Universit%C3%A9s-Stage/1415435033/"
+  ]
  },
  "040878fc7380fa23dad3997662a40225": {
   "first_seen": 1784662339.16066,
   "title": "Stage Référent(e) Handicap",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Stage-R%C3%A9f%C3%A9rent%28e%29-Handicap/1413830333/"
+  ]
  },
  "7bb839c817d928de87da1225c366bd78": {
   "first_seen": 1784662339.1606681,
   "title": "Stagiaire de fin d'études - Automotive",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Stagiaire-de-fin-d'%C3%A9tudes-Automotive/1268352501/"
+  ]
  },
  "57b24d0c88f970fbd43a94a94ba8bc0d": {
   "first_seen": 1784662339.1606755,
   "title": "Stagiaire de fin d'études - Manufacturing",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Stagiaire-de-fin-d'%C3%A9tudes-Manufacturing/1219138001/"
+  ]
  },
  "045c4285010af0c0b92a4795504041ca": {
   "first_seen": 1784662339.1606836,
   "title": "Stagiaire Cybersécurité DevSecops",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Paris-Stagiaire-Cybers%C3%A9curit%C3%A9-DevSecops/1412188333/"
+  ]
  },
  "309159ab9a6a78d25c7ec6fef8485db7": {
   "first_seen": 1784662339.1606932,
   "title": "Chargée Relations Écoles & Universités Île-de-France - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Charg%C3%A9e-Relations-%C3%89coles-&-Universit%C3%A9s-%C3%8Ele-de-France-Stage/1388734533/"
+  ]
  },
  "2b6ed9b4127ee6041517ac8cc3970d5c": {
   "first_seen": 1784662339.1607015,
   "title": "Ingénieure / Ingénieur Optimisation Supply Chain - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Aix-en-Provence-Ing%C3%A9nieure-Ing%C3%A9nieur-Optimisation-Supply-Chain-Stage/1200175401/"
+  ]
  },
  "f88ea8373b0384bd2298900bceee843c": {
   "first_seen": 1784662339.1607094,
   "title": "Consultante / Consultant Data, Risque & Conformité - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Consultante-Consultant-Data%2C-Risque-&-Conformit%C3%A9-Stage/1263459701/"
+  ]
  },
  "b393422c7ebfd48665a16d309b052370": {
   "first_seen": 1784662339.160717,
   "title": "Consultante/Consultant Energy Transition & Utilities - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Energy-Transition-&-Utilities-Stage/1207470901/"
+  ]
  },
  "3b2e697b30415389ef6cff6b38aa4763": {
   "first_seen": 1784662339.1607242,
   "title": "Consultante/Consultant Data & IA - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Data-&-IA-Stage/1202921401/"
+  ]
  },
  "6fb4f69e123366bb7f82c204672d8640": {
   "first_seen": 1784662339.1607313,
   "title": "Consultante/Consultant Entreprise Transformation - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Entreprise-Transformation-Stage/1198509701/"
+  ]
  },
  "9a5d9d7bf6ec61065f9adb2dac3b9d09": {
   "first_seen": 1784662339.1607382,
   "title": "Consultante/Consultant CIO Advisory - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-CIO-Advisory-Stage/1266247401/"
+  ]
  },
  "b60b5a2103eead4679fb9d28ab705617": {
   "first_seen": 1784662339.1607454,
   "title": "Consultante/Consultant Workforce & Organization - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Workforce-&-Organization-Stage/1257998501/"
+  ]
  },
  "9c7c303dda5e7ebe0d6370302bdb2279": {
   "first_seen": 1784662339.160752,
   "title": "Consultante/Consultant Corporate Experience - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Corporate-Experience-Stage/1263450901/"
+  ]
  },
  "2dcb48aa02ffc33257ddcd9c36c1a953": {
   "first_seen": 1784662339.160759,
   "title": "Consultante/Consultant Public & Services - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Public-&-Services-Stage/1207466901/"
+  ]
  },
  "cf228e202a37e1233bb505c8682f9dfd": {
   "first_seen": 1784662339.1607685,
   "title": "Consultante/Consultant en Stratégie Marketing et Expérience Client Frog - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-en-Strat%C3%A9gie-Marketing-et-Exp%C3%A9rience-Client-Frog-Stage/1203428601/"
+  ]
  },
  "b530c5c8401e4660895022d6ccd57aa5": {
   "first_seen": 1784662339.1607761,
   "title": "Ingénieur / Ingénieure Exploitation Applicative - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Le-Bourget-du-Lac-Ing%C3%A9nieur-Ing%C3%A9nieure-Exploitation-Applicative-Stage/1269928801/"
+  ]
  },
  "290fa44e029c5dc336886f60ed50f965": {
   "first_seen": 1784662339.1607828,
   "title": "Stage Consultante / Consultant SAP Technique",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Stage-Consultante-Consultant-SAP-Technique/1269056701/"
+  ]
  },
  "de6b43f2cd27bae32a1c213f379d76a9": {
   "first_seen": 1784662339.1607914,
   "title": "Consumer Product Retail & Distribution - Stagiaire de Fin d'Etudes - Paris",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Consumer-Product-Retail-&-Distribution-Stagiaire-de-Fin-d'Etudes-Paris/1219085401/"
+  ]
  },
  "0f00fd9225e66a444509339000b57b33": {
   "first_seen": 1784662339.1607983,
@@ -10905,7 +10955,10 @@
   "title": "Consultante / Consultant « Digital Engineering » - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Digital-Engineering-Stage/1382748033/",
+   "https://careers.capgemini.com/job/Blagnac-Consultante-Consultant-%C2%AB-Digital-Engineering-%C2%BB-Stage/1382609733/"
+  ]
  },
  "ec22e46e090cff433f1b1209b8b299b4": {
   "first_seen": 1784662339.1608233,
@@ -11826,14 +11879,18 @@
   "title": "Data Scientist - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Data-Scientist-Stage/1418370533/"
+  ]
  },
  "1f242ac5bf0664472a3a326f7feaf5fc": {
   "first_seen": 1784826176.133307,
   "title": "Consultante/Consultant Connected Product & Services - Stage",
   "company": "Capgemini",
   "source": "carriere-capgemini",
-  "urls": []
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Connected-Product-&-Services-Stage/1375915433/"
+  ]
  },
  "4c4f15f0d8cea3f8583d097f84c191f1": {
   "first_seen": 1784829756.2715452,
@@ -11887,6 +11944,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444716115"
+  ]
+ },
+ "a420e1d0b5f22b4dcc4ee0347a1f7514": {
+  "first_seen": 1784836937.637048,
+  "title": "Stage Etudiant - Chargé(e) d'études décarbonation",
+  "company": "Groupama Assurances Mutuelles",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418841177"
+  ]
+ },
+ "fe7a1f7ce20e2438bdfdb66e456969da": {
+  "first_seen": 1784836937.6371157,
+  "title": "Stage Ingénieur.e Logiciel Vérification et Validation (F/H)",
+  "company": "SII Canada",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444497929"
   ]
  }
 }
