@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784795538.7006445,
+   "last_success": 1784795668.8754475,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784795538.70065,
+   "last_success": 1784795668.875453,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784795555.398089,
+   "last_success": 1784795681.2625408,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784795555.3980935,
+   "last_success": 1784795681.2625453,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784795555.3980951,
+   "last_success": 1784795681.262547,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784795555.3980966,
+   "last_success": 1784795681.2625484,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784795555.3980978,
+   "last_success": 1784795681.2625494,
    "alerted": false
   }
  },
@@ -11503,31 +11503,22 @@
    "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Ingnieur-dveloppement-produit-H-F_REQ2026078928"
   ]
  },
- "6bd1c0c0af2fa295f71438b49dd6e74d": {
-  "first_seen": 1784795555.3987675,
-  "title": "Stage ou Alternance - Data Analyst H/F",
-  "company": "Verallia France",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4443815303"
-  ]
- },
- "a13dc3d6a26bc66d6a029a722b2eb1d6": {
-  "first_seen": 1784795555.3987765,
-  "title": "STAGE - Data Analyst et reporting H/F",
-  "company": "CEA",
-  "source": "linkedin",
-  "urls": [
-   "https://www.linkedin.com/jobs/view/4443814863"
-  ]
- },
  "545d5f679e4056d5d5448882c63fc8f7": {
-  "first_seen": 1784795555.3988588,
+  "first_seen": 1784795681.2632103,
   "title": "Stage en Informatique et Intelligence Artificielle",
   "company": "Lux Academy",
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441505173"
+  ]
+ },
+ "a13dc3d6a26bc66d6a029a722b2eb1d6": {
+  "first_seen": 1784795681.2632744,
+  "title": "STAGE - Data Analyst et reporting H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443814863"
   ]
  }
 }
