@@ -272,8 +272,16 @@ def _capgemini_list(size: int = 50, max_pages: int = 4) -> list[dict]:
             title = str(item.get("title") or "").strip()
             if not title:
                 continue
+            # URL fournie par l'API, sinon construite depuis la référence
+            if item.get("refId") and item.get("source"):
+                fallback = (f"https://www.capgemini.com/careers/join-capgemini"
+                            f"/jobs/{item['refId']}+{str(item['source']).lower()}")
+            else:
+                fallback = (f"https://www.capgemini.com/careers/join-capgemini"
+                            f"/jobs/{item.get('id', '')}")
             url = str(item.get("wp_url") or item.get("job_url")
-                      or item.get("url") or "").split("?", 1)[0]
+                      or item.get("url") or item.get("apply_job_url")
+                      or fallback).split("?", 1)[0]
             offers.append({
                 "source": "carriere-capgemini",
                 "title": title,
