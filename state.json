@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784836925.4453516,
+   "last_success": 1784838721.2000146,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784836925.4453578,
+   "last_success": 1784838721.20002,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784836937.636428,
+   "last_success": 1784838733.0348523,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784836937.6364336,
+   "last_success": 1784838733.0348568,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784836937.6364362,
+   "last_success": 1784838733.0348582,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784836937.6364381,
+   "last_success": 1784838733.0348594,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784836937.63644,
+   "last_success": 1784838733.0348608,
    "alerted": false
   }
  },
@@ -11962,6 +11962,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444497929"
+  ]
+ },
+ "5c6f719c1b91ee5417e5e8ea3f667c89": {
+  "first_seen": 1784838733.035492,
+  "title": "Stagiaire en financement de l’innovation - Ingénieur Informatique / Finance F/H",
+  "company": "KPMG France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444731417"
   ]
  }
 }
