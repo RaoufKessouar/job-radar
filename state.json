@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784791949.0618074,
+   "last_success": 1784793777.6967862,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784791949.0618126,
+   "last_success": 1784793777.696791,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784791961.1731293,
+   "last_success": 1784793792.0936587,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784791961.173134,
+   "last_success": 1784793792.0936627,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784791961.1731362,
+   "last_success": 1784793792.0936642,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784791961.1731377,
+   "last_success": 1784793792.0936654,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784791961.1731389,
+   "last_success": 1784793792.0936663,
    "alerted": false
   }
  },
@@ -11492,6 +11492,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443453905"
+  ]
+ },
+ "ea7b486f13a7a6470ad825f898116377": {
+  "first_seen": 1784793792.0943947,
+  "title": "Stagiaire Ingénieur développement produit H/F",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Ingnieur-dveloppement-produit-H-F_REQ2026078928"
   ]
  }
 }
