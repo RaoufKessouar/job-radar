@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784833353.540836,
+   "last_success": 1784835152.846986,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784833353.540843,
+   "last_success": 1784835152.8469915,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784833366.429965,
+   "last_success": 1784835170.3749049,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784833366.4299693,
+   "last_success": 1784835170.3749096,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784833366.429971,
+   "last_success": 1784835170.3749115,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784833366.4299722,
+   "last_success": 1784835170.3749127,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784833366.4299738,
+   "last_success": 1784835170.3749137,
    "alerted": false
   }
  },
@@ -11851,6 +11851,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441556256"
+  ]
+ },
+ "4e857723f00a55a89d9555cd41faa799": {
+  "first_seen": 1784835170.375588,
+  "title": "Alternance: Développeur(se) Logiciel - Applications Cloud - F/H",
+  "company": "SAP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435812850"
+  ]
+ },
+ "1d96bca90d954961b1df40a068a625e3": {
+  "first_seen": 1784835170.3755977,
+  "title": "Stage Ingénieur.e IA ET COMPUTER VISION",
+  "company": "SII Canada",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444710495"
+  ]
+ },
+ "0bf7618ab5893ad523369dc3ed6d3fd3": {
+  "first_seen": 1784835170.3756075,
+  "title": "Stage Ingénieur.e IA et Systèmes embarqués",
+  "company": "SII Canada",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444717134"
+  ]
+ },
+ "1aaea1f33f5c703b1e59c704d1cf4cc4": {
+  "first_seen": 1784835170.3757281,
+  "title": "Ingénieur Logiciel Embarqué (H/F) – Domaine Spatial",
+  "company": "SII Canada",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444716115"
   ]
  }
 }
