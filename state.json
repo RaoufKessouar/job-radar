@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784752326.2361515,
+   "last_success": 1784782956.8938375,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784752326.236157,
+   "last_success": 1784782956.8938432,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784752339.6610308,
+   "last_success": 1784782969.0839777,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784752339.661035,
+   "last_success": 1784782969.083983,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784752339.661037,
+   "last_success": 1784782969.0839846,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784752339.6610384,
+   "last_success": 1784782969.0839858,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784752339.6610398,
+   "last_success": 1784782969.0839872,
    "alerted": false
   }
  },
@@ -10941,7 +10941,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4443707182",
    "https://www.linkedin.com/jobs/view/4443109341",
-   "https://www.linkedin.com/jobs/view/4443969516"
+   "https://www.linkedin.com/jobs/view/4443969516",
+   "https://www.linkedin.com/jobs/view/4444211163"
   ]
  },
  "da901c1d0ef3cc3902f64f4fa57828d6": {
@@ -11455,6 +11456,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440251704"
+  ]
+ },
+ "cbea2476e6c84183fab8e25dce774768": {
+  "first_seen": 1784782969.0847511,
+  "title": "AI BUILDER (STAGE / INTERN)",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443442222"
+  ]
+ },
+ "38fa68063f5c059d31d32283159f0c53": {
+  "first_seen": 1784782969.0848448,
+  "title": "Stage - Data Scientist - Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444204262"
+  ]
+ },
+ "ac12dcc4407dcf520e4ef236ec348e89": {
+  "first_seen": 1784782969.0848773,
+  "title": "STAGE - INGÉNIEUR IA (GEN AI, LLM, …) - H/F",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443462328"
   ]
  }
 }
