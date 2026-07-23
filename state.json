@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784809958.6167667,
+   "last_success": 1784811757.4648821,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784809958.616772,
+   "last_success": 1784811757.4648883,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784809973.5996814,
+   "last_success": 1784811770.1832888,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784809973.5996852,
+   "last_success": 1784811770.1832936,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784809973.5996866,
+   "last_success": 1784811770.1832955,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784809973.5996876,
+   "last_success": 1784811770.1832974,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784809973.5996888,
+   "last_success": 1784811770.1832986,
    "alerted": false
   }
  },
@@ -11610,6 +11610,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441514712"
+  ]
+ },
+ "779b11723b67e048cc9e3ec18beff68d": {
+  "first_seen": 1784811770.1840327,
+  "title": "Data Scientist – Machine Deep learning (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4182198225"
+  ]
+ },
+ "d16d3edb761a2a989614dcd5cbeea73c": {
+  "first_seen": 1784811770.1840785,
+  "title": "Entry- Level Quantitative Strategist",
+  "company": "WorldQuant",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417394286"
   ]
  }
 }
