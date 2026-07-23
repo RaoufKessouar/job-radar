@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784820723.2039022,
+   "last_success": 1784822572.65344,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784820723.2039075,
+   "last_success": 1784822572.653446,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784820736.2136483,
+   "last_success": 1784822584.6644206,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784820736.213653,
+   "last_success": 1784822584.6644251,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784820736.2136548,
+   "last_success": 1784822584.6644273,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784820736.213656,
+   "last_success": 1784822584.6644285,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784820736.2136574,
+   "last_success": 1784822584.6644301,
    "alerted": false
   }
  },
@@ -11735,6 +11735,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444464520"
+  ]
+ },
+ "669572735f6be0aa5a14a0398d866fc3": {
+  "first_seen": 1784822584.6650639,
+  "title": "Stage Data Scientist IA – LLM & Agentic RAG",
+  "company": "ChapsVision",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443873997"
+  ]
+ },
+ "2e03d5a9aca2ea1c77521bf38858d651": {
+  "first_seen": 1784822584.6651046,
+  "title": "Stage Data Scientist IA – Optimisation des Agents IA",
+  "company": "ChapsVision",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443897074"
+  ]
+ },
+ "ea87aad6ae11de9ce778a1bbc85a04a4": {
+  "first_seen": 1784822584.665122,
+  "title": "Prompt Engineer Intern (6 months from September)",
+  "company": "Tribun Health",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443878874"
   ]
  }
 }
