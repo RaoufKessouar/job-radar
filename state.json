@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784802756.6306722,
+   "last_success": 1784804575.097273,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784802756.6306772,
+   "last_success": 1784804575.097279,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784802769.1914744,
+   "last_success": 1784804587.0882597,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784802769.1914787,
+   "last_success": 1784804587.088264,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784802769.1914809,
+   "last_success": 1784804587.0882654,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784802769.191482,
+   "last_success": 1784804587.0882668,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784802769.1914835,
+   "last_success": 1784804587.0882683,
    "alerted": false
   }
  },
@@ -11428,7 +11428,8 @@
   "company": "Thales",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4435166548"
+   "https://www.linkedin.com/jobs/view/4435166548",
+   "https://www.linkedin.com/jobs/view/4444424266"
   ]
  },
  "f555b81df1a94490d3069cfba55503c0": {
@@ -11555,6 +11556,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4435543982"
+  ]
+ },
+ "6bd1c0c0af2fa295f71438b49dd6e74d": {
+  "first_seen": 1784804587.0889409,
+  "title": "Stage ou Alternance - Data Analyst H/F",
+  "company": "Verallia France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443815303"
+  ]
+ },
+ "e185b92fdd9a01c3f316e412dff38ea6": {
+  "first_seen": 1784804587.08915,
+  "title": "Embedded Linux Software Engineer",
+  "company": "L-Acoustics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4386722052"
+  ]
+ },
+ "aa0f5cec49d010994d4c21ff232ad1ae": {
+  "first_seen": 1784804587.0891645,
+  "title": "INGENIEUR(E) ETUDE ET DEVELOPPEMENT C/ADA (H/F)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444418704"
+  ]
+ },
+ "428b15a959fb9809ead995b945b57449": {
+  "first_seen": 1784804587.0891743,
+  "title": "Développeur C/C++ – Systèmes d’Armes (H/F)",
+  "company": "Groupe SII",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443947529"
   ]
  }
 }
