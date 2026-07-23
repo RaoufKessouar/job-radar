@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784827924.0221534,
+   "last_success": 1784829744.5301757,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784827924.0221593,
+   "last_success": 1784829744.5301807,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784827936.311939,
+   "last_success": 1784829756.2710097,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784827936.3119442,
+   "last_success": 1784829756.271014,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784827936.311946,
+   "last_success": 1784829756.271016,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784827936.3119473,
+   "last_success": 1784829756.2710173,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784827936.3119488,
+   "last_success": 1784829756.2710185,
    "alerted": false
   }
  },
@@ -11393,7 +11393,8 @@
   "company": "Societe Generale",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4441057818"
+   "https://www.linkedin.com/jobs/view/4441057818",
+   "https://www.linkedin.com/jobs/view/4441543624"
   ]
  },
  "875b5f9f8c2ce939a2cdb900a703f7c2": {
@@ -11743,7 +11744,8 @@
   "company": "ChapsVision",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443873997"
+   "https://www.linkedin.com/jobs/view/4443873997",
+   "https://www.linkedin.com/jobs/view/4444004526"
   ]
  },
  "2e03d5a9aca2ea1c77521bf38858d651": {
@@ -11752,7 +11754,8 @@
   "company": "ChapsVision",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443897074"
+   "https://www.linkedin.com/jobs/view/4443897074",
+   "https://www.linkedin.com/jobs/view/4444015050"
   ]
  },
  "ea87aad6ae11de9ce778a1bbc85a04a4": {
@@ -11831,5 +11834,14 @@
   "company": "Capgemini",
   "source": "carriere-capgemini",
   "urls": []
+ },
+ "4c4f15f0d8cea3f8583d097f84c191f1": {
+  "first_seen": 1784829756.2715452,
+  "title": "Internship – Embedded Software Engineer (2-6 months internship)",
+  "company": "Lprint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444496452"
+  ]
  }
 }
