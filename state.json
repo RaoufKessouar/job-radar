@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784804575.097273,
+   "last_success": 1784806350.7656538,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784804575.097279,
+   "last_success": 1784806350.7656586,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784804587.0882597,
+   "last_success": 1784806364.248701,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784804587.088264,
+   "last_success": 1784806364.248705,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784804587.0882654,
+   "last_success": 1784806364.2487063,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784804587.0882668,
+   "last_success": 1784806364.2487073,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784804587.0882683,
+   "last_success": 1784806364.2487082,
    "alerted": false
   }
  },
@@ -11592,6 +11592,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443947529"
+  ]
+ },
+ "aa3136cba5e181c1623da1636726072f": {
+  "first_seen": 1784806364.2493262,
+  "title": "Apprentissage : Chef De Projet Data analyste Contrats de Services",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441053770"
   ]
  }
 }
