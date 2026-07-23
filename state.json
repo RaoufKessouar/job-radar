@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784793777.6967862,
+   "last_success": 1784795538.7006445,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784793777.696791,
+   "last_success": 1784795538.70065,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784793792.0936587,
+   "last_success": 1784795555.398089,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784793792.0936627,
+   "last_success": 1784795555.3980935,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784793792.0936642,
+   "last_success": 1784795555.3980951,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784793792.0936654,
+   "last_success": 1784795555.3980966,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784793792.0936663,
+   "last_success": 1784795555.3980978,
    "alerted": false
   }
  },
@@ -11501,6 +11501,33 @@
   "source": "carriere-valeo",
   "urls": [
    "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Angers/Stagiaire-Ingnieur-dveloppement-produit-H-F_REQ2026078928"
+  ]
+ },
+ "6bd1c0c0af2fa295f71438b49dd6e74d": {
+  "first_seen": 1784795555.3987675,
+  "title": "Stage ou Alternance - Data Analyst H/F",
+  "company": "Verallia France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443815303"
+  ]
+ },
+ "a13dc3d6a26bc66d6a029a722b2eb1d6": {
+  "first_seen": 1784795555.3987765,
+  "title": "STAGE - Data Analyst et reporting H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443814863"
+  ]
+ },
+ "545d5f679e4056d5d5448882c63fc8f7": {
+  "first_seen": 1784795555.3988588,
+  "title": "Stage en Informatique et Intelligence Artificielle",
+  "company": "Lux Academy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441505173"
   ]
  }
 }
