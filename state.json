@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784813534.8638809,
+   "last_success": 1784815350.2538698,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784813534.8638866,
+   "last_success": 1784815350.2538757,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784813548.8356144,
+   "last_success": 1784815362.9741845,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784813548.8356192,
+   "last_success": 1784815362.974189,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784813548.835621,
+   "last_success": 1784815362.9741905,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784813548.835622,
+   "last_success": 1784815362.974192,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784813548.8356235,
+   "last_success": 1784815362.9741929,
    "alerted": false
   }
  },
@@ -9629,7 +9629,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4259603961"
+   "https://www.linkedin.com/jobs/view/4259603961",
+   "https://www.linkedin.com/jobs/view/4444464006"
   ]
  },
  "3518d4afa984bea20441c454e2a67733": {
@@ -11646,6 +11647,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4418275390"
+  ]
+ },
+ "a4a8c98f0a113236c57f77c396481cf5": {
+  "first_seen": 1784815362.9751678,
+  "title": "Stage - 6 mois - Développeur Power BI F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4374504795"
+  ]
+ },
+ "2b39fe7fffb5cacbdcca592915150558": {
+  "first_seen": 1784815362.9752896,
+  "title": "Ingénieur Solutions IA – Données d'Ingénierie et Nomenclatures",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422769425"
   ]
  }
 }
