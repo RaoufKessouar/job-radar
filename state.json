@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784824334.7918832,
+   "last_success": 1784826161.7510452,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784824334.7918885,
+   "last_success": 1784826161.7510512,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784824347.4064271,
+   "last_success": 1784826176.1316404,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784824347.406432,
+   "last_success": 1784826176.1316473,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784824347.406434,
+   "last_success": 1784826176.1316497,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784824347.4064355,
+   "last_success": 1784826176.1316516,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784824347.4064372,
+   "last_success": 1784826176.131653,
    "alerted": false
   }
  },
@@ -11763,5 +11763,73 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4443878874"
   ]
+ },
+ "ca62c5adecdaf8b97c22bb2d67151541": {
+  "first_seen": 1784826176.1326087,
+  "title": "Data Scientist - Stage",
+  "company": "Sogeti",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444491028"
+  ]
+ },
+ "a11468d9a30bbf4c64dfae774369adda": {
+  "first_seen": 1784826176.132637,
+  "title": "AI Large Language Model (LLM) Engineer",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443898260"
+  ]
+ },
+ "c6ec1962dfd05616f6c099c36bc52131": {
+  "first_seen": 1784826176.1327176,
+  "title": "Ingénieur automaticien et logiciel embarqué (H/F)",
+  "company": "Kickmaker",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443899210"
+  ]
+ },
+ "ea03bd594077601b83c1b29b30df5fdc": {
+  "first_seen": 1784826176.1328118,
+  "title": "Intégrateur Logiciel",
+  "company": "ARealTI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443477772"
+  ]
+ },
+ "3c48dd255ded0a4d02943ae418559f6c": {
+  "first_seen": 1784826176.1328225,
+  "title": "Ingénieur.e développement logiciel embarqué - Secteur spatial",
+  "company": "SOLENT SAS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436348112"
+  ]
+ },
+ "0425ef9bc76bc469d35b22ffb538781d": {
+  "first_seen": 1784826176.1328316,
+  "title": "Software Engineer - Qualcomm - Guyancourt, France",
+  "company": "Qualcomm",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443878356"
+  ]
+ },
+ "f5d241f80e52f0d21bbd53dace353db9": {
+  "first_seen": 1784826176.133298,
+  "title": "Data Scientist - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
+ },
+ "1f242ac5bf0664472a3a326f7feaf5fc": {
+  "first_seen": 1784826176.133307,
+  "title": "Consultante/Consultant Connected Product & Services - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
  }
 }
