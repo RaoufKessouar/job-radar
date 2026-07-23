@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784782956.8938375,
+   "last_success": 1784784738.265488,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784782956.8938432,
+   "last_success": 1784784738.2654948,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784782969.0839777,
+   "last_success": 1784784752.4585645,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784782969.083983,
+   "last_success": 1784784752.4585698,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784782969.0839846,
+   "last_success": 1784784752.4585714,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784782969.0839858,
+   "last_success": 1784784752.458573,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784782969.0839872,
+   "last_success": 1784784752.4585743,
    "alerted": false
   }
  },
@@ -11483,6 +11483,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443462328"
+  ]
+ },
+ "898f43b07ae5e2bed104aa446bd29e17": {
+  "first_seen": 1784784752.4591742,
+  "title": "Data Scientist",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443453905"
   ]
  }
 }
