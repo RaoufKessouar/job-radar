@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784817156.1577835,
+   "last_success": 1784818945.474677,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784817156.15779,
+   "last_success": 1784818945.4746828,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784817170.1009068,
+   "last_success": 1784818959.5503192,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784817170.1009111,
+   "last_success": 1784818959.5503242,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784817170.1009128,
+   "last_success": 1784818959.5503263,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784817170.1009145,
+   "last_success": 1784818959.5503278,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784817170.100916,
+   "last_success": 1784818959.550329,
    "alerted": false
   }
  },
@@ -11693,5 +11693,39 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4425838902"
   ]
+ },
+ "6f452e1701c9e0a55bc996f4d6e1adfe": {
+  "first_seen": 1784818959.5509582,
+  "title": "AI Engineer",
+  "company": "TechTree",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441524767"
+  ]
+ },
+ "5f8fb01b3b5521e1c1abb941e51e3a9a": {
+  "first_seen": 1784818959.5509753,
+  "title": "Stage - Consultant Data / IAG Ingénieur  - Paris",
+  "company": "Cartelis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443881605"
+  ]
+ },
+ "728ce45b92b9e2efba806faeeb49c71c": {
+  "first_seen": 1784818959.5511224,
+  "title": "Développeur logiciel STM32 / FreeRTOS (H/F/X)",
+  "company": "IT Link Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4416177597"
+  ]
+ },
+ "eff011aca1e4a50d7f2d7e76bb24f016": {
+  "first_seen": 1784818959.5515733,
+  "title": "Consultante / Consultant_Connected Products & Services - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": []
  }
 }
