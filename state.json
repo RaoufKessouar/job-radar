@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784815350.2538698,
+   "last_success": 1784817156.1577835,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784815350.2538757,
+   "last_success": 1784817156.15779,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784815362.9741845,
+   "last_success": 1784817170.1009068,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784815362.974189,
+   "last_success": 1784817170.1009111,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784815362.9741905,
+   "last_success": 1784817170.1009128,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784815362.974192,
+   "last_success": 1784817170.1009145,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784815362.9741929,
+   "last_success": 1784817170.100916,
    "alerted": false
   }
  },
@@ -11665,6 +11665,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4422769425"
+  ]
+ },
+ "501c63ec197d3a9e85098776263644c7": {
+  "first_seen": 1784817170.101871,
+  "title": "Stage - Acculturation à l’usage de l’intelligence artificielle pour la prévention des risques",
+  "company": "Ministère de la Transition écologique",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444444882"
+  ]
+ },
+ "06f5dc175e465e4e67f3f3dec4a0301f": {
+  "first_seen": 1784817170.10195,
+  "title": "AI Engineer Expert",
+  "company": "AXA Group Operations",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444453470"
+  ]
+ },
+ "82b64ec4f4261fff1ebdd09850a1c8da": {
+  "first_seen": 1784817170.1019595,
+  "title": "Gen AI Engineer (M/F) - Internship - Paris",
+  "company": "Wiremind",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4425838902"
   ]
  }
 }
