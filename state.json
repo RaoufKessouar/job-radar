@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784811757.4648821,
+   "last_success": 1784813534.8638809,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784811757.4648883,
+   "last_success": 1784813534.8638866,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784811770.1832888,
+   "last_success": 1784813548.8356144,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784811770.1832936,
+   "last_success": 1784813548.8356192,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784811770.1832955,
+   "last_success": 1784813548.835621,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784811770.1832974,
+   "last_success": 1784813548.835622,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784811770.1832986,
+   "last_success": 1784813548.8356235,
    "alerted": false
   }
  },
@@ -11628,6 +11628,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4417394286"
+  ]
+ },
+ "11949a79b98d7ff08b5d72428d0edd71": {
+  "first_seen": 1784813548.836512,
+  "title": "Machine Learning Engineer  (H/F) | Stage",
+  "company": "Liora",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/datascientest/jobs/machine-learning-engineer-formateur-h-f-stage_puteaux"
+  ]
+ },
+ "653abf3490020ab43d0a4c6d09d71112": {
+  "first_seen": 1784813548.8366814,
+  "title": "Doctorant·e CIFRE - Ingénieur·e de Recherche DDIT",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418275390"
   ]
  }
 }
