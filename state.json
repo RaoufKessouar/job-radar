@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784795668.8754475,
+   "last_success": 1784797387.258853,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784795668.875453,
+   "last_success": 1784797387.2588587,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784795681.2625408,
+   "last_success": 1784797399.6083076,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784795681.2625453,
+   "last_success": 1784797399.608312,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784795681.262547,
+   "last_success": 1784797399.6083136,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784795681.2625484,
+   "last_success": 1784797399.6083155,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784795681.2625494,
+   "last_success": 1784797399.6083164,
    "alerted": false
   }
  },
@@ -11519,6 +11519,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443814863"
+  ]
+ },
+ "1ac842a0a561023a2d60f4d31f74c3e4": {
+  "first_seen": 1784797399.6089253,
+  "title": "Consultant Data (H/F)",
+  "company": "kodemade",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444410519"
+  ]
+ },
+ "ccb3c6524868be544aee541101638609": {
+  "first_seen": 1784797399.6090813,
+  "title": "Ingénieur études et développement logiciel H/F",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444400593"
+  ]
+ },
+ "224e540791b57c903e99ea8e1dc04d25": {
+  "first_seen": 1784797399.6091278,
+  "title": "Ingénieur Logiciel Embarqué (F/H)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443932883"
   ]
  }
 }
