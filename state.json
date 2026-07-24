@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784838721.2000146,
+   "last_success": 1784869346.7599778,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784838721.20002,
+   "last_success": 1784869346.7599833,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784838733.0348523,
+   "last_success": 1784869358.540785,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784838733.0348568,
+   "last_success": 1784869358.5407896,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784838733.0348582,
+   "last_success": 1784869358.5407913,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784838733.0348594,
+   "last_success": 1784869358.540793,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784838733.0348608,
+   "last_success": 1784869358.5407941,
    "alerted": false
   }
  },
@@ -10427,7 +10427,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443391226",
-   "https://www.linkedin.com/jobs/view/4443919645"
+   "https://www.linkedin.com/jobs/view/4443919645",
+   "https://www.linkedin.com/jobs/view/4444718480"
   ]
  },
  "de39591211efe6a1754c03fec13352cd": {
@@ -10437,7 +10438,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443375813",
-   "https://www.linkedin.com/jobs/view/4443920616"
+   "https://www.linkedin.com/jobs/view/4443920616",
+   "https://www.linkedin.com/jobs/view/4444718513"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -11844,7 +11846,8 @@
   "company": "Kickmaker",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443899210"
+   "https://www.linkedin.com/jobs/view/4443899210",
+   "https://www.linkedin.com/jobs/view/4444083477"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -11971,6 +11974,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444731417"
+  ]
+ },
+ "9de1e4e7bfcbc3e2f3eac278399fef84": {
+  "first_seen": 1784869358.5412543,
+  "title": "Stage Data Scientist IA – LLM & Agentic RAG",
+  "company": "ChapsVision",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/chapsvision/jobs/stage-data-scientist-ia-llm-agentic-rag_paris"
+  ]
+ },
+ "673e3590faa690fc0cad4450d18b9bae": {
+  "first_seen": 1784869358.5412726,
+  "title": "Stage Data Scientist IA – Optimisation des Agents IA",
+  "company": "ChapsVision",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/chapsvision/jobs/stage-data-scientist-ia-optimisation-des-agents-ia_paris"
+  ]
+ },
+ "ef1ae24a5a44fb9ac43c3fc32493046c": {
+  "first_seen": 1784869358.5414171,
+  "title": "Data Scientist - Alternance",
+  "company": "Sogeti",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444472724"
+  ]
+ },
+ "e32f36a9a8572f069232475bd7325d79": {
+  "first_seen": 1784869358.541533,
+  "title": "Machine Learning Engineer  (H/F) | Stage",
+  "company": "Liora",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444763153"
   ]
  }
 }
