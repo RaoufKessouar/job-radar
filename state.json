@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784881784.1138244,
+   "last_success": 1784881961.2661095,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784881784.1138308,
+   "last_success": 1784881961.2661183,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784881796.7083657,
+   "last_success": 1784881973.8713214,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784881796.7083702,
+   "last_success": 1784881973.871331,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784881796.7083716,
+   "last_success": 1784881973.871334,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784881796.708373,
+   "last_success": 1784881973.8713367,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784881796.708374,
+   "last_success": 1784881973.8713386,
    "alerted": false
   }
  },
@@ -12037,6 +12037,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444930433"
+  ]
+ },
+ "073d7a10eb4d1c467ee612bb4980bbc8": {
+  "first_seen": 1784881973.872485,
+  "title": "AI Engineer",
+  "company": "Pixid",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444316506"
+  ]
+ },
+ "189ae410fc5ec499590eae14bd8a9bfe": {
+  "first_seen": 1784881973.8726199,
+  "title": "Junior Professional in AI/ML Software Engineering",
+  "company": "ESA Space Mechanisms",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444920804"
   ]
  }
 }
