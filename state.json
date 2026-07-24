@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784883760.7019866,
+   "last_success": 1784885563.170754,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784883760.7019928,
+   "last_success": 1784885563.170759,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784883774.200663,
+   "last_success": 1784885577.581719,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784883774.2006676,
+   "last_success": 1784885577.5817232,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784883774.2006695,
+   "last_success": 1784885577.5817246,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784883774.200671,
+   "last_success": 1784885577.5817258,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784883774.2006721,
+   "last_success": 1784885577.5817273,
    "alerted": false
   }
  },
@@ -12064,6 +12064,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444925754"
+  ]
+ },
+ "555b06b47812d118099c449142efe6fd": {
+  "first_seen": 1784885577.5826485,
+  "title": "Artificial Intelligence Engineer",
+  "company": "Pixid",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444921884"
   ]
  }
 }
