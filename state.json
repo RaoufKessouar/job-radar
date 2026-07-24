@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784880141.2042284,
+   "last_success": 1784881784.1138244,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784880141.2042336,
+   "last_success": 1784881784.1138308,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784880155.8839447,
+   "last_success": 1784881796.7083657,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784880155.8839495,
+   "last_success": 1784881796.7083702,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784880155.8839517,
+   "last_success": 1784881796.7083716,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784880155.883953,
+   "last_success": 1784881796.708373,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784880155.8839548,
+   "last_success": 1784881796.708374,
    "alerted": false
   }
  },
@@ -12028,6 +12028,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420293331"
+  ]
+ },
+ "f88da2611e6b7d9bd341879ea2be1887": {
+  "first_seen": 1784881796.7088978,
+  "title": "Stage – AI & Data Engineer",
+  "company": "Polynom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444930433"
   ]
  }
 }
