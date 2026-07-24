@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784916173.2789037,
+   "last_success": 1784917948.2718475,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784916173.2789094,
+   "last_success": 1784917948.271854,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784916189.9611804,
+   "last_success": 1784917962.8836477,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784916189.9611847,
+   "last_success": 1784917962.8836522,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784916189.9611866,
+   "last_success": 1784917962.8836536,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784916189.9611878,
+   "last_success": 1784917962.8836548,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784916189.9611893,
+   "last_success": 1784917962.883656,
    "alerted": false
   }
  },
@@ -12308,6 +12308,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445208157"
+  ]
+ },
+ "5ffa1f9037168e09889fd542d46b6638": {
+  "first_seen": 1784917962.8841949,
+  "title": "Marketing Data Scientist (Confirmé)",
+  "company": "Richemont",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435240558"
+  ]
+ },
+ "bac9cf23f3fb6af45860abcd0e21963c": {
+  "first_seen": 1784917962.884244,
+  "title": "AI / ML Engineer",
+  "company": "Skaleet",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439204228"
+  ]
+ },
+ "7afa10a6d65e7d582d0fa91247253b5b": {
+  "first_seen": 1784917962.884276,
+  "title": "STAGE :  Recherche sur les Capacités de Raisonnement des Grands Modèles de Langage Génératif F/H - SAFRAN SA (FRANCE)",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445219079"
   ]
  }
 }
