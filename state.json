@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784907151.5781,
+   "last_success": 1784908955.0795712,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784907151.578106,
+   "last_success": 1784908955.079577,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784907164.1841707,
+   "last_success": 1784908968.9718788,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784907164.1841753,
+   "last_success": 1784908968.9718828,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784907164.1841772,
+   "last_success": 1784908968.9718843,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784907164.1841784,
+   "last_success": 1784908968.9718852,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784907164.18418,
+   "last_success": 1784908968.9718866,
    "alerted": false
   }
  },
@@ -12208,6 +12208,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4433131913"
+  ]
+ },
+ "05570d58bf02f330118496205103b286": {
+  "first_seen": 1784908968.972447,
+  "title": "GRC Engineer (Stage)",
+  "company": "Mindlapse",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444366454"
+  ]
+ },
+ "6f6584f029b0a326ba93aa0cdc6e0d1d": {
+  "first_seen": 1784908968.9724846,
+  "title": "Data scientist F/H",
+  "company": "Commissariat au Numérique de Défense - CND",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444969966"
+  ]
+ },
+ "502549868acdafb5049cfe9c3866ef15": {
+  "first_seen": 1784908968.972516,
+  "title": "Data scientist confirmé F/H",
+  "company": "Commissariat au Numérique de Défense - CND",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444992101"
+  ]
+ },
+ "f87b4f6192b75f76cc4b85e6836bd8db": {
+  "first_seen": 1784908968.972663,
+  "title": "Software Integration engineer - H/F",
+  "company": "Pasqal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427566910"
   ]
  }
 }
