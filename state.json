@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784881961.2661095,
+   "last_success": 1784883760.7019866,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784881961.2661183,
+   "last_success": 1784883760.7019928,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784881973.8713214,
+   "last_success": 1784883774.200663,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784881973.871331,
+   "last_success": 1784883774.2006676,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784881973.871334,
+   "last_success": 1784883774.2006695,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784881973.8713367,
+   "last_success": 1784883774.200671,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784881973.8713386,
+   "last_success": 1784883774.2006721,
    "alerted": false
   }
  },
@@ -12055,6 +12055,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444920804"
+  ]
+ },
+ "834c528ae8c98bd4882581ca51796bef": {
+  "first_seen": 1784883774.2013755,
+  "title": "Human Resources Business Partner - Alternance",
+  "company": "Capgemini",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444925754"
   ]
  }
 }
