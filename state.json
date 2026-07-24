@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784912566.8870547,
+   "last_success": 1784914365.7138143,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784912566.8870609,
+   "last_success": 1784914365.713819,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784912580.5483437,
+   "last_success": 1784914378.1528733,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784912580.5483477,
+   "last_success": 1784914378.1528776,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784912580.5483496,
+   "last_success": 1784914378.1528788,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784912580.5483515,
+   "last_success": 1784914378.1528802,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784912580.5483525,
+   "last_success": 1784914378.1528814,
    "alerted": false
   }
  },
@@ -9602,7 +9602,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443069944"
+   "https://www.linkedin.com/jobs/view/4443069944",
+   "https://www.linkedin.com/jobs/view/4444713838"
   ]
  },
  "0f74be4bf42ae34b5c3eceebc33b5bec": {
@@ -12271,6 +12272,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444961566"
+  ]
+ },
+ "59cc76a3dcc96c32ba412cdd67d0474d": {
+  "first_seen": 1784914378.1533883,
+  "title": "Data Scientist",
+  "company": "Gameloft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444999660"
+  ]
+ },
+ "e628e1c64b7bf46dfbfe4a5fd83c0700": {
+  "first_seen": 1784914378.1535263,
+  "title": "Automatisation & Intelligence Artificielle",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441814949"
+  ]
+ },
+ "736da90ccad83977c7fb753a6492677e": {
+  "first_seen": 1784914378.1535635,
+  "title": "Embedded Software Engineer Intern",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444729137"
   ]
  }
 }
