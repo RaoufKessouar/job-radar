@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784892740.6417396,
+   "last_success": 1784894544.0149195,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784892740.6417446,
+   "last_success": 1784894544.0149248,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784892754.3000193,
+   "last_success": 1784894558.9763243,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784892754.3000236,
+   "last_success": 1784894558.9763298,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784892754.3000257,
+   "last_success": 1784894558.9763315,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784892754.3000267,
+   "last_success": 1784894558.976333,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784892754.3000276,
+   "last_success": 1784894558.976334,
    "alerted": false
   }
  },
@@ -12082,6 +12082,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4427195319"
+  ]
+ },
+ "c4c018733db45c196dde1a4255a14715": {
+  "first_seen": 1784894558.9769673,
+  "title": "Apprenti.e Robotique Mobile H/F",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433330130"
+  ]
+ },
+ "0784125863c6f39171ef30f997baf49a": {
+  "first_seen": 1784894558.97698,
+  "title": "Junior Software Engineer - Connectivity",
+  "company": "Netcom Engineering S.p.A. SB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444926805"
+  ]
+ },
+ "280bbd941783e24ab63cf3f373792ec9": {
+  "first_seen": 1784894558.9770133,
+  "title": "Ingénieur Développement Logiciel Temps-Réel Embarqué F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444933962"
   ]
  }
 }
