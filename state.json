@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784901749.515174,
+   "last_success": 1784903558.1026406,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784901749.5152197,
+   "last_success": 1784903558.102646,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784901763.1679747,
+   "last_success": 1784903572.105323,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784901763.16798,
+   "last_success": 1784903572.1053276,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784901763.167982,
+   "last_success": 1784903572.105329,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784901763.1679833,
+   "last_success": 1784903572.1053302,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784901763.1679852,
+   "last_success": 1784903572.1053312,
    "alerted": false
   }
  },
@@ -12145,6 +12145,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4423975402"
+  ]
+ },
+ "9f8ed35294b64dacf3147b2b2d543042": {
+  "first_seen": 1784903572.106128,
+  "title": "Apprenti.e Système intelligent pour les transports H/F",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433324758"
   ]
  }
 }
