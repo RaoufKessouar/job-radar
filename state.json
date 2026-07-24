@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784872986.1100752,
+   "last_success": 1784874731.7856781,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784872986.1100821,
+   "last_success": 1784874731.7856834,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784873003.501364,
+   "last_success": 1784874744.1078994,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784873003.5013685,
+   "last_success": 1784874744.1079042,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784873003.5013707,
+   "last_success": 1784874744.107906,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784873003.501372,
+   "last_success": 1784874744.1079073,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784873003.5013738,
+   "last_success": 1784874744.1079082,
    "alerted": false
   }
  },
@@ -12010,6 +12010,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444763153"
+  ]
+ },
+ "f4541bae0de87e81d4def84dcc70ad14": {
+  "first_seen": 1784874744.1085103,
+  "title": "Stagiaire - Optimisation masse embarquée pour la décarbonation des Opérations Aériennes F/H - Air France KLM",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444094560"
   ]
  }
 }
