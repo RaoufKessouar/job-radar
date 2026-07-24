@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784903558.1026406,
+   "last_success": 1784905368.5111785,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784903558.102646,
+   "last_success": 1784905368.5111856,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784903572.105323,
+   "last_success": 1784905382.399816,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784903572.1053276,
+   "last_success": 1784905382.3998215,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784903572.105329,
+   "last_success": 1784905382.3998237,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784903572.1053302,
+   "last_success": 1784905382.399825,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784903572.1053312,
+   "last_success": 1784905382.3998265,
    "alerted": false
   }
  },
@@ -12154,6 +12154,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4433324758"
+  ]
+ },
+ "c6def1444e96d59245ac6bbdea91b324": {
+  "first_seen": 1784905382.4005334,
+  "title": "Ingénieur IA",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444368031"
+  ]
+ },
+ "51ed24ee815057ea2b135564020daecb": {
+  "first_seen": 1784905382.400557,
+  "title": "Research Engineer in Computer Vision / AI",
+  "company": "IDEMIA Public Security",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444364635"
+  ]
+ },
+ "b8a98641c23eb6634c9dbe23d065598e": {
+  "first_seen": 1784905382.4005868,
+  "title": "Ingénieur Software embarqué",
+  "company": "Actual Talent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444984335"
+  ]
+ },
+ "5938378862010c4ccf50b6cb270aca9e": {
+  "first_seen": 1784905382.4010324,
+  "title": "Consultante/Consultant Smart Plant - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Smart-Plant-Stage/1418809433/"
   ]
  }
 }
