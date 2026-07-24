@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784887358.0102687,
+   "last_success": 1784889132.4017777,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784887358.0102744,
+   "last_success": 1784889132.4017842,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784887372.4287422,
+   "last_success": 1784889145.761049,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784887372.428748,
+   "last_success": 1784889145.7610538,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784887372.4287496,
+   "last_success": 1784889145.7610555,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784887372.4287508,
+   "last_success": 1784889145.7610567,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784887372.4287524,
+   "last_success": 1784889145.761058,
    "alerted": false
   }
  },
@@ -12073,6 +12073,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444921884"
+  ]
+ },
+ "fe7e362d593207920f2d4c311bd6f15d": {
+  "first_seen": 1784889145.7619722,
+  "title": "DATA SCIENTIST H/F H/F",
+  "company": "Credit Agricole Leasing & Factoring",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427195319"
   ]
  }
 }
