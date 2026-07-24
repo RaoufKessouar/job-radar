@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784921555.5960457,
+   "last_success": 1784923359.8522916,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784921555.5960517,
+   "last_success": 1784923359.8522973,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784921569.0894444,
+   "last_success": 1784923372.94059,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784921569.0894494,
+   "last_success": 1784923372.9405942,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784921569.0894516,
+   "last_success": 1784923372.9405956,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784921569.0894532,
+   "last_success": 1784923372.9405966,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784921569.0894551,
+   "last_success": 1784923372.940598,
    "alerted": false
   }
  },
@@ -12362,6 +12362,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444967926"
+  ]
+ },
+ "aaaadaa9d558783f7b4192097dcfa0e2": {
+  "first_seen": 1784923372.9414196,
+  "title": "Software Test & Validation Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4398390537"
+  ]
+ },
+ "c0b0b0820b514e44b413f317744da153": {
+  "first_seen": 1784923372.941442,
+  "title": "Développeur de composants logiciels",
+  "company": "IDEMIA Public Security",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444327178"
   ]
  }
 }
