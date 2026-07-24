@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784874731.7856781,
+   "last_success": 1784876539.239902,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784874731.7856834,
+   "last_success": 1784876539.2399077,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784874744.1078994,
+   "last_success": 1784876550.7604072,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784874744.1079042,
+   "last_success": 1784876550.760412,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784874744.107906,
+   "last_success": 1784876550.760414,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784874744.1079073,
+   "last_success": 1784876550.7604156,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784874744.1079082,
+   "last_success": 1784876550.7604167,
    "alerted": false
   }
  },
@@ -12019,6 +12019,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444094560"
+  ]
+ },
+ "5c51e47f3b63d475637b860882cfce6a": {
+  "first_seen": 1784876550.7611017,
+  "title": "Transport, Infrastructure, Manufacturing & Energy - Stage de fin d'études/Alternance",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420293331"
   ]
  }
 }
