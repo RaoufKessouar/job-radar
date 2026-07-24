@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784914365.7138143,
+   "last_success": 1784914807.4841495,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784914365.713819,
+   "last_success": 1784914807.4841557,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784914378.1528733,
+   "last_success": 1784914819.5665984,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784914378.1528776,
+   "last_success": 1784914819.5666037,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784914378.1528788,
+   "last_success": 1784914819.5666053,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784914378.1528802,
+   "last_success": 1784914819.566607,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784914378.1528814,
+   "last_success": 1784914819.5666087,
    "alerted": false
   }
  },
@@ -12299,6 +12299,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444729137"
+  ]
+ },
+ "87d1a53b8a454e1fb2896c44b5658723": {
+  "first_seen": 1784914819.5671186,
+  "title": "Stage - Assistant(e) Data Business Intelligence",
+  "company": "Guerlain",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445208157"
   ]
  }
 }
