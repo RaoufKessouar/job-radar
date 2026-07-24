@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784905368.5111785,
+   "last_success": 1784907151.5781,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784905368.5111856,
+   "last_success": 1784907151.578106,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784905382.399816,
+   "last_success": 1784907164.1841707,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784905382.3998215,
+   "last_success": 1784907164.1841753,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784905382.3998237,
+   "last_success": 1784907164.1841772,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784905382.399825,
+   "last_success": 1784907164.1841784,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784905382.3998265,
+   "last_success": 1784907164.18418,
    "alerted": false
   }
  },
@@ -12190,6 +12190,24 @@
   "source": "carriere-capgemini",
   "urls": [
    "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Smart-Plant-Stage/1418809433/"
+  ]
+ },
+ "30c64d85dc422eb5fb91c0ced7f96958": {
+  "first_seen": 1784907164.184802,
+  "title": "Data Scientist Assistant - Alternance (12 mois) Octobre 2026 (F/H/NB)",
+  "company": "Ubisoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441821319"
+  ]
+ },
+ "9049ca18ba6d8eb6702f74f59402f345": {
+  "first_seen": 1784907164.184885,
+  "title": "AI Engineer Expérimenté H/F",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433131913"
   ]
  }
 }
