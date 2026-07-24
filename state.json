@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784896344.405783,
+   "last_success": 1784898163.1631048,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784896344.4057887,
+   "last_success": 1784898163.1631117,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784896356.571843,
+   "last_success": 1784898178.6116135,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784896356.5718474,
+   "last_success": 1784898178.6116188,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784896356.5718489,
+   "last_success": 1784898178.6116211,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784896356.5718503,
+   "last_success": 1784898178.6116226,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784896356.5718515,
+   "last_success": 1784898178.611624,
    "alerted": false
   }
  },
@@ -12109,6 +12109,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444933962"
+  ]
+ },
+ "37f5cfce38ebbae65d5a05a8b07dd5dd": {
+  "first_seen": 1784898178.612176,
+  "title": "Apprentissage : Ingénieur Data Scientist en Détection d'Anomalies F/H - MBDA",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442509474"
+  ]
+ },
+ "9f670ceae3787bc1273127214a33f8e4": {
+  "first_seen": 1784898178.6121874,
+  "title": "Stage - 6 mois  - Data Analyst - F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441589998"
+  ]
+ },
+ "3edace911342b04a883c21f0603dcf7a": {
+  "first_seen": 1784898178.6122775,
+  "title": "Software Engineer, GenAI Silicon Automation, DeepMind",
+  "company": "Google DeepMind",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435267568"
   ]
  }
 }
