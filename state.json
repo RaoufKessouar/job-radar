@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784919738.1712828,
+   "last_success": 1784921555.5960457,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784919738.1712887,
+   "last_success": 1784921555.5960517,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784919756.98867,
+   "last_success": 1784921569.0894444,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784919756.9886749,
+   "last_success": 1784921569.0894494,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784919756.9886768,
+   "last_success": 1784921569.0894516,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784919756.9886782,
+   "last_success": 1784921569.0894532,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784919756.9886796,
+   "last_success": 1784921569.0894551,
    "alerted": false
   }
  },
@@ -12353,6 +12353,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4436438297"
+  ]
+ },
+ "c348665f1590dcf1c7c16e360166752a": {
+  "first_seen": 1784921569.090449,
+  "title": "Intégrateur Logiciel junior  F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444967926"
   ]
  }
 }
