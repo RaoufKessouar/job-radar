@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784899916.3292828,
+   "last_success": 1784901749.515174,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784899916.3292885,
+   "last_success": 1784901749.5152197,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784899929.7700782,
+   "last_success": 1784901763.1679747,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784899929.7700825,
+   "last_success": 1784901763.16798,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784899929.7700844,
+   "last_success": 1784901763.167982,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784899929.7700858,
+   "last_success": 1784901763.1679833,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784899929.770087,
+   "last_success": 1784901763.1679852,
    "alerted": false
   }
  },
@@ -12136,6 +12136,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4435267568"
+  ]
+ },
+ "3912b168a14466e2b263596059529365": {
+  "first_seen": 1784901763.1686065,
+  "title": "Développeur IA / Machine Learning (H/F)",
+  "company": "Extia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423975402"
   ]
  }
 }
