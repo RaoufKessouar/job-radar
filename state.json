@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784910750.0459738,
+   "last_success": 1784912566.8870547,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784910750.0459795,
+   "last_success": 1784912566.8870609,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784910764.3433266,
+   "last_success": 1784912580.5483437,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784910764.3433309,
+   "last_success": 1784912580.5483477,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784910764.3433323,
+   "last_success": 1784912580.5483496,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784910764.3433337,
+   "last_success": 1784912580.5483515,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784910764.343335,
+   "last_success": 1784912580.5483525,
    "alerted": false
   }
  },
@@ -12244,6 +12244,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4427566910"
+  ]
+ },
+ "e1ddbae8e7ca57fc58702d00d1f4aa90": {
+  "first_seen": 1784912580.5489814,
+  "title": "Agentic AI analyst intern",
+  "company": "CybelAngel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4379053074"
+  ]
+ },
+ "af86b746cf5435d5160457230d363e51": {
+  "first_seen": 1784912580.5489976,
+  "title": "Chercheur-se en deep learning appliqué à l’imagerie des sols",
+  "company": "INRAE Occitanie-Toulouse",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444980848"
+  ]
+ },
+ "58874ac1dd8b7e1b46579368a415eaf1": {
+  "first_seen": 1784912580.5490084,
+  "title": "Stage - Data Full Stack (H/F)",
+  "company": "Sézane",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444961566"
   ]
  }
 }
