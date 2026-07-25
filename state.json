@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784959349.2289732,
+   "last_success": 1784961156.800571,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784959349.2289798,
+   "last_success": 1784961156.8006191,
    "alerted": false
   },
   "carriere-renault": {
@@ -17,15 +17,15 @@
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784959362.4882774,
+   "last_success": 1784961165.592044,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784959362.488279,
+   "last_success": 1784961165.592046,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784959362.4882803,
+   "last_success": 1784961165.5920475,
    "alerted": false
   }
  },
@@ -12408,6 +12408,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445296633"
+  ]
+ },
+ "acba797a0ee019ee06cad9f6c528312e": {
+  "first_seen": 1784961165.592854,
+  "title": "Data Scientist F/H - SAFRAN SA (FRANCE)",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445305597"
+  ]
+ },
+ "d61d0d095d43c568fa55648e8f607b91": {
+  "first_seen": 1784961165.592863,
+  "title": "Graduate data scientist",
+  "company": "Bending Spoons",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444666773"
+  ]
+ },
+ "f81e78ebbee986e2ce7ea88df16460d1": {
+  "first_seen": 1784961165.592897,
+  "title": "Data scientist",
+  "company": "Bending Spoons",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444643809"
   ]
  }
 }
