@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784925159.3292677,
+   "last_success": 1784955765.32561,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784925159.3292725,
+   "last_success": 1784955765.3256152,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784925174.2842882,
+   "last_success": 1784955778.6540594,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784925174.284292,
+   "last_success": 1784955778.6540642,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784925174.2842937,
+   "last_success": 1784955778.6540658,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784925174.2842946,
+   "last_success": 1784955778.654067,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784925174.284296,
+   "last_success": 1784955778.6540685,
    "alerted": false
   }
  },
@@ -11848,7 +11848,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443899210",
-   "https://www.linkedin.com/jobs/view/4444083477"
+   "https://www.linkedin.com/jobs/view/4444083477",
+   "https://www.linkedin.com/jobs/view/4444651557"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -12380,6 +12381,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444327178"
+  ]
+ },
+ "3c6de2b220a27d94e82434d1c9cbc380": {
+  "first_seen": 1784955778.654866,
+  "title": "Data Scientist/Analyst (F/H) - Alternance",
+  "company": "AXA en France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445249180"
+  ]
+ },
+ "5cded4a4fd2e0c11accc8a4c7d16ee92": {
+  "first_seen": 1784955778.6551225,
+  "title": "Sotware Real Time and Embedded Enginner F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445309048"
+  ]
+ },
+ "30e459c8e20072ecaa768bd901e6f205": {
+  "first_seen": 1784955778.6551445,
+  "title": "Ingénieur Développement Logiciel Embarqué Zephyr H/F",
+  "company": "Médiane Système",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445296633"
   ]
  }
 }
