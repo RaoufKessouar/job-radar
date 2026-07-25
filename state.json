@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784966899.4729874,
+   "last_success": 1784968338.9295058,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784966899.4729934,
+   "last_success": 1784968338.9295132,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784966913.4560049,
+   "last_success": 1784968352.5888655,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784966913.4560099,
+   "last_success": 1784968352.58887,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784966913.4560118,
+   "last_success": 1784968352.588872,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784966913.4560137,
+   "last_success": 1784968352.5888731,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784966913.4560149,
+   "last_success": 1784968352.5888746,
    "alerted": false
   }
  },
@@ -12435,6 +12435,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444643809"
+  ]
+ },
+ "e099ea0dc7f949a033716d5c4d3ee65d": {
+  "first_seen": 1784968352.5896027,
+  "title": "CHARGE DE SUPPORT APPLICATIF H/F/NB",
+  "company": "NRJ GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444363770"
   ]
  }
 }
