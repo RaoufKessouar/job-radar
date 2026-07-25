@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1784970170.808506,
+   "last_success": 1785000729.0932944,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1784970170.8085117,
+   "last_success": 1785000729.0932994,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1784970183.9903765,
+   "last_success": 1785000741.7423325,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1784970183.9903815,
+   "last_success": 1785000741.7423363,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1784970183.9903836,
+   "last_success": 1785000741.7423377,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1784970183.9903848,
+   "last_success": 1785000741.7423394,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1784970183.9903865,
+   "last_success": 1785000741.7423408,
    "alerted": false
   }
  },
@@ -12444,6 +12444,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444363770"
+  ]
+ },
+ "67b017533f82dcd4730fc22fdef5ddf0": {
+  "first_seen": 1785000741.7426805,
+  "title": "Stage - Bac+5 - Apprentissage supervisé pour l'évaluation de l'aléa sismique probabiliste - H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4306648725"
+  ]
+ },
+ "3cc706c70b526d707b2daee50287a3f2": {
+  "first_seen": 1785000741.7427006,
+  "title": "Implémentation du rendu physique réaliste (PBR) au sein de la plateforme de simulation CIVA H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4376741777"
+  ]
+ },
+ "dd6a1003511dfca9a5867d73e3907f23": {
+  "first_seen": 1785000741.7427158,
+  "title": "Stage - Bac+5 - Méthode de maillage adaptatif pour un algorithme de transport Monte Carlo - H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4306641841"
+  ]
+ },
+ "fc89b9d9a443f6316b3c4ec21fb4dc44": {
+  "first_seen": 1785000741.742726,
+  "title": "AI Builder, Emerging Talent - French Market",
+  "company": "Salesforce",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417727586"
+  ]
+ },
+ "c7a4494e37ab627f78aeed1c0b25a1a4": {
+  "first_seen": 1785000741.7427351,
+  "title": "IA Engineer (F/H)",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433182983"
+  ]
+ },
+ "b10ff58529bc98e1488ece53d384c622": {
+  "first_seen": 1785000741.7427554,
+  "title": "Machine Learning Engineer - Reinforcement Learning",
+  "company": "Blue Yonder",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4397296438"
+  ]
+ },
+ "172644c33815e9b8c01e48a400b07ad7": {
+  "first_seen": 1785000741.742783,
+  "title": "Consultant Data & IA (F/H)",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433181929"
+  ]
+ },
+ "e015d3d769245967972dadd58f57145d": {
+  "first_seen": 1785000741.7427933,
+  "title": "Data Engineer - QuantumBlack, AI by McKinsey",
+  "company": "QuantumBlack, AI by McKinsey",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4234495017"
+  ]
+ },
+ "98cd3b9bbdf8baff5fbec660e085f1b2": {
+  "first_seen": 1785000741.7428012,
+  "title": "AI Engineer - Intern",
+  "company": "OWKIN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4416315526"
+  ]
+ },
+ "3a478ac176ccd1b5ec8fdf5034548bff": {
+  "first_seen": 1785000741.7428362,
+  "title": "Stage CEM - Développement de méthodes de calculs par approche de méta-modélisation F/H - SAFRAN ELECTRONICS & DEFENSE S.",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445308441"
   ]
  }
 }
