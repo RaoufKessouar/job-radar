@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785004346.9374833,
+   "last_success": 1785006136.9807985,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785004346.9374888,
+   "last_success": 1785006136.9808042,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785004360.4523141,
+   "last_success": 1785006150.136117,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785004360.452319,
+   "last_success": 1785006150.1361217,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785004360.452321,
+   "last_success": 1785006150.1361241,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785004360.4523225,
+   "last_success": 1785006150.1361258,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785004360.4523242,
+   "last_success": 1785006150.136127,
    "alerted": false
   }
  },
@@ -12625,6 +12625,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4399291981"
+  ]
+ },
+ "7b920e2b66d1ef73e0dca3b8d76f5230": {
+  "first_seen": 1785006150.1370096,
+  "title": "Data Scientist Senior F/H",
+  "company": "SOCOTEC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4387129200"
+  ]
+ },
+ "758a85304f0a7812ce0252041c4dba1e": {
+  "first_seen": 1785006150.1370428,
+  "title": "AI ENGINEER – TOTALENERGIES DIGITAL FACTORY",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4400301702"
+  ]
+ },
+ "45f21347383cb6332cf18329b4a3dcf2": {
+  "first_seen": 1785006150.137139,
+  "title": "Engineer in Cryptography and Embedded Security",
+  "company": "IN Groupe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436770092"
   ]
  }
 }
