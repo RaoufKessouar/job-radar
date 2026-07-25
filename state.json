@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785000729.0932944,
+   "last_success": 1785002548.2660244,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785000729.0932994,
+   "last_success": 1785002548.26603,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785000741.7423325,
+   "last_success": 1785002562.0713782,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785000741.7423363,
+   "last_success": 1785002562.0713828,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785000741.7423377,
+   "last_success": 1785002562.0713844,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785000741.7423394,
+   "last_success": 1785002562.0713856,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785000741.7423408,
+   "last_success": 1785002562.0713866,
    "alerted": false
   }
  },
@@ -12534,6 +12534,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445308441"
+  ]
+ },
+ "95625496b1d358fbc029e04f95165dd7": {
+  "first_seen": 1785002562.072283,
+  "title": "AI & Data Science Lead",
+  "company": "AstraZeneca",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435450669"
+  ]
+ },
+ "abc3007a4be06f510d79a9ebddecedc2": {
+  "first_seen": 1785002562.0722954,
+  "title": "Stagiaire en risque de marché & modélisation bancaire (H/F)",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4203559954"
   ]
  }
 }
