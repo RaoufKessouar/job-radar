@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785002548.2660244,
+   "last_success": 1785004346.9374833,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785002548.26603,
+   "last_success": 1785004346.9374888,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785002562.0713782,
+   "last_success": 1785004360.4523141,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785002562.0713828,
+   "last_success": 1785004360.452319,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785002562.0713844,
+   "last_success": 1785004360.452321,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785002562.0713856,
+   "last_success": 1785004360.4523225,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785002562.0713866,
+   "last_success": 1785004360.4523242,
    "alerted": false
   }
  },
@@ -11876,7 +11876,8 @@
   "company": "Qualcomm",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443878356"
+   "https://www.linkedin.com/jobs/view/4443878356",
+   "https://www.linkedin.com/jobs/view/4435452618"
   ]
  },
  "f5d241f80e52f0d21bbd53dace353db9": {
@@ -12552,6 +12553,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4203559954"
+  ]
+ },
+ "5e76a52c4d33d4f365cef07095150def": {
+  "first_seen": 1785004360.4531822,
+  "title": "Data Scientist Confirmé H/F",
+  "company": "Crédit Agricole Business Digital",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423346999"
+  ]
+ },
+ "63d4bc4605c87c9f42e784e580155c69": {
+  "first_seen": 1785004360.4532177,
+  "title": "Data Scientist, Sr.",
+  "company": "Sundayy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445320673"
+  ]
+ },
+ "d8ea1d76cbf7422800eaec811f381f69": {
+  "first_seen": 1785004360.453352,
+  "title": "Ingénieur Basic Software C Embarqué - Boulogne-Billancourt, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433197492"
+  ]
+ },
+ "97e55559c2a2ea3f4aab319c3187f016": {
+  "first_seen": 1785004360.4533694,
+  "title": "Développeur Basic Software Autosar  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4385020709"
+  ]
+ },
+ "55643989b32a7b9b04e08a047974c4a1": {
+  "first_seen": 1785004360.45338,
+  "title": "Ingénieur-e Système Robotique F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445224043"
+  ]
+ },
+ "3c93d91e906f80f94dfd918fdc215c71": {
+  "first_seen": 1785004360.4533868,
+  "title": "Full Stack Engineer",
+  "company": "Hub",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445343349"
+  ]
+ },
+ "b46e7614d60c0e5cedebb29c9fae6b3e": {
+  "first_seen": 1785004360.4533954,
+  "title": "Ingénieur Support Technique en Robotique (F/H)",
+  "company": "FANUC Europe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441894579"
+  ]
+ },
+ "d9ca1d5aa7cabc2e2562a692e99c0aac": {
+  "first_seen": 1785004360.4534047,
+  "title": "Apprenti(e) en mécatronique (Electrotechnique -  Moteurs électriques) H/F",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399291981"
   ]
  }
 }
