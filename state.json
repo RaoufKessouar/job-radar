@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785007948.8276906,
+   "last_success": 1785009739.5003915,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785007948.8276958,
+   "last_success": 1785009739.5003977,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785007962.4757364,
+   "last_success": 1785009752.8376257,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785007962.4757414,
+   "last_success": 1785009752.8376303,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785007962.4757435,
+   "last_success": 1785009752.8376317,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785007962.4757454,
+   "last_success": 1785009752.8376331,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785007962.4757469,
+   "last_success": 1785009752.8376343,
    "alerted": false
   }
  },
@@ -12652,6 +12652,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4436770092"
+  ]
+ },
+ "24c8a1004010d6daedbbba72e9617acf": {
+  "first_seen": 1785009752.8387136,
+  "title": "Field Application Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445353497"
+  ]
+ },
+ "006d3f501266157f078435e833de749a": {
+  "first_seen": 1785009752.8387232,
+  "title": "FPGA Engineer - Radar Signal Processing",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445345887"
   ]
  }
 }
