@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785058326.8870943,
+   "last_success": 1785060143.1270325,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785058326.887099,
+   "last_success": 1785060143.1270382,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785058340.6555831,
+   "last_success": 1785060156.595347,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785058340.655587,
+   "last_success": 1785060156.595351,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785058340.6555886,
+   "last_success": 1785060156.595353,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785058340.6555898,
+   "last_success": 1785060156.5953543,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785058340.6555915,
+   "last_success": 1785060156.595356,
    "alerted": false
   }
  },
@@ -12783,6 +12783,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4407332674"
+  ]
+ },
+ "31a2d3c196fe64ade89d598ab80dcfd3": {
+  "first_seen": 1785060156.5958793,
+  "title": "STAGE - Assistant Chef de Projet Data et Business Intelligence (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4367814585"
   ]
  }
 }
