@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785063718.8032584,
+   "last_success": 1785065534.5779529,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785063718.8032646,
+   "last_success": 1785065534.577959,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785063731.7305882,
+   "last_success": 1785065546.9160545,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785063731.7305937,
+   "last_success": 1785065546.9160595,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785063731.7305956,
+   "last_success": 1785065546.9160612,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785063731.7305965,
+   "last_success": 1785065546.916062,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785063731.7305977,
+   "last_success": 1785065546.9160633,
    "alerted": false
   }
  },
@@ -12792,6 +12792,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4367814585"
+  ]
+ },
+ "af04a0d0051bf041fa828d05807ae6d8": {
+  "first_seen": 1785065546.9166002,
+  "title": "Machine Learning Engineer (Semantic Scene Understanding)",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399284865"
   ]
  }
 }
