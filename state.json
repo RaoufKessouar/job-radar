@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785042116.4696524,
+   "last_success": 1785043920.5690267,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785042116.469658,
+   "last_success": 1785043920.5690331,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785042129.9249701,
+   "last_success": 1785043933.8745801,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785042129.9249759,
+   "last_success": 1785043933.8745852,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785042129.9249778,
+   "last_success": 1785043933.874587,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785042129.924979,
+   "last_success": 1785043933.8745885,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785042129.92498,
+   "last_success": 1785043933.87459,
    "alerted": false
   }
  },
@@ -10429,7 +10429,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4443391226",
    "https://www.linkedin.com/jobs/view/4443919645",
-   "https://www.linkedin.com/jobs/view/4444718480"
+   "https://www.linkedin.com/jobs/view/4444718480",
+   "https://www.linkedin.com/jobs/view/4445360742"
   ]
  },
  "de39591211efe6a1754c03fec13352cd": {
@@ -10440,7 +10441,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4443375813",
    "https://www.linkedin.com/jobs/view/4443920616",
-   "https://www.linkedin.com/jobs/view/4444718513"
+   "https://www.linkedin.com/jobs/view/4444718513",
+   "https://www.linkedin.com/jobs/view/4445369474"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -11849,7 +11851,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4443899210",
    "https://www.linkedin.com/jobs/view/4444083477",
-   "https://www.linkedin.com/jobs/view/4444651557"
+   "https://www.linkedin.com/jobs/view/4444651557",
+   "https://www.linkedin.com/jobs/view/4444815736"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -12688,6 +12691,15 @@
   "source": "wttj",
   "urls": [
    "https://www.welcometothejungle.com/fr/companies/societe-generale/jobs/automatisation-intelligence-artificielle_fontenay-sous-bois"
+  ]
+ },
+ "5dcd37b8a8b0e2e6e49efcfb93372602": {
+  "first_seen": 1785043933.8751755,
+  "title": "AI ENGINEER (H/F) - STAGE 6 MOIS (STAGE DE FIN D’ÉTUDES)",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444695638"
   ]
  }
 }
