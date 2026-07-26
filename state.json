@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785054507.9896483,
+   "last_success": 1785054720.7780187,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785054507.9896548,
+   "last_success": 1785054720.7780247,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785054521.1750064,
+   "last_success": 1785054734.5244021,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785054521.1750114,
+   "last_success": 1785054734.5244062,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785054521.1750133,
+   "last_success": 1785054734.524408,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785054521.1750147,
+   "last_success": 1785054734.524409,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785054521.1750157,
+   "last_success": 1785054734.5244105,
    "alerted": false
   }
  },
@@ -12619,7 +12619,8 @@
   "company": "FANUC Europe",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4441894579"
+   "https://www.linkedin.com/jobs/view/4441894579",
+   "https://www.linkedin.com/jobs/view/4442333972"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -12764,6 +12765,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4436791269"
+  ]
+ },
+ "e786ca9b642c353b1f79bc6579a364d3": {
+  "first_seen": 1785054734.525142,
+  "title": "STAGE Système Avionique R&T Développement système de freinage du futur F/H F/H - SAFRAN LANDING SYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443520944"
   ]
  }
 }
