@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785011530.4345603,
+   "last_success": 1785042116.4696524,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785011530.4345663,
+   "last_success": 1785042116.469658,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785011543.5534887,
+   "last_success": 1785042129.9249701,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785011543.5534937,
+   "last_success": 1785042129.9249759,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785011543.553496,
+   "last_success": 1785042129.9249778,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785011543.5534976,
+   "last_success": 1785042129.924979,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785011543.5534992,
+   "last_success": 1785042129.92498,
    "alerted": false
   }
  },
@@ -12670,6 +12670,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445345887"
+  ]
+ },
+ "b9340bedbf923f6da9e058bb524af07c": {
+  "first_seen": 1785042129.9254875,
+  "title": "Data Scientist Intern (2024)",
+  "company": "Artefact",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/artefact/jobs/data-scientist-intern-2024_paris"
+  ]
+ },
+ "c5803c6284365b4edcbb5030d0b6fb63": {
+  "first_seen": 1785042129.925503,
+  "title": "Automatisation & Intelligence Artificielle",
+  "company": "Société Générale",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/societe-generale/jobs/automatisation-intelligence-artificielle_fontenay-sous-bois"
   ]
  }
 }
