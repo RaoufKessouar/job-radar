@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785067479.0083902,
+   "last_success": 1785069120.6286204,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785067479.0083954,
+   "last_success": 1785069120.628627,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785067492.755207,
+   "last_success": 1785069134.2141416,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785067492.7552128,
+   "last_success": 1785069134.2141466,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785067492.7552147,
+   "last_success": 1785069134.2141485,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785067492.755216,
+   "last_success": 1785069134.2141502,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785067492.7552173,
+   "last_success": 1785069134.2141519,
    "alerted": false
   }
  },
@@ -12811,6 +12811,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4368806314"
+  ]
+ },
+ "4ed4f5e7a1fe1bc5b37cd0e94e4d97bb": {
+  "first_seen": 1785069134.214851,
+  "title": "Consultant Technique Confirmé AI (H/F)",
+  "company": "Inetum",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417763817"
+  ]
+ },
+ "2bc330078e04ee37e60299346be66b4f": {
+  "first_seen": 1785069134.214908,
+  "title": "Stage recherche appliquée en santé de la femme",
+  "company": "GE HealthCare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427994047"
   ]
  }
 }
