@@ -1,23 +1,23 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785047525.6756828,
+   "last_success": 1785049319.7411454,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785047525.6756885,
+   "last_success": 1785049319.741151,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785047537.4768004,
+   "last_success": 1785049357.5482805,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785047537.4768052,
+   "last_success": 1785049357.5482845,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785047537.4768069,
+   "last_success": 1785049357.5482862,
    "alerted": false
   },
   "carriere-capgemini": {
@@ -25,7 +25,7 @@
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785047537.47681,
+   "last_success": 1785049357.5483284,
    "alerted": false
   }
  },
@@ -12728,6 +12728,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445320522"
+  ]
+ },
+ "84974d860056478c6bf52f518e72e555": {
+  "first_seen": 1785049357.549086,
+  "title": "AI R&D Engineer - Agent Orchestration - SocGen AI",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4406465905"
   ]
  }
 }
