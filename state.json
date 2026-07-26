@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785074551.2639568,
+   "last_success": 1785076350.7246292,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785074551.263963,
+   "last_success": 1785076350.7246354,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785074562.9243548,
+   "last_success": 1785076363.5127378,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785074562.9243603,
+   "last_success": 1785076363.5127423,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785074562.9243622,
+   "last_success": 1785076363.5127447,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785074562.9243636,
+   "last_success": 1785076363.5127456,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785074562.924365,
+   "last_success": 1785076363.5127468,
    "alerted": false
   }
  },
@@ -12874,6 +12874,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4398842995"
+  ]
+ },
+ "3cd1fab8ba7fbcc7ec2d284e3ca6c0ac": {
+  "first_seen": 1785076363.5132818,
+  "title": "Intern - Business Analyst (H/F)",
+  "company": "Picnic Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4277200120"
+  ]
+ },
+ "6e50fe5ad4e3bc4a35a369c1be1257e5": {
+  "first_seen": 1785076363.5132937,
+  "title": "APPRENTICESHIP – Finance Product Owner - (H/F)",
+  "company": "Moët Hennessy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4407313509"
+  ]
+ },
+ "a06b5b0f9361d5bfe941d92ebbd1fd6f": {
+  "first_seen": 1785076363.5133293,
+  "title": "CDI - IA Solution Engineer (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4407698236"
+  ]
+ },
+ "a79e7c5f3aa95c825cc9078ae49db10f": {
+  "first_seen": 1785076363.513378,
+  "title": "Stage de Master / projet de fin d'Etudes d'ingénieur H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4316984838"
+  ]
+ },
+ "a8f657cb7fe1fa8a44474b70e7b2f627": {
+  "first_seen": 1785076363.513437,
+  "title": "Développeur Logiciel Embarqué BSP (H/F/X)",
+  "company": "IT Link Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4323154572"
   ]
  }
 }
