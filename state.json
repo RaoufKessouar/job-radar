@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785049319.7411454,
+   "last_success": 1785051144.846639,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785049319.741151,
+   "last_success": 1785051144.8466454,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785049357.5482805,
+   "last_success": 1785051156.853075,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785049357.5482845,
+   "last_success": 1785051156.8530796,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785049357.5482862,
+   "last_success": 1785051156.8530812,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785047537.4768085,
+   "last_success": 1785051156.8530827,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785049357.5483284,
+   "last_success": 1785051156.8530836,
    "alerted": false
   }
  },
@@ -12737,6 +12737,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4406465905"
+  ]
+ },
+ "90894d5622388ef1f97d9f8edd9df222": {
+  "first_seen": 1785051156.8536382,
+  "title": "Ingénieur BIG DATA et IA",
+  "company": "GRDF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409036961"
+  ]
+ },
+ "8426a6fb586f3edd7b99c3acff6f4744": {
+  "first_seen": 1785051156.8536491,
+  "title": "STAGE - Chargé(e) de Données Produit (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4367815454"
+  ]
+ },
+ "f936bcef6449218b2240696133536e29": {
+  "first_seen": 1785051156.853657,
+  "title": "Product Data Specialist - Publishing",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436791269"
   ]
  }
 }
