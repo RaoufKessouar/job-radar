@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785045731.5506299,
+   "last_success": 1785047525.6756828,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785045731.550636,
+   "last_success": 1785047525.6756885,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785045744.496147,
+   "last_success": 1785047537.4768004,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785045744.496152,
+   "last_success": 1785047537.4768052,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785045744.4961536,
+   "last_success": 1785047537.4768069,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785045744.4961548,
+   "last_success": 1785047537.4768085,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785045744.4961562,
+   "last_success": 1785047537.47681,
    "alerted": false
   }
  },
@@ -12701,6 +12701,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444695638"
+  ]
+ },
+ "2cd14e3258ce70913e8c6838badc274f": {
+  "first_seen": 1785047537.4773796,
+  "title": "STAGE - Assistant Data Analyst  Maintenance de moteurs civils F/H F/H - L - DIVISION SUPPORT & SERVICES",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445387533"
+  ]
+ },
+ "b42c848e1acedccc7536b13c93a70fb2": {
+  "first_seen": 1785047537.4775221,
+  "title": "Senior Member of Technical Staff, Multimodal AI",
+  "company": "Cohere",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4272080636"
+  ]
+ },
+ "2d0dce038fcefcd561f049e71035c13d": {
+  "first_seen": 1785047537.4775386,
+  "title": "PFE – Optimisation de la rédaction de mémoires techniques grâce à l'IA F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445320522"
   ]
  }
 }
