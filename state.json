@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785085323.3820217,
+   "last_success": 1785085450.0678077,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785085323.382029,
+   "last_success": 1785085450.0678134,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785085335.824849,
+   "last_success": 1785085463.35262,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785085335.8248546,
+   "last_success": 1785085463.352625,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785085335.8248565,
+   "last_success": 1785085463.352627,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785085335.824858,
+   "last_success": 1785085463.3526285,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785085335.8248591,
+   "last_success": 1785085463.35263,
    "alerted": false
   }
  },
@@ -12985,7 +12985,7 @@
   ]
  },
  "55f4c94c4b72db6a3ca3522d13a379ed": {
-  "first_seen": 1785085335.8256893,
+  "first_seen": 1785085463.353193,
   "title": "Apprenti(e) Supply Chain AI & Robotics initiative H/F",
   "company": "Valeo",
   "source": "linkedin",
@@ -12994,7 +12994,7 @@
   ]
  },
  "e4245e7ce24f3513fcd5ff70d6b41f8a": {
-  "first_seen": 1785085335.8257146,
+  "first_seen": 1785085463.3532214,
   "title": "Lead Forward Deployed AI Scientist, France - BCG X",
   "company": "BCG X",
   "source": "linkedin",
