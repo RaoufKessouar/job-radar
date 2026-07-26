@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785076350.7246292,
+   "last_success": 1785078195.8086357,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785076350.7246354,
+   "last_success": 1785078195.8086421,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785076363.5127378,
+   "last_success": 1785078208.2673998,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785076363.5127423,
+   "last_success": 1785078208.2674046,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785076363.5127447,
+   "last_success": 1785078208.2674067,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785076363.5127456,
+   "last_success": 1785078208.2674081,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785076363.5127468,
+   "last_success": 1785078208.2674093,
    "alerted": false
   }
  },
@@ -12919,6 +12919,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4323154572"
+  ]
+ },
+ "837a268e8fa9dd2c8343b08b4531f01e": {
+  "first_seen": 1785078208.2679822,
+  "title": "Agent Builder",
+  "company": "Mirakl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4398489702"
+  ]
+ },
+ "8836a890924c8b4dee4169b5a95aba82": {
+  "first_seen": 1785078208.268111,
+  "title": "Principal AI Developer Technology Engineer",
+  "company": "NVIDIA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4395487293"
   ]
  }
 }
