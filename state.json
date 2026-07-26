@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785056526.153955,
+   "last_success": 1785058326.8870943,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785056526.153961,
+   "last_success": 1785058326.887099,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785056538.194836,
+   "last_success": 1785058340.6555831,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785056538.19484,
+   "last_success": 1785058340.655587,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785056538.1948419,
+   "last_success": 1785058340.6555886,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785056538.194843,
+   "last_success": 1785058340.6555898,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785056538.1948447,
+   "last_success": 1785058340.6555915,
    "alerted": false
   }
  },
@@ -12774,6 +12774,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443520944"
+  ]
+ },
+ "c5c5f579308dd98767ce5eebf8281d1e": {
+  "first_seen": 1785058340.6561306,
+  "title": "AI Products - DEVOTEAM DATA DRIVEN",
+  "company": "Devoteam Data Driven",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4407332674"
   ]
  }
 }
