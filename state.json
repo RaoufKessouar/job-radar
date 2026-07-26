@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785079937.1915057,
+   "last_success": 1785081777.4078076,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785079937.1915114,
+   "last_success": 1785081777.4078133,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785079950.9160767,
+   "last_success": 1785081789.9485018,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785079950.916081,
+   "last_success": 1785081789.9485064,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785079950.9160829,
+   "last_success": 1785081789.9485085,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785079950.9160845,
+   "last_success": 1785081789.9485102,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785079950.9160857,
+   "last_success": 1785081789.9485116,
    "alerted": false
   }
  },
@@ -12937,6 +12937,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4395487293"
+  ]
+ },
+ "d4d075b7649e2e267bfef73680c2240b": {
+  "first_seen": 1785081789.9491138,
+  "title": "France & Italy Analytics Manager",
+  "company": "eBay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4425332314"
+  ]
+ },
+ "362a48d45b652c15e8078bf29cf2ef83": {
+  "first_seen": 1785081789.949192,
+  "title": "Consultant confirmé/senior - IA - Neuilly (H/F)",
+  "company": "Grant-Thornton France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440991944"
   ]
  }
 }
