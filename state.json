@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785043920.5690267,
+   "last_success": 1785045731.5506299,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785043920.5690331,
+   "last_success": 1785045731.550636,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785043933.8745801,
+   "last_success": 1785045744.496147,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785043933.8745852,
+   "last_success": 1785045744.496152,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785043933.874587,
+   "last_success": 1785045744.4961536,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785043933.8745885,
+   "last_success": 1785045744.4961548,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785043933.87459,
+   "last_success": 1785045744.4961562,
    "alerted": false
   }
  },
@@ -12303,7 +12303,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444729137"
+   "https://www.linkedin.com/jobs/view/4444729137",
+   "https://www.linkedin.com/jobs/view/4445362589"
   ]
  },
  "87d1a53b8a454e1fb2896c44b5658723": {
