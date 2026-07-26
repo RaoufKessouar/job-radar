@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785085450.0678077,
+   "last_success": 1785087123.0418344,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785085450.0678134,
+   "last_success": 1785087123.0418396,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785085463.35262,
+   "last_success": 1785087135.8950481,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785085463.352625,
+   "last_success": 1785087135.8950531,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785085463.352627,
+   "last_success": 1785087135.895055,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785085463.3526285,
+   "last_success": 1785087135.8950567,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785085463.35263,
+   "last_success": 1785087135.895058,
    "alerted": false
   }
  },
@@ -13000,6 +13000,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4417167288"
+  ]
+ },
+ "83ad3af29176f6b55b70f6d15a6855d9": {
+  "first_seen": 1785087135.895665,
+  "title": "Ingénieur Data et IA F/H",
+  "company": "KNDS France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414042272"
   ]
  }
 }
