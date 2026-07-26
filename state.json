@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785067340.9327095,
+   "last_success": 1785067479.0083902,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785067340.9327154,
+   "last_success": 1785067479.0083954,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785067354.5026608,
+   "last_success": 1785067492.755207,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785067354.502665,
+   "last_success": 1785067492.7552128,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785067354.5026667,
+   "last_success": 1785067492.7552147,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785067354.5026689,
+   "last_success": 1785067492.755216,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785067354.5026703,
+   "last_success": 1785067492.7552173,
    "alerted": false
   }
  },
@@ -10497,7 +10497,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440453789",
-   "https://www.linkedin.com/jobs/view/4443901703"
+   "https://www.linkedin.com/jobs/view/4443901703",
+   "https://www.linkedin.com/jobs/view/4445607275"
   ]
  },
  "0f4c6d7f8e9dcf7a0d58fef705f982b9": {
@@ -12801,6 +12802,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4399284865"
+  ]
+ },
+ "c781dea02f123a19a97d25f6ae489716": {
+  "first_seen": 1785067492.7559843,
+  "title": "Ingénieur développement C embarqué H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4368806314"
   ]
  }
 }
