@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785069120.6286204,
+   "last_success": 1785070937.3480155,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785069120.628627,
+   "last_success": 1785070937.3480225,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785069134.2141416,
+   "last_success": 1785070950.0905428,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785069134.2141466,
+   "last_success": 1785070950.0905483,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785069134.2141485,
+   "last_success": 1785070950.09055,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785069134.2141502,
+   "last_success": 1785070950.0905516,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785069134.2141519,
+   "last_success": 1785070950.090553,
    "alerted": false
   }
  },
@@ -12829,6 +12829,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4427994047"
+  ]
+ },
+ "ceb97bb309433ede2e5f69fb4033c900": {
+  "first_seen": 1785070950.0910969,
+  "title": "Ingénieur Analyse de Données & Solutions Data H/F - R&D",
+  "company": "Schaeffler",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428121806"
   ]
  }
 }
