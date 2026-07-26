@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785081777.4078076,
+   "last_success": 1785083546.144593,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785081777.4078133,
+   "last_success": 1785083546.144598,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785081789.9485018,
+   "last_success": 1785083559.0305996,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785081789.9485064,
+   "last_success": 1785083559.0306041,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785081789.9485085,
+   "last_success": 1785083559.0306056,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785081789.9485102,
+   "last_success": 1785083559.0306067,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785081789.9485116,
+   "last_success": 1785083559.0306084,
    "alerted": false
   }
  },
@@ -12955,6 +12955,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440991944"
+  ]
+ },
+ "2a1ce66d6f85d91c9553965ae9c617ba": {
+  "first_seen": 1785083559.0312076,
+  "title": "Alternance - 1 an - Analyste Quantitatif F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4386163670"
+  ]
+ },
+ "8958b184e7f560ef19c99b97742c9267": {
+  "first_seen": 1785083559.0312517,
+  "title": "Member of Technical Staff, Post-Training",
+  "company": "Cohere",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4248917572"
+  ]
+ },
+ "d159ff26f018a7060dbd840a1c24bb49": {
+  "first_seen": 1785083559.031348,
+  "title": "Architecte Développement Logiciel Embarqué F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4386504447"
   ]
  }
 }
