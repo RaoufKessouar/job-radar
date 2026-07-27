@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785162803.1232479,
+   "last_success": 1785164557.3368623,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785162803.1232548,
+   "last_success": 1785164557.3368676,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785162817.2658622,
+   "last_success": 1785164570.9276278,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785162817.2658668,
+   "last_success": 1785164570.9276326,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785162817.2658682,
+   "last_success": 1785164570.927634,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785162817.2658694,
+   "last_success": 1785164570.927635,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785162817.2658706,
+   "last_success": 1785164570.9276357,
    "alerted": false
   }
  },
@@ -13377,6 +13377,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4353475421"
+  ]
+ },
+ "dea1a6d7b3e387a640d7e20491e7f206": {
+  "first_seen": 1785164570.9281242,
+  "title": "Data Scientist - Conseil et Industrie (f/m/d)",
+  "company": "Avencore",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445954029"
+  ]
+ },
+ "09b1ada0afa2e37d1929cacbcd5fedde": {
+  "first_seen": 1785164570.9281316,
+  "title": "Data Scientist",
+  "company": "Diagonall",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445132905"
   ]
  }
 }
