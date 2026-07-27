@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785130365.1991732,
+   "last_success": 1785132147.1133752,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785130365.1991794,
+   "last_success": 1785132147.1133807,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785130377.5753808,
+   "last_success": 1785132159.6096637,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785130377.5753853,
+   "last_success": 1785132159.6096697,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785130377.5753872,
+   "last_success": 1785132159.6096716,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785130377.5753882,
+   "last_success": 1785132159.609673,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785130377.5753894,
+   "last_success": 1785132159.6096742,
    "alerted": false
   }
  },
@@ -13066,6 +13066,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442359990"
+  ]
+ },
+ "d61a39ac130bb06c7a227804398a6bca": {
+  "first_seen": 1785132159.6105845,
+  "title": "AI & Automation Engineer",
+  "company": "Les Fils de Pub - Agence de communication",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445385838"
   ]
  }
 }
