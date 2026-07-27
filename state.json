@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785144752.8331168,
+   "last_success": 1785146088.44261,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785144752.8331227,
+   "last_success": 1785146088.4426148,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785144766.594809,
+   "last_success": 1785146101.9786859,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785144766.5948145,
+   "last_success": 1785146101.9786901,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785144766.5948162,
+   "last_success": 1785146101.9786918,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785144766.5948179,
+   "last_success": 1785146101.9786937,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785144766.594819,
+   "last_success": 1785146101.9786952,
    "alerted": false
   }
  },
@@ -13249,6 +13249,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444880831"
+  ]
+ },
+ "344e45199e80c94f27e1e50842edd6b5": {
+  "first_seen": 1785146101.9790204,
+  "title": "Data Scientist - QuantumBlack, AI by McKinsey",
+  "company": "QuantumBlack, AI by McKinsey",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4233122195"
+  ]
+ },
+ "5e0c16a7e4dfebb93d321363f8f92517": {
+  "first_seen": 1785146101.9790688,
+  "title": "Lead Data Scientist GenAI",
+  "company": "Kaino",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4339390539"
   ]
  }
 }
