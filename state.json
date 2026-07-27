@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785141157.3715322,
+   "last_success": 1785142979.723597,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785141157.3715384,
+   "last_success": 1785142979.7236025,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785141170.783094,
+   "last_success": 1785142993.4762366,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785141170.783099,
+   "last_success": 1785142993.4762414,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785141170.783101,
+   "last_success": 1785142993.4762433,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785141170.7831028,
+   "last_success": 1785142993.4762444,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785141170.7831037,
+   "last_success": 1785142993.4762454,
    "alerted": false
   }
  },
@@ -13156,6 +13156,60 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-2-Mission-HSE-et-amlioration-des-moyens-de-mesures_JOBREQ_50273336"
+  ]
+ },
+ "76fbbf6fb5ba418fedaf11902416dc52": {
+  "first_seen": 1785142993.4767454,
+  "title": "Manager - Lead Data Scientist (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442809691"
+  ]
+ },
+ "71dfd44578ad63ff69b662c3be5b67c2": {
+  "first_seen": 1785142993.4769096,
+  "title": "Ingénieur(e) développement embarqué",
+  "company": "ADENTIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442818361"
+  ]
+ },
+ "8899991948e426635b7e35f46d8dc847": {
+  "first_seen": 1785142993.4769425,
+  "title": "Ingénieur Basic Software",
+  "company": "TMC Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442825536"
+  ]
+ },
+ "d18102c34f57335015cbf1728b98d45a": {
+  "first_seen": 1785142993.4769633,
+  "title": "Ingénieur bancs de test – Linux & systèmes embarqués (H/F)",
+  "company": "Trinnov Audio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444873779"
+  ]
+ },
+ "0e9049e701ea147048ec96ce913211ba": {
+  "first_seen": 1785142993.4770007,
+  "title": "CS27 BAC +5 - Assistant Product Leader Data (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC--5---Assistant-Product-Leader-Data--H-F-_JOBREQ_50272923"
+  ]
+ },
+ "083eb1af6774b65fcb5b3cab9cb1e8ab": {
+  "first_seen": 1785142993.4771464,
+  "title": "Stage Middle Office Groupe",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Paris/Stage-Middle-Office-Groupe_REQ2026078624"
   ]
  }
 }
