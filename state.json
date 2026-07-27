@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785137543.4476604,
+   "last_success": 1785139371.6213129,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785137543.4476664,
+   "last_success": 1785139371.6213188,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785137557.1146865,
+   "last_success": 1785139384.2445617,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785137557.1146915,
+   "last_success": 1785139384.2445664,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785137557.1146939,
+   "last_success": 1785139384.2445683,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785137557.1146958,
+   "last_success": 1785139384.2445695,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785137557.114697,
+   "last_success": 1785139384.244571,
    "alerted": false
   }
  },
@@ -13111,6 +13111,51 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5-Product-Designer---Procurement-Digital-Solutions--H-F-_JOBREQ_50272959"
+  ]
+ },
+ "8c296af8a10e02815a321f3a14c4baee": {
+  "first_seen": 1785139384.2450752,
+  "title": "Stage – Développement Rust (secteur bancaire)",
+  "company": "Aubay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433933228"
+  ]
+ },
+ "19d20b6ae5de7392ee37d620c6a88837": {
+  "first_seen": 1785139384.245123,
+  "title": "Generative AI Engineer (F/H)",
+  "company": "Aubay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433917745"
+  ]
+ },
+ "0d3040bb4abec5a55f6f210ad4463022": {
+  "first_seen": 1785139384.2451317,
+  "title": "ML Engineer (F/H)",
+  "company": "Aubay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433922624"
+  ]
+ },
+ "07b873d7c93053a8917a00da35aeebf0": {
+  "first_seen": 1785139384.2452655,
+  "title": "Staff Machine Learning Engineer - Retrieval (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445905129"
+  ]
+ },
+ "3e0cf33d3e8de64acef809cacc0cd056": {
+  "first_seen": 1785139384.2453105,
+  "title": "CS27 BAC+2 - Mission HSE et amélioration des moyens de mesures (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-2-Mission-HSE-et-amlioration-des-moyens-de-mesures_JOBREQ_50273336"
   ]
  }
 }
