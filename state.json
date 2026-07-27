@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785097931.9090664,
+   "last_success": 1785128551.220283,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785097931.9090726,
+   "last_success": 1785128551.2202892,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785097944.5612955,
+   "last_success": 1785128564.9263494,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785097944.5613003,
+   "last_success": 1785128564.9263546,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785097944.5613024,
+   "last_success": 1785128564.9263566,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785097944.561304,
+   "last_success": 1785128564.9263582,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785097944.5613053,
+   "last_success": 1785128564.9263597,
    "alerted": false
   }
  },
@@ -11209,7 +11209,9 @@
   "company": "Bending Spoons",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442669576"
+   "https://www.linkedin.com/jobs/view/4442669576",
+   "https://www.linkedin.com/jobs/view/4444847823",
+   "https://www.linkedin.com/jobs/view/4444857493"
   ]
  },
  "6f893d04b0312561a116813884e7f6f5": {
@@ -13009,6 +13011,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4414042272"
+  ]
+ },
+ "85ca23af2b0df10b0058547b6a740ca6": {
+  "first_seen": 1785128564.9269433,
+  "title": "Ingenieur statisticien - H/F",
+  "company": "INSERM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442647094"
+  ]
+ },
+ "b15243213fabd77f9e7a963b6664ed73": {
+  "first_seen": 1785128564.9269717,
+  "title": "Data Scientist Senior IA - Projet innovation vibe coding",
+  "company": "tricefal®️",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444857261"
+  ]
+ },
+ "8c7025aa58876f56a0c0d0e4829de916": {
+  "first_seen": 1785128564.927025,
+  "title": "Data Engineer IA orienté-e métier  Support et Service F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442980908"
+  ]
+ },
+ "dbe738088804d2ca6a50bbd09260a4e6": {
+  "first_seen": 1785128564.9270506,
+  "title": "Développeur IA Python - Projet innovation vibe coding",
+  "company": "tricefal®️",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444860256"
   ]
  }
 }
