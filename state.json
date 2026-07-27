@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785178930.9376562,
+   "last_success": 1785180742.8338408,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785178930.9376621,
+   "last_success": 1785180742.8338473,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785178942.7288814,
+   "last_success": 1785180756.828655,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785178942.7288864,
+   "last_success": 1785180756.8286595,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785178942.7288883,
+   "last_success": 1785180756.8286612,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785178942.7288892,
+   "last_success": 1785180756.828663,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785178942.7288911,
+   "last_success": 1785180756.828664,
    "alerted": false
   }
  },
@@ -13467,6 +13467,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4436076625"
+  ]
+ },
+ "61e53377998b9b5d0b6bc4779561800d": {
+  "first_seen": 1785180756.8293746,
+  "title": "Machine Learning Engineer - Paris 🇫🇷",
+  "company": "Dental Monitoring Czech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445998802"
+  ]
+ },
+ "1b06430ebf12084945ea1a5b597654ea": {
+  "first_seen": 1785180756.829469,
+  "title": "Ingénieur Logiciel embarqué / Intégration système F/H",
+  "company": "Fondation Bouygues Telecom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442857961"
   ]
  }
 }
