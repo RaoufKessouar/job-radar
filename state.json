@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785142979.723597,
+   "last_success": 1785144752.8331168,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785142979.7236025,
+   "last_success": 1785144752.8331227,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785142993.4762366,
+   "last_success": 1785144766.594809,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785142993.4762414,
+   "last_success": 1785144766.5948145,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785142993.4762433,
+   "last_success": 1785144766.5948162,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785142993.4762444,
+   "last_success": 1785144766.5948179,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785142993.4762454,
+   "last_success": 1785144766.594819,
    "alerted": false
   }
  },
@@ -9650,7 +9650,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440122661",
-   "https://www.linkedin.com/jobs/view/4443119117"
+   "https://www.linkedin.com/jobs/view/4443119117",
+   "https://www.linkedin.com/jobs/view/4442806808"
   ]
  },
  "6eaf5a48e5fce652389a925d5892cc97": {
@@ -11618,7 +11619,8 @@
   "company": "Sanofi",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4435543982"
+   "https://www.linkedin.com/jobs/view/4435543982",
+   "https://www.linkedin.com/jobs/view/4437104070"
   ]
  },
  "6bd1c0c0af2fa295f71438b49dd6e74d": {
@@ -12208,7 +12210,8 @@
   "company": "Ubisoft",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4441821319"
+   "https://www.linkedin.com/jobs/view/4441821319",
+   "https://www.linkedin.com/jobs/view/4442819793"
   ]
  },
  "9049ca18ba6d8eb6702f74f59402f345": {
@@ -13210,6 +13213,42 @@
   "source": "carriere-valeo",
   "urls": [
    "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Paris/Stage-Middle-Office-Groupe_REQ2026078624"
+  ]
+ },
+ "1dd4fc8eb0499302191438eec5ac31cd": {
+  "first_seen": 1785144766.5956657,
+  "title": "Stage Innovation : Ingénieur Génie Logiciel / Intelligence Artificielle",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444897181"
+  ]
+ },
+ "3cb1d67a9c59d68624c06c7cbb2f41b1": {
+  "first_seen": 1785144766.5956795,
+  "title": "Stage Innovation : Ingénieur Réalité Etendue",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444889677"
+  ]
+ },
+ "267b66d687b090a35c32ba83ea843289": {
+  "first_seen": 1785144766.5958397,
+  "title": "Stage Innovation : Ingénieur Intelligence Artificielle / Computer Vision",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444886798"
+  ]
+ },
+ "a21eb97b93685275bf10f3eb2769d100": {
+  "first_seen": 1785144766.595874,
+  "title": "CS27 BAC +5 - Assistant Product Leader Data (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444880831"
   ]
  }
 }
