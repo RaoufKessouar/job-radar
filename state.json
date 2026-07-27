@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785171762.2376852,
+   "last_success": 1785173565.4820995,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785171762.2376907,
+   "last_success": 1785173565.482106,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785171775.3419058,
+   "last_success": 1785173578.2947571,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785171775.341911,
+   "last_success": 1785173578.294762,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785171775.3419135,
+   "last_success": 1785173578.2947638,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785171775.341915,
+   "last_success": 1785173578.294765,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785171775.3419163,
+   "last_success": 1785173578.2947667,
    "alerted": false
   }
  },
@@ -13458,6 +13458,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445162441"
+  ]
+ },
+ "91dad5f36daa487d02eb360081112247": {
+  "first_seen": 1785173578.295372,
+  "title": "AI Engineer H/F",
+  "company": "Devoteam | Microsoft Partner",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436076625"
   ]
  }
 }
