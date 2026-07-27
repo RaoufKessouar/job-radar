@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785159118.749254,
+   "last_success": 1785159658.9195035,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785159118.7492595,
+   "last_success": 1785159658.9195082,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785159131.2509947,
+   "last_success": 1785159673.032311,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785159131.2509992,
+   "last_success": 1785159673.0323145,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785159131.2510011,
+   "last_success": 1785159673.0323162,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785159131.2510023,
+   "last_success": 1785159673.0323174,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785159131.2510035,
+   "last_success": 1785159673.0323184,
    "alerted": false
   }
  },
@@ -13304,6 +13304,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445932341"
+  ]
+ },
+ "090f3adaf7d8fc66bcb2751aa0a229b0": {
+  "first_seen": 1785159673.0328238,
+  "title": "Data Scientist – Marchés de l’électricité F/H – Paris",
+  "company": "Qair Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442837747"
+  ]
+ },
+ "f33d92f7210753a6a7559e36c80fe3ee": {
+  "first_seen": 1785159673.0328305,
+  "title": "Data Scientist - Compliance",
+  "company": "CACEIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423205698"
+  ]
+ },
+ "f59326b74eaf511b36d1cb113a5d0be8": {
+  "first_seen": 1785159673.0328467,
+  "title": "Data Scientist - Drug Discovery & AI",
+  "company": "Excelya",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436999859"
+  ]
+ },
+ "91c9024a300683fb0c6acd764fd64028": {
+  "first_seen": 1785159673.0328753,
+  "title": "Tech Builder (AI software engineer)",
+  "company": "Mozza",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445130719"
   ]
  }
 }
