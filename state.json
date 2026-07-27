@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785132147.1133752,
+   "last_success": 1785133937.446487,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785132147.1133807,
+   "last_success": 1785133937.4464927,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785132159.6096637,
+   "last_success": 1785133950.9966674,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785132159.6096697,
+   "last_success": 1785133950.9966726,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785132159.6096716,
+   "last_success": 1785133950.996674,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785132159.609673,
+   "last_success": 1785133950.9966753,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785132159.6096742,
+   "last_success": 1785133950.996677,
    "alerted": false
   }
  },
@@ -13075,6 +13075,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445385838"
+  ]
+ },
+ "ba6c21d9ce43c3168debdf42e5ad14dd": {
+  "first_seen": 1785133950.997727,
+  "title": "Applied AI Engineer (Supply Chain)",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432785788"
   ]
  }
 }
