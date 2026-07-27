@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785155540.7399251,
+   "last_success": 1785157356.9719088,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785155540.739931,
+   "last_success": 1785157356.9719145,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785155552.5477707,
+   "last_success": 1785157369.5851135,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785155552.5477753,
+   "last_success": 1785157369.585118,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785155552.547777,
+   "last_success": 1785157369.5851195,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785155552.5477781,
+   "last_success": 1785157369.5851207,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785155552.5477793,
+   "last_success": 1785157369.585122,
    "alerted": false
   }
  },
@@ -9621,7 +9621,8 @@
   "company": "ALTEN",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442034348"
+   "https://www.linkedin.com/jobs/view/4442034348",
+   "https://www.linkedin.com/jobs/view/4445128520"
   ]
  },
  "f8ecd628742e48e51a332a255b7dd82c": {
@@ -13294,6 +13295,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4387851785"
+  ]
+ },
+ "a508115dcbebd6ebd76250b1589f8101": {
+  "first_seen": 1785157369.5857594,
+  "title": "Stage - AI Specialist (H/F)",
+  "company": "Air Liquide Healthcare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445932341"
   ]
  }
 }
