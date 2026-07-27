@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785146558.4269469,
+   "last_success": 1785148334.199064,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785146558.4269526,
+   "last_success": 1785148334.19907,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785146571.64636,
+   "last_success": 1785148347.772255,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785146571.6463645,
+   "last_success": 1785148347.7722604,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785146571.646366,
+   "last_success": 1785148347.7722623,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785146571.6463673,
+   "last_success": 1785148347.772264,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785146571.6463685,
+   "last_success": 1785148347.7722652,
    "alerted": false
   }
  },
@@ -13267,6 +13267,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4339390539"
+  ]
+ },
+ "2cd061176f9a4e836f8f0aeda08687ec": {
+  "first_seen": 1785148347.7727935,
+  "title": "Alternant Data Scientist (F/H)",
+  "company": "BMW Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444899004"
   ]
  }
 }
