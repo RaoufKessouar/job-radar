@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785160969.599207,
+   "last_success": 1785162803.1232479,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785160969.5992126,
+   "last_success": 1785162803.1232548,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785160981.8025618,
+   "last_success": 1785162817.2658622,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785160981.802567,
+   "last_success": 1785162817.2658668,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785160981.802569,
+   "last_success": 1785162817.2658682,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785160981.8025706,
+   "last_success": 1785162817.2658694,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785160981.8025718,
+   "last_success": 1785162817.2658706,
    "alerted": false
   }
  },
@@ -13358,6 +13358,25 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445948938"
+  ]
+ },
+ "2f219d6306c103578f3f481104e89617": {
+  "first_seen": 1785162817.2667193,
+  "title": "Ingénieur IA",
+  "company": "Diagonall",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445138776",
+   "https://www.linkedin.com/jobs/view/4445140782"
+  ]
+ },
+ "af3bce6a48b1091a3e0e2d5d5c0ce37f": {
+  "first_seen": 1785162817.2668228,
+  "title": "Intégrateur Software Autosar  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4353475421"
   ]
  }
 }
