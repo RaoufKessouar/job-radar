@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785128551.220283,
+   "last_success": 1785130365.1991732,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785128551.2202892,
+   "last_success": 1785130365.1991794,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785128564.9263494,
+   "last_success": 1785130377.5753808,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785128564.9263546,
+   "last_success": 1785130377.5753853,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785128564.9263566,
+   "last_success": 1785130377.5753872,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785128564.9263582,
+   "last_success": 1785130377.5753882,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785128564.9263597,
+   "last_success": 1785130377.5753894,
    "alerted": false
   }
  },
@@ -11855,7 +11855,8 @@
    "https://www.linkedin.com/jobs/view/4443899210",
    "https://www.linkedin.com/jobs/view/4444083477",
    "https://www.linkedin.com/jobs/view/4444651557",
-   "https://www.linkedin.com/jobs/view/4444815736"
+   "https://www.linkedin.com/jobs/view/4444815736",
+   "https://www.linkedin.com/jobs/view/4444872303"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -13047,6 +13048,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444860256"
+  ]
+ },
+ "3b13cba32f07900cd1b5097fc88d6e70": {
+  "first_seen": 1785130377.5759466,
+  "title": "No-Code Maker (alternance)",
+  "company": "Nocode Factory - No-Code & Low-Code Agency",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444848523"
+  ]
+ },
+ "2e6d9eff5c07ae8cc94cd453d6358fbb": {
+  "first_seen": 1785130377.5761163,
+  "title": "System Designer (H/F)",
+  "company": "Alstom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442359990"
   ]
  }
 }
