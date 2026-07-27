@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785169930.0787973,
+   "last_success": 1785171762.2376852,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785169930.0788035,
+   "last_success": 1785171762.2376907,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785169943.4693038,
+   "last_success": 1785171775.3419058,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785169943.4693086,
+   "last_success": 1785171775.341911,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785169943.4693108,
+   "last_success": 1785171775.3419135,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785169943.4693124,
+   "last_success": 1785171775.341915,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785169943.4693139,
+   "last_success": 1785171775.3419163,
    "alerted": false
   }
  },
@@ -13404,6 +13404,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4329254270"
+  ]
+ },
+ "76ac48d3adb978543af66f4120b83cb5": {
+  "first_seen": 1785171775.3424437,
+  "title": "Stage - 6 mois - Data Scientist Generative AI F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433949504"
+  ]
+ },
+ "d7c9d848e371704bb6ed262bda2dda79": {
+  "first_seen": 1785171775.3425252,
+  "title": "Stage – Brand, Communication & Digital",
+  "company": "ANNA ZINI Fragrances & Cosmetics Development",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445971404"
+  ]
+ },
+ "50aca9e2b0a21ff685f2c1673d9ceeb3": {
+  "first_seen": 1785171775.342537,
+  "title": "Ingénieur IA F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445990046"
+  ]
+ },
+ "0a71302388672c425ebdc8e0b7d83c2b": {
+  "first_seen": 1785171775.342549,
+  "title": "Ingénieur en Intelligence Artificielle H/F",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445982099"
+  ]
+ },
+ "ec8e462f2a86dc5e1075bf96df98dff7": {
+  "first_seen": 1785171775.3426938,
+  "title": "Ingénieur développement logiciel F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445968983"
+  ]
+ },
+ "09ec9fa8b36fed7ba72c3baee30822da": {
+  "first_seen": 1785171775.342705,
+  "title": "Développeur Logiciel C Embarqué F/H",
+  "company": "Randstad Digital France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445162441"
   ]
  }
 }
