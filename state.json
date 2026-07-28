@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785256336.2800827,
+   "last_success": 1785258131.5747957,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785256336.280088,
+   "last_success": 1785258131.5748024,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785256353.841488,
+   "last_success": 1785258146.0239255,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785256353.8414927,
+   "last_success": 1785258146.0239294,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785256353.8414948,
+   "last_success": 1785258146.023931,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785256353.841496,
+   "last_success": 1785258146.0239322,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785256353.8414972,
+   "last_success": 1785258146.023933,
    "alerted": false
   }
  },
@@ -13863,6 +13863,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4428666949"
+  ]
+ },
+ "0115028a32a9656e3fff764297751789": {
+  "first_seen": 1785258146.0246022,
+  "title": "Manager AI Expert F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427748865"
+  ]
+ },
+ "495572f3bb41c31d00dcaa852f38c5fa": {
+  "first_seen": 1785258146.0246902,
+  "title": "Ingénieur Système",
+  "company": "Autoliv",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446317094"
+  ]
+ },
+ "a4d7c3f27984d78b7d85b4a1445c0880": {
+  "first_seen": 1785258146.0250518,
+  "title": "Consultante / Consultant Luxe, Beauté et Retail  - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Consultante-Consultant-Luxe%2C-Beaut%C3%A9-et-Retail-Stage/1225924201/"
   ]
  }
 }
