@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785263540.5155606,
+   "last_success": 1785265351.0107722,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785263540.515567,
+   "last_success": 1785265351.010778,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785263554.1015184,
+   "last_success": 1785265365.1857424,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785263554.1015236,
+   "last_success": 1785265365.185747,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785263554.1015255,
+   "last_success": 1785265365.185749,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785263554.101527,
+   "last_success": 1785265365.1857502,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785263554.1015286,
+   "last_success": 1785265365.1857514,
    "alerted": false
   }
  },
@@ -13935,6 +13935,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443617548"
+  ]
+ },
+ "9dce73cb1258d413b7166247bef091ec": {
+  "first_seen": 1785265365.186598,
+  "title": "STAGE - Ingénieur études amélioration continue F/H",
+  "company": "BRED Banque Populaire",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433980267"
   ]
  }
 }
