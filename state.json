@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785240156.0576706,
+   "last_success": 1785241931.808947,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785240156.057677,
+   "last_success": 1785241931.808954,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785240168.4670193,
+   "last_success": 1785241944.74878,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785240168.4670238,
+   "last_success": 1785241944.7487843,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785240168.4670258,
+   "last_success": 1785241944.7487857,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785240168.4670272,
+   "last_success": 1785241944.748787,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785240168.4670284,
+   "last_success": 1785241944.748788,
    "alerted": false
   }
  },
@@ -13728,6 +13728,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4433960163"
+  ]
+ },
+ "532e03e81c260b6d9a7bc9b60a095893": {
+  "first_seen": 1785241944.7493458,
+  "title": "Data scientist F/H",
+  "company": "BRED Banque Populaire",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443284481"
   ]
  }
 }
