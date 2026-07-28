@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785247342.1943781,
+   "last_success": 1785249135.7684295,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785247342.1943986,
+   "last_success": 1785249135.768436,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785247356.0509415,
+   "last_success": 1785249149.5151865,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785247356.0509465,
+   "last_success": 1785249149.5151916,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785247356.0509484,
+   "last_success": 1785249149.5151935,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785247356.0509496,
+   "last_success": 1785249149.515195,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785247356.0509508,
+   "last_success": 1785249149.5151963,
    "alerted": false
   }
  },
@@ -13782,6 +13782,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446304331"
+  ]
+ },
+ "6b9eaa08abf815500c1abd346e5a6965": {
+  "first_seen": 1785249149.5160234,
+  "title": "Stage en Communication H/F",
+  "company": "Arte Charpentier",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/arte-charpentier/jobs/stagiaire-communication-h-f_paris"
+  ]
+ },
+ "ec152dd7fc1c0c225339856dcb8fa7a2": {
+  "first_seen": 1785249149.5161471,
+  "title": "Stage - Géométrie algorithmique : positionnement d'un capteur souple sur une pièce complexe H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4322218350"
+  ]
+ },
+ "bcf047db8c4933e8355e4b88b50f49f5": {
+  "first_seen": 1785249149.5162172,
+  "title": "Final year internship - Marketing Data Scientist",
+  "company": "Sia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445490165"
+  ]
+ },
+ "bd943c50fbdf1f5f86c82d017c7ea68c": {
+  "first_seen": 1785249149.5162907,
+  "title": "Data Scientist/AI Engineer (domaine de la finance) - (h/f)",
+  "company": "emagine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445174634"
   ]
  }
 }
