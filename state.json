@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785252773.4663332,
+   "last_success": 1785254558.182342,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785252773.466339,
+   "last_success": 1785254558.182348,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785252786.4178278,
+   "last_success": 1785254571.8552394,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785252786.417832,
+   "last_success": 1785254571.8552449,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785252786.4178338,
+   "last_success": 1785254571.8552465,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785252786.4178348,
+   "last_success": 1785254571.8552482,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785252786.417836,
+   "last_success": 1785254571.8552494,
    "alerted": false
   }
  },
@@ -13845,6 +13845,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445724969"
+  ]
+ },
+ "48ed60550c275c9308264b7888dabf37": {
+  "first_seen": 1785254571.8558247,
+  "title": "Data Scientist H/F",
+  "company": "Swiss Life Asset Managers France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429257126"
+  ]
+ },
+ "4fdfd402e9a43335c1f8a74f1275ab9a": {
+  "first_seen": 1785254571.8560312,
+  "title": "Ingénieur développement logiciel temps réel F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428666949"
   ]
  }
 }
