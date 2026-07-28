@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785216719.6224408,
+   "last_success": 1785218600.84282,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785216719.6224468,
+   "last_success": 1785218600.8428252,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785216732.3509204,
+   "last_success": 1785218614.5630045,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785216732.350925,
+   "last_success": 1785218614.5630088,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785216732.3509269,
+   "last_success": 1785218614.5630105,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785216732.350928,
+   "last_success": 1785218614.5630116,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785216732.3509293,
+   "last_success": 1785218614.5630128,
    "alerted": false
   }
  },
@@ -11861,7 +11861,8 @@
    "https://www.linkedin.com/jobs/view/4444083477",
    "https://www.linkedin.com/jobs/view/4444651557",
    "https://www.linkedin.com/jobs/view/4444815736",
-   "https://www.linkedin.com/jobs/view/4444872303"
+   "https://www.linkedin.com/jobs/view/4444872303",
+   "https://www.linkedin.com/jobs/view/4445433912"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -13542,6 +13543,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446188515"
+  ]
+ },
+ "1ea962e8afa9d1c4eb5c78410c57d164": {
+  "first_seen": 1785218614.5636632,
+  "title": "Développeur logiciel C++ Qt - Secteur Robotique et Drone H/F",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442877471"
   ]
  }
 }
