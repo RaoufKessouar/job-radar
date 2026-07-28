@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785258131.5747957,
+   "last_success": 1785259935.8991208,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785258131.5748024,
+   "last_success": 1785259935.8991277,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785258146.0239255,
+   "last_success": 1785259950.5033638,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785258146.0239294,
+   "last_success": 1785259950.5033681,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785258146.023931,
+   "last_success": 1785259950.5033705,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785258146.0239322,
+   "last_success": 1785259950.503372,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785258146.023933,
+   "last_success": 1785259950.5033734,
    "alerted": false
   }
  },
@@ -13890,6 +13890,33 @@
   "source": "carriere-capgemini",
   "urls": [
    "https://careers.capgemini.com/job/Issy-les-Moulineaux-Consultante-Consultant-Luxe%2C-Beaut%C3%A9-et-Retail-Stage/1225924201/"
+  ]
+ },
+ "620f098e13354de4cb3cfa6e4871ea33": {
+  "first_seen": 1785259950.5043936,
+  "title": "Ingénieur.e MOA/Recette (F/H)",
+  "company": "Groupe SII",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446327537"
+  ]
+ },
+ "58b4ec32c529e81e440eced6793f3a0c": {
+  "first_seen": 1785259950.5044913,
+  "title": "AI Engineer H/F - CDI",
+  "company": "Talan",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446326509"
+  ]
+ },
+ "69739cfccfa20bcfa368c89a75e72b2d": {
+  "first_seen": 1785259950.5045652,
+  "title": "Final year internship - Operations Research Consultant",
+  "company": "Sia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445489163"
   ]
  }
 }
