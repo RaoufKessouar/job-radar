@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785249135.7684295,
+   "last_success": 1785250955.2023091,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785249135.768436,
+   "last_success": 1785250955.202316,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785249149.5151865,
+   "last_success": 1785250968.509897,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785249149.5151916,
+   "last_success": 1785250968.5099015,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785249149.5151935,
+   "last_success": 1785250968.509903,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785249149.515195,
+   "last_success": 1785250968.509904,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785249149.5151963,
+   "last_success": 1785250968.5099044,
    "alerted": false
   }
  },
@@ -13818,6 +13818,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445174634"
+  ]
+ },
+ "a574ec29e41dbb9b42cf9fb82e4b9efd": {
+  "first_seen": 1785250968.5109124,
+  "title": "Algorithm Engineer",
+  "company": "Beacon Biosignals",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440093226"
   ]
  }
 }
