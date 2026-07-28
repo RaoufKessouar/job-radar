@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785231116.0085778,
+   "last_success": 1785232943.2541137,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785231116.0085838,
+   "last_success": 1785232943.2541203,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785231129.1620953,
+   "last_success": 1785232957.6687224,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785231129.1621027,
+   "last_success": 1785232957.6687276,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785231129.1621058,
+   "last_success": 1785232957.668729,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785231129.1621075,
+   "last_success": 1785232957.6687303,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785231129.162109,
+   "last_success": 1785232957.668732,
    "alerted": false
   }
  },
@@ -13654,6 +13654,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443106811"
+  ]
+ },
+ "9e1c55b9532e0dc4aa661b9bc7f2194d": {
+  "first_seen": 1785232957.6692991,
+  "title": "Data Scientist  H/F",
+  "company": "BNP Paribas",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445992196"
+  ]
+ },
+ "3e2094cb5acfd27e495a4117ba1807e5": {
+  "first_seen": 1785232957.669473,
+  "title": "Ingénieur.e Système Embarqué Linux Sénior.e (H/F)",
+  "company": "Parrot",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4377757765"
+  ]
+ },
+ "b3ac881cad00f8ad93cb70dad77d517a": {
+  "first_seen": 1785232957.669481,
+  "title": "Intégrateur Logiciel junior  F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443234921"
   ]
  }
 }
