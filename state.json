@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785184350.8094168,
+   "last_success": 1785214930.1882613,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785184350.8094227,
+   "last_success": 1785214930.188267,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785184365.6581824,
+   "last_success": 1785214943.184411,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785184365.6581872,
+   "last_success": 1785214943.184417,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785184365.658189,
+   "last_success": 1785214943.1844192,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785184365.6581903,
+   "last_success": 1785214943.1844203,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785184365.658192,
+   "last_success": 1785214943.1844215,
    "alerted": false
   }
  },
@@ -11295,7 +11295,8 @@
   "company": "WINAMAX",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4435530396"
+   "https://www.linkedin.com/jobs/view/4435530396",
+   "https://www.linkedin.com/jobs/view/4445432960"
   ]
  },
  "51bd28b2019e0af1d67be429c84a7009": {
@@ -13487,6 +13488,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442857961"
+  ]
+ },
+ "7036587ddb9737681e8a914a14d896eb": {
+  "first_seen": 1785214943.184956,
+  "title": "Assistant Projets IA & Machine Learning H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/credit-agricole-cib/jobs/assistant-projets-ia-machine-learning-h-f_montrouge_CAC_JWA0aRb"
+  ]
+ },
+ "ea7cd447cfaee85ffebdf02a2ddfe0b3": {
+  "first_seen": 1785214943.1849866,
+  "title": "Data & Analytics Engineer",
+  "company": "Prodiges",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445405534"
+  ]
+ },
+ "63a6f361a96428e081f207c202a162e0": {
+  "first_seen": 1785214943.185011,
+  "title": "Data Scientist IA F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446166535"
+  ]
+ },
+ "4b3b43d5c8cc3c3cdb235c5efec4359e": {
+  "first_seen": 1785214943.185088,
+  "title": "Agentic AI Engineer",
+  "company": "Prodiges",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445405533"
   ]
  }
 }
