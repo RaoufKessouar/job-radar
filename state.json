@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785234757.167819,
+   "last_success": 1785236561.859078,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785234757.1678247,
+   "last_success": 1785236561.8590832,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785234771.397342,
+   "last_success": 1785236576.6613135,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785234771.3973465,
+   "last_success": 1785236576.6613185,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785234771.3973486,
+   "last_success": 1785236576.6613207,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785234771.3973498,
+   "last_success": 1785236576.6613226,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785234771.3973515,
+   "last_success": 1785236576.661324,
    "alerted": false
   }
  },
@@ -13690,6 +13690,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4377299500"
+  ]
+ },
+ "c5524f88bd842481393c3548e4618850": {
+  "first_seen": 1785236576.6618435,
+  "title": "Data & AI Engineer - stage de fin d'études - Paris - Theodo Data & IA",
+  "company": "Theodo Data & AI",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/sicara/jobs/data-ai-engineer-stage-de-fin-d-etude-paris-theodo-data-ia_paris"
+  ]
+ },
+ "f6dc7fb7794746113fc7e504aafd5cb3": {
+  "first_seen": 1785236576.6619635,
+  "title": "STAGE - Performance and Contract Engineer H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443261576"
+  ]
+ },
+ "3b46e1a365a54774fb7d97795e24ce04": {
+  "first_seen": 1785236576.6621048,
+  "title": "ED - Associate Consultant & Data Scientist (Internship)",
+  "company": "Emerton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443260443"
+  ]
+ },
+ "7067582d9ebde02b1216869ec98946ef": {
+  "first_seen": 1785236576.6621351,
+  "title": "AI Research Engineer (Speech & Conversational AI)",
+  "company": "Diabolocom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433960163"
   ]
  }
 }
