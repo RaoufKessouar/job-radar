@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785227543.635161,
+   "last_success": 1785227809.7468421,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785227543.6351666,
+   "last_success": 1785227809.7468474,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785227557.0455053,
+   "last_success": 1785227822.4601402,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785227557.0455098,
+   "last_success": 1785227822.4601448,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785227557.045512,
+   "last_success": 1785227822.4601464,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785227557.0455132,
+   "last_success": 1785227822.4601474,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785227557.0455143,
+   "last_success": 1785227822.4601488,
    "alerted": false
   }
  },
@@ -13626,6 +13626,15 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Stagiaire-Transformation-Digitale---Excellence-Oprationnelle--H-F-_JOBREQ_50271834"
+  ]
+ },
+ "05050e0c468e87fb9dd729b326095ec5": {
+  "first_seen": 1785227822.4608734,
+  "title": "Research Engineer / Deep Learning Engineer (Computer Vision)",
+  "company": "Leonar",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445478417"
   ]
  }
 }
