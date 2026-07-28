@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785229324.175186,
+   "last_success": 1785231116.0085778,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785229324.1751919,
+   "last_success": 1785231116.0085838,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785229336.3922713,
+   "last_success": 1785231129.1620953,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785229336.3922772,
+   "last_success": 1785231129.1621027,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785229336.3922794,
+   "last_success": 1785231129.1621058,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785229336.3922808,
+   "last_success": 1785231129.1621075,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785229336.392282,
+   "last_success": 1785231129.162109,
    "alerted": false
   }
  },
@@ -10277,7 +10277,8 @@
   "company": "Saegus",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442299924"
+   "https://www.linkedin.com/jobs/view/4442299924",
+   "https://www.linkedin.com/jobs/view/4443268203"
   ]
  },
  "f4c105d12e4ff824bc4d039128bd1b08": {
@@ -13635,6 +13636,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445478417"
+  ]
+ },
+ "6ae57ebe22ee393b33d3cce050e1c595": {
+  "first_seen": 1785231129.1631713,
+  "title": "Stagiaire - Data Science & IA H/F",
+  "company": "Crédit Agricole",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/groupe-credit-agricole/jobs/stagiaire-data-science-ia-h-f_paris"
+  ]
+ },
+ "71e0403912d73d48420baaaca60ab490": {
+  "first_seen": 1785231129.163321,
+  "title": "AI/ML Engineer H/F",
+  "company": "Team.is",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443106811"
   ]
  }
 }
