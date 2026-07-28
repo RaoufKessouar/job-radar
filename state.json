@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785259935.8991208,
+   "last_success": 1785260214.682508,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785259935.8991277,
+   "last_success": 1785260214.682518,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785259950.5033638,
+   "last_success": 1785260228.629253,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785259950.5033681,
+   "last_success": 1785260228.629258,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785259950.5033705,
+   "last_success": 1785260228.6292603,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785259950.503372,
+   "last_success": 1785260228.6292615,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785259950.5033734,
+   "last_success": 1785260228.629263,
    "alerted": false
   }
  },
@@ -13917,6 +13917,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445489163"
+  ]
+ },
+ "8906de03403d0e8296f929c6c3f2d85a": {
+  "first_seen": 1785260228.6303227,
+  "title": "Data Scientist",
+  "company": "DecisionPoint Corporation",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446138832"
   ]
  }
 }
