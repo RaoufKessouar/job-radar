@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785241931.808947,
+   "last_success": 1785243351.414073,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785241931.808954,
+   "last_success": 1785243351.4140794,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785241944.74878,
+   "last_success": 1785243363.4429276,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785241944.7487843,
+   "last_success": 1785243363.442932,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785241944.7487857,
+   "last_success": 1785243363.4429343,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785241944.748787,
+   "last_success": 1785243363.4429364,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785241944.748788,
+   "last_success": 1785243363.4429376,
    "alerted": false
   }
  },
@@ -13737,6 +13737,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443284481"
+  ]
+ },
+ "2f59d2ff993f53bcd752f2fac074ae68": {
+  "first_seen": 1785243363.4435008,
+  "title": "STAGIAIRE Ingénieur - Exploration et prototypage technos IA émergente",
+  "company": "ENGIE Lab Crigen",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443289450"
+  ]
+ },
+ "635e8eb8f1539329e7f87b31319c9f52": {
+  "first_seen": 1785243363.443682,
+  "title": "Ingénieur développement embarqué F/H - SAFRAN DATA SYSTEMS SAS",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443808401"
   ]
  }
 }
