@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785250955.2023091,
+   "last_success": 1785252773.4663332,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785250955.202316,
+   "last_success": 1785252773.466339,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785250968.509897,
+   "last_success": 1785252786.4178278,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785250968.5099015,
+   "last_success": 1785252786.417832,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785250968.509903,
+   "last_success": 1785252786.4178338,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785250968.509904,
+   "last_success": 1785252786.4178348,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785250968.5099044,
+   "last_success": 1785252786.417836,
    "alerted": false
   }
  },
@@ -13827,6 +13827,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440093226"
+  ]
+ },
+ "6df45ff4f33560bf6cc1e288d7c58735": {
+  "first_seen": 1785252786.4184883,
+  "title": "Data Scientist, spécialiste de la fouille de données H/F",
+  "company": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442856908"
+  ]
+ },
+ "2d5fa1668d0dc18d70bf6f93dad549d9": {
+  "first_seen": 1785252786.4185429,
+  "title": "Alternance – RAG & Agents IA pour les opérations F/H",
+  "company": "Malakoff Humanis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445724969"
   ]
  }
 }
