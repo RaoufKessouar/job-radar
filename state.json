@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785225738.183932,
+   "last_success": 1785227543.635161,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785225738.1839383,
+   "last_success": 1785227543.6351666,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785225749.857371,
+   "last_success": 1785227557.0455053,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785225749.8573751,
+   "last_success": 1785227557.0455098,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785225749.8573773,
+   "last_success": 1785227557.045512,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785225749.8573787,
+   "last_success": 1785227557.0455132,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785225749.8573802,
+   "last_success": 1785227557.0455143,
    "alerted": false
   }
  },
@@ -13516,7 +13516,8 @@
   "company": "VINCI Energies",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446166535"
+   "https://www.linkedin.com/jobs/view/4446166535",
+   "https://www.linkedin.com/jobs/view/4445477492"
   ]
  },
  "4b3b43d5c8cc3c3cdb235c5efec4359e": {
@@ -13598,6 +13599,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445494024"
+  ]
+ },
+ "f5a13f215a3e35d961445ffb3a40cd96": {
+  "first_seen": 1785227557.0461361,
+  "title": "Consultant(e) Data Scientist / AI Engineer",
+  "company": "Leonar",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445497186"
+  ]
+ },
+ "36041051bee059dcaf3428e8183f7190": {
+  "first_seen": 1785227557.0461576,
+  "title": "Ingénieur/Ingénieure",
+  "company": "INFOGENE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443239908"
+  ]
+ },
+ "286f266d68f3fa990a03bc9835d87b83": {
+  "first_seen": 1785227557.0462122,
+  "title": "CS27 BAC+5 – Stagiaire Transformation Digitale & Excellence Opérationnelle (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Stagiaire-Transformation-Digitale---Excellence-Oprationnelle--H-F-_JOBREQ_50271834"
   ]
  }
 }
