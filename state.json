@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785223926.4837234,
+   "last_success": 1785225738.183932,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785223926.4837296,
+   "last_success": 1785225738.1839383,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785223939.1565213,
+   "last_success": 1785225749.857371,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785223939.156526,
+   "last_success": 1785225749.8573751,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785223939.1565275,
+   "last_success": 1785225749.8573773,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785223939.156529,
+   "last_success": 1785225749.8573787,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785223939.1565301,
+   "last_success": 1785225749.8573802,
    "alerted": false
   }
  },
@@ -13562,6 +13562,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437622138"
+  ]
+ },
+ "27b8ead2ec6161d50aa4a9d31a6baeff": {
+  "first_seen": 1785225749.858273,
+  "title": "Final year internship - Marketing Data Scientist",
+  "company": "Sia",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/nod-a/jobs/final-year-internship-marketing-data-scientist_paris_SIA_k0ogPp3"
+  ]
+ },
+ "3b762b1776c9007030d35cd76281efad": {
+  "first_seen": 1785225749.858283,
+  "title": "Final year internship - Data Scientist & AI Consultant",
+  "company": "Sia",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/nod-a/jobs/final-year-internship-data-scientist-ai-consultant_paris_SIA_egbjz0Y"
+  ]
+ },
+ "6fb8b8d3f6cc6cc2729842c4725618ca": {
+  "first_seen": 1785225749.8582919,
+  "title": "Stage Solutions LemonLab",
+  "company": "Lemon Learning",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/lemon-learning/jobs/stage-solutions-lemonlab_paris"
+  ]
+ },
+ "d56b4945f55e1d78932d4126834df89d": {
+  "first_seen": 1785225749.858428,
+  "title": "Final year internship - Data Scientist & AI Consultant",
+  "company": "Sia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445494024"
   ]
  }
 }
