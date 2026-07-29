@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785339126.5484028,
+   "last_success": 1785341027.0635638,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785339126.5484087,
+   "last_success": 1785341027.063569,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785339142.6589918,
+   "last_success": 1785341039.683892,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785339142.658997,
+   "last_success": 1785341039.683897,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785339142.6589987,
+   "last_success": 1785341039.683899,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785339142.6590004,
+   "last_success": 1785341039.6839004,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785339142.6590016,
+   "last_success": 1785341039.6839018,
    "alerted": false
   }
  },
@@ -14444,6 +14444,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437821064"
+  ]
+ },
+ "643a587301af649e51c493a168dbf676": {
+  "first_seen": 1785341039.6846516,
+  "title": "Lead Data Scientist",
+  "company": "Kaino",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437833007"
+  ]
+ },
+ "2e671c14b012d34e100dc256ba20a53d": {
+  "first_seen": 1785341039.6846762,
+  "title": "Data Analyst Observation H/F",
+  "company": "Opco des Entreprises de Proximité",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446096372"
   ]
  }
 }
