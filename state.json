@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785328346.444365,
+   "last_success": 1785330149.7282822,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785328346.4443707,
+   "last_success": 1785330149.7282875,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785328358.960525,
+   "last_success": 1785330164.0799572,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785328358.9605303,
+   "last_success": 1785330164.0799613,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785328358.9605317,
+   "last_success": 1785330164.079963,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785328358.960533,
+   "last_success": 1785330164.079964,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785328358.9605343,
+   "last_success": 1785330164.079965,
    "alerted": false
   }
  },
@@ -14246,6 +14246,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4414305053"
+  ]
+ },
+ "f78c4d7c2dfee4cc1f0cee0d40113e1b": {
+  "first_seen": 1785330164.0807264,
+  "title": "Ingénieur Développement Logiciel  C Embarqué Linux Multithread - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4340590876"
+  ]
+ },
+ "cefa1c692628781ba0cf26502cddddeb": {
+  "first_seen": 1785330164.0807617,
+  "title": "Ingénieur Développement Logiciel pour Applications Critiques (H/F)",
+  "company": "SII Group Switzerland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437811429"
+  ]
+ },
+ "99d50e22c2e46d7e28c88ec5bf76d8fa": {
+  "first_seen": 1785330164.081156,
+  "title": "Assistant responsable E-Commerce Orange F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2025-47289/Assistant-responsable-E-Commerce-Orange-F%2FH"
   ]
  }
 }
