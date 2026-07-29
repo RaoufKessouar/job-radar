@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785351739.102516,
+   "last_success": 1785353558.3621624,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785351739.1025229,
+   "last_success": 1785353558.362169,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785351752.7636693,
+   "last_success": 1785353572.582913,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785351752.7636755,
+   "last_success": 1785353572.5829175,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785351752.7636778,
+   "last_success": 1785353572.5829191,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785351752.7636793,
+   "last_success": 1785353572.5829206,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785351752.7636807,
+   "last_success": 1785353572.5829217,
    "alerted": false
   }
  },
@@ -14544,6 +14544,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446845026"
+  ]
+ },
+ "0defac8cede509d6ff55346b3f66ba9a": {
+  "first_seen": 1785353572.5836294,
+  "title": "Software Engineering / Machine Learning Engineering Intern",
+  "company": "OWKIN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444151779"
   ]
  }
 }
