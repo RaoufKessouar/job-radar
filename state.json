@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785310345.9179726,
+   "last_success": 1785312163.1560378,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785310345.9179778,
+   "last_success": 1785312163.156042,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785310360.4640841,
+   "last_success": 1785312177.2452924,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785310360.464089,
+   "last_success": 1785312177.245297,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785310360.4640908,
+   "last_success": 1785312177.2452984,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785310360.4640923,
+   "last_success": 1785312177.2452998,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785310360.4640937,
+   "last_success": 1785312177.2453008,
    "alerted": false
   }
  },
@@ -10333,7 +10333,8 @@
   "company": "Saegus",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442616353"
+   "https://www.linkedin.com/jobs/view/4442616353",
+   "https://www.linkedin.com/jobs/view/4443255457"
   ]
  },
  "a140779ebc9808e9a8724b7b2316bf00": {
@@ -14047,6 +14048,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443687460"
+  ]
+ },
+ "256e1c0cbfb33f5e7f3249bf133ca162": {
+  "first_seen": 1785312177.2458696,
+  "title": "Data Scientist // ML engineering (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443648728"
+  ]
+ },
+ "3e46a5f39855e47ba67641962951c6ad": {
+  "first_seen": 1785312177.2459517,
+  "title": "Dynamic Distribution Shifts: OoD Detection with Dynamic Thresholds H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4322088475"
+  ]
+ },
+ "9ef9b5802b5890f93b30bc3f0296b029": {
+  "first_seen": 1785312177.246041,
+  "title": "CS27 Bac+5 – Chargé(e) de projet Customer Insights & Data Activation – Stratégie Produit (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-Bac-5---Charg-e--de-projet-Customer-Insights---Data-Activation---Stratgie-Produit--H-F-_JOBREQ_50273921"
   ]
  }
 }
