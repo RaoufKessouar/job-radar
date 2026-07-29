@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785317528.8131816,
+   "last_success": 1785319359.5852685,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785317528.8131878,
+   "last_success": 1785319359.5852747,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785317544.2081058,
+   "last_success": 1785319373.186053,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785317544.2081106,
+   "last_success": 1785319373.1860588,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785317544.2081118,
+   "last_success": 1785319373.186061,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785317544.208113,
+   "last_success": 1785319373.1860626,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785317544.2081137,
+   "last_success": 1785319373.1860642,
    "alerted": false
   }
  },
@@ -14147,6 +14147,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446587073"
+  ]
+ },
+ "8c901d98fee5485ed8801510da716fc2": {
+  "first_seen": 1785319373.1867042,
+  "title": "Stage - Innovation Data / Intelligence Artificielle (F/H)",
+  "company": "GIVENCHY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437830868"
+  ]
+ },
+ "73aa325ceb827d389221c4fc0f8dda76": {
+  "first_seen": 1785319373.186714,
+  "title": "Stagiaire IA & TechOps (H/F)",
+  "company": "INVIVOO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444101273"
   ]
  }
 }
