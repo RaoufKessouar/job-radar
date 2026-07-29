@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785304990.5169723,
+   "last_success": 1785306730.713927,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785304990.516978,
+   "last_success": 1785306730.7139325,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785305003.808419,
+   "last_success": 1785306742.7843874,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785305003.8084247,
+   "last_success": 1785306742.784393,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785305003.808427,
+   "last_success": 1785306742.784395,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785305003.8084288,
+   "last_success": 1785306742.7843962,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785305003.8084302,
+   "last_success": 1785306742.7843978,
    "alerted": false
   }
  },
@@ -14029,6 +14029,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443641239"
+  ]
+ },
+ "174f0233232165d51dc11c035762d716": {
+  "first_seen": 1785306742.785,
+  "title": "Stage Développement d'un algorithme MatLab d'export de modèles Simulink (Suite) F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446563358"
   ]
  }
 }
