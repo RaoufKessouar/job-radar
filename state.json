@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785337360.188136,
+   "last_success": 1785339126.5484028,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785337360.1881418,
+   "last_success": 1785339126.5484087,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785337372.6390095,
+   "last_success": 1785339142.6589918,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785337372.6390142,
+   "last_success": 1785339142.658997,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785337372.6390164,
+   "last_success": 1785339142.6589987,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785337372.6390178,
+   "last_success": 1785339142.6590004,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785337372.6390195,
+   "last_success": 1785339142.6590016,
    "alerted": false
   }
  },
@@ -14426,6 +14426,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437810548"
+  ]
+ },
+ "4381316389f77e854f0fd0c123d0ab52": {
+  "first_seen": 1785339142.659929,
+  "title": "Data Scientist Confirmé(e) (F/H)",
+  "company": "MP DATA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446421203"
+  ]
+ },
+ "eafec3e8bd76f41cdf5355a51285e2ca": {
+  "first_seen": 1785339142.6599772,
+  "title": "Stage Ingénieur.e IA ET COMPUTER VISION",
+  "company": "SII Group Switzerland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437821064"
   ]
  }
 }
