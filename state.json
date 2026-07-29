@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785313965.0748615,
+   "last_success": 1785314609.4720666,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785313965.0748677,
+   "last_success": 1785314609.4720726,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785313977.352812,
+   "last_success": 1785314623.8481774,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785313977.3528166,
+   "last_success": 1785314623.8481824,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785313977.3528187,
+   "last_success": 1785314623.8481846,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785313977.35282,
+   "last_success": 1785314623.8481858,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785313977.3528214,
+   "last_success": 1785314623.8481877,
    "alerted": false
   }
  },
@@ -14102,6 +14102,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445715978"
+  ]
+ },
+ "6ce2dd5ff771fd146d2c81ae2b0ecf07": {
+  "first_seen": 1785314623.8488138,
+  "title": "Data Analyste/Data Quality",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4386171895"
+  ]
+ },
+ "8674963d0e14fd10bf012cc1f6a4eee6": {
+  "first_seen": 1785314623.848979,
+  "title": "Analyste risques ALM – Innovation & Intelligence Artificielle",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446344212"
   ]
  }
 }
