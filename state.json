@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785330244.3065567,
+   "last_success": 1785331980.9115317,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785330244.306562,
+   "last_success": 1785331980.9115372,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785330256.3901553,
+   "last_success": 1785331993.6054683,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785330256.3901596,
+   "last_success": 1785331993.6054723,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785330256.3901615,
+   "last_success": 1785331993.6054742,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785330256.3901627,
+   "last_success": 1785331993.6054757,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785330256.390164,
+   "last_success": 1785331993.6054766,
    "alerted": false
   }
  },
@@ -14264,6 +14264,69 @@
   "source": "carriere-orange",
   "urls": [
    "https://orange.jobs/fr/fr/job/CTS-2025-47289/Assistant-responsable-E-Commerce-Orange-F%2FH"
+  ]
+ },
+ "04d809dda995f669dc92184f8293b967": {
+  "first_seen": 1785331993.6061387,
+  "title": "Apprenti ingénieur intelligence artificielle (F/H)",
+  "company": "Paris La Défense",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446800109"
+  ]
+ },
+ "8cf8104a08797cadfb27983e06a80211": {
+  "first_seen": 1785331993.6061656,
+  "title": "Stage - Intelligence artificielle & Cybersécurité : Comment s’adapter pour garantir la sécurité de ces nouveaux systèmes",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444122370"
+  ]
+ },
+ "3878aeba3f8eacc40da7adc9a2fa25a8": {
+  "first_seen": 1785331993.6061745,
+  "title": "Compliance & RegTech Analyst (Stage / Alternance)",
+  "company": "Coverage",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446060623"
+  ]
+ },
+ "5e318a24fd88cdceb86a7782b51399ca": {
+  "first_seen": 1785331993.6061869,
+  "title": "Stage - Identity Analytics & Intelligence : la tour de contrôle des identités numériques",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444118874"
+  ]
+ },
+ "f78c4d7c2dfee4cc1f0cee0d40113e1b": {
+  "first_seen": 1785331993.6062965,
+  "title": "Ingénieur Développement Logiciel  C Embarqué Linux Multithread - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4340590876"
+  ]
+ },
+ "cefa1c692628781ba0cf26502cddddeb": {
+  "first_seen": 1785331993.6063287,
+  "title": "Ingénieur Développement Logiciel pour Applications Critiques (H/F)",
+  "company": "SII Group Switzerland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437811429"
+  ]
+ },
+ "a37ba44636d5509adf23b6e9fdf56589": {
+  "first_seen": 1785331993.6063368,
+  "title": "Testeur QA Hardware & Systèmes Embarqués H/F",
+  "company": "Smile",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446599077"
   ]
  }
 }
