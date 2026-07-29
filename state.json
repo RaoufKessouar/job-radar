@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785319359.5852685,
+   "last_success": 1785321141.9886425,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785319359.5852747,
+   "last_success": 1785321141.9886475,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785319373.186053,
+   "last_success": 1785321155.3674643,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785319373.1860588,
+   "last_success": 1785321155.3674688,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785319373.186061,
+   "last_success": 1785321155.3674703,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785319373.1860626,
+   "last_success": 1785321155.3674715,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785319373.1860642,
+   "last_success": 1785321155.3674724,
    "alerted": false
   }
  },
@@ -14165,6 +14165,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444101273"
+  ]
+ },
+ "462bfec72a3cbfc0cf357ad6a8c13abd": {
+  "first_seen": 1785321155.3681915,
+  "title": "Intégrateur/intégratrice logiciel C/C++ dans l'aéronautique",
+  "company": "SOLENT SAS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446193801"
+  ]
+ },
+ "6af842f6488065dcad8daed0f98458e8": {
+  "first_seen": 1785321155.3681993,
+  "title": "Ingénieur Conception Logiciel - Essais F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428873336"
   ]
  }
 }
