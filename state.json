@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785348158.2883768,
+   "last_success": 1785349937.8173022,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785348158.288383,
+   "last_success": 1785349937.8173072,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785348172.6570387,
+   "last_success": 1785349952.6895463,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785348172.657044,
+   "last_success": 1785349952.6895504,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785348172.6570463,
+   "last_success": 1785349952.6895523,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785348172.6570475,
+   "last_success": 1785349952.6895535,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785348172.6570492,
+   "last_success": 1785349952.6895547,
    "alerted": false
   }
  },
@@ -14535,6 +14535,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446834119"
+  ]
+ },
+ "dc9685ba98cf4d7b353839a78dcd6c89": {
+  "first_seen": 1785349952.6900592,
+  "title": "Quant Research Analyst",
+  "company": "Euronext",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446845026"
   ]
  }
 }
