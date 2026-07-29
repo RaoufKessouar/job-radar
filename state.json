@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785301355.8481011,
+   "last_success": 1785303131.4257324,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785301355.8481069,
+   "last_success": 1785303131.4257383,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785301366.9757836,
+   "last_success": 1785303143.1743102,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785301366.975789,
+   "last_success": 1785303143.1743147,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785301366.9757912,
+   "last_success": 1785303143.1743166,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785301366.9757926,
+   "last_success": 1785303143.1743178,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785301366.975794,
+   "last_success": 1785303143.1743193,
    "alerted": false
   }
  },
@@ -13999,6 +13999,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4443642663"
+  ]
+ },
+ "81d9865936d7ac045ae51b3e35b2bf0d": {
+  "first_seen": 1785303143.174976,
+  "title": "Data Engineer Stagiaire - Paris",
+  "company": "BayBridgeDigital Middle East",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443637769"
+  ]
+ },
+ "c29b4554a9d60fa70166af34c95e5858": {
+  "first_seen": 1785303143.1750596,
+  "title": "Final year internship - Marketing Data Scientist",
+  "company": "PPT Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446006197"
+  ]
+ },
+ "c6aa67c557c9d2cd9b98b2f2426002a8": {
+  "first_seen": 1785303143.1751053,
+  "title": "Ingénieur(e) Solutions IA Confirmé(e) H/F",
+  "company": "Bouygues Travaux Publics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443641239"
   ]
  }
 }
