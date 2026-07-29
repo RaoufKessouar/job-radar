@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785331980.9115317,
+   "last_success": 1785333753.645889,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785331980.9115372,
+   "last_success": 1785333753.6458938,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785331993.6054683,
+   "last_success": 1785333768.877373,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785331993.6054723,
+   "last_success": 1785333768.877378,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785331993.6054742,
+   "last_success": 1785333768.87738,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785331993.6054757,
+   "last_success": 1785333768.8773813,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785331993.6054766,
+   "last_success": 1785333768.877383,
    "alerted": false
   }
  },
@@ -14327,6 +14327,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446599077"
+  ]
+ },
+ "14b047696a44e6b88e476e7ab9381a71": {
+  "first_seen": 1785333768.8778434,
+  "title": "Business Developer - Transition écologique (Stage)",
+  "company": "Learning Planet Institute",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/cri/jobs/business-developer-h-f_paris"
+  ]
+ },
+ "67c233699eb25aad7a531711c81749a6": {
+  "first_seen": 1785333768.8778994,
+  "title": "Research Scientist (intern)",
+  "company": "Safran",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446806019"
+  ]
+ },
+ "3c88d7483d321d9a96821475b0eb01a1": {
+  "first_seen": 1785333768.877928,
+  "title": "[STAGE] Ingénieur Digital Training - H/F",
+  "company": "LGM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437021811"
+  ]
+ },
+ "503dd32012214c02f50d66110baae54b": {
+  "first_seen": 1785333768.877966,
+  "title": "Chef de Projets Data & IA (H/F) - Stage fin d'étude",
+  "company": "IFCAM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436318216"
+  ]
+ },
+ "f78d2b949174002cd2ff7f255da84228": {
+  "first_seen": 1785333768.8779929,
+  "title": "ASSISTANT GERANT ACTIF PASSIF H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446593413"
+  ]
+ },
+ "1a8910e4abbc06190e3d708a8b6daf48": {
+  "first_seen": 1785333768.8780892,
+  "title": "Stage - Consultant·e Cybersécurité & Confiance Numérique",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444134176"
+  ]
+ },
+ "d036f779f18cdf3de0b81bd51ccb4e69": {
+  "first_seen": 1785333768.8781137,
+  "title": "Stage - Quelles nouvelles méthodologies et modèles de gouvernance pour la sécurité ?",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444123368"
+  ]
+ },
+ "03b5df2276135f436b0f49cf97c77517": {
+  "first_seen": 1785333768.8781822,
+  "title": "Junior Robotics Automation Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446596432"
   ]
  }
 }
