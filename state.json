@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785333753.645889,
+   "last_success": 1785335558.3826177,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785333753.6458938,
+   "last_success": 1785335558.382623,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785333768.877373,
+   "last_success": 1785335572.3716419,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785333768.877378,
+   "last_success": 1785335572.371646,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785333768.87738,
+   "last_success": 1785335572.3716478,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785333768.8773813,
+   "last_success": 1785335572.3716493,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785333768.877383,
+   "last_success": 1785335572.3716505,
    "alerted": false
   }
  },
@@ -14399,6 +14399,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446596432"
+  ]
+ },
+ "484b4af0410ca79386a9c27d42733a90": {
+  "first_seen": 1785335572.3721082,
+  "title": "ALTERNANCE - Assistant Ingénieur data et chimie (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4369555297"
+  ]
+ },
+ "ea167c020771b4b886cf0d05199ec09a": {
+  "first_seen": 1785335572.3723571,
+  "title": "(M/F) Electronics R&D Engineer",
+  "company": "Wandercraft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444107369"
   ]
  }
 }
