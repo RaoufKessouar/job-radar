@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785335558.3826177,
+   "last_success": 1785337360.188136,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785335558.382623,
+   "last_success": 1785337360.1881418,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785335572.3716419,
+   "last_success": 1785337372.6390095,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785335572.371646,
+   "last_success": 1785337372.6390142,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785335572.3716478,
+   "last_success": 1785337372.6390164,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785335572.3716493,
+   "last_success": 1785337372.6390178,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785335572.3716505,
+   "last_success": 1785337372.6390195,
    "alerted": false
   }
  },
@@ -14417,6 +14417,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444107369"
+  ]
+ },
+ "a96dc9ec7c3a2889134a133411c381dd": {
+  "first_seen": 1785337372.6398494,
+  "title": "Stage Ingénieur.e IA et Systèmes embarqués",
+  "company": "SII Group Switzerland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437810548"
   ]
  }
 }
