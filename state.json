@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785326550.8562844,
+   "last_success": 1785328346.444365,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785326550.856291,
+   "last_success": 1785328346.4443707,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785326563.270953,
+   "last_success": 1785328358.960525,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785326563.2709575,
+   "last_success": 1785328358.9605303,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785326563.2709596,
+   "last_success": 1785328358.9605317,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785326563.2709608,
+   "last_success": 1785328358.960533,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785326563.2709622,
+   "last_success": 1785328358.9605343,
    "alerted": false
   }
  },
@@ -14237,6 +14237,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4418909257"
+  ]
+ },
+ "1be4d722c929ac6d1ffbe0f4516bc19e": {
+  "first_seen": 1785328358.961651,
+  "title": "Stage    -      Stage de Fin d’études / Ingénieur innovation en Systèmes Intelligents - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414305053"
   ]
  }
 }
