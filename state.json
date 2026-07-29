@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785341027.0635638,
+   "last_success": 1785342783.142159,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785341027.063569,
+   "last_success": 1785342783.1421647,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785341039.683892,
+   "last_success": 1785342796.2093596,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785341039.683897,
+   "last_success": 1785342796.2093635,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785341039.683899,
+   "last_success": 1785342796.2093656,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785341039.6839004,
+   "last_success": 1785342796.2093673,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785341039.6839018,
+   "last_success": 1785342796.209369,
    "alerted": false
   }
  },
@@ -14462,6 +14462,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446096372"
+  ]
+ },
+ "67f13a593cf891eb203c75ae63a24876": {
+  "first_seen": 1785342796.2097726,
+  "title": "Consultant Stagiaire Data Science/IA F/H ",
+  "company": "KPMG France",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/kpmg-1/jobs/consultant-stagiaire-data-science-ia-f-h_courbevoie"
+  ]
+ },
+ "5bffe45c3463e348fe15c89c0d5e93fc": {
+  "first_seen": 1785342796.2097876,
+  "title": "Consultant Stagiaire en Transformation et Stratégie Data/IA F/H ",
+  "company": "KPMG France",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/kpmg-1/jobs/consultant-stagiaire-en-transformation-strategie-data-ia-f-h_courbevoie"
+  ]
+ },
+ "0c37e6f9f1ea275d76416c928a941e37": {
+  "first_seen": 1785342796.2099497,
+  "title": "Stage Ingénieur.e Logiciel Vérification et Validation (F/H)",
+  "company": "SII Group Switzerland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437811471"
+  ]
+ },
+ "167d68fb26f91541d76bda293e446b89": {
+  "first_seen": 1785342796.209993,
+  "title": "AI/ML Engineer",
+  "company": "DecisionPoint Corporation",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446815564"
+  ]
+ },
+ "44c1682bea97f586eaf6a6040b1c7bbb": {
+  "first_seen": 1785342796.2100601,
+  "title": "Data Analyst Intern",
+  "company": "Ornikar",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444143596"
+  ]
+ },
+ "125b82fd653898e505635c038e5f66d1": {
+  "first_seen": 1785342796.2101698,
+  "title": "Ingénieur Logiciel embarqué senior (F/H)",
+  "company": "Kickmaker",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437021285"
+  ]
+ },
+ "a3c17ff1509d9c2b1d39522749798e6b": {
+  "first_seen": 1785342796.2101924,
+  "title": "Ingénieur Développement objet/C++ H/F",
+  "company": "Chubb Fire & Security",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4307057662"
   ]
  }
 }
