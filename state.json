@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785312163.1560378,
+   "last_success": 1785313965.0748615,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785312163.156042,
+   "last_success": 1785313965.0748677,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785312177.2452924,
+   "last_success": 1785313977.352812,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785312177.245297,
+   "last_success": 1785313977.3528166,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785312177.2452984,
+   "last_success": 1785313977.3528187,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785312177.2452998,
+   "last_success": 1785313977.35282,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785312177.2453008,
+   "last_success": 1785313977.3528214,
    "alerted": false
   }
  },
@@ -14075,6 +14075,33 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-Bac-5---Charg-e--de-projet-Customer-Insights---Data-Activation---Stratgie-Produit--H-F-_JOBREQ_50273921"
+  ]
+ },
+ "7e1d0d6e49896c9b57c388c928f69fa4": {
+  "first_seen": 1785313977.3533592,
+  "title": "Chargé.e de projet innovation",
+  "company": "LIBERTÉ LIVING-LAB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446559995"
+  ]
+ },
+ "b7d7f577e877c191a2839fe9767393c2": {
+  "first_seen": 1785313977.353445,
+  "title": "Alternance : Data Analyst/Scientist",
+  "company": "ESIC-Ecole Supérieure d'Informatique et du Commerce",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446577221"
+  ]
+ },
+ "2387ead499816dfb9e53ff83c0230f40": {
+  "first_seen": 1785313977.3536339,
+  "title": "Stage Consultant IA & Data - 6 mois H/F",
+  "company": "GMED",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445715978"
   ]
  }
 }
