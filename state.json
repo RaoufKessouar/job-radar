@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785342783.142159,
+   "last_success": 1785344550.1460257,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785342783.1421647,
+   "last_success": 1785344550.1460319,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785342796.2093596,
+   "last_success": 1785344562.9757538,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785342796.2093635,
+   "last_success": 1785344562.9757586,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785342796.2093656,
+   "last_success": 1785344562.9757607,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785342796.2093673,
+   "last_success": 1785344562.975762,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785342796.209369,
+   "last_success": 1785344562.975763,
    "alerted": false
   }
  },
@@ -13966,7 +13966,8 @@
   "company": "Zendar",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446363834"
+   "https://www.linkedin.com/jobs/view/4446363834",
+   "https://www.linkedin.com/jobs/view/4446400625"
   ]
  },
  "eb67e25f5eb920d461301e3f4b9d47d8": {
@@ -14525,6 +14526,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4307057662"
+  ]
+ },
+ "d8e5434c91bed1d478513112b14b564c": {
+  "first_seen": 1785344562.9766126,
+  "title": "Research Scientist / Engineer Intern",
+  "company": "UMA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446834119"
   ]
  }
 }
