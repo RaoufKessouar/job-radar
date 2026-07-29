@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785321141.9886425,
+   "last_success": 1785322939.1971333,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785321141.9886475,
+   "last_success": 1785322939.197139,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785321155.3674643,
+   "last_success": 1785322952.9454095,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785321155.3674688,
+   "last_success": 1785322952.9454138,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785321155.3674703,
+   "last_success": 1785322952.9454155,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785321155.3674715,
+   "last_success": 1785322952.9454165,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785321155.3674724,
+   "last_success": 1785322952.9454174,
    "alerted": false
   }
  },
@@ -14183,6 +14183,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4428873336"
+  ]
+ },
+ "2c9b3faa31b56f642d755123ccb34056": {
+  "first_seen": 1785322952.9459198,
+  "title": "Marketing Data Scientist Consultant",
+  "company": "Sia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446051481"
+  ]
+ },
+ "0839af24743b9030b52284c9c6ae73fa": {
+  "first_seen": 1785322952.9459395,
+  "title": "Data Scientist",
+  "company": "Sundayy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446039931"
+  ]
+ },
+ "8a47c276a9f6f63ad6f2bae851b14e2c": {
+  "first_seen": 1785322952.945945,
+  "title": "Data Scientist Senior",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446062137"
   ]
  }
 }
