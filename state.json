@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785322939.1971333,
+   "last_success": 1785324781.9628928,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785322939.197139,
+   "last_success": 1785324781.9628985,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785322952.9454095,
+   "last_success": 1785324793.9915707,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785322952.9454138,
+   "last_success": 1785324793.991575,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785322952.9454155,
+   "last_success": 1785324793.991577,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785322952.9454165,
+   "last_success": 1785324793.991578,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785322952.9454174,
+   "last_success": 1785324793.991579,
    "alerted": false
   }
  },
@@ -14210,6 +14210,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446062137"
+  ]
+ },
+ "6841be91619bd67b9eaa622409a9bfa9": {
+  "first_seen": 1785324793.9924333,
+  "title": "AI & Data Engineer (Generative AI) H/F",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429579361"
+  ]
+ },
+ "7a0d3294a6bd1322bd9ebb7049f3a533": {
+  "first_seen": 1785324793.9924655,
+  "title": "Semantic Communication MARL Internship",
+  "company": "Ericsson",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436855742"
+  ]
+ },
+ "02f6904291f2f89f290f970127315d14": {
+  "first_seen": 1785324793.992552,
+  "title": "Ingénieur DevOps temps réel embarqué  F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418909257"
   ]
  }
 }
