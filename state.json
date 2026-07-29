@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785314609.4720666,
+   "last_success": 1785315792.571045,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785314609.4720726,
+   "last_success": 1785315792.5710514,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785314623.8481774,
+   "last_success": 1785315807.3779068,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785314623.8481824,
+   "last_success": 1785315807.377912,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785314623.8481846,
+   "last_success": 1785315807.3779137,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785314623.8481858,
+   "last_success": 1785315807.3779151,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785314623.8481877,
+   "last_success": 1785315807.3779163,
    "alerted": false
   }
  },
@@ -14120,6 +14120,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446344212"
+  ]
+ },
+ "798b912d0b4d9d26a50aa816ecbd0d28": {
+  "first_seen": 1785315807.3786862,
+  "title": "Ingénieur IA et innovation débutant H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446572431"
+  ]
+ },
+ "77176e934541fc5a85fd248c0a4c6010": {
+  "first_seen": 1785315807.3787906,
+  "title": "STAGE - 6 MOIS - ASSISTANT GERANT ACTIF PASSIF H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446037522"
   ]
  }
 }
