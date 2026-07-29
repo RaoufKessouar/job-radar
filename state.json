@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785270731.7503693,
+   "last_success": 1785301355.8481011,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785270731.7503746,
+   "last_success": 1785301355.8481069,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785270746.500189,
+   "last_success": 1785301366.9757836,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785270746.5001936,
+   "last_success": 1785301366.975789,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785270746.5001955,
+   "last_success": 1785301366.9757912,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785270746.5001974,
+   "last_success": 1785301366.9757926,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785270746.5001986,
+   "last_success": 1785301366.975794,
    "alerted": false
   }
  },
@@ -13952,7 +13952,8 @@
   "company": "Zendar",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446367371"
+   "https://www.linkedin.com/jobs/view/4446367371",
+   "https://www.linkedin.com/jobs/view/4445790287"
   ]
  },
  "dd649e8141a4b15647d9c7c72b187e47": {
@@ -13962,6 +13963,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446363834"
+  ]
+ },
+ "eb67e25f5eb920d461301e3f4b9d47d8": {
+  "first_seen": 1785301366.9764807,
+  "title": "AI Engineer",
+  "company": "Niulix",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446003757"
+  ]
+ },
+ "c8a3aa75fb939dac36c1f6da4dc01a4d": {
+  "first_seen": 1785301366.9765,
+  "title": "Data Scientist (F/H)",
+  "company": "AXA en France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446384590"
+  ]
+ },
+ "f7aec7f78bd2718d72b44f6025ab167a": {
+  "first_seen": 1785301366.976537,
+  "title": "Final year internship - Data Scientist & AI Consultant",
+  "company": "PPT Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446013086"
+  ]
+ },
+ "785d8f3bba4a2ff89a18238dd1e6f315": {
+  "first_seen": 1785301366.9765816,
+  "title": "Stagiaire Data & IA - Paris",
+  "company": "BayBridgeDigital Middle East",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443642663"
   ]
  }
 }
