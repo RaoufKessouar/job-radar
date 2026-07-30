@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785425588.5366077,
+   "last_success": 1785427328.533713,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785425588.5366132,
+   "last_success": 1785427328.5337188,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785425601.7675307,
+   "last_success": 1785427341.5520384,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785425601.7675345,
+   "last_success": 1785427341.5520432,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785425601.7675364,
+   "last_success": 1785427341.5520449,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785425601.7675376,
+   "last_success": 1785427341.5520458,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785425601.7675393,
+   "last_success": 1785427341.5520473,
    "alerted": false
   }
  },
@@ -14839,6 +14839,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446785560"
+  ]
+ },
+ "abd8d23ac8c983386da9c531c9eeaf05": {
+  "first_seen": 1785427341.5530248,
+  "title": "Stage Data Scientist – Conseil et Industrie (f/m/d)",
+  "company": "Avencore",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447017722"
+  ]
+ },
+ "66c99befaebef348a542a05c200c6bf6": {
+  "first_seen": 1785427341.553057,
+  "title": "Lead Data Scientist",
+  "company": "LexisNexis Risk Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446776062"
   ]
  }
 }
