@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785423757.4781651,
+   "last_success": 1785425588.5366077,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785423757.4781704,
+   "last_success": 1785425588.5366132,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785423769.433865,
+   "last_success": 1785425601.7675307,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785423769.4338691,
+   "last_success": 1785425601.7675345,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785423769.433871,
+   "last_success": 1785425601.7675364,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785423769.4338725,
+   "last_success": 1785425601.7675376,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785423769.433874,
+   "last_success": 1785425601.7675393,
    "alerted": false
   }
  },
@@ -14830,6 +14830,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446773557"
+  ]
+ },
+ "a9e8eb016967a7eb5daae646aed45937": {
+  "first_seen": 1785425601.7681227,
+  "title": "CS27 - Stage - BAC+5 - Ingénieur amélioration de la performance manufacturing par l’Intelligence artificielle (F/H)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446785560"
   ]
  }
 }
