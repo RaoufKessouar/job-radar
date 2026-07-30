@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785411149.5560644,
+   "last_success": 1785412936.7551336,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785411149.55607,
+   "last_success": 1785412936.7551394,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785411164.8890827,
+   "last_success": 1785412948.6740139,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785411164.8890872,
+   "last_success": 1785412948.6740181,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785411164.8890893,
+   "last_success": 1785412948.6740196,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785411164.8890905,
+   "last_success": 1785412948.6740208,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785411164.8890917,
+   "last_success": 1785412948.674022,
    "alerted": false
   }
  },
@@ -14692,6 +14692,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437061514"
+  ]
+ },
+ "db83a95eecc8d06380685d95035d7a98": {
+  "first_seen": 1785412948.6745925,
+  "title": "Alternant Data Analyst - H/F - Groupe HARVEST - Paris",
+  "company": "Harvest Groupe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446754132"
+  ]
+ },
+ "665f2a0f7d87185cdc694c0bbff1a8e7": {
+  "first_seen": 1785412948.6747756,
+  "title": "Stage - Chef de projet H/F - Pôle IA",
+  "company": "Plateforme des données de santé",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444572846"
+  ]
+ },
+ "f9a436b29b15b55b2dbea903df19c647": {
+  "first_seen": 1785412948.6748216,
+  "title": "Salesforce Agentforce AI Admin - Apprenticeship",
+  "company": "Criteo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438248908"
+  ]
+ },
+ "ea75957df971f0fdad6e165895bcc830": {
+  "first_seen": 1785412948.6748362,
+  "title": "STG - AI SOLUTIONS & AUTOMATION ENGINEER",
+  "company": "Novartis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434812102"
   ]
  }
 }
