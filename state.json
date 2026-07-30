@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785432743.8610153,
+   "last_success": 1785434566.0066526,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785432743.8610215,
+   "last_success": 1785434566.0066588,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785432758.7700126,
+   "last_success": 1785434579.802485,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785432758.770018,
+   "last_success": 1785434579.8024893,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785432758.7700202,
+   "last_success": 1785434579.8024914,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785432758.7700217,
+   "last_success": 1785434579.8024933,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785432758.770023,
+   "last_success": 1785434579.8024952,
    "alerted": false
   }
  },
@@ -12645,7 +12645,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441894579",
-   "https://www.linkedin.com/jobs/view/4442333972"
+   "https://www.linkedin.com/jobs/view/4442333972",
+   "https://www.linkedin.com/jobs/view/4446737182"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -15073,6 +15074,411 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4317943285"
+  ]
+ },
+ "ea2b02e304488b9e24749c496bc983f7": {
+  "first_seen": 1785434579.8031492,
+  "title": "Stage - Assistant Innovation Digitale",
+  "company": "Guerlain",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447058320"
+  ]
+ },
+ "f176c75bce8d42b7c1cbf0ea7648ad90": {
+  "first_seen": 1785434579.8033478,
+  "title": "Knowledge Graph Engineer (F/H)",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438626837"
+  ]
+ },
+ "21a506ef7f066e5f6d496b724eb0fa97": {
+  "first_seen": 1785434579.8033597,
+  "title": "Junior Innovation & Emerging Tech Officer F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446797094"
+  ]
+ },
+ "752bb5d3f96e18da98700c7047659a28": {
+  "first_seen": 1785434579.8033946,
+  "title": "Ingénieur IA / Santé",
+  "company": "Cabinet EKINOX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446899883"
+  ]
+ },
+ "474ac1a9e54c16f3efb10a0bc5e85368": {
+  "first_seen": 1785434579.8034208,
+  "title": "ALTERNANCE - Développement Outils & Amélioration Continue orianté IA & Data F/H",
+  "company": "EssilorLuxottica",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443779791"
+  ]
+ },
+ "e03e8c9263a5580246dc2b50cdb2c8a9": {
+  "first_seen": 1785434579.8034317,
+  "title": "Vice President of Artificial Intelligence",
+  "company": "Thunders",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445001754"
+  ]
+ },
+ "74ebc827022e8c5061fc93d8495baab8": {
+  "first_seen": 1785434579.8034425,
+  "title": "IA Engineer Sénior (H/F/NB)",
+  "company": "Keyrus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419311731"
+  ]
+ },
+ "c185a6ac0091e22d0e558e491a5cf184": {
+  "first_seen": 1785434579.8034701,
+  "title": "Ingénieur·e / Consultant·e HPC, GPU, Cloud & IA H/F",
+  "company": "Aneo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446754976"
+  ]
+ },
+ "ac45296571af0d8a78bbb652d3faec58": {
+  "first_seen": 1785434579.8034906,
+  "title": "Software Engineer I",
+  "company": "Checkout.com",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434864870"
+  ]
+ },
+ "530a03e0e88bac9cf9e738f1090ef080": {
+  "first_seen": 1785434579.8035007,
+  "title": "Lead Tech IA / GenAI  F/H",
+  "company": "INOCO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446440403"
+  ]
+ },
+ "6a6d389a848e01cdfb85f359671d6c65": {
+  "first_seen": 1785434579.8035963,
+  "title": "Ingénieur Système Embarqué Senior",
+  "company": "PRIME ENGINEERING France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444549288"
+  ]
+ },
+ "ba32929a0f7565b60ca57ab9846ed396": {
+  "first_seen": 1785434579.8036058,
+  "title": "Stagiaire Développeur(se) Vehicules Autonomes",
+  "company": "Padam Mobility",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446794009"
+  ]
+ },
+ "8ef9abb445b19692ab8620e9159c54ae": {
+  "first_seen": 1785434579.8036144,
+  "title": "Ingénieur Développement Bancs d'Essais - H/F",
+  "company": "Exail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444587428"
+  ]
+ },
+ "0dee855109f6a85fbd2ee5ca860982ea": {
+  "first_seen": 1785434579.8036227,
+  "title": "Intégrateur Logiciel F/H - MBDA",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444945736"
+  ]
+ },
+ "d44e9e0772b786df8c912f23739e33f8": {
+  "first_seen": 1785434579.8036306,
+  "title": "Ingénieur automatique (F/H)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4389287598"
+  ]
+ },
+ "d1d215038f8b2e88670d9d67a7a1b2ed": {
+  "first_seen": 1785434579.8036397,
+  "title": "Ingénieur logiciel / Software development engineer H/F",
+  "company": "Arteris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444535323"
+  ]
+ },
+ "a2e15f0f21f22fbfbb7a9302ad73f79c": {
+  "first_seen": 1785434579.8036478,
+  "title": "INGENIEUR EN SIMULATION NUMERIQUE F/H CDI",
+  "company": "Sodern",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446744453"
+  ]
+ },
+ "9cd4d3134d39326ab4d0d60cf9ad483a": {
+  "first_seen": 1785434579.803656,
+  "title": "Ingénieur Moyens d'Essais Logiciel F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438236795"
+  ]
+ },
+ "8c7f62050a4dffeb252a4cc3c7bc543b": {
+  "first_seen": 1785434579.803678,
+  "title": "(H/F) Systems Engineer – Robotics Safety & Functional Safety",
+  "company": "Wandercraft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438578252"
+  ]
+ },
+ "20a00596df96e31f7fc335816d9dc541": {
+  "first_seen": 1785434579.8036895,
+  "title": "Ingénieur Senior en Développement Logiciel",
+  "company": "Siemens EDA (Siemens Digital Industries Software)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446793732"
+  ]
+ },
+ "30d7f9bb1ab00036ba6650229fa6e0eb": {
+  "first_seen": 1785434579.8037012,
+  "title": "Ingénieur Intégration, Vérification & Validation Logiciel (IVV)",
+  "company": "act digital EMEA - Alter Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444511761"
+  ]
+ },
+ "62dd6a5a59140c3b4537f3c4bf7890a9": {
+  "first_seen": 1785434579.8037105,
+  "title": "Stage- Bachelor Field Service Engineer (h/f)",
+  "company": "Honeywell Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4389254612"
+  ]
+ },
+ "565b254aafd1d6a4a57d3ec641a01f71": {
+  "first_seen": 1785434579.8037205,
+  "title": "Ingénieur intégration logiciel (H/F/X)",
+  "company": "IT Link Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437563088"
+  ]
+ },
+ "6874e380c2d0f61a3b8839b997aacdc1": {
+  "first_seen": 1785434579.8037305,
+  "title": "Ingénieur Electronique Junior H/F",
+  "company": "Pôle industrie - Réseau DEF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446749814"
+  ]
+ },
+ "fad5dc36a3761e46dc942d459c15705a": {
+  "first_seen": 1785434579.803738,
+  "title": "Ingénieurs(es) Contrôle Commande",
+  "company": "Jimmy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447015949"
+  ]
+ },
+ "b1df9c9303956be6e446bedd224f9ec1": {
+  "first_seen": 1785434579.803745,
+  "title": "Software Engineer - Developer",
+  "company": "Scaleway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444515660"
+  ]
+ },
+ "e0d8311e0faf3e96578436921167f240": {
+  "first_seen": 1785434579.803754,
+  "title": "(M/W) Electronic Industrialization Engineer",
+  "company": "Wandercraft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438582019"
+  ]
+ },
+ "01d1c2d7eccc9a3f49d972eef4846ee4": {
+  "first_seen": 1785434579.8037632,
+  "title": "Ingénieur Essais Fonctionnels Lutte Anti-Drones F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447009712"
+  ]
+ },
+ "587ffeed26e6fe2fc446f4ae5d376abe": {
+  "first_seen": 1785434579.8037722,
+  "title": "Leader Ingénierie Système Projet",
+  "company": "Ampere Software Technology",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446788539"
+  ]
+ },
+ "88b7f5c94d13caebd015ec4ec6656fe3": {
+  "first_seen": 1785434579.80378,
+  "title": "Software Engineer - Network Products Core",
+  "company": "Scaleway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444506991"
+  ]
+ },
+ "532f5a62d4637816820f666d783bf2bf": {
+  "first_seen": 1785434579.8037865,
+  "title": "Software Engineer",
+  "company": "Animaj",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444565016"
+  ]
+ },
+ "abf2656a6c1c863d1a37346b559cd52a": {
+  "first_seen": 1785434579.8037965,
+  "title": "Ingénieur en validation et vérification virtuelle FPGA F/H",
+  "company": "Safran",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446741353"
+  ]
+ },
+ "8f33fbd694429256797b6542539f8f4d": {
+  "first_seen": 1785434579.8038044,
+  "title": "Architecte Autosar  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434888984"
+  ]
+ },
+ "a96a061c554158e482a48eac0e24a332": {
+  "first_seen": 1785434579.8038156,
+  "title": "Forward Deployed Engineer (FDE) - Full Remote - Santé / IA",
+  "company": "Cabinet EKINOX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447055685"
+  ]
+ },
+ "bf2776faad4d50c12cf204f41720f88e": {
+  "first_seen": 1785434579.8038275,
+  "title": "Ingénieur(e) banc de tests et validation d'équipements spatiaux (h/f)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434891398"
+  ]
+ },
+ "4df3fc45232443096c49eb0e8778e399": {
+  "first_seen": 1785434579.8038347,
+  "title": "Graduate security engineer",
+  "company": "Bending Spoons",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446445066"
+  ]
+ },
+ "1028763232ca3493f771dcb09c4ad680": {
+  "first_seen": 1785434579.8038428,
+  "title": "Testeur QA Logiciel & Automatisation H/F",
+  "company": "Smile",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446849284"
+  ]
+ },
+ "d3b4eb2d40f6535ff2eb4e93585443e0": {
+  "first_seen": 1785434579.8038526,
+  "title": "Low-level Senior Software Engineer, Xet Storage - EMEA Remote",
+  "company": "Hugging Face",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446723688"
+  ]
+ },
+ "7ac1d29064fddd338e4bc85e554b54df": {
+  "first_seen": 1785434579.8038602,
+  "title": "Concepteur mécatronique (H/F)",
+  "company": "Ampere",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446790451"
+  ]
+ },
+ "15ba2b2da9836e62d7c7eeb95e98ee12": {
+  "first_seen": 1785434579.8038695,
+  "title": "Développeur Full stack PHP / React-(h/f)",
+  "company": "emagine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446441325"
+  ]
+ },
+ "f9bc15529aad02c6347a0e10cc99c78b": {
+  "first_seen": 1785434579.8038807,
+  "title": "Consultant(e) en transformation digitale en apprentissage - Secteur Industrie - IBM France - (H/F)",
+  "company": "IBM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427349843"
+  ]
+ },
+ "336d1e33dcc85d17a52bbfb92f5d0469": {
+  "first_seen": 1785434579.8038886,
+  "title": "Consultant Développeur Python - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445008479"
+  ]
+ },
+ "463c155e7a35f989c4aa46df6579263e": {
+  "first_seen": 1785434579.8038983,
+  "title": "ASIC / NoC Verification & Solutions Engineer- Qualcomm - Guyancourt, France",
+  "company": "Qualcomm",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437049871"
+  ]
+ },
+ "e39af4319631b73c80e73405e290e9ec": {
+  "first_seen": 1785434579.8039117,
+  "title": "CDI - Responsable Technique/Responsable Projet au sein de l’équipe du banc de contrôle (F/H)",
+  "company": "ArianeGroup",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437074138"
+  ]
+ },
+ "8e94fe7c0134fe790c54613494ffd408": {
+  "first_seen": 1785434579.803923,
+  "title": "Concepteur(-rice)-Routeur(-euse) électronique confirmé(e) / PCB Designer",
+  "company": "UP&CHARGE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444552111"
   ]
  }
 }
