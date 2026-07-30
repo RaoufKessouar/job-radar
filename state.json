@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785357169.2230651,
+   "last_success": 1785387735.1546571,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785357169.223073,
+   "last_success": 1785387735.1546652,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785357180.7796745,
+   "last_success": 1785387748.4345489,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785357180.7796793,
+   "last_success": 1785387748.4345553,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785357180.7796817,
+   "last_success": 1785387748.4345586,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785357180.7796834,
+   "last_success": 1785387748.43456,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785357180.7796845,
+   "last_success": 1785387748.4345617,
    "alerted": false
   }
  },
@@ -14553,6 +14553,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444151779"
+  ]
+ },
+ "8c3b9244e84634bd3a23cb5b121548af": {
+  "first_seen": 1785387748.4353375,
+  "title": "Analyste risques ALM - Innovation & Intelligence Artificielle",
+  "company": "Société Générale",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/societe-generale/jobs/analyste-risques-alm-innovation-intelligence-artificielle_la-defense_SG_xdLZ5Y"
+  ]
+ },
+ "121c1363dcdeb28ba00fccb106490e52": {
+  "first_seen": 1785387748.4355996,
+  "title": "Machine Learning Engineer – IA Conversationnelle & Voicebot (h/f) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446470978"
   ]
  }
 }
