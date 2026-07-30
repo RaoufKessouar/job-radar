@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785405730.0692255,
+   "last_success": 1785407523.2534995,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785405730.069231,
+   "last_success": 1785407523.2535052,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785405744.21006,
+   "last_success": 1785407537.0044913,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785405744.2100651,
+   "last_success": 1785407537.0044959,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785405744.2100673,
+   "last_success": 1785407537.0044978,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785405744.2100687,
+   "last_success": 1785407537.004499,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785405744.2100706,
+   "last_success": 1785407537.0045002,
    "alerted": false
   }
  },
@@ -14637,6 +14637,24 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---Bac-5---Pilote-Digital--H-F-_JOBREQ_50272464"
+  ]
+ },
+ "3d98875de91fe854fe36aaf7165e58c6": {
+  "first_seen": 1785407537.00552,
+  "title": "Consultant Risk Data Analyst / Data Scientist F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399645253"
+  ]
+ },
+ "7374a176e33b7d9a4c21ca49d7512bcc": {
+  "first_seen": 1785407537.005668,
+  "title": "CS27 - Stage - BAC+5 - Ingénieur amélioration de la performance manufacturing par l’Intelligence artificielle (F/H)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Ingnieur-amlioration-de-la-performance-manufacturing-par-l-Intelligence-artificielle--F-H-_JOBREQ_50272597"
   ]
  }
 }
