@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785400340.8993256,
+   "last_success": 1785402168.4406714,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785400340.8993313,
+   "last_success": 1785402168.440677,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785400354.6581016,
+   "last_success": 1785402182.89455,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785400354.6581066,
+   "last_success": 1785402182.8945546,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785400354.6581085,
+   "last_success": 1785402182.894557,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785400354.6581094,
+   "last_success": 1785402182.8945582,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785400354.6581106,
+   "last_success": 1785402182.8945594,
    "alerted": false
   }
  },
@@ -14592,6 +14592,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446724353"
+  ]
+ },
+ "4777c17292806fbfd2a0465db96ba253": {
+  "first_seen": 1785402182.8955622,
+  "title": "AI Research Scientist (Paris)",
+  "company": "Lexsi Labs",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446452258"
   ]
  }
 }
