@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785439936.2686293,
+   "last_success": 1785441739.3539398,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785439936.268635,
+   "last_success": 1785441739.3539455,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785439951.5219932,
+   "last_success": 1785441751.6449594,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785439951.5219986,
+   "last_success": 1785441751.6449645,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785439951.5220006,
+   "last_success": 1785441751.6449661,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785439951.5220022,
+   "last_success": 1785441751.6449673,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785439951.5220034,
+   "last_success": 1785441751.6449687,
    "alerted": false
   }
  },
@@ -15534,6 +15534,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445029585"
+  ]
+ },
+ "827d5316fbaf64ac260f0132b6422006": {
+  "first_seen": 1785441751.645872,
+  "title": "DATA SCIENTIST CONFIRME H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447068633"
+  ]
+ },
+ "85e241d34b9f7d71b707f9a4c3803b6f": {
+  "first_seen": 1785441751.6458817,
+  "title": "Alternance - Data Scientist et Digitalisation H/F",
+  "company": "LFB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428483529"
+  ]
+ },
+ "4b2adac955c791c05164f3fb50caa9e1": {
+  "first_seen": 1785441751.6459072,
+  "title": "Data Scientist IA Senior",
+  "company": "Societe Generale Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418806863"
   ]
  }
 }
