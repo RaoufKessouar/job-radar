@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785403941.9579558,
+   "last_success": 1785405730.0692255,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785403941.9579618,
+   "last_success": 1785405730.069231,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785403954.4617586,
+   "last_success": 1785405744.21006,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785403954.4617639,
+   "last_success": 1785405744.2100651,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785403954.4617655,
+   "last_success": 1785405744.2100673,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785403954.4617672,
+   "last_success": 1785405744.2100687,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785403954.4617684,
+   "last_success": 1785405744.2100706,
    "alerted": false
   }
  },
@@ -14610,6 +14610,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446729608"
+  ]
+ },
+ "6e4aac755f1ee5f5eb312d3bdf1d6b8e": {
+  "first_seen": 1785405744.210597,
+  "title": "Développeur full stack & IA logiciel de paie SaaS - Stage de fin d'études",
+  "company": "Galadrim",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444553779"
+  ]
+ },
+ "6c1128eeb111401e64818cedd4863684": {
+  "first_seen": 1785405744.2107496,
+  "title": "AI Engineer",
+  "company": "Parallel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444579040"
+  ]
+ },
+ "2a6ec8d7ab700832d48e07bcff819b72": {
+  "first_seen": 1785405744.2107599,
+  "title": "CS27 - Stage - Bac+5 - Pilote Digital (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---Bac-5---Pilote-Digital--H-F-_JOBREQ_50272464"
   ]
  }
 }
