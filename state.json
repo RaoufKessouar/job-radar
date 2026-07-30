@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785429141.5118322,
+   "last_success": 1785430940.9257557,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785429141.5118384,
+   "last_success": 1785430940.9257615,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785429155.0245032,
+   "last_success": 1785430954.8455317,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785429155.024508,
+   "last_success": 1785430954.8455362,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785429155.0245094,
+   "last_success": 1785430954.8455386,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785429155.0245113,
+   "last_success": 1785430954.8455398,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785429155.024512,
+   "last_success": 1785430954.8455412,
    "alerted": false
   }
  },
@@ -14884,6 +14884,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447035052"
+  ]
+ },
+ "0867a58dedbcf1e26f1ebfb63875f8d0": {
+  "first_seen": 1785430954.8469455,
+  "title": "Talent Attraction - Stage",
+  "company": "Capgemini",
+  "source": "carriere-capgemini",
+  "urls": [
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Talent-Attraction-Stage/1420936933/"
   ]
  }
 }
