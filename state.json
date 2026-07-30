@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785409347.1053417,
+   "last_success": 1785411149.5560644,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785409347.1053474,
+   "last_success": 1785411149.55607,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785409359.9344995,
+   "last_success": 1785411164.8890827,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785409359.9345043,
+   "last_success": 1785411164.8890872,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785409359.9345062,
+   "last_success": 1785411164.8890893,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785409359.9345078,
+   "last_success": 1785411164.8890905,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785409359.934509,
+   "last_success": 1785411164.8890917,
    "alerted": false
   }
  },
@@ -14141,7 +14141,8 @@
   "company": "CNP Assurances",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446037522"
+   "https://www.linkedin.com/jobs/view/4446037522",
+   "https://www.linkedin.com/jobs/view/4446416096"
   ]
  },
  "3ffd23a7572b9751718b4d42db2d88fc": {
@@ -14673,6 +14674,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444569113"
+  ]
+ },
+ "eb5ab7189d64bd3b288a176409081c44": {
+  "first_seen": 1785411164.8897831,
+  "title": "AI Engineer (H/F/NB)",
+  "company": "Keyrus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437302150"
+  ]
+ },
+ "14a55ea442ae52fe0df24f418c1d5bf2": {
+  "first_seen": 1785411164.8897953,
+  "title": "AI Engineer / Scientist confirmé F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437061514"
   ]
  }
 }
