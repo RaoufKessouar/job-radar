@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785407523.2534995,
+   "last_success": 1785409347.1053417,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785407523.2535052,
+   "last_success": 1785409347.1053474,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785407537.0044913,
+   "last_success": 1785409359.9344995,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785407537.0044959,
+   "last_success": 1785409359.9345043,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785407537.0044978,
+   "last_success": 1785409359.9345062,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785407537.004499,
+   "last_success": 1785409359.9345078,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785407537.0045002,
+   "last_success": 1785409359.934509,
    "alerted": false
   }
  },
@@ -14655,6 +14655,24 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Ingnieur-amlioration-de-la-performance-manufacturing-par-l-Intelligence-artificielle--F-H-_JOBREQ_50272597"
+  ]
+ },
+ "d6e8a3eb1c51d2894c63d4256d55eaa5": {
+  "first_seen": 1785409359.9350429,
+  "title": "Data Scientist / AI Engineer",
+  "company": "pass Culture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444580402"
+  ]
+ },
+ "2cc15ad23285dc42c7b43c337009e2fc": {
+  "first_seen": 1785409359.935271,
+  "title": "Ingénieur·e Systèmes Embarqués Senior",
+  "company": "exceenis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444569113"
   ]
  }
 }
