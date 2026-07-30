@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785420133.04018,
+   "last_success": 1785421976.6711304,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785420133.0401847,
+   "last_success": 1785421976.6711361,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785420152.7628438,
+   "last_success": 1785421991.083935,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785420152.7628474,
+   "last_success": 1785421991.0839403,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785420152.762849,
+   "last_success": 1785421991.0839422,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785420152.76285,
+   "last_success": 1785421991.0839436,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785420152.7628512,
+   "last_success": 1785421991.0839448,
    "alerted": false
   }
  },
@@ -14144,7 +14144,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446037522",
-   "https://www.linkedin.com/jobs/view/4446416096"
+   "https://www.linkedin.com/jobs/view/4446416096",
+   "https://www.linkedin.com/jobs/view/4446778199"
   ]
  },
  "3ffd23a7572b9751718b4d42db2d88fc": {
@@ -14802,6 +14803,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4322098753"
+  ]
+ },
+ "79bf2e6f9006ee6db88168765a4ec3c3": {
+  "first_seen": 1785421991.0845976,
+  "title": "Full-Stack Engineer AI-native H/F",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444590923"
+  ]
+ },
+ "b8a7d574c7cde502a98e73dc6ed3bf72": {
+  "first_seen": 1785421991.0847592,
+  "title": "STAGE - Chargé(e) de Traitement Statistique, Data & IA",
+  "company": "CSA (Institut d'Etudes)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437379920"
   ]
  }
 }
