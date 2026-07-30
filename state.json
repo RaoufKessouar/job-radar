@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785427328.533713,
+   "last_success": 1785429141.5118322,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785427328.5337188,
+   "last_success": 1785429141.5118384,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785427341.5520384,
+   "last_success": 1785429155.0245032,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785427341.5520432,
+   "last_success": 1785429155.024508,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785427341.5520449,
+   "last_success": 1785429155.0245094,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785427341.5520458,
+   "last_success": 1785429155.0245113,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785427341.5520473,
+   "last_success": 1785429155.024512,
    "alerted": false
   }
  },
@@ -14857,6 +14857,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446776062"
+  ]
+ },
+ "4b815f0596c4463d03e847ef18d90c87": {
+  "first_seen": 1785429155.025166,
+  "title": "ESG Quant Analyst– Data & Model Focus - Alternance F/M",
+  "company": "Candriam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4425644441"
+  ]
+ },
+ "98452e1d1a69a5c7969f67c30ef57eb8": {
+  "first_seen": 1785429155.025234,
+  "title": "Infrastructure AI Specialist Junior F/H",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437319443"
+  ]
+ },
+ "c1de9c0b1166e0e09ce50b26ebfe0a78": {
+  "first_seen": 1785429155.0253515,
+  "title": "Développeur C++ (F/H)",
+  "company": "T&S (Technology & Strategy)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447035052"
   ]
  }
 }
