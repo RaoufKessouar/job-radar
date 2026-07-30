@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785415560.2154615,
+   "last_success": 1785416587.388876,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785415560.2154667,
+   "last_success": 1785416587.3888817,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785415574.8441718,
+   "last_success": 1785416601.7293942,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785415574.8441765,
+   "last_success": 1785416601.7293987,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785415574.8441787,
+   "last_success": 1785416601.7294006,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785415574.8441799,
+   "last_success": 1785416601.7294018,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785415574.844181,
+   "last_success": 1785416601.729403,
    "alerted": false
   }
  },
@@ -14730,6 +14730,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4434812102"
+  ]
+ },
+ "f0b4e8f4185469b0a07cf8b241d0afdb": {
+  "first_seen": 1785416601.7304358,
+  "title": "Applied Scientist/Research Engineer, EMEA",
+  "company": "Mistral",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446842943"
+  ]
+ },
+ "c06f8fcbb3d115dcb710436025cbba75": {
+  "first_seen": 1785416601.7304497,
+  "title": "Stage de fin d'études - Consultant·e Artificial Intelligence for Business Transformation (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444134783"
+  ]
+ },
+ "d4f336266e1e86d7a674abefc71b33cf": {
+  "first_seen": 1785416601.7304888,
+  "title": "Ingénieur software embarqué middleware - - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426856135"
   ]
  }
 }
