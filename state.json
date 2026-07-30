@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785434566.0066526,
+   "last_success": 1785436315.779759,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785434566.0066588,
+   "last_success": 1785436315.7797644,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785434579.802485,
+   "last_success": 1785436328.9049947,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785434579.8024893,
+   "last_success": 1785436328.904999,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785434579.8024914,
+   "last_success": 1785436328.9050007,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785434579.8024933,
+   "last_success": 1785436328.9050024,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785434579.8024952,
+   "last_success": 1785436328.9050033,
    "alerted": false
   }
  },
@@ -15479,6 +15479,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444552111"
+  ]
+ },
+ "6d89a65addb06f6c28ad89d4b6458aa7": {
+  "first_seen": 1785436328.9054978,
+  "title": "Stage  Développement et Amélioration de Projets Informatique & Power BI (H/F) F/H - SAFRAN LANDING SYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447087032"
+  ]
+ },
+ "6b893d2c183712164f7e91dc1bdfdbe9": {
+  "first_seen": 1785436328.9055085,
+  "title": "STAGE - Valorisation des produits Data RH F/H - Air France KLM",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447081065"
+  ]
+ },
+ "f028bb8b0ae45d922a074333eee45818": {
+  "first_seen": 1785436328.9055583,
+  "title": "Stage -  Content Manager F/H - SAFRAN SA - SACLAY",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447068149"
+  ]
+ },
+ "cba4e88621ef5e0232ffb00e824103fc": {
+  "first_seen": 1785436328.9055996,
+  "title": "Ingénieur en développement IA (F/H)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447064616"
+  ]
+ },
+ "3f94a4a349fe39a3df3b264e9c9bb0e9": {
+  "first_seen": 1785436328.9056137,
+  "title": "ML Ops/Engineer",
+  "company": "SkillCorner",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446915208"
   ]
  }
 }
