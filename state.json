@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785416587.388876,
+   "last_success": 1785418337.569754,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785416587.3888817,
+   "last_success": 1785418337.5697603,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785416601.7293942,
+   "last_success": 1785418351.199847,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785416601.7293987,
+   "last_success": 1785418351.1998515,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785416601.7294006,
+   "last_success": 1785418351.1998534,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785416601.7294018,
+   "last_success": 1785418351.1998549,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785416601.729403,
+   "last_success": 1785418351.199856,
    "alerted": false
   }
  },
@@ -14757,6 +14757,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4426856135"
+  ]
+ },
+ "4146cd1edf54b3b655e0cf4582bdc774": {
+  "first_seen": 1785418351.200575,
+  "title": "AI Engineer — Production & Applied ML (H/F)",
+  "company": "CALIXYS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445004486"
+  ]
+ },
+ "7219605a14276f7aa9b0d1b0713b0748": {
+  "first_seen": 1785418351.2006128,
+  "title": "ML Engineer",
+  "company": "Alma",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438269773"
+  ]
+ },
+ "b960a4e79f543685aa4c21bf27d080d1": {
+  "first_seen": 1785418351.2006686,
+  "title": "CS27 - Stage - BAC+5 - Data Engineering & Analytics – Produits Cloud (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Data-Engineering---Analytics---Produits-Cloud--H-F-_JOBREQ_50272468"
   ]
  }
 }
