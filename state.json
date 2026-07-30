@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785432533.1122582,
+   "last_success": 1785432743.8610153,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785432533.1122642,
+   "last_success": 1785432743.8610215,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785432545.6700196,
+   "last_success": 1785432758.7700126,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785432545.6700246,
+   "last_success": 1785432758.770018,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785432545.6700265,
+   "last_success": 1785432758.7700202,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785432545.6700277,
+   "last_success": 1785432758.7700217,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785432545.6700292,
+   "last_success": 1785432758.770023,
    "alerted": false
   }
  },
@@ -14893,6 +14893,186 @@
   "source": "carriere-capgemini",
   "urls": [
    "https://careers.capgemini.com/job/Issy-les-Moulineaux-Talent-Attraction-Stage/1420936933/"
+  ]
+ },
+ "4a82980837bc5293fba266e63c7ff033": {
+  "first_seen": 1785432758.7708077,
+  "title": "Expert LLMOps / AI Engineering H/F",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445007557"
+  ]
+ },
+ "efa5d90fa21745fa4fa68f277bfda5a0": {
+  "first_seen": 1785432758.77082,
+  "title": "AI Strategy Apprentice - Services",
+  "company": "Mitel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445007578"
+  ]
+ },
+ "0410d921462094674ee388ed7dc4f89e": {
+  "first_seen": 1785432758.7708392,
+  "title": "Consultant.e AI Engineer F/H",
+  "company": "VALOWAY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446841767"
+  ]
+ },
+ "09492b75cf0c2e1ba161875d19d569b8": {
+  "first_seen": 1785432758.7708685,
+  "title": "Data Engineer (F/H)",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438640005"
+  ]
+ },
+ "420b8e8a418ff388b49f043eca993a77": {
+  "first_seen": 1785432758.7708795,
+  "title": "Consultant AI Engineer - GenAI, Cloud & Industrialisation H/F",
+  "company": "Aneo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442640413"
+  ]
+ },
+ "f4975c6dcffd0d2d6d44b27e9ce95cc4": {
+  "first_seen": 1785432758.7708893,
+  "title": "Lead Tech Data IA - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4385463344"
+  ]
+ },
+ "87b2bda24b66b90da06521c14749b3f9": {
+  "first_seen": 1785432758.7709,
+  "title": "Platform Engineer – AI & Cloud",
+  "company": "Lenstra",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436735345"
+  ]
+ },
+ "aa727c39405da490e974ed4785594871": {
+  "first_seen": 1785432758.7709212,
+  "title": "AI Agent Orchestration Specialist",
+  "company": "Edflex",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444553715"
+  ]
+ },
+ "ac1829874781cb98cfc888c1dd659eb4": {
+  "first_seen": 1785432758.7709582,
+  "title": "AI & Data Lead - Groupe HARVEST - Paris - H/F",
+  "company": "Harvest Groupe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447052125"
+  ]
+ },
+ "e2166eb211a8d4c697672c66dd89aea7": {
+  "first_seen": 1785432758.770969,
+  "title": "Développeur.euse IA senior",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446473321"
+  ]
+ },
+ "d54ceb06635a7c3057217030759732aa": {
+  "first_seen": 1785432758.7709782,
+  "title": "Data & AI Lead (f/m/d)",
+  "company": "Free2move",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444161496"
+  ]
+ },
+ "46bb0074054e1d892f39143d7d2a57bc": {
+  "first_seen": 1785432758.770999,
+  "title": "Product Manager IA",
+  "company": "Seedext",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445001188"
+  ]
+ },
+ "c1e000036de539e82731b89f20d9c3db": {
+  "first_seen": 1785432758.7710085,
+  "title": "Ingénieur Full Stack/Ingénieure Full Stack",
+  "company": "URBAN LINKER",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446752961"
+  ]
+ },
+ "58d170cb7855e00d2529e1a441dfabec": {
+  "first_seen": 1785432758.771017,
+  "title": "Chef.fe de Projet Transformation IA F/H",
+  "company": "Colas Rail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444561439"
+  ]
+ },
+ "72f666b8e9b56439b29633b63271fa32": {
+  "first_seen": 1785432758.771034,
+  "title": "Product Manager",
+  "company": "Pelico",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447018520"
+  ]
+ },
+ "278b91211effffd5baf92b32adf4d34c": {
+  "first_seen": 1785432758.7710452,
+  "title": "Leader Adoption IA Générative – Gemini & Google AI Studio H/F",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419164213"
+  ]
+ },
+ "cd309297070d41c2bbe7add6be889a15": {
+  "first_seen": 1785432758.7710514,
+  "title": "KERING Tech Lead",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447045077"
+  ]
+ },
+ "4086289d281ab2e3e009bc09df627063": {
+  "first_seen": 1785432758.7710617,
+  "title": "Consultant Manager en énergie - Secteur Data & IA - H/F",
+  "company": "Yélé Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446801686"
+  ]
+ },
+ "f682b689367f0e4102eba07c12322349": {
+  "first_seen": 1785432758.7710686,
+  "title": "International MCC Data & Analytics Manager",
+  "company": "Cartier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437074981"
+  ]
+ },
+ "e069ab9f18327ccc208476638ebce595": {
+  "first_seen": 1785432758.7711232,
+  "title": "Tech Lead ML Engineer H/F",
+  "company": "Devoteam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4317943285"
   ]
  }
 }
