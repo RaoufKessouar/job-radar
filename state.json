@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785436315.779759,
+   "last_success": 1785438138.1590059,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785436315.7797644,
+   "last_success": 1785438138.1590118,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785436328.9049947,
+   "last_success": 1785438150.0220547,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785436328.904999,
+   "last_success": 1785438150.0220592,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785436328.9050007,
+   "last_success": 1785438150.022061,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785436328.9050024,
+   "last_success": 1785438150.0220623,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785436328.9050033,
+   "last_success": 1785438150.0220637,
    "alerted": false
   }
  },
@@ -15524,6 +15524,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446915208"
+  ]
+ },
+ "ff9feef45ebf386649bb2676263750c0": {
+  "first_seen": 1785438150.023198,
+  "title": "AI Research Intern (PhD) – 3D Computer Vision",
+  "company": "Helsing",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445029585"
   ]
  }
 }
