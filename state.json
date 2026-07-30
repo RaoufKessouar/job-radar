@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785387735.1546571,
+   "last_success": 1785389547.1660953,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785387735.1546652,
+   "last_success": 1785389547.1661017,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785387748.4345489,
+   "last_success": 1785389561.415686,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785387748.4345553,
+   "last_success": 1785389561.41569,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785387748.4345586,
+   "last_success": 1785389561.4156916,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785387748.43456,
+   "last_success": 1785389561.4156928,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785387748.4345617,
+   "last_success": 1785389561.415694,
    "alerted": false
   }
  },
@@ -10451,7 +10451,8 @@
    "https://www.linkedin.com/jobs/view/4445369474",
    "https://www.linkedin.com/jobs/view/4446116808",
    "https://www.linkedin.com/jobs/view/4435171155",
-   "https://www.linkedin.com/jobs/view/4446369703"
+   "https://www.linkedin.com/jobs/view/4446369703",
+   "https://www.linkedin.com/jobs/view/4444195635"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -11869,7 +11870,8 @@
    "https://www.linkedin.com/jobs/view/4444815736",
    "https://www.linkedin.com/jobs/view/4444872303",
    "https://www.linkedin.com/jobs/view/4445433912",
-   "https://www.linkedin.com/jobs/view/4446015587"
+   "https://www.linkedin.com/jobs/view/4446015587",
+   "https://www.linkedin.com/jobs/view/4446487955"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -12324,7 +12326,8 @@
    "https://www.linkedin.com/jobs/view/4444729137",
    "https://www.linkedin.com/jobs/view/4445362589",
    "https://www.linkedin.com/jobs/view/4446125016",
-   "https://www.linkedin.com/jobs/view/4446386212"
+   "https://www.linkedin.com/jobs/view/4446386212",
+   "https://www.linkedin.com/jobs/view/4444513060"
   ]
  },
  "87d1a53b8a454e1fb2896c44b5658723": {
@@ -14571,6 +14574,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446470978"
+  ]
+ },
+ "51d42a319c6ad42ac751a6f02f967c18": {
+  "first_seen": 1785389561.416411,
+  "title": "Pilote / Product Owner Agentic AI Microsoft Expérimenté H/F FY27",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434851630"
   ]
  }
 }
