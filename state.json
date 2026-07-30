@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785412936.7551336,
+   "last_success": 1785414731.821711,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785412936.7551394,
+   "last_success": 1785414731.8217168,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785412948.6740139,
+   "last_success": 1785414743.9419374,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785412948.6740181,
+   "last_success": 1785414743.9419425,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785412948.6740196,
+   "last_success": 1785414743.9419444,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785412948.6740208,
+   "last_success": 1785414743.9419458,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785412948.674022,
+   "last_success": 1785414743.941947,
    "alerted": false
   }
  },
@@ -12453,7 +12453,8 @@
   "company": "Bending Spoons",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444666773"
+   "https://www.linkedin.com/jobs/view/4444666773",
+   "https://www.linkedin.com/jobs/view/4446754472"
   ]
  },
  "f81e78ebbee986e2ce7ea88df16460d1": {
@@ -12462,7 +12463,8 @@
   "company": "Bending Spoons",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444643809"
+   "https://www.linkedin.com/jobs/view/4444643809",
+   "https://www.linkedin.com/jobs/view/4446755463"
   ]
  },
  "e099ea0dc7f949a033716d5c4d3ee65d": {
