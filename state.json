@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785488525.9714568,
+   "last_success": 1785490355.469441,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785488525.9714625,
+   "last_success": 1785490355.4694474,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785488539.3821425,
+   "last_success": 1785490369.4378047,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785488539.3821468,
+   "last_success": 1785490369.4378092,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785488539.3821485,
+   "last_success": 1785490369.437811,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785488539.3821497,
+   "last_success": 1785490369.4378119,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785488539.382151,
+   "last_success": 1785490369.4378135,
    "alerted": false
   }
  },
@@ -9623,7 +9623,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442034348",
-   "https://www.linkedin.com/jobs/view/4445128520"
+   "https://www.linkedin.com/jobs/view/4445128520",
+   "https://www.linkedin.com/jobs/view/4446998431"
   ]
  },
  "f8ecd628742e48e51a332a255b7dd82c": {
@@ -15277,7 +15278,8 @@
   "company": "Honeywell Technologies",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4389254612"
+   "https://www.linkedin.com/jobs/view/4389254612",
+   "https://www.linkedin.com/jobs/view/4389249752"
   ]
  },
  "565b254aafd1d6a4a57d3ec641a01f71": {
@@ -16061,6 +16063,177 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Content-manager--H-F-_JOBREQ_50272699"
+  ]
+ },
+ "3f27e805e3006c53a373893cea519ac8": {
+  "first_seen": 1785490369.4387162,
+  "title": "STAGE - Chargé de communication & acculturation IA",
+  "company": "Crédit Agricole",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/groupe-credit-agricole/jobs/stage-charge-de-communication-acculturation-ia_paris"
+  ]
+ },
+ "76abd691c46e73712748aa0eec5f309e": {
+  "first_seen": 1785490369.4390457,
+  "title": "Data Scientist / Bioinformaticien(ne) – Préclinique H/F",
+  "company": "AIXIAL GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4425797114"
+  ]
+ },
+ "bbec7327f63fa58600f08f6671099782": {
+  "first_seen": 1785490369.4391692,
+  "title": "Software developper",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419840728"
+  ]
+ },
+ "54b00480759d29fe8937e11f701612f6": {
+  "first_seen": 1785490369.4391806,
+  "title": "STAGE - E&C - Assistant(e) de Projet - Optimisation et Modernisation du Standards Management System (SMS) H/F",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438215356"
+  ]
+ },
+ "f4a78442aadb87fb7f53e57d51203ec4": {
+  "first_seen": 1785490369.4392207,
+  "title": "Stage- Assistant.e Chef.fe de projet expérience Care Omnicanal (F/H)",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418177260"
+  ]
+ },
+ "47ae6478a03be705f1488dea2f860c0d": {
+  "first_seen": 1785490369.4392345,
+  "title": "Ingénieur(e) / Consultant(e) Junior – Stage Fin d'Études 6 mois - Innovation & Stratégie",
+  "company": "IMPULSE PARTNERS - A FAST LANE FOR INNOVATION",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444559851"
+  ]
+ },
+ "baa6c0ee3529877abfaab64539d16416": {
+  "first_seen": 1785490369.4392421,
+  "title": "Final Year Internship Consultant - Digital Transformation",
+  "company": "Sia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447015223"
+  ]
+ },
+ "b7034e6538ad3c98511f4147fba76c5f": {
+  "first_seen": 1785490369.4392495,
+  "title": "Product Owner Digital & Data (H/F) - Stage",
+  "company": "Gecina",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445031877"
+  ]
+ },
+ "ea26fd0cb9dc1df7db6f08bbfc51dc7d": {
+  "first_seen": 1785490369.4392593,
+  "title": "Stage – Collections Mode et Textiles, antérieures à 1800",
+  "company": "MAD Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444560824"
+  ]
+ },
+ "919067fd03b82e14f706a1276d830110": {
+  "first_seen": 1785490369.4392657,
+  "title": "Quality Trainee",
+  "company": "Autoliv",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401595880"
+  ]
+ },
+ "759bc062bce6f30d1f75c9a22be2f991": {
+  "first_seen": 1785490369.4392745,
+  "title": "STAGE ASSISTANT.E ONLINE BRAND PROTECTION F/H",
+  "company": "Thélios",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447219257"
+  ]
+ },
+ "8438e0a0e87108297362d2533c6c6255": {
+  "first_seen": 1785490369.4392824,
+  "title": "Assistant(e) chef de projet digital F/H - STAGE",
+  "company": "VML",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446894865"
+  ]
+ },
+ "2af70fef5e9ad38e8b1a0bdc9e5264b8": {
+  "first_seen": 1785490369.4392889,
+  "title": "Stage - Affaires Publiques F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438508458"
+  ]
+ },
+ "f8335243d34f20bbed7f2a465be6e3d8": {
+  "first_seen": 1785490369.4392974,
+  "title": "Chargé(e) de communication - relation presse en Stage",
+  "company": "Kicklox",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444583912"
+  ]
+ },
+ "b5c0b4979896b122aada86d150e77898": {
+  "first_seen": 1785490369.4393086,
+  "title": "Stage – Assistant.e Chargé.e de projets sociaux RSE (F/H) – Janvier 2027",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446923840"
+  ]
+ },
+ "3ede0140a0f6802a97d9cea63a42be01": {
+  "first_seen": 1785490369.4393194,
+  "title": "Forum APIEP Novembre 2025 - Etudiants en Pharmacie, rejoignez-nous en stage ou alternance en 2026 !",
+  "company": "Ipsen",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4322143667"
+  ]
+ },
+ "a3ff2e7800156462f2dd72c5ca02f25e": {
+  "first_seen": 1785490369.439436,
+  "title": "Ingénieur logiciel (H/F)",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446985673"
+  ]
+ },
+ "212ddc1597d307b35f28289692b9d546": {
+  "first_seen": 1785490369.439484,
+  "title": "CS27 BAC+5 - Chargé de veille technologique dans l'Impression 3D (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Bac-5---Veille-technologique-dans-l-Impression-3D_JOBREQ_50271895"
+  ]
+ },
+ "35aae9bb3b1d03b060a04c52c616f253": {
+  "first_seen": 1785490369.4394977,
+  "title": "CS27 BAC+5 - Ingénieur Génie Industriel - Proxy Product Owner en Réalité virtuelle / Réalité augmentée (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Ingnieur-Gnie-Industriel---Proxy-Product-Owner-en-Ralit-virtuelle---Ralit-augmente--H-F-_JOBREQ_50271807"
   ]
  }
 }
