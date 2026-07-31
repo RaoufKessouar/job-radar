@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785490355.469441,
+   "last_success": 1785492153.4319098,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785490355.4694474,
+   "last_success": 1785492153.431915,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785490369.4378047,
+   "last_success": 1785492167.4000435,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785490369.4378092,
+   "last_success": 1785492167.4000487,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785490369.437811,
+   "last_success": 1785492167.4000504,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785490369.4378119,
+   "last_success": 1785492167.4000516,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785490369.4378135,
+   "last_success": 1785492167.4000528,
    "alerted": false
   }
  },
@@ -16234,6 +16234,24 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Ingnieur-Gnie-Industriel---Proxy-Product-Owner-en-Ralit-virtuelle---Ralit-augmente--H-F-_JOBREQ_50271807"
+  ]
+ },
+ "ac4b5e582e81d198042415182f7f7dac": {
+  "first_seen": 1785492167.4007263,
+  "title": "Stage de fin d'études - Consultant·e Machine Learning & AI Engineer (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445507032"
+  ]
+ },
+ "473ac8a153b0b2f1fa90fd23e2baff91": {
+  "first_seen": 1785492167.4007652,
+  "title": "Alternant(e) Innovation & Intelligence Artificielle",
+  "company": "MeltOne Advisory",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440754824"
   ]
  }
 }
