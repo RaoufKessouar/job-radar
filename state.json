@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785520948.9363484,
+   "last_success": 1785522753.3546276,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785520948.9363534,
+   "last_success": 1785522753.3546338,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785520960.5363169,
+   "last_success": 1785522765.8240352,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785520960.5363219,
+   "last_success": 1785522765.82404,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785520960.5363235,
+   "last_success": 1785522765.8240418,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785520960.536325,
+   "last_success": 1785522765.8240433,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785520960.5363262,
+   "last_success": 1785522765.8240447,
    "alerted": false
   }
  },
@@ -17131,6 +17131,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4423984937"
+  ]
+ },
+ "ce4013f70d87d48a44c23388d911e1c0": {
+  "first_seen": 1785522765.824766,
+  "title": "Data Scientist / Ingénieur en Recherche Opérationnelle Senior F/H - Air France KLM",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447576256"
+  ]
+ },
+ "0a0635e350be89463633dd96ae0611ee": {
+  "first_seen": 1785522765.824789,
+  "title": "AI Engineering Intern",
+  "company": "Euronext",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447559357"
+  ]
+ },
+ "2e751d4e30cdf99c3319b53bd75192de": {
+  "first_seen": 1785522765.8248565,
+  "title": "Internship Smart Automation & Agentic AI Dev",
+  "company": "Euronext",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439055609"
+  ]
+ },
+ "0d9c0fea7d3b11ef9175543b964f60da": {
+  "first_seen": 1785522765.824926,
+  "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+  "company": "Cohere",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418828050"
+  ]
+ },
+ "4e44a07bf325989f3a2adc20d7ad2998": {
+  "first_seen": 1785522765.8249326,
+  "title": "Tech Lead IA (H/F)",
+  "company": "Alveor",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447567088"
+  ]
+ },
+ "2e383cfae2223ddaaf84a9b1c866cf98": {
+  "first_seen": 1785522765.8249602,
+  "title": "Global AI and Innovation Expert",
+  "company": "CEVA Logistics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438480341"
+  ]
+ },
+ "15d9d25a4d982bd93445d59bc9b7d3b7": {
+  "first_seen": 1785522765.8249948,
+  "title": "Engineering Manager - AI specialist",
+  "company": "Valtech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420943344"
   ]
  }
 }
