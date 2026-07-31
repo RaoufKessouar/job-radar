@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785501134.4331133,
+   "last_success": 1785502706.1228523,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785501134.4331195,
+   "last_success": 1785502706.122858,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785501148.3924348,
+   "last_success": 1785502719.5594816,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785501148.3924398,
+   "last_success": 1785502719.5594869,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785501148.3924415,
+   "last_success": 1785502719.5594885,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785501148.392443,
+   "last_success": 1785502719.55949,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785501148.3924444,
+   "last_success": 1785502719.5594916,
    "alerted": false
   }
  },
@@ -16335,6 +16335,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447045169"
+  ]
+ },
+ "4fa882fdeb021039b44ab18aa3fe582c": {
+  "first_seen": 1785502719.5603476,
+  "title": "Superviseur Business Intelligence & IA F/H",
+  "company": "RYDGE Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438821011"
+  ]
+ },
+ "c323244db96f71c08e1b3d747836ad04": {
+  "first_seen": 1785502719.5603676,
+  "title": "Principal Machine Learning Engineer - Applied AI & LLMs (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420980029"
   ]
  }
 }
