@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785497523.8346922,
+   "last_success": 1785499347.9143598,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785497523.8346977,
+   "last_success": 1785499347.9143662,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785497539.7851274,
+   "last_success": 1785499362.2135136,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785497539.785133,
+   "last_success": 1785499362.2135186,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785497539.7851346,
+   "last_success": 1785499362.2135203,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785497539.785136,
+   "last_success": 1785499362.213522,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785497539.7851372,
+   "last_success": 1785499362.2135231,
    "alerted": false
   }
  },
@@ -14215,7 +14215,8 @@
   "company": "Sundayy",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446039931"
+   "https://www.linkedin.com/jobs/view/4446039931",
+   "https://www.linkedin.com/jobs/view/4447288679"
   ]
  },
  "8a47c276a9f6f63ad6f2bae851b14e2c": {
@@ -16279,6 +16280,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445513309"
+  ]
+ },
+ "4528fa9e6a7cc69318e164c9638dbda2": {
+  "first_seen": 1785499362.2141895,
+  "title": "AI & Data Engineer (Machine Learning) H/F",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419940063"
+  ]
+ },
+ "3ee55b7fe8a06cf7ff56a67aaab7cce5": {
+  "first_seen": 1785499362.2142694,
+  "title": "Senior Software Engineer - AI (EMEA)",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430483810"
+  ]
+ },
+ "f599caf4bfbe079a08ed6cee54aaa98d": {
+  "first_seen": 1785499362.2146156,
+  "title": "Stagiaire Logistique",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Sens/Stagiaire-Logistique_REQ2026072746"
   ]
  }
 }
