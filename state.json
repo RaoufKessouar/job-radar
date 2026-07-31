@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785504729.6897461,
+   "last_success": 1785506532.6932614,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785504729.689752,
+   "last_success": 1785506532.6932669,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785504744.4161634,
+   "last_success": 1785506546.496863,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785504744.4161665,
+   "last_success": 1785506546.4968681,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785504744.4161687,
+   "last_success": 1785506546.49687,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785504744.41617,
+   "last_success": 1785506546.4968715,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785504744.416171,
+   "last_success": 1785506546.496873,
    "alerted": false
   }
  },
@@ -10454,7 +10454,8 @@
    "https://www.linkedin.com/jobs/view/4446116808",
    "https://www.linkedin.com/jobs/view/4435171155",
    "https://www.linkedin.com/jobs/view/4446369703",
-   "https://www.linkedin.com/jobs/view/4444195635"
+   "https://www.linkedin.com/jobs/view/4444195635",
+   "https://www.linkedin.com/jobs/view/4447510838"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -12331,7 +12332,8 @@
    "https://www.linkedin.com/jobs/view/4445362589",
    "https://www.linkedin.com/jobs/view/4446125016",
    "https://www.linkedin.com/jobs/view/4446386212",
-   "https://www.linkedin.com/jobs/view/4444513060"
+   "https://www.linkedin.com/jobs/view/4444513060",
+   "https://www.linkedin.com/jobs/view/4447516788"
   ]
  },
  "87d1a53b8a454e1fb2896c44b5658723": {
@@ -16632,6 +16634,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4435915110"
+  ]
+ },
+ "1cc2e471c40525513a95d72304d12620": {
+  "first_seen": 1785506546.4978273,
+  "title": "Data Scientist - CDI",
+  "company": "AS International Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445507849"
+  ]
+ },
+ "71c2290ba1f3f3f40fe6a839d59ac1a2": {
+  "first_seen": 1785506546.498134,
+  "title": "Ingénieur développement  systèmes embarqués aéronautique / DO178 et ou DO164/254 Paris, France (H/F) - Paris, France  (H",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4092812320"
   ]
  }
 }
