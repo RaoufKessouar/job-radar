@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785510133.4059489,
+   "last_success": 1785511936.0134284,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785510133.4059541,
+   "last_success": 1785511936.0134342,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785510146.0430624,
+   "last_success": 1785511949.0475266,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785510146.0430663,
+   "last_success": 1785511949.047531,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785510146.043068,
+   "last_success": 1785511949.0475333,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785510146.0430691,
+   "last_success": 1785511949.0475347,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785510146.0430703,
+   "last_success": 1785511949.047536,
    "alerted": false
   }
  },
@@ -16815,6 +16815,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447230153"
+  ]
+ },
+ "dacbc8ea3e56be17b84c931e180878d2": {
+  "first_seen": 1785511949.0485654,
+  "title": "CDI - Data Product Manager Analytics & AI - Retail (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419335424"
+  ]
+ },
+ "b2e6704ffc788c594abb8b22517a48ff": {
+  "first_seen": 1785511949.0485926,
+  "title": "Senior Manager AI Architect",
+  "company": "Accenture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445500364"
+  ]
+ },
+ "fffe4b402ec50d4f7ea2a405fa3b11fb": {
+  "first_seen": 1785511949.0486023,
+  "title": "Développeur Full Stack f/h",
+  "company": "Siemens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437560930"
+  ]
+ },
+ "535ea62ebfbd39cf36a5e422ee9be721": {
+  "first_seen": 1785511949.0486112,
+  "title": "Founding Engineer Alan Precision (x/f/m)",
+  "company": "Alan",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447507254"
+  ]
+ },
+ "5091d080dd71b74ef256fff35fe81186": {
+  "first_seen": 1785511949.0486562,
+  "title": "AP26 + BAC+5 - Data & Models",
+  "company": "Mobilize Financial Services",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447138983"
+  ]
+ },
+ "89326cf19bc0096499361754b8df12f1": {
+  "first_seen": 1785511949.0486636,
+  "title": "Machine Learning Engineer",
+  "company": "WHIZE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447135938"
+  ]
+ },
+ "211f4b521e9b8e583d8d84c4b6c12325": {
+  "first_seen": 1785511949.0486724,
+  "title": "internship IA & humanitarian development",
+  "company": "TDS-GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447543246"
+  ]
+ },
+ "45ae2a0ed29ba1e5e42b275aee91ec46": {
+  "first_seen": 1785511949.0486891,
+  "title": "AI Decision Making Research Engineer (M/F)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435959348"
   ]
  }
 }
