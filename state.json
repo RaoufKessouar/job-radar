@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785443528.0908334,
+   "last_success": 1785474153.6390376,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785443528.0908396,
+   "last_success": 1785474153.6390433,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785443543.8958127,
+   "last_success": 1785474167.2083797,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785443543.895818,
+   "last_success": 1785474167.2083843,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785443543.8958192,
+   "last_success": 1785474167.2083864,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785443543.8958206,
+   "last_success": 1785474167.2083879,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785443543.8958216,
+   "last_success": 1785474167.208389,
    "alerted": false
   }
  },
@@ -11120,7 +11120,8 @@
   "company": "Yélé Consulting",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443776573"
+   "https://www.linkedin.com/jobs/view/4443776573",
+   "https://www.linkedin.com/jobs/view/4447211004"
   ]
  },
  "6f7477965dd65830b40d7804657909ae": {
@@ -15570,6 +15571,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447087968"
+  ]
+ },
+ "b9b1b212af995b937a03388824eb8af6": {
+  "first_seen": 1785474167.209037,
+  "title": "ML Engineer",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445065728"
+  ]
+ },
+ "59a35c8eda3f5fe766e735c4c884edfd": {
+  "first_seen": 1785474167.2091365,
+  "title": "Data Engineer - MLOps Engineer F/H",
+  "company": "Crédit Agricole Technologies et Services",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445065382"
+  ]
+ },
+ "a3b23e79df1492e5cc31217e08328a31": {
+  "first_seen": 1785474167.2093024,
+  "title": "Stage – Validation de modèles de sillage via données SCADA",
+  "company": "Siemens Gamesa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446785962"
   ]
  }
 }
