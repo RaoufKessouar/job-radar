@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785479546.6893947,
+   "last_success": 1785481370.6703422,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785479546.6893997,
+   "last_success": 1785481370.670348,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785479559.6329794,
+   "last_success": 1785481384.6770227,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785479559.632984,
+   "last_success": 1785481384.6770272,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785479559.632986,
+   "last_success": 1785481384.6770294,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785479559.6329875,
+   "last_success": 1785481384.6770313,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785479559.632989,
+   "last_success": 1785481384.6770327,
    "alerted": false
   }
  },
@@ -15862,6 +15862,114 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445086013"
+  ]
+ },
+ "132012aef075336fe1c414d6fe174b3d": {
+  "first_seen": 1785481384.6778448,
+  "title": "Consultant Senior et Manager Data Science & Process Mining H/F",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445003758"
+  ]
+ },
+ "b0eacab404c49e77e0daaccce864049f": {
+  "first_seen": 1785481384.6778808,
+  "title": "INTERNSHIP - E-Business Performance Analyst - H/F",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447030165"
+  ]
+ },
+ "b5a0d3ac60866df297e11bc7abf399da": {
+  "first_seen": 1785481384.677905,
+  "title": "Stage Chef de Projet Junior – Data Marketing",
+  "company": "AQOA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441213388"
+  ]
+ },
+ "d15832c9748b567c03ce32c9d17fd3f5": {
+  "first_seen": 1785481384.6779168,
+  "title": "Stage – Impact des marchés de l’électricité sur les charges éoliennes",
+  "company": "Siemens Gamesa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446786956"
+  ]
+ },
+ "a3a575055033d332db6c0a939a9ea439": {
+  "first_seen": 1785481384.677939,
+  "title": "Data Engineer (H/F/NB)",
+  "company": "Keyrus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437084918"
+  ]
+ },
+ "0da1dd01c4a16dbb76bfcd33665750e2": {
+  "first_seen": 1785481384.6779575,
+  "title": "IT Quant - Finance de Marché",
+  "company": "eXalt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437356162"
+  ]
+ },
+ "fd4cd5da9123b167feecaf5f93437b66": {
+  "first_seen": 1785481384.6779735,
+  "title": "Ingénieur Réservoir débutant H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444558270"
+  ]
+ },
+ "64df505d5f6d02a67ff295dca945c32f": {
+  "first_seen": 1785481384.6779802,
+  "title": "Product Analyst / CRO H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418258236"
+  ]
+ },
+ "f83c7ce264ded468f6b5d850e7a7f053": {
+  "first_seen": 1785481384.677999,
+  "title": "Economiste chercheur financement US \"H/F\"",
+  "company": "Banque de France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444594401"
+  ]
+ },
+ "184cfe6dbb43eccb7e031e6e527386e0": {
+  "first_seen": 1785481384.6780167,
+  "title": "STAGE-Assistant Business & Pricing Analyst F/H/NB - SEPTEMBRE 2026",
+  "company": "Maison Francis Kurkdjian",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438523640"
+  ]
+ },
+ "5e2a294bb23648f5f068c0bbe31568af": {
+  "first_seen": 1785481384.678027,
+  "title": "Stage Assistant Trading Global Debt Market - Cash Financing Solution Repo (f/m/d)",
+  "company": "HSBC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446752639"
+  ]
+ },
+ "284be6734aa6b55adb3934dc194cda8b": {
+  "first_seen": 1785481384.6781187,
+  "title": "Stage - Développement et Implémentation d'une Solution VPN Adhoc F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438292982"
   ]
  }
 }
