@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785474153.6390376,
+   "last_success": 1785475935.4293158,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785474153.6390433,
+   "last_success": 1785475935.4293215,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785474167.2083797,
+   "last_success": 1785475948.1058898,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785474167.2083843,
+   "last_success": 1785475948.1058953,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785474167.2083864,
+   "last_success": 1785475948.1058972,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785474167.2083879,
+   "last_success": 1785475948.1058989,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785474167.208389,
+   "last_success": 1785475948.1059,
    "alerted": false
   }
  },
@@ -15598,6 +15598,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446785962"
+  ]
+ },
+ "0ce430556e5673d2f484b83f2af65e53": {
+  "first_seen": 1785475948.1065745,
+  "title": "Alternance - Assistant.e Data Analyst - Clients Insights EMEA (F/H) – Septembre 2026",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447046342"
   ]
  }
 }
