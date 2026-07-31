@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785506532.6932614,
+   "last_success": 1785508338.4795487,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785506532.6932669,
+   "last_success": 1785508338.479555,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785506546.496863,
+   "last_success": 1785508351.0562212,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785506546.4968681,
+   "last_success": 1785508351.0562267,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785506546.49687,
+   "last_success": 1785508351.0562296,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785506546.4968715,
+   "last_success": 1785508351.056232,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785506546.496873,
+   "last_success": 1785508351.0562336,
    "alerted": false
   }
  },
@@ -15319,7 +15319,8 @@
   "company": "Scaleway",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444515660"
+   "https://www.linkedin.com/jobs/view/4444515660",
+   "https://www.linkedin.com/jobs/view/4445068783"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -16652,6 +16653,168 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4092812320"
+  ]
+ },
+ "061bed0941de2824ace8ee16a857ad5e": {
+  "first_seen": 1785508351.0569637,
+  "title": "Stage - Spécialiste Conception Responsable -Numérique Responsable F/H",
+  "company": "Enedis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447524789"
+  ]
+ },
+ "cb5a014b8b5f442cc84fa7944b7e9925": {
+  "first_seen": 1785508351.0571384,
+  "title": "Alternance - AI/Data Engineer — Data Factory H/F/X - Mode - Septembre 2026",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418836929"
+  ]
+ },
+ "24d62e453cb2483bc40708d23bd87e42": {
+  "first_seen": 1785508351.0573888,
+  "title": "AI Network Software Engineer (M/F)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435940788"
+  ]
+ },
+ "72a114961f903ba99f3e9e1a9c6ce786": {
+  "first_seen": 1785508351.0574324,
+  "title": "Ingénieur développement chaine outillée logiciel",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429047290"
+  ]
+ },
+ "d513b1edf964770164ce04d8185fbcfc": {
+  "first_seen": 1785508351.057567,
+  "title": "Ingénieure / Ingénieur Validation Contrôle du Vol d'Engins Spatiaux",
+  "company": "ArianeGroup",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446998355"
+  ]
+ },
+ "9d3bc4b94f8068f532f34d411cc4ccab": {
+  "first_seen": 1785508351.0576053,
+  "title": "Stage – NPI, Industrialisation et Gestion de Production en Micro-Usine (F/H)",
+  "company": "Kickmaker",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437378301"
+  ]
+ },
+ "c5c5792827f114d678e70bdff28e4a78": {
+  "first_seen": 1785508351.0576253,
+  "title": "QA Automation Engineer",
+  "company": "Tripadvisor",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427208085"
+  ]
+ },
+ "7b5b7b553a740f8874c9f30cf2f89e24": {
+  "first_seen": 1785508351.0576525,
+  "title": "Member of technical staff (Infrastructure) - Paris",
+  "company": "H Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435913123"
+  ]
+ },
+ "c05c168cd4b3d1fd9d6beade9adce859": {
+  "first_seen": 1785508351.0576627,
+  "title": "QA Automation Engineer",
+  "company": "TheFork",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391933685"
+  ]
+ },
+ "b1a3a7fd173ffcbf8b9d56c4a3de64b6": {
+  "first_seen": 1785508351.0576777,
+  "title": "Développeur Linux Réseaux & Télécoms – DevOps / CI/CD H/F",
+  "company": "Pacte Novation",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445502531"
+  ]
+ },
+ "ed5f78e4afb0b3da869177867cfd800d": {
+  "first_seen": 1785508351.0576875,
+  "title": "Stage -  Ingénieur DevSecOps",
+  "company": "Numberly",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442211939"
+  ]
+ },
+ "82c982f3590a30b2defdf7161de15d05": {
+  "first_seen": 1785508351.0576963,
+  "title": "Backend Engineer (Go)",
+  "company": "Prelude",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446587401"
+  ]
+ },
+ "c1fce49431bd3f4668c33df754dcf10b": {
+  "first_seen": 1785508351.0577095,
+  "title": "Apprenti Développeur Java Full Stack H/F",
+  "company": "GROUPAMA - G2S",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418827528"
+  ]
+ },
+ "268bdc947bb65f581696fe208b848759": {
+  "first_seen": 1785508351.0577247,
+  "title": "Technical Product Manager – Navigation Inertielle & Systèmes maritimes (H/F)",
+  "company": "SBG Systems",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447516928"
+  ]
+ },
+ "6e6197f8951a92a05dd53d0c48a5f16a": {
+  "first_seen": 1785508351.057737,
+  "title": "Technicien(ne) essais et mise en service (H/F)",
+  "company": "Alstom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445048382"
+  ]
+ },
+ "3485a25ce3840a4bbf13ded54b9e704d": {
+  "first_seen": 1785508351.0577602,
+  "title": "Staff MLOps Engineer",
+  "company": "Turo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4342541506"
+  ]
+ },
+ "efbe0c3ad0ad11f382d6a47a839decb5": {
+  "first_seen": 1785508351.057769,
+  "title": "Fullstack Engineer",
+  "company": "Entrust",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432801286"
+  ]
+ },
+ "e9674cd01b5c296f5f40695b6c638543": {
+  "first_seen": 1785508351.057782,
+  "title": "frog - Tech - Développeur Fullstack JS|Python (F/H)",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447230153"
   ]
  }
 }
