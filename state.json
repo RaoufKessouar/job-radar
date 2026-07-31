@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785515519.3192434,
+   "last_success": 1785517340.2232533,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785515519.3192496,
+   "last_success": 1785517340.223259,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785515531.8273306,
+   "last_success": 1785517358.9974551,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785515531.827335,
+   "last_success": 1785517358.99746,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785515531.8273368,
+   "last_success": 1785517358.997462,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785515531.827338,
+   "last_success": 1785517358.9974632,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785515531.8273392,
+   "last_success": 1785517358.9974644,
    "alerted": false
   }
  },
@@ -16923,6 +16923,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447147279"
+  ]
+ },
+ "36c354accb81d5efd9c659c545b4b224": {
+  "first_seen": 1785517358.9979634,
+  "title": "Data Scientist (F/H) en alternance",
+  "company": "Carrefour",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445514056"
+  ]
+ },
+ "5210e0f0da63a73561026455461b4339": {
+  "first_seen": 1785517358.998062,
+  "title": "KERING AI Engineer",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447548330"
+  ]
+ },
+ "9af078f780de556d9c2dfefbd5a47df1": {
+  "first_seen": 1785517358.9980686,
+  "title": "Agentic AI & Tool Developer",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399775601"
   ]
  }
 }
