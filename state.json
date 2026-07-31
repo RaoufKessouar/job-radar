@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785519625.9140599,
+   "last_success": 1785520948.9363484,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785519625.9140656,
+   "last_success": 1785520948.9363534,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785519638.5871978,
+   "last_success": 1785520960.5363169,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785519638.5872023,
+   "last_success": 1785520960.5363219,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785519638.5872037,
+   "last_success": 1785520960.5363235,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785519638.5872056,
+   "last_success": 1785520960.536325,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785519638.5872068,
+   "last_success": 1785520960.5363262,
    "alerted": false
   }
  },
@@ -17122,6 +17122,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4435677920"
+  ]
+ },
+ "c538f0af74c3599c105ab4ca82b76e79": {
+  "first_seen": 1785520960.5372257,
+  "title": "Senior Manager AI Engineering / Agentic AI Engineering",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423984937"
   ]
  }
 }
