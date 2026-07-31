@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785493924.084968,
+   "last_success": 1785495738.9773114,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785493924.0849743,
+   "last_success": 1785495738.9773412,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785493938.3808484,
+   "last_success": 1785495753.1684704,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785493938.3808527,
+   "last_success": 1785495753.1684752,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785493938.3808548,
+   "last_success": 1785495753.1684768,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785493938.3808558,
+   "last_success": 1785495753.1684787,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785493938.3808572,
+   "last_success": 1785495753.1684802,
    "alerted": false
   }
  },
@@ -16252,6 +16252,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440754824"
+  ]
+ },
+ "341187fd2744fd587ac6bd37e9484f9f": {
+  "first_seen": 1785495753.1692774,
+  "title": "Doctorant IA",
+  "company": "Westinghouse Electric Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437556765"
   ]
  }
 }
