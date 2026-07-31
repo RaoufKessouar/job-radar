@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785484965.4860404,
+   "last_success": 1785486735.9183292,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785484965.4860468,
+   "last_success": 1785486735.9183347,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785484982.581376,
+   "last_success": 1785486750.1653426,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785484982.5813818,
+   "last_success": 1785486750.1653461,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785484982.5813847,
+   "last_success": 1785486750.1653476,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785484982.5813866,
+   "last_success": 1785486750.1653485,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785484982.581388,
+   "last_success": 1785486750.1653497,
    "alerted": false
   }
  },
@@ -12649,7 +12649,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4441894579",
    "https://www.linkedin.com/jobs/view/4442333972",
-   "https://www.linkedin.com/jobs/view/4446737182"
+   "https://www.linkedin.com/jobs/view/4446737182",
+   "https://www.linkedin.com/jobs/view/4445069830"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -15970,6 +15971,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4438292982"
+  ]
+ },
+ "6735503d95a1d814bd90292bcb07d758": {
+  "first_seen": 1785486750.1658738,
+  "title": "AI Engineer (GenAI & LLM) – Practice IA MARGO",
+  "company": "MARGO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447271850"
+  ]
+ },
+ "098bf72fba309b8898d72430e3f34896": {
+  "first_seen": 1785486750.1659257,
+  "title": "Développeur IA - H/F",
+  "company": "Ramsay Santé",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447287012"
+  ]
+ },
+ "6d081ae48dbf7d8d61a83323e180dfb1": {
+  "first_seen": 1785486750.1660156,
+  "title": "Ingénieur Logiciel Robotique (F/H)",
+  "company": "T&S (Technology & Strategy)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447274616"
   ]
  }
 }
