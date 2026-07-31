@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785511936.0134284,
+   "last_success": 1785513744.880667,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785511936.0134342,
+   "last_success": 1785513744.8806725,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785511949.0475266,
+   "last_success": 1785513757.6737318,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785511949.047531,
+   "last_success": 1785513757.6737363,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785511949.0475333,
+   "last_success": 1785513757.6737382,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785511949.0475347,
+   "last_success": 1785513757.6737397,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785511949.047536,
+   "last_success": 1785513757.673741,
    "alerted": false
   }
  },
@@ -16887,6 +16887,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4435959348"
+  ]
+ },
+ "2094d9d4fbcba49b671f3b7ca31ec713": {
+  "first_seen": 1785513757.6745236,
+  "title": "Développeur / Développeuse d'Agent IA",
+  "company": "ORNESS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445527010"
+  ]
+ },
+ "532fc4453d5ed119b81f21fb3be8f96e": {
+  "first_seen": 1785513757.674604,
+  "title": "AP26 - Bac + 5 - Ingénieur véhicule embarqué (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447160019"
+  ]
+ },
+ "42c408e60ed4939d90db73c263b18be1": {
+  "first_seen": 1785513757.6746335,
+  "title": "Développeur C Embarqué (F/H)",
+  "company": "T&S (Technology & Strategy)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447268696"
+  ]
+ },
+ "35dbc96694ac6ac24bee25aab9f1a680": {
+  "first_seen": 1785513757.6747365,
+  "title": "Avionics Team Lead",
+  "company": "Exotrail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447147279"
   ]
  }
 }
