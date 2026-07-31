@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785519131.9062204,
+   "last_success": 1785519625.9140599,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785519131.9062269,
+   "last_success": 1785519625.9140656,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785519144.2796326,
+   "last_success": 1785519638.5871978,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785519144.2796378,
+   "last_success": 1785519638.5872023,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785519144.2796395,
+   "last_success": 1785519638.5872037,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785519144.279641,
+   "last_success": 1785519638.5872056,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785519144.2796423,
+   "last_success": 1785519638.5872068,
    "alerted": false
   }
  },
@@ -16951,6 +16951,177 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4399775601"
+  ]
+ },
+ "4eed6dbbf8941ef1ee266babf8472318": {
+  "first_seen": 1785519638.5882795,
+  "title": "Data Scientist (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445097977"
+  ]
+ },
+ "fd796ea739f47cc9494a7cf2aff17f11": {
+  "first_seen": 1785519638.5883217,
+  "title": "Analyste Score et Reporting",
+  "company": "Mobilize Financial Services",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447152182"
+  ]
+ },
+ "12d3d66f3a00077a3208ab667843c44d": {
+  "first_seen": 1785519638.588351,
+  "title": "Research Scientist, Gemini Data, DeepMind",
+  "company": "Google DeepMind",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437570592"
+  ]
+ },
+ "46fb948098e8bcf91c4431689ce1dce6": {
+  "first_seen": 1785519638.5883653,
+  "title": "Actuaire / Data Scientist senior",
+  "company": "Abeille Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438684279"
+  ]
+ },
+ "36af7e268b9a049bc4225f7274b29dbd": {
+  "first_seen": 1785519638.588395,
+  "title": "Data Analyst (H/F/X)",
+  "company": "Kolecto",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411264957"
+  ]
+ },
+ "0f19a20088ef3f2280f27213ada42a44": {
+  "first_seen": 1785519638.588406,
+  "title": "Stage H/F – IA Manager au sein de l’équipe Finance – Septembre 2026",
+  "company": "Lazard",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447155194"
+  ]
+ },
+ "be35513fcce40e1f36d1edc087d21ad2": {
+  "first_seen": 1785519638.588415,
+  "title": "Stage - Qualité et Amélioration Continue HMS (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419033386"
+  ]
+ },
+ "d49d7742095d574a91bb3247c6db152b": {
+  "first_seen": 1785519638.5884216,
+  "title": "Data & AI Engineer",
+  "company": "Sanofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447542850"
+  ]
+ },
+ "20d5909ef96b1a3afbf5bf63e87bf9b4": {
+  "first_seen": 1785519638.5884292,
+  "title": "Data Engineer BI - Alternance",
+  "company": "Boursorama",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424801056"
+  ]
+ },
+ "ca308121f3648930be26f89363aa158e": {
+  "first_seen": 1785519638.5884364,
+  "title": "KERING Data Engineer",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447538464"
+  ]
+ },
+ "e1a12ca8635fafb117d4e2aab3658f86": {
+  "first_seen": 1785519638.5884995,
+  "title": "Data analyst (F/H) - Process & Accessibilité à la Data (H/F)",
+  "company": "Crédit Mutuel Asset Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429329442"
+  ]
+ },
+ "5cb55b031a3aad08150bf5cb50754945": {
+  "first_seen": 1785519638.5885224,
+  "title": "Alternant(e) Ingénieur Analytics (Data Analyst & Data Engineer)",
+  "company": "AptiSkills",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447530892"
+  ]
+ },
+ "bc1123799f280c02a1e79797300730be": {
+  "first_seen": 1785519638.5885403,
+  "title": "Assistant(e) Reporting et Data (F/H) – Direction Trésorerie et Paiements – Alternance",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4378497870"
+  ]
+ },
+ "06aef869c01e41a156169d10cd170c5d": {
+  "first_seen": 1785519638.5885472,
+  "title": "Internship | Risk Analyst",
+  "company": "AXA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405867334"
+  ]
+ },
+ "32ba7f6ea9cf176983969eebbd248214": {
+  "first_seen": 1785519638.588562,
+  "title": "Lead Marketing Data Analyst (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433060622"
+  ]
+ },
+ "03db5f0f1f62e5bbf1361d1445da9cd1": {
+  "first_seen": 1785519638.5885687,
+  "title": "Logistic Analyst",
+  "company": "Les Colettes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447280754"
+  ]
+ },
+ "e78869106c3eba4616128c2ffa516af1": {
+  "first_seen": 1785519638.5885751,
+  "title": "Growth Associate",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4398516890"
+  ]
+ },
+ "ea109aaf5d3aad7011ef7207bd381c8b": {
+  "first_seen": 1785519638.5885835,
+  "title": "Client Strategy & Insights Manager - Europe (F/H)",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438661440"
+  ]
+ },
+ "2374a421c8efcfba077c00d25e28180c": {
+  "first_seen": 1785519638.58859,
+  "title": "SOC analyst",
+  "company": "Contentsquare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435677920"
   ]
  }
 }
