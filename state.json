@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785522753.3546276,
+   "last_success": 1785524538.7727325,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785522753.3546338,
+   "last_success": 1785524538.7727385,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785522765.8240352,
+   "last_success": 1785524559.5117755,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785522765.82404,
+   "last_success": 1785524559.5117805,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785522765.8240418,
+   "last_success": 1785524559.5117822,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785522765.8240433,
+   "last_success": 1785524559.5117836,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785522765.8240447,
+   "last_success": 1785524559.511785,
    "alerted": false
   }
  },
@@ -17194,6 +17194,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420943344"
+  ]
+ },
+ "c60d1c7a917f858709f50a0f6652a673": {
+  "first_seen": 1785524559.5125163,
+  "title": "AI & Automation Intern",
+  "company": "Euronext",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439063383"
   ]
  }
 }
