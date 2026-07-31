@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785526328.379635,
+   "last_success": 1785528154.1687932,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785526328.3796403,
+   "last_success": 1785528154.168798,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785526340.1760628,
+   "last_success": 1785528168.9504762,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785526340.1760669,
+   "last_success": 1785528168.9504802,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785526340.1760685,
+   "last_success": 1785528168.950482,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785526340.1760702,
+   "last_success": 1785528168.950483,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785526340.1760714,
+   "last_success": 1785528168.9504848,
    "alerted": false
   }
  },
@@ -17203,6 +17203,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4439063383"
+  ]
+ },
+ "d8a45fbf4c728b98a91ec141cd24b1c3": {
+  "first_seen": 1785528168.95143,
+  "title": "Stage ingénieur calcul structure IA",
+  "company": "TRACTEBEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4389478735"
+  ]
+ },
+ "5a327b849051aedfb3be315eb4243697": {
+  "first_seen": 1785528168.9514887,
+  "title": "Algorithm Developer - Register Team W/M",
+  "company": "Pasqal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429973923"
+  ]
+ },
+ "752e57c8d3d5c0e590dbda162787863e": {
+  "first_seen": 1785528168.951538,
+  "title": "Ingénieur(e)- Chercheur(se) Maillage Visualisation HPC H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399153549"
+  ]
+ },
+ "0f25dd4453dab4ab6dfd2cee377df5ce": {
+  "first_seen": 1785528168.9515529,
+  "title": "Ingénieur(e) d'études en biostatistiques et analyse de données : identification des facteurs influençant la teneur en mé",
+  "company": "INRAE Occitanie-Toulouse",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447528914"
+  ]
+ },
+ "669ed40b819d1a6aab873043cdec657a": {
+  "first_seen": 1785528168.9515655,
+  "title": "Consultant Dataiku",
+  "company": "WHIZE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447146793"
+  ]
+ },
+ "0873ba5eeca692e054728d5d774cb113": {
+  "first_seen": 1785528168.9515822,
+  "title": "Technical Artist Assistant - Stage 6 mois (F/H/NB)",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435906803"
+  ]
+ },
+ "d53b7d949247c261c0ed591ddf2e0de2": {
+  "first_seen": 1785528168.9515939,
+  "title": "🚀 Recrutement de stagiaires techniques à distance — Écosystème RiLy",
+  "company": "S B SOLUTIONS MA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447572643"
+  ]
+ },
+ "c60206b23778c9de93a5fe58365456ac": {
+  "first_seen": 1785528168.951612,
+  "title": "Stage - Etude de vulnérabilité au changement climatique - (3 mois) - F/H",
+  "company": "AREP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447134652"
   ]
  }
 }
