@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785517340.2232533,
+   "last_success": 1785519131.9062204,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785517340.223259,
+   "last_success": 1785519131.9062269,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785517358.9974551,
+   "last_success": 1785519144.2796326,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785517358.99746,
+   "last_success": 1785519144.2796378,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785517358.997462,
+   "last_success": 1785519144.2796395,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785517358.9974632,
+   "last_success": 1785519144.279641,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785517358.9974644,
+   "last_success": 1785519144.2796423,
    "alerted": false
   }
  },
@@ -14062,7 +14062,8 @@
   "company": "Wavestone",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443687460"
+   "https://www.linkedin.com/jobs/view/4443687460",
+   "https://www.linkedin.com/jobs/view/4445526303"
   ]
  },
  "256e1c0cbfb33f5e7f3249bf133ca162": {
