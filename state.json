@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785486735.9183292,
+   "last_success": 1785487903.1981525,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785486735.9183347,
+   "last_success": 1785487903.1981578,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785486750.1653426,
+   "last_success": 1785487916.6854856,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785486750.1653461,
+   "last_success": 1785487916.6854897,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785486750.1653476,
+   "last_success": 1785487916.6854916,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785486750.1653485,
+   "last_success": 1785487916.6854928,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785486750.1653497,
+   "last_success": 1785487916.685494,
    "alerted": false
   }
  },
@@ -15998,6 +15998,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447274616"
+  ]
+ },
+ "106278a3920309e68bd4e400447e976a": {
+  "first_seen": 1785487916.6862197,
+  "title": "Ingénieur R&amp;D Innovation - pilotage projets IA H/F",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445078865"
+  ]
+ },
+ "7210c8fb7b6e053bc310a6ae79bfe918": {
+  "first_seen": 1785487916.686244,
+  "title": "Product Manager F/H",
+  "company": "LexisNexis Risk Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446774106"
+  ]
+ },
+ "6c4a94d640dc9e4cc3310820c6ace1c4": {
+  "first_seen": 1785487916.6862617,
+  "title": "Stage - 6 mois - Assistant Chef de Projet IA F/H",
+  "company": "Ostrum Asset Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422713404"
+  ]
+ },
+ "f439805674b6f4d9123fae033f42c3c8": {
+  "first_seen": 1785487916.6863527,
+  "title": "Operations & Data Specialist | Climate Tech Startup",
+  "company": "Thermosphr",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447265688"
+  ]
+ },
+ "a3d36aad760024fe5889fadbf4fecdb3": {
+  "first_seen": 1785487916.6863945,
+  "title": "Pre-Sales Solutions Architect - AI & GPU Infrastructure",
+  "company": "Scaleway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445080072"
+  ]
+ },
+ "9c5901299b9753bd5b0227ed0e17c590": {
+  "first_seen": 1785487916.686406,
+  "title": "Data Engineer - Marketing Digital & eCommerce H/F - CDI - Paris (17ème)",
+  "company": "REXEL FRANCE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447087004"
   ]
  }
 }
