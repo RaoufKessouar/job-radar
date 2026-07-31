@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785487903.1981525,
+   "last_success": 1785488525.9714568,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785487903.1981578,
+   "last_success": 1785488525.9714625,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785487916.6854856,
+   "last_success": 1785488539.3821425,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785487916.6854897,
+   "last_success": 1785488539.3821468,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785487916.6854916,
+   "last_success": 1785488539.3821485,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785487916.6854928,
+   "last_success": 1785488539.3821497,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785487916.685494,
+   "last_success": 1785488539.382151,
    "alerted": false
   }
  },
@@ -16052,6 +16052,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447087004"
+  ]
+ },
+ "f6757503e82ad52fd8ee5b2581f47b2c": {
+  "first_seen": 1785488539.3829813,
+  "title": "CS27 BAC+5 - Content manager (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Content-manager--H-F-_JOBREQ_50272699"
   ]
  }
 }
