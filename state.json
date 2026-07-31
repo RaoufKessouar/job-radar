@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785502706.1228523,
+   "last_success": 1785502961.1775494,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785502706.122858,
+   "last_success": 1785502961.1775546,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785502719.5594816,
+   "last_success": 1785502974.1783159,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785502719.5594869,
+   "last_success": 1785502974.1783206,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785502719.5594885,
+   "last_success": 1785502974.178322,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785502719.55949,
+   "last_success": 1785502974.1783235,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785502719.5594916,
+   "last_success": 1785502974.1783247,
    "alerted": false
   }
  },
@@ -16353,6 +16353,276 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420980029"
+  ]
+ },
+ "267758ac0bdad796a2aad2c8fc1c7107": {
+  "first_seen": 1785502974.179051,
+  "title": "Senior - Data Scientist & AI Consultant",
+  "company": "Sia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447510079"
+  ]
+ },
+ "cda758dd67379c23d137dbf65355c3cc": {
+  "first_seen": 1785502974.1790938,
+  "title": "Senior Data Scientist",
+  "company": "Artefact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4309674740"
+  ]
+ },
+ "0302c846ed9a30400fdf658d04d9f185": {
+  "first_seen": 1785502974.1791024,
+  "title": "Apprentissage : Modélisation du risque de crédit",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445098275"
+  ]
+ },
+ "d167234d75aa300b5e13766d741f4a95": {
+  "first_seen": 1785502974.1791685,
+  "title": "Senior - Marketing Data Scientist Consultant",
+  "company": "Sia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447509172"
+  ]
+ },
+ "ccd87c2d7d17eb3449e62b3aab715e24": {
+  "first_seen": 1785502974.179192,
+  "title": "Data Analyst",
+  "company": "sunday",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446994572"
+  ]
+ },
+ "2078410a4284ad743e7a4966e68a0ae0": {
+  "first_seen": 1785502974.1791992,
+  "title": "Data Engineer Quantitatif",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445069943"
+  ]
+ },
+ "f0ee8a7b0caa1c5b7793d49845b0d8ff": {
+  "first_seen": 1785502974.17922,
+  "title": "Data Analyst (Front End App Developer)",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437641946"
+  ]
+ },
+ "c7c39e6c576f52786183fb521b9ddf70": {
+  "first_seen": 1785502974.1792395,
+  "title": "Consultant Senior orienté Data & IA F/H",
+  "company": "ITNOVEM.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445087620"
+  ]
+ },
+ "7649c3e0e9ed486e5893179eaefd7415": {
+  "first_seen": 1785502974.1792464,
+  "title": "Alternance - Data Engineer",
+  "company": "Numberly",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4425552832"
+  ]
+ },
+ "ab931a090a7f526a70b7b7cfa6e78054": {
+  "first_seen": 1785502974.1792624,
+  "title": "[Data - FR] Senior Machine Learning Engineer - Orchestration",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436749145"
+  ]
+ },
+ "cec3fa35bed8297dc573c90d460e5dd0": {
+  "first_seen": 1785502974.1792755,
+  "title": "Playables AI Engineer",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410765112"
+  ]
+ },
+ "74a36dad56473551b976e47c179e9075": {
+  "first_seen": 1785502974.1792908,
+  "title": "Consultant Transformation Data/IA - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417227254"
+  ]
+ },
+ "1eaeb72e9702711d29db0c7bdc51bfba": {
+  "first_seen": 1785502974.1793067,
+  "title": "IA Engineer Senior (F/H)",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438487258"
+  ]
+ },
+ "2e1fd59d6850d9d79580e550b91c924a": {
+  "first_seen": 1785502974.1793165,
+  "title": "STAGE - ASSISTANT BUSINESS & PRICING ANALYST - MARS 2026 F/H/NB",
+  "company": "Maison Francis Kurkdjian",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4342432641"
+  ]
+ },
+ "d190c46a0889dc10b43261fd7e50dcd2": {
+  "first_seen": 1785502974.1793334,
+  "title": "Data Engineer Snowflake",
+  "company": "eXalt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399792583"
+  ]
+ },
+ "4c29e297313acd4b55ccf4f8debcfd99": {
+  "first_seen": 1785502974.179341,
+  "title": "APPRENTICESHIP - Junior IT Product Owner  - September - (H/F)",
+  "company": "Danone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433303457"
+  ]
+ },
+ "f7279ef1a02e9d4c46b43171e3dfe478": {
+  "first_seen": 1785502974.179431,
+  "title": "AI Developer H/F",
+  "company": "42c",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447265918"
+  ]
+ },
+ "97ae3b6ebbcd3ee1c472075e420fc00e": {
+  "first_seen": 1785502974.1794639,
+  "title": "Consultant Secteur Public IA/Data – F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418253778"
+  ]
+ },
+ "65167887fcb96c6da74d4a06f62a566e": {
+  "first_seen": 1785502974.1794872,
+  "title": "Data & AI Delivery Manager (H/F)",
+  "company": "Equancy | Groupe EDG",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447501426"
+  ]
+ },
+ "716fc975a8f142557c8581f8dd439dcd": {
+  "first_seen": 1785502974.1794944,
+  "title": "AI Product Manager",
+  "company": "Monk AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447100118"
+  ]
+ },
+ "b6fb9160ae41f0fd5ee07fce7c49138b": {
+  "first_seen": 1785502974.1795013,
+  "title": "AI Agentic Lead",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447518017"
+  ]
+ },
+ "097842a0d36d49f6e5e1fd0c0b3b93f4": {
+  "first_seen": 1785502974.179519,
+  "title": "Data Science Marketing Pod Lead",
+  "company": "Hilti Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444294566"
+  ]
+ },
+ "b5c5dd303d97e38721a096acbe8b67ba": {
+  "first_seen": 1785502974.1795459,
+  "title": "Solution Consultant - ArgonOS",
+  "company": "ChapsVision",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417207287"
+  ]
+ },
+ "99aea510e3d10f5f4f442b7fd9bc2d07": {
+  "first_seen": 1785502974.1795611,
+  "title": "Consultant(e) Digital & Data F/H",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447088948"
+  ]
+ },
+ "14fc857027e731eb024e3d2165e5f965": {
+  "first_seen": 1785502974.1795828,
+  "title": "Architecte Technique Data et IA H/F",
+  "company": "Jems Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447060088"
+  ]
+ },
+ "4e6c9425f6a44ddbcb754e551bb01668": {
+  "first_seen": 1785502974.1795902,
+  "title": "Doctoral student",
+  "company": "Westinghouse Electric Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437561685"
+  ]
+ },
+ "0915157fcf783dc3e4a1add1b7048555": {
+  "first_seen": 1785502974.1795976,
+  "title": "STAGE Développeur Python F/H",
+  "company": "Bpifrance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446899888"
+  ]
+ },
+ "4ef789e62e0c7a06431a58e515ed666a": {
+  "first_seen": 1785502974.1796048,
+  "title": "Platform Engineer - Self-Service Data Platform",
+  "company": "Bioptimus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447009319"
+  ]
+ },
+ "16c992b7ba285b0c3b76109dc27f5d63": {
+  "first_seen": 1785502974.179611,
+  "title": "Product Analytics",
+  "company": "Dataiku",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445012356"
+  ]
+ },
+ "fcabaac6e1026fcda577c3b97a11bce5": {
+  "first_seen": 1785502974.17962,
+  "title": "Consultant / Consultante Stratégie Data et Customer Experience",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446831379"
   ]
  }
 }
