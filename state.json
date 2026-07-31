@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785528154.1687932,
+   "last_success": 1785529936.100852,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785528154.168798,
+   "last_success": 1785529936.1008584,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785528168.9504762,
+   "last_success": 1785529949.5563536,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785528168.9504802,
+   "last_success": 1785529949.556359,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785528168.950482,
+   "last_success": 1785529949.5563612,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785528168.950483,
+   "last_success": 1785529949.5563629,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785528168.9504848,
+   "last_success": 1785529949.556364,
    "alerted": false
   }
  },
@@ -17275,6 +17275,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447134652"
+  ]
+ },
+ "7a7b1ca94cc15f14b0346122ad127bed": {
+  "first_seen": 1785529949.5573254,
+  "title": "Senior Embedded Electrical Engineer",
+  "company": "Gama",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447551418"
+  ]
+ },
+ "8917b3ef1370d3a623e94eea876257e7": {
+  "first_seen": 1785529949.5573363,
+  "title": "Tech Lead Linux Embarqué - Yocto / Buildroot H/F",
+  "company": "Smile",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420940913"
   ]
  }
 }
