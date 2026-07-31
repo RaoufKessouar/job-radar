@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785495738.9773114,
+   "last_success": 1785497523.8346922,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785495738.9773412,
+   "last_success": 1785497523.8346977,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785495753.1684704,
+   "last_success": 1785497539.7851274,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785495753.1684752,
+   "last_success": 1785497539.785133,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785495753.1684768,
+   "last_success": 1785497539.7851346,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785495753.1684787,
+   "last_success": 1785497539.785136,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785495753.1684802,
+   "last_success": 1785497539.7851372,
    "alerted": false
   }
  },
@@ -16261,6 +16261,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437556765"
+  ]
+ },
+ "19e168ee593cf1beaab46a25f654e55f": {
+  "first_seen": 1785497539.785805,
+  "title": "Stage ou alternance consultant informatique et financement de l'innovation F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4322440615"
+  ]
+ },
+ "31562096932bcb0b6adedb4bdfc94a7d": {
+  "first_seen": 1785497539.78589,
+  "title": "AI Engineer (F/H/X)",
+  "company": "Verisure",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445513309"
   ]
  }
 }
