@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785475935.4293158,
+   "last_success": 1785477778.4099898,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785475935.4293215,
+   "last_success": 1785477778.4099963,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785475948.1058898,
+   "last_success": 1785477791.9758167,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785475948.1058953,
+   "last_success": 1785477791.9758215,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785475948.1058972,
+   "last_success": 1785477791.9758234,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785475948.1058989,
+   "last_success": 1785477791.9758246,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785475948.1059,
+   "last_success": 1785477791.9758263,
    "alerted": false
   }
  },
@@ -9633,7 +9633,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4259603961",
-   "https://www.linkedin.com/jobs/view/4444464006"
+   "https://www.linkedin.com/jobs/view/4444464006",
+   "https://www.linkedin.com/jobs/view/4447251299"
   ]
  },
  "3518d4afa984bea20441c454e2a67733": {
@@ -11872,7 +11873,8 @@
    "https://www.linkedin.com/jobs/view/4444872303",
    "https://www.linkedin.com/jobs/view/4445433912",
    "https://www.linkedin.com/jobs/view/4446015587",
-   "https://www.linkedin.com/jobs/view/4446487955"
+   "https://www.linkedin.com/jobs/view/4446487955",
+   "https://www.linkedin.com/jobs/view/4446952963"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -14409,7 +14411,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446596432"
+   "https://www.linkedin.com/jobs/view/4446596432",
+   "https://www.linkedin.com/jobs/view/4426766732"
   ]
  },
  "484b4af0410ca79386a9c27d42733a90": {
@@ -15607,6 +15610,222 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447046342"
+  ]
+ },
+ "12353b325a0cdc4c9c1a980f11105111": {
+  "first_seen": 1785477791.9766521,
+  "title": "Software Engineer – AI Developer Experience (DevEx) F/H",
+  "company": "padoa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426142572"
+  ]
+ },
+ "4cbffe210bc0729f72d6e08f70d34615": {
+  "first_seen": 1785477791.976662,
+  "title": "ingénieur IA DevSecOps H/F",
+  "company": "Bpifrance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4334925295"
+  ]
+ },
+ "555590336a562cfe45c92854b83c472b": {
+  "first_seen": 1785477791.9766731,
+  "title": "stage - Assistant Analyste Senior - Parfums Beauté - Août 2026 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446923125"
+  ]
+ },
+ "3017536c36f33ae861a7c1a2139dc2ef": {
+  "first_seen": 1785477791.9767067,
+  "title": "Analyste données - veille sur les réseaux sociaux - visualisation de données (F/H)",
+  "company": "Ministère des Affaires étrangères français",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447044933"
+  ]
+ },
+ "56071407239d10710579118016669f63": {
+  "first_seen": 1785477791.976714,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Intermedia Lab",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445023857"
+  ]
+ },
+ "ce8a16c99068c33a87a5c4ce0a01cbe3": {
+  "first_seen": 1785477791.9767294,
+  "title": "Associate Consultant",
+  "company": "Appian",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446738821"
+  ]
+ },
+ "62184b65389498f724321ef250b79303": {
+  "first_seen": 1785477791.9767375,
+  "title": "Développeur Data Python / VBA",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446727498"
+  ]
+ },
+ "56b18d386ae9d81aa6db2bbef790b7ba": {
+  "first_seen": 1785477791.9767442,
+  "title": "INGENIEUR DATA H/F - COURBEVOIE",
+  "company": "ANTARGAZ",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445022263"
+  ]
+ },
+ "78f78a387c5f9fc2a7f02d927480fef0": {
+  "first_seen": 1785477791.9767542,
+  "title": "CS27 - Stage - BAC+5 - Data Engineering & Analytics – Produits Cloud (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446793485"
+  ]
+ },
+ "a9458abee7227947529a9ad6222b8176": {
+  "first_seen": 1785477791.9767616,
+  "title": "Développeur Python - H/F",
+  "company": "MERITIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446723673"
+  ]
+ },
+ "f4148d355ae342be0247b12fbe650b6f": {
+  "first_seen": 1785477791.976769,
+  "title": "Account Manager Specialist AI Solutions (H/F)",
+  "company": "SCC France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446728676"
+  ]
+ },
+ "86ab447cbe8cf911c84a92ce089db596": {
+  "first_seen": 1785477791.9767756,
+  "title": "Product Engineer",
+  "company": "Zoī",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4394786544"
+  ]
+ },
+ "d620a21ebb8f979d6a2e5b470c263338": {
+  "first_seen": 1785477791.9768157,
+  "title": "Ingénieur Télécom & Développement - Paris / Montpellier - H/F",
+  "company": "Groupe iliad",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446746546"
+  ]
+ },
+ "0cc13fa97534f420899b2d8471eed664": {
+  "first_seen": 1785477791.9768226,
+  "title": "Data Engineer, Places",
+  "company": "amo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447065966"
+  ]
+ },
+ "6fd644e4cdb3749ebab828b58661bb3f": {
+  "first_seen": 1785477791.9768996,
+  "title": "Analyste quantitatif H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447014076"
+  ]
+ },
+ "a67fd6d06432013a32929763e3779a6b": {
+  "first_seen": 1785477791.9769177,
+  "title": "Senior Member of Technical Staff, Safety and Security for Agents",
+  "company": "Cohere",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4389320029"
+  ]
+ },
+ "967c32a3cd6326df0097c860cc15c250": {
+  "first_seen": 1785477791.9769242,
+  "title": "Ingénieur(e) Backend",
+  "company": "Datapolitics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446919995"
+  ]
+ },
+ "a0e1ce763a7d5fd45baf65e802a5af09": {
+  "first_seen": 1785477791.9769318,
+  "title": "Développeur Full Stack (Alternance ou Stage)",
+  "company": "INCOM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446755525"
+  ]
+ },
+ "52e697192ec04d03880145d5bab45c32": {
+  "first_seen": 1785477791.976939,
+  "title": "Commando Python front-office H/F",
+  "company": "MERITIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446723650"
+  ]
+ },
+ "84104c9ae313049ad5f8d8aa8db256b8": {
+  "first_seen": 1785477791.9769473,
+  "title": "Architect Cloud et Data H/F",
+  "company": "Crédit Agricole",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438273576"
+  ]
+ },
+ "e6dc2ac28ac6149e8c41d2189a779df0": {
+  "first_seen": 1785477791.9769578,
+  "title": "NOOCO - Stage Ingénieur ACV & Stratégie Produit - Septembre 2026 - 6 mois - (F/H/X)",
+  "company": "Deepki",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417860525"
+  ]
+ },
+ "891b4bcf3f378ffa161b9ef9831d7978": {
+  "first_seen": 1785477791.9770267,
+  "title": "Développeur logiciel",
+  "company": "TerX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447237794"
+  ]
+ },
+ "988205304bd8056dc6bcdac02032fc9e": {
+  "first_seen": 1785477791.9770353,
+  "title": "Ingénieur Développeur Logiciel Embarqué RX / VX (H/F)",
+  "company": "Equans France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446959184"
+  ]
+ },
+ "16b184e1c1208778b3a7f647486b5214": {
+  "first_seen": 1785477791.9770901,
+  "title": "Ingénieur-e Intégration & Vérification  Systèmes de Navigation Aéronautique F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FR",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447080105"
   ]
  }
 }
