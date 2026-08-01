@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785600153.418159,
+   "last_success": 1785601930.1535418,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785600153.4181647,
+   "last_success": 1785601930.1535475,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785600164.7674382,
+   "last_success": 1785601943.1451113,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785600164.767443,
+   "last_success": 1785601943.1451159,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785600164.767445,
+   "last_success": 1785601943.1451178,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785600164.7674463,
+   "last_success": 1785601943.1451192,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785600164.7674477,
+   "last_success": 1785601943.1451209,
    "alerted": false
   }
  },
@@ -15367,7 +15367,8 @@
   "company": "Scaleway",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444506991"
+   "https://www.linkedin.com/jobs/view/4444506991",
+   "https://www.linkedin.com/jobs/view/4445568780"
   ]
  },
  "532f5a62d4637816820f666d783bf2bf": {
@@ -18591,6 +18592,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4430758341"
+  ]
+ },
+ "c43cd221736a461e64da61cb960690e6": {
+  "first_seen": 1785601943.1462016,
+  "title": "STAGE de fin d'étude - Simulations numériques pour la conception de capteurs EMAT - H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4362030235"
+  ]
+ },
+ "449989519c4eb822e5850c7dfb45e9c3": {
+  "first_seen": 1785601943.1462443,
+  "title": "Backend & database engineer",
+  "company": "Tsuga",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447798997"
+  ]
+ },
+ "8060147e2466674f3b5533037e35e812": {
+  "first_seen": 1785601943.1462524,
+  "title": "Backend engineer - NodeJS / Rust",
+  "company": "Tsuga",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447813206"
+  ]
+ },
+ "8ea3d02f42737c6582566306d7aa7cc6": {
+  "first_seen": 1785601943.1462655,
+  "title": "Ingénieur Intégration, Validation, Intégration, Vérification logiciel – Projet Civil (H/F)",
+  "company": "SII Group Switzerland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437814395"
   ]
  }
 }
