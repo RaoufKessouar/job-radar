@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785612772.773181,
+   "last_success": 1785614522.3506057,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785612772.7731864,
+   "last_success": 1785614522.350611,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785612784.464493,
+   "last_success": 1785614534.0433831,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785612784.4644973,
+   "last_success": 1785614534.0433877,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785612784.4644992,
+   "last_success": 1785614534.043389,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785612784.4645004,
+   "last_success": 1785614534.043391,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785612784.4645019,
+   "last_success": 1785614534.0433922,
    "alerted": false
   }
  },
@@ -18990,6 +18990,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447747995"
+  ]
+ },
+ "04f5fc12af03a7e7842e19a81dfc4b2d": {
+  "first_seen": 1785614534.0439777,
+  "title": "Alternance 12 à 24 mois - Chargé projet digital (H/F)",
+  "company": "OCP Répartition",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420446757"
   ]
  }
 }
