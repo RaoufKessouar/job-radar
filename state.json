@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785585857.3650682,
+   "last_success": 1785587552.485409,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785585857.3650742,
+   "last_success": 1785587552.485415,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785585868.4640498,
+   "last_success": 1785587566.3177369,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785585868.464055,
+   "last_success": 1785587566.3177416,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785585868.4640567,
+   "last_success": 1785587566.3177435,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785585868.4640582,
+   "last_success": 1785587566.3177454,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785585868.4640594,
+   "last_success": 1785587566.3177469,
    "alerted": false
   }
  },
@@ -12658,7 +12658,8 @@
    "https://www.linkedin.com/jobs/view/4441894579",
    "https://www.linkedin.com/jobs/view/4442333972",
    "https://www.linkedin.com/jobs/view/4446737182",
-   "https://www.linkedin.com/jobs/view/4445069830"
+   "https://www.linkedin.com/jobs/view/4445069830",
+   "https://www.linkedin.com/jobs/view/4445801128"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -16345,7 +16346,8 @@
   "company": "Thales",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447045169"
+   "https://www.linkedin.com/jobs/view/4447045169",
+   "https://www.linkedin.com/jobs/view/4447546646"
   ]
  },
  "4fa882fdeb021039b44ab18aa3fe582c": {
@@ -17849,6 +17851,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437991473"
+  ]
+ },
+ "7eee483bbc652a0b3289f775dcdc46b1": {
+  "first_seen": 1785587566.3189852,
+  "title": "Ingénieur validation fonctionnelle - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428283617"
+  ]
+ },
+ "02da0930701a21c99c1da47e35f647ee": {
+  "first_seen": 1785587566.3190095,
+  "title": "INGENIEUR DEVELOPPEMENT ELECTRONIQUE SECTEUR AUTOMOBILE H/F",
+  "company": "Emitech Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445503789"
   ]
  }
 }
