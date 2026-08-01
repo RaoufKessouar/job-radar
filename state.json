@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785571340.2198663,
+   "last_success": 1785572578.3370926,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785571340.219872,
+   "last_success": 1785572578.337098,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785571354.7003367,
+   "last_success": 1785572593.5602555,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785571354.7003415,
+   "last_success": 1785572593.5602603,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785571354.7003436,
+   "last_success": 1785572593.5602627,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785571354.7003448,
+   "last_success": 1785572593.5602639,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785571354.700346,
+   "last_success": 1785572593.5602653,
    "alerted": false
   }
  },
@@ -9635,7 +9635,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4259603961",
    "https://www.linkedin.com/jobs/view/4444464006",
-   "https://www.linkedin.com/jobs/view/4447251299"
+   "https://www.linkedin.com/jobs/view/4447251299",
+   "https://www.linkedin.com/jobs/view/4447799136"
   ]
  },
  "3518d4afa984bea20441c454e2a67733": {
