@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785572578.3370926,
+   "last_success": 1785573131.2184293,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785572578.337098,
+   "last_success": 1785573131.2184353,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785572593.5602555,
+   "last_success": 1785573144.4109056,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785572593.5602603,
+   "last_success": 1785573144.4109104,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785572593.5602627,
+   "last_success": 1785573144.4109123,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785572593.5602639,
+   "last_success": 1785573144.410914,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785572593.5602653,
+   "last_success": 1785573144.4109151,
    "alerted": false
   }
  },
@@ -17657,6 +17657,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447155671"
+  ]
+ },
+ "c792d631ab3426bbc90c0331b4b5023f": {
+  "first_seen": 1785573144.4116921,
+  "title": "Apprenticeship (m/f/d) – Strategic Procurement - Home Devices & Services",
+  "company": "BuyIn",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447537320"
   ]
  }
 }
