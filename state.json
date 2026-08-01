@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785565925.9112055,
+   "last_success": 1785567777.259958,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785565925.9112105,
+   "last_success": 1785567777.2599638,
    "alerted": false
   },
   "carriere-renault": {
@@ -17,15 +17,15 @@
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785565935.7126696,
+   "last_success": 1785567785.7091453,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785565935.7126713,
+   "last_success": 1785567785.7091472,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785565935.7126722,
+   "last_success": 1785567785.7091484,
    "alerted": false
   }
  },
@@ -11878,7 +11878,8 @@
    "https://www.linkedin.com/jobs/view/4445433912",
    "https://www.linkedin.com/jobs/view/4446015587",
    "https://www.linkedin.com/jobs/view/4446487955",
-   "https://www.linkedin.com/jobs/view/4446952963"
+   "https://www.linkedin.com/jobs/view/4446952963",
+   "https://www.linkedin.com/jobs/view/4447441254"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -17520,6 +17521,141 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447708130"
+  ]
+ },
+ "25d143c2e8ed989881e7cd6fb62c75bc": {
+  "first_seen": 1785567785.7103121,
+  "title": "Consultant IA Confirmé",
+  "company": "VML Enterprise Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445561519"
+  ]
+ },
+ "d5eb74a88bb87ec706c184733e749e03": {
+  "first_seen": 1785567785.7103593,
+  "title": "AI Software Engineer – Agents IA (LangChain) (H/F) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445532996"
+  ]
+ },
+ "ba66a09e8fbc06613f221ef79fe7fe07": {
+  "first_seen": 1785567785.710383,
+  "title": "Senior Deep Learning Scientist (H/F)",
+  "company": "Safran.AI (ex Preligens)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447710300"
+  ]
+ },
+ "6ff6863a4011d6edb77fd9c4ecdca50b": {
+  "first_seen": 1785567785.7104876,
+  "title": "STAGIAIRE 3D ARTIST (ALTERNANCE)",
+  "company": "Bonjour Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447544490"
+  ]
+ },
+ "a393a87e74e2362b059affb67dbca1aa": {
+  "first_seen": 1785567785.7106054,
+  "title": "Ingénieur-e développement embarqué F/H - SAFRAN DATA SYSTEMS SAS",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443808401"
+  ]
+ },
+ "de38d1487ec8b93ae44cb9a908e411fe": {
+  "first_seen": 1785567785.7106714,
+  "title": "CDI - Ingénieure / Ingénieur Guidage-Pilotage lanceurs et véhicules de rentrée",
+  "company": "ArianeGroup",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447175889"
+  ]
+ },
+ "e49ff3f08d732f97c327f0f3e4c73648": {
+  "first_seen": 1785567785.710695,
+  "title": "Ingénieur validation système sur dispositif d'Interception réseaux F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447550622"
+  ]
+ },
+ "1729d2623bc6d98cf78560842da48ab4": {
+  "first_seen": 1785567785.710702,
+  "title": "Automaticien H/F",
+  "company": "FAUCHÉ",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4331158848"
+  ]
+ },
+ "e602f10b3256fce8e6f3fd61717534df": {
+  "first_seen": 1785567785.7107096,
+  "title": "Ingenieur Cybersecurite Systeme embarque",
+  "company": "ARealTI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447758044"
+  ]
+ },
+ "c5f0adec5afce374ab0ff5db17fd13b7": {
+  "first_seen": 1785567785.710718,
+  "title": "Customer Reactivity Analyst – Reactive Lab H/F",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445502239"
+  ]
+ },
+ "009208293eb91db19f787dae3528a6af": {
+  "first_seen": 1785567785.7107255,
+  "title": "FAE FPGA",
+  "company": "Microchip Technology Inc.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429966829"
+  ]
+ },
+ "af05b5547f6ea68e8d1cccdbc3971723": {
+  "first_seen": 1785567785.7107348,
+  "title": "Technicien(ne) Validation Systèmes Drone & Télépilote",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419435723"
+  ]
+ },
+ "2c2e1a541f29acbcd907cb16a5ba6963": {
+  "first_seen": 1785567785.7107413,
+  "title": "Senior Software Safety Engineer",
+  "company": "AeroVect",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447571978"
+  ]
+ },
+ "278aefd41997791c8a7baec80bf6d83d": {
+  "first_seen": 1785567785.7107496,
+  "title": "Ingénieur étude et conception Algorithmes C2 F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430471890"
+  ]
+ },
+ "2248734f6adbbf9939e7df6410476c7b": {
+  "first_seen": 1785567785.7107704,
+  "title": "Consultant développeur junior - Javascript (H/F)",
+  "company": "Basikon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447155671"
   ]
  }
 }
