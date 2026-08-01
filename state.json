@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785573131.2184293,
+   "last_success": 1785574962.1063828,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785573131.2184353,
+   "last_success": 1785574962.1063879,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785573144.4109056,
+   "last_success": 1785574974.7509289,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785573144.4109104,
+   "last_success": 1785574974.7509341,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785573144.4109123,
+   "last_success": 1785574974.750936,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785573144.410914,
+   "last_success": 1785574974.7509375,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785573144.4109151,
+   "last_success": 1785574974.7509387,
    "alerted": false
   }
  },
@@ -17666,6 +17666,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447537320"
+  ]
+ },
+ "dc944dbe9fed4a4bbac071f4c0574b06": {
+  "first_seen": 1785574974.751759,
+  "title": "Data Scientist – IA, Machine Learning & Business Intelligence",
+  "company": "SoTalent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445572778"
+  ]
+ },
+ "8032d3cb66b68342eb04a411e714803f": {
+  "first_seen": 1785574974.751782,
+  "title": "CDI - AUTOMATION & DATA CONSULTANT JUNIOR - H/F",
+  "company": "Havas Business Science",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429364145"
+  ]
+ },
+ "76189f8c879e95c7dfb8aac2496ebcc3": {
+  "first_seen": 1785574974.7518406,
+  "title": "Senior DevOps Engineer (Full Remote from France)",
+  "company": "Dailymotion",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447452984"
+  ]
+ },
+ "14565c106f606ac8051a303e19f462ca": {
+  "first_seen": 1785574974.7518487,
+  "title": "Stage / Alternance - Amazon Paid Media Intern H/F)",
+  "company": "Withings",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447524754"
+  ]
+ },
+ "86dc7896c831c050a77d82373a2c4880": {
+  "first_seen": 1785574974.7518713,
+  "title": "Energy Data Analyst (H/F)",
+  "company": "Effy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447292721"
   ]
  }
 }
