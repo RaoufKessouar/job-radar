@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785603694.629177,
+   "last_success": 1785603821.8055012,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785603694.629183,
+   "last_success": 1785603821.8055067,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785603707.664086,
+   "last_success": 1785603835.5596395,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785603707.6640906,
+   "last_success": 1785603835.5596447,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785603707.664092,
+   "last_success": 1785603835.5596464,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785603707.6640935,
+   "last_success": 1785603835.5596478,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785603707.6640954,
+   "last_success": 1785603835.5596492,
    "alerted": false
   }
  },
@@ -18631,7 +18631,7 @@
   ]
  },
  "ba9a0f340515ea6db35ae972f36f159b": {
-  "first_seen": 1785603707.6651373,
+  "first_seen": 1785603835.5603,
   "title": "AI Engineer / Agentic AI Engineer",
   "company": "Accenture France",
   "source": "linkedin",
@@ -18640,7 +18640,7 @@
   ]
  },
  "657afb81bad1b844b015b0a5cc4ca8cf": {
-  "first_seen": 1785603707.6652317,
+  "first_seen": 1785603835.5604053,
   "title": "Ingénieur Data F/H",
   "company": "Thales",
   "source": "linkedin",
@@ -18649,7 +18649,7 @@
   ]
  },
  "7314b170ca9eb5d53e7fbd79308fe228": {
-  "first_seen": 1785603707.6652389,
+  "first_seen": 1785603835.560413,
   "title": "Data Engineer GCP H/F",
   "company": "OPEN",
   "source": "linkedin",
@@ -18658,7 +18658,7 @@
   ]
  },
  "9bdd108abb3062665cfb82b803bcf41c": {
-  "first_seen": 1785603707.6652467,
+  "first_seen": 1785603835.5604205,
   "title": "Data Analyst Senior F/H",
   "company": "VINCI Autoroutes",
   "source": "linkedin",
@@ -18667,7 +18667,7 @@
   ]
  },
  "30b7e60a225f188c2dae7c76b981ac91": {
-  "first_seen": 1785603707.6652632,
+  "first_seen": 1785603835.5604386,
   "title": "STAGE JANVIER 2027 - Fragrance Market & Consumer Insights Analyst (H/F)",
   "company": "Cartier",
   "source": "linkedin",
@@ -18676,7 +18676,7 @@
   ]
  },
  "c5fb3322f2bfce27590fb45a2415b11c": {
-  "first_seen": 1785603707.6652718,
+  "first_seen": 1785603835.5604472,
   "title": "Alternance - Business & Data Analyst H/F",
   "company": "Crédit Agricole",
   "source": "linkedin",
@@ -18684,8 +18684,53 @@
    "https://www.linkedin.com/jobs/view/4439063326"
   ]
  },
+ "27a373797611240de7cf42b17a05d894": {
+  "first_seen": 1785603835.5604768,
+  "title": "Data Engineer Databricks (H/F)",
+  "company": "Inetum",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439332203"
+  ]
+ },
+ "1a1f0fcf7bf6b0cf3fea6967e06156c0": {
+  "first_seen": 1785603835.560491,
+  "title": "Sustainability Consultant Intern",
+  "company": "Quantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447784487"
+  ]
+ },
+ "deeffce326908b5c0c1a9af48a75c07d": {
+  "first_seen": 1785603835.5605092,
+  "title": "Stage – Chef(fe) de projet Performance Qualité – Mode – Mars 2027 – H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438348924"
+  ]
+ },
+ "6d05445bff09e4ae1c2d895f7f7a4202": {
+  "first_seen": 1785603835.5605226,
+  "title": "Economists",
+  "company": "OECD - OCDE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438340515"
+  ]
+ },
+ "18c8120709d772d5719205469a9edfa4": {
+  "first_seen": 1785603835.5605311,
+  "title": "Security Incident Response apprentice H/F",
+  "company": "BNP Paribas Asset Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447596579"
+  ]
+ },
  "e74f8afd49b81347748c38799218bf14": {
-  "first_seen": 1785603707.6653376,
+  "first_seen": 1785603835.5606027,
   "title": "Lead AI Engineer H/F",
   "company": "LCL",
   "source": "linkedin",
