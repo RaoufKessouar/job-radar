@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785585734.2875614,
+   "last_success": 1785585857.3650682,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785585734.2875671,
+   "last_success": 1785585857.3650742,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785585746.5977318,
+   "last_success": 1785585868.4640498,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785585746.5977364,
+   "last_success": 1785585868.464055,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785585746.597739,
+   "last_success": 1785585868.4640567,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785585746.5977407,
+   "last_success": 1785585868.4640582,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785585746.597742,
+   "last_success": 1785585868.4640594,
    "alerted": false
   }
  },
@@ -13199,7 +13199,8 @@
   "company": "Wavestone",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442809691"
+   "https://www.linkedin.com/jobs/view/4442809691",
+   "https://www.linkedin.com/jobs/view/4445534230"
   ]
  },
  "71dfd44578ad63ff69b662c3be5b67c2": {
@@ -17713,6 +17714,141 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447292721"
+  ]
+ },
+ "1d6c5614f7e12f0ce159bc461c4484c9": {
+  "first_seen": 1785585868.4647882,
+  "title": "Research Engineer, Model Inference & Serving - Paris",
+  "company": "H Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399752837"
+  ]
+ },
+ "2f8ad819d5cd15ef6cce4e91545ec7af": {
+  "first_seen": 1785585868.4648225,
+  "title": "CDI - Data Engineering Manager Analytics & AI (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419086398"
+  ]
+ },
+ "7d765580655ddac1c9d8df7b878d6ef4": {
+  "first_seen": 1785585868.4648573,
+  "title": "Infrastructure AI Specialist Senior F/H",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437924465"
+  ]
+ },
+ "2fa400d7052642af373d14b5119e2673": {
+  "first_seen": 1785585868.4648907,
+  "title": "Stage chargé(e) de communication digitale Environnement de Travail",
+  "company": "Servier France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439089396"
+  ]
+ },
+ "7525d1dbe839a18735aed51ebe066fd7": {
+  "first_seen": 1785585868.4649053,
+  "title": "STAGE - Assistant(e) Social Media Retail France (H/F)",
+  "company": "GRANDVISION FRANCE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445521401"
+  ]
+ },
+ "ac0d83b4b36b882e4c54d59d40045fdb": {
+  "first_seen": 1785585868.4649136,
+  "title": "Alternance – AI Business Analyst (F/H)",
+  "company": "VISEO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418826129"
+  ]
+ },
+ "285141c1339749ce86d2606568ce47d3": {
+  "first_seen": 1785585868.4649549,
+  "title": "Consultant en stratégie digitale - Stage - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435986469"
+  ]
+ },
+ "39dd41d3299aa30cdf7ce5bf010bea93": {
+  "first_seen": 1785585868.4649718,
+  "title": "STAGE - CHARGE D'ETUDES & DE VEILLE (F/H)",
+  "company": "Havas Worldwide Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4389304334"
+  ]
+ },
+ "4a7a76d510988932824df59b59423d4c": {
+  "first_seen": 1785585868.4649787,
+  "title": "Juriste Contentieux H/F - Stage",
+  "company": "ClubFunding",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438672340"
+  ]
+ },
+ "d670f9754ed6d57ce383132839689425": {
+  "first_seen": 1785585868.464988,
+  "title": "Stage 6 mois – Social Media & Content Creator",
+  "company": "Deep Detective",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447569979"
+  ]
+ },
+ "1741e7b3befa4e8fa396ba89bfa8809f": {
+  "first_seen": 1785585868.4649963,
+  "title": "Alternance Ingénieur Avant-Vente F/H",
+  "company": "Orange Business",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418860826"
+  ]
+ },
+ "1eddf8997cfa517ce32acc886bcd47e1": {
+  "first_seen": 1785585868.4650033,
+  "title": "STAGE - Data Management Operations F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402528338"
+  ]
+ },
+ "ec4a3ef01022556a42d7a45c8652d869": {
+  "first_seen": 1785585868.4650137,
+  "title": "ASSISTANT INGENIEUR DESSINATEUR 3D – JANVIER/FEVRIER 2027 (6 mois) – H/F",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447597374"
+  ]
+ },
+ "f3b9fd2167b552b95f3399096c994412": {
+  "first_seen": 1785585868.465024,
+  "title": "STAGE - Assistant(e) Création Packaging Studio - JANVIER 2027 - F/H",
+  "company": "LVMH Fragrance Brands",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447708176"
+  ]
+ },
+ "3c71fb0f2106aae698087c9aa102e673": {
+  "first_seen": 1785585868.4650342,
+  "title": "STAGE - STAGE – DA JUNIOR (H/F/X)",
+  "company": "Havas Play 🇫🇷",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437991473"
   ]
  }
 }
