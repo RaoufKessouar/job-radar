@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785562322.5181363,
+   "last_success": 1785564165.1920655,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785562322.5181758,
+   "last_success": 1785564165.1920717,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785562335.8600156,
+   "last_success": 1785564178.5841968,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785562335.8600204,
+   "last_success": 1785564178.5842018,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785562335.8600223,
+   "last_success": 1785564178.5842037,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785562335.8600235,
+   "last_success": 1785564178.5842052,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785562335.8600252,
+   "last_success": 1785564178.5842066,
    "alerted": false
   }
  },
@@ -11225,7 +11225,9 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4442669576",
    "https://www.linkedin.com/jobs/view/4444847823",
-   "https://www.linkedin.com/jobs/view/4444857493"
+   "https://www.linkedin.com/jobs/view/4444857493",
+   "https://www.linkedin.com/jobs/view/4447406658",
+   "https://www.linkedin.com/jobs/view/4447407668"
   ]
  },
  "6f893d04b0312561a116813884e7f6f5": {
@@ -17338,6 +17340,186 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445501523"
+  ]
+ },
+ "cb586cc96643696f658d32f0aaed07e9": {
+  "first_seen": 1785564178.5849376,
+  "title": "AI-Native Software Engineer - CDI Paris - Theodo",
+  "company": "Theodo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4367002186"
+  ]
+ },
+ "14b7f056a6f5730eea3ec1dc88075545": {
+  "first_seen": 1785564178.58504,
+  "title": "Alternance - Développeur logiciel assisté par IA - F/H",
+  "company": "Groupe ADP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447157294"
+  ]
+ },
+ "53cfc607874643d896d46c0db15530b0": {
+  "first_seen": 1785564178.5850487,
+  "title": "Software Engineer Intern - Front-End or Fullstack",
+  "company": "Criteo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390813722"
+  ]
+ },
+ "bdb108eb53cc11af2485e93b0b081810": {
+  "first_seen": 1785564178.5850625,
+  "title": "CS27 BAC+5 - Ingénieur Génie Industriel - Proxy Product Owner en Réalité virtuelle / Réalité augmentée (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446986688"
+  ]
+ },
+ "ecee2ee864b2e01e252bfd07f6899774": {
+  "first_seen": 1785564178.5850708,
+  "title": "Stage – Assistant(e) VM GRAPHIC DESIGNER (F/H)",
+  "company": "GIVENCHY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447536924"
+  ]
+ },
+ "f3b25abc4a918926382f043cf90f2678": {
+  "first_seen": 1785564178.5850782,
+  "title": "Legal Intern, Cloud",
+  "company": "Tencent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445772415"
+  ]
+ },
+ "9a2c385d3011a13646840d4f6d7c12b5": {
+  "first_seen": 1785564178.58511,
+  "title": "STAGE - PROJECT EXECUTIVE ÉTUDES & DATA (H/F/NB)",
+  "company": "Ipsos bva",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447599424"
+  ]
+ },
+ "3591b9b002a2730ecf18ec149af73817": {
+  "first_seen": 1785564178.5851285,
+  "title": "Stage- Chargé de projet green IT – Numérique Responsable F/H",
+  "company": "Enedis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447526783"
+  ]
+ },
+ "3cebc9a333fdc5e8624b18a14bccbbc8": {
+  "first_seen": 1785564178.5851357,
+  "title": "STAGE COMPETITIVE INTELLIGENCE F/H",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447562407"
+  ]
+ },
+ "47c1767e851b107428611b312b6f813f": {
+  "first_seen": 1785564178.5851438,
+  "title": "Internship - Project Management Tech & AI modernization",
+  "company": "AXA Group Operations",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438817771"
+  ]
+ },
+ "7bde2d1cbcb73f0a8d5256f2c3af00f5": {
+  "first_seen": 1785564178.5851598,
+  "title": "CS27 BAC+5 - Chargé de veille technologique dans l'Impression 3D (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446994574"
+  ]
+ },
+ "1658eb272af93157eae7051eecd13d5d": {
+  "first_seen": 1785564178.585168,
+  "title": "Stagiaire IT - Ingénieur Réseau Sécurité",
+  "company": "Lutessa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445510577"
+  ]
+ },
+ "cbe26c104d385996151c556e21f3c0f0": {
+  "first_seen": 1785564178.5851789,
+  "title": "Stage - Chargé.e d'étude stratégie, transformation et développement durable Cargo F/H - Air France KLM",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447284188"
+  ]
+ },
+ "d73e422af808e66c4ff8a3e8372cacec": {
+  "first_seen": 1785564178.5852165,
+  "title": "Stage - Assistant.e Communication Interne EMEA (F/H) - Septembre 2026",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439315691"
+  ]
+ },
+ "2a4b4b20c75ea0cd435f5ea96a523a2a": {
+  "first_seen": 1785564178.5852256,
+  "title": "Stage Chargé de Communication (Relations Presse, Corporate & RSE) F/H/X",
+  "company": "BUT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445534117"
+  ]
+ },
+ "e1b2494beae9f8759a5e47aa9824c174": {
+  "first_seen": 1785564178.5852334,
+  "title": "Stage - Contrôle de gestion H/F",
+  "company": "Groupe TF1",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447503305"
+  ]
+ },
+ "688d35ae6be59dd2103267fdcd012f2e": {
+  "first_seen": 1785564178.585251,
+  "title": "Solution Engineer",
+  "company": "Kili Technology",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445084411"
+  ]
+ },
+ "cdac65dbc2f33ffa3906859c8f93fdc1": {
+  "first_seen": 1785564178.58526,
+  "title": "IT Systems Engineer – Automation & AI (M/F) - Apprenticeship - Paris",
+  "company": "Wiremind",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446991672"
+  ]
+ },
+ "af3a19816edc4be1c858978f5cd8eac8": {
+  "first_seen": 1785564178.5852745,
+  "title": "STAGE - Assistant(e) Chef De Projet Influence - Janvier 2027 - F/H",
+  "company": "LVMH Fragrance Brands",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447541886"
+  ]
+ },
+ "f9083733c4cb63d4fd0c706877530a41": {
+  "first_seen": 1785564178.5852818,
+  "title": "Security Incident Response apprentice H/F",
+  "company": "BNP Paribas",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447708130"
   ]
  }
 }
