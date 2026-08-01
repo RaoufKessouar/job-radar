@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785596559.6372693,
+   "last_success": 1785598342.5897887,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785596559.637274,
+   "last_success": 1785598342.5897942,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785596572.750424,
+   "last_success": 1785598353.4214845,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785596572.7504277,
+   "last_success": 1785598353.4214897,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785596572.750429,
+   "last_success": 1785598353.4214911,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785596572.75043,
+   "last_success": 1785598353.4214928,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785596572.7504313,
+   "last_success": 1785598353.421494,
    "alerted": false
   }
  },
@@ -18402,6 +18402,123 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445521367"
+  ]
+ },
+ "95e625762bbdd2dbea6c4840a690dbfb": {
+  "first_seen": 1785598353.422108,
+  "title": "FREELANCE-Ingénieur IA générative & IA agentique",
+  "company": "Mon Consultant Indépendant",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445516736"
+  ]
+ },
+ "ea8abd473ed4db21423c5b85f7f39226": {
+  "first_seen": 1785598353.4221227,
+  "title": "Développeur Java Python, Liquidity Data Platform H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438808444"
+  ]
+ },
+ "b6563f03098dcdd89abfcc929d594ee8": {
+  "first_seen": 1785598353.4221332,
+  "title": "Chef de Projet RWE H/F",
+  "company": "AIXIAL GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4425773788"
+  ]
+ },
+ "b4d4e53e370485af2f20d7b05abd049a": {
+  "first_seen": 1785598353.4221978,
+  "title": "Ingénieur IA GenAI (GCP Mandatory) (F/H/X)",
+  "company": "Amaris Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430940619"
+  ]
+ },
+ "4cb248e1d35b5ccec6c22af4e4a2b256": {
+  "first_seen": 1785598353.4223757,
+  "title": "Senior Full-Stack & AI Engineer (Engineering Lead track) - CDI",
+  "company": "Mediads",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447813385"
+  ]
+ },
+ "4c774d1c53f741d3a646d3ed13dc736a": {
+  "first_seen": 1785598353.422382,
+  "title": "Quant Model Risk Auditor",
+  "company": "JPMorganChase",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439357472"
+  ]
+ },
+ "8b3dde28e0a868785f2673978deb756e": {
+  "first_seen": 1785598353.4224124,
+  "title": "AI Native Designer F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436614159"
+  ]
+ },
+ "4e7571b429b1d2bf3fb1de6e33437b71": {
+  "first_seen": 1785598353.4224315,
+  "title": "Rédacteur de Test Labo Fnac– Informatique & Innovation F/H",
+  "company": "Fnac Darty",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439309628"
+  ]
+ },
+ "424001a611d996b3af04f20c33d53efb": {
+  "first_seen": 1785598353.4224463,
+  "title": "Creative Strategist junior Apprentice",
+  "company": "Condé Nast",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447183083"
+  ]
+ },
+ "8603258ee0992151c5ce4afa8c707171": {
+  "first_seen": 1785598353.422462,
+  "title": "Responsable pôle Transverse Data H/F",
+  "company": "GRDF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4295971251"
+  ]
+ },
+ "47e1cfe36e48111e908b30b1b808ec1d": {
+  "first_seen": 1785598353.4224691,
+  "title": "Consultant Strat & Tech sénior - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436603034"
+  ]
+ },
+ "23a0bddec1efd023e02b0e9693c48e13": {
+  "first_seen": 1785598353.4224787,
+  "title": "🚀 Stage — Consultant Développeur JavaScript (H/F)",
+  "company": "Basikon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447160551"
+  ]
+ },
+ "c5e4d0811c87175e0c0e3e22fa640814": {
+  "first_seen": 1785598353.4224944,
+  "title": "Marketing Apprenticeship for Motorola France",
+  "company": "Lenovo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418528472"
   ]
  }
 }
