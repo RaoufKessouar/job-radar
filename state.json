@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785560525.8091664,
+   "last_success": 1785562322.5181363,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785560525.809172,
+   "last_success": 1785562322.5181758,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785560537.459348,
+   "last_success": 1785562335.8600156,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785560537.459353,
+   "last_success": 1785562335.8600204,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785560537.459355,
+   "last_success": 1785562335.8600223,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785560537.4593563,
+   "last_success": 1785562335.8600235,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785560537.4593577,
+   "last_success": 1785562335.8600252,
    "alerted": false
   }
  },
@@ -17311,6 +17311,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447421699"
+  ]
+ },
+ "a05910606515beb45af04861f376aca3": {
+  "first_seen": 1785562335.8608625,
+  "title": "Data Analyst - Alternance  (F/H)",
+  "company": "Trace One",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445093774"
+  ]
+ },
+ "47767b61be3a068fc8bada581346d52d": {
+  "first_seen": 1785562335.8608763,
+  "title": "Alternant(e) – Chargé(e) d'études statistiques et actuarielles IARD H/F",
+  "company": "Groupama Assurances Mutuelles",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418842180"
+  ]
+ },
+ "9811ab1e01804ccec5534eba6f9d1ef7": {
+  "first_seen": 1785562335.8608863,
+  "title": "Alternance - 2 ans - Financial Data Analyst Engineer F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445501523"
   ]
  }
 }
