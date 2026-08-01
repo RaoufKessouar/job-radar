@@ -55,37 +55,21 @@ def save_state(state: dict, path: str | Path) -> None:
 
 
 def filter_new(offers: list[dict], state: dict) -> list[dict]:
-    """Retourne les offres à traiter : jamais vues, OU republiées.
+    """Retourne les offres jamais vues sur ce canal, et les enregistre.
 
-    Republication = offre connue (même clé) mais URL jamais vue sur ce canal :
-    l'annonceur a reposté l'annonce. Signal utile (poste non pourvu) →
-    on renotifie avec offer['republication'] = True.
+    NB : la détection de republication a été retirée (trop de faux positifs
+    et de faux négatifs) — une offre déjà notifiée ne l'est plus jamais.
     """
     new = []
     for offer in offers:
         key = offer_key(offer)
-        url = offer.get("url", "")
-        entry = state.get(key)
-        if entry is None:
-            state[key] = {
-                "first_seen": time.time(),
-                "title": offer.get("title", "")[:120],
-                "company": offer.get("company", "")[:80],
-                "source": offer.get("source", ""),
-                "urls": [url] if url else [],
-            }
-            new.append(offer)
+        if key in state:
             continue
-        urls = entry.setdefault("urls", [])
-        if not urls:
-            # entrée créée avant cette fonctionnalité : on adopte l'URL
-            # actuelle sans notifier (migration silencieuse)
-            if url:
-                urls.append(url)
-            continue
-        if url and url not in urls:
-            urls.append(url)
-            entry["urls"] = urls[-10:]  # borne la liste
-            offer["republication"] = True
-            new.append(offer)
+        state[key] = {
+            "first_seen": time.time(),
+            "title": offer.get("title", "")[:120],
+            "company": offer.get("company", "")[:80],
+            "source": offer.get("source", ""),
+        }
+        new.append(offer)
     return new
