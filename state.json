@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785589333.1198933,
+   "last_success": 1785591135.0273566,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785589333.1198993,
+   "last_success": 1785591135.0273626,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785589345.840345,
+   "last_success": 1785591148.0223339,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785589345.8403497,
+   "last_success": 1785591148.0223393,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785589345.8403518,
+   "last_success": 1785591148.022341,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785589345.8403528,
+   "last_success": 1785591148.0223427,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785589345.840354,
+   "last_success": 1785591148.0223439,
    "alerted": false
   }
  },
@@ -17869,6 +17869,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445503789"
+  ]
+ },
+ "a7013b007120f7a8628455fb8fa83e68": {
+  "first_seen": 1785591148.0235074,
+  "title": "Ingénieur Traitement d'Image / IA et ou  Optique & Laser (H/F)  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436620778"
+  ]
+ },
+ "207e8fa13e3f44811dca6d10a7c0c5e8": {
+  "first_seen": 1785591148.0235171,
+  "title": "Research Scientist, AI Research (PhD)",
+  "company": "Meta",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4375219532"
   ]
  }
 }
