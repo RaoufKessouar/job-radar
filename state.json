@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785594763.9785547,
+   "last_success": 1785596559.6372693,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785594763.9785607,
+   "last_success": 1785596559.637274,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785594778.2610793,
+   "last_success": 1785596572.750424,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785594778.261084,
+   "last_success": 1785596572.7504277,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785594778.261086,
+   "last_success": 1785596572.750429,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785594778.2610877,
+   "last_success": 1785596572.75043,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785594778.2610893,
+   "last_success": 1785596572.7504313,
    "alerted": false
   }
  },
@@ -18303,6 +18303,105 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4439365662"
+  ]
+ },
+ "6516e42e5f649b2fba43c437cb7640d4": {
+  "first_seen": 1785596572.7510405,
+  "title": "AI Engineering / Agentic AI Engineering Manager",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424623200"
+  ]
+ },
+ "9413744fc1a83db746de6ed3e0faee08": {
+  "first_seen": 1785596572.7511983,
+  "title": "Apprentice - GRA Regulatory Intelligence",
+  "company": "Ipsen",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419043930"
+  ]
+ },
+ "511321feb048f29516dfd469518bc276": {
+  "first_seen": 1785596572.7512195,
+  "title": "Stage Consultant ERP",
+  "company": "Arcwide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440758153"
+  ]
+ },
+ "cffce5dc86a892c0808adea5918fcf21": {
+  "first_seen": 1785596572.751228,
+  "title": "STAGE - Assistant Développement et Achat Cuir Prêt-à-Porter Homme (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429680705"
+  ]
+ },
+ "96902840164c532f41cd31a11f9fbc7d": {
+  "first_seen": 1785596572.7512465,
+  "title": "Stage ou alternance consultant(e) électronique, micro-électronique, électrotechnique / Financement de l'innovation F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419011912"
+  ]
+ },
+ "17587ab4d67fb8cbac8f91449e050439": {
+  "first_seen": 1785596572.7512712,
+  "title": "JANVIER 2027 - Stage Assistant(e) Chef(fe) de Projet International VIP Experience – Network animation & Gifting (H/F)",
+  "company": "Cartier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438340598"
+  ]
+ },
+ "dc71f12d86b547d3f35977201664b17d": {
+  "first_seen": 1785596572.7512772,
+  "title": "Stage - Contrôle de Gestion / FP&A",
+  "company": "NUMEIRA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447783881"
+  ]
+ },
+ "1783e6b6d7508fd120df04ceb11c32b6": {
+  "first_seen": 1785596572.7512877,
+  "title": "Brand Manager (Stage) // Maslow Group",
+  "company": "MASLOW GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447484612"
+  ]
+ },
+ "5f5dde39bd828d96da6afce5c89ba815": {
+  "first_seen": 1785596572.7512941,
+  "title": "Stage - Chargé·e de projets Education",
+  "company": "Chance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447134993"
+  ]
+ },
+ "cea87f8ab91f6fc7c01fc3016b39d4a6": {
+  "first_seen": 1785596572.7513008,
+  "title": "Assistant.e Gestionnaire Data et Export - Stage Septembre 2026",
+  "company": "Etam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447149133"
+  ]
+ },
+ "1fe3533e83ea59323e6083e7dbd319c3": {
+  "first_seen": 1785596572.7513068,
+  "title": "Assistant communication (F/H)",
+  "company": "INA campus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445521367"
   ]
  }
 }
