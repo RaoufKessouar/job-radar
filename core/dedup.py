@@ -55,21 +55,38 @@ def save_state(state: dict, path: str | Path) -> None:
 
 
 def filter_new(offers: list[dict], state: dict) -> list[dict]:
-    """Retourne les offres jamais vues sur ce canal, et les enregistre.
+    """Retourne les offres à notifier : toute annonce dont l'URL n'a jamais
+    été vue sur ce canal.
 
-    NB : la détection de republication a été retirée (trop de faux positifs
-    et de faux négatifs) — une offre déjà notifiée ne l'est plus jamais.
+    - Première apparition → notifiée.
+    - Ré-apparition à l'identique (même URL, à chaque scan) → silence.
+    - Annonce repostée / nouvelle annonce au même intitulé (URL inédite) →
+      notifiée à nouveau, SANS étiquette : c'est à la lecture de l'offre que
+      l'on voit s'il s'agit d'une republication ou d'un poste distinct.
     """
     new = []
     for offer in offers:
         key = offer_key(offer)
-        if key in state:
+        url = offer.get("url", "")
+        entry = state.get(key)
+        if entry is None:
+            state[key] = {
+                "first_seen": time.time(),
+                "title": offer.get("title", "")[:120],
+                "company": offer.get("company", "")[:80],
+                "source": offer.get("source", ""),
+                "urls": [url] if url else [],
+            }
+            new.append(offer)
             continue
-        state[key] = {
-            "first_seen": time.time(),
-            "title": offer.get("title", "")[:120],
-            "company": offer.get("company", "")[:80],
-            "source": offer.get("source", ""),
-        }
-        new.append(offer)
+        urls = entry.setdefault("urls", [])
+        if not urls:
+            # entrée antérieure au suivi d'URL : on adopte l'URL courante
+            # sans notifier (évite une rafale de rattrapage)
+            if url:
+                entry["urls"] = [url]
+            continue
+        if url and url not in urls:
+            entry["urls"] = (urls + [url])[-10:]
+            new.append(offer)
     return new
