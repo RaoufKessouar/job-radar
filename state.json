@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785601930.1535418,
+   "last_success": 1785603694.629177,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785601930.1535475,
+   "last_success": 1785603694.629183,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785601943.1451113,
+   "last_success": 1785603707.664086,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785601943.1451159,
+   "last_success": 1785603707.6640906,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785601943.1451178,
+   "last_success": 1785603707.664092,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785601943.1451192,
+   "last_success": 1785603707.6640935,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785601943.1451209,
+   "last_success": 1785603707.6640954,
    "alerted": false
   }
  },
@@ -18628,6 +18628,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437814395"
+  ]
+ },
+ "ba9a0f340515ea6db35ae972f36f159b": {
+  "first_seen": 1785603707.6651373,
+  "title": "AI Engineer / Agentic AI Engineer",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424004022"
+  ]
+ },
+ "657afb81bad1b844b015b0a5cc4ca8cf": {
+  "first_seen": 1785603707.6652317,
+  "title": "Ingénieur Data F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439377217"
+  ]
+ },
+ "7314b170ca9eb5d53e7fbd79308fe228": {
+  "first_seen": 1785603707.6652389,
+  "title": "Data Engineer GCP H/F",
+  "company": "OPEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430976474"
+  ]
+ },
+ "9bdd108abb3062665cfb82b803bcf41c": {
+  "first_seen": 1785603707.6652467,
+  "title": "Data Analyst Senior F/H",
+  "company": "VINCI Autoroutes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447717487"
+  ]
+ },
+ "30b7e60a225f188c2dae7c76b981ac91": {
+  "first_seen": 1785603707.6652632,
+  "title": "STAGE JANVIER 2027 - Fragrance Market & Consumer Insights Analyst (H/F)",
+  "company": "Cartier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438332730"
+  ]
+ },
+ "c5fb3322f2bfce27590fb45a2415b11c": {
+  "first_seen": 1785603707.6652718,
+  "title": "Alternance - Business & Data Analyst H/F",
+  "company": "Crédit Agricole",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439063326"
+  ]
+ },
+ "e74f8afd49b81347748c38799218bf14": {
+  "first_seen": 1785603707.6653376,
+  "title": "Lead AI Engineer H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439548784"
   ]
  }
 }
