@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785529936.100852,
+   "last_success": 1785560525.8091664,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785529936.1008584,
+   "last_success": 1785560525.809172,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785529949.5563536,
+   "last_success": 1785560537.459348,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785529949.556359,
+   "last_success": 1785560537.459353,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785529949.5563612,
+   "last_success": 1785560537.459355,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785529949.5563629,
+   "last_success": 1785560537.4593563,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785529949.556364,
+   "last_success": 1785560537.4593577,
    "alerted": false
   }
  },
@@ -17293,6 +17293,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420940913"
+  ]
+ },
+ "0242fb805c8914ac27811fffb914a282": {
+  "first_seen": 1785560537.4602892,
+  "title": "Data scientist",
+  "company": "First Education Online - US",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447406341"
+  ]
+ },
+ "2d55e3f673f648d0b5c59040a5d2e4ef": {
+  "first_seen": 1785560537.4603057,
+  "title": "Machine Learning Engineer",
+  "company": "Modjo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447421699"
   ]
  }
 }
