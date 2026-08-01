@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785609125.3234541,
+   "last_success": 1785610936.0688248,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785609125.3234606,
+   "last_success": 1785610936.06883,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785609136.494214,
+   "last_success": 1785610950.1482072,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785609136.4942188,
+   "last_success": 1785610950.1482122,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785609136.4942207,
+   "last_success": 1785610950.1482139,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785609136.4942222,
+   "last_success": 1785610950.1482153,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785609136.4942234,
+   "last_success": 1785610950.1482165,
    "alerted": false
   }
  },
@@ -10918,7 +10918,8 @@
   "company": "Capgemini",
   "source": "carriere-capgemini",
   "urls": [
-   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Public-&-Services-Stage/1207466901/"
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-ConsultanteConsultant-Public-&-Services-Stage/1207466901/",
+   "https://careers.capgemini.com/job/Issy-les-Moulineaux-Consultante-Consultant-Public-&-Services-Stage/1207466901/"
   ]
  },
  "cf228e202a37e1233bb505c8682f9dfd": {
@@ -18772,6 +18773,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4429026964"
+  ]
+ },
+ "7f6a2c8130c0a1979286d258d3ab3732": {
+  "first_seen": 1785610950.1491103,
+  "title": "Index Structuring intern",
+  "company": "Euronext",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439327422"
+  ]
+ },
+ "680e1a51cc08bcbea3c1987519714703": {
+  "first_seen": 1785610950.1491213,
+  "title": "Ingénieur.e d'études statistiques et actuarielles H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439552712"
   ]
  }
 }
