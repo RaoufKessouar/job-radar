@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785598342.5897887,
+   "last_success": 1785600153.418159,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785598342.5897942,
+   "last_success": 1785600153.4181647,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785598353.4214845,
+   "last_success": 1785600164.7674382,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785598353.4214897,
+   "last_success": 1785600164.767443,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785598353.4214911,
+   "last_success": 1785600164.767445,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785598353.4214928,
+   "last_success": 1785600164.7674463,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785598353.421494,
+   "last_success": 1785600164.7674477,
    "alerted": false
   }
  },
@@ -18519,6 +18519,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4418528472"
+  ]
+ },
+ "56ede83a2c6cd5cd1000fbba232dab82": {
+  "first_seen": 1785600164.768238,
+  "title": "Racine Paris recherche un stagiaire H/F en regulatory au 2nd semestre 2027",
+  "company": "Racine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445811027"
+  ]
+ },
+ "359eddaad787b1316a497c36902b1bfb": {
+  "first_seen": 1785600164.7682593,
+  "title": "Doctorant sur le Watermarking pour une sécurité et une robustesse accrues des modèles d’IA dans l’apprentissage fédéré (",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380362862"
+  ]
+ },
+ "762b9948acb208ac1276cb1e87297086": {
+  "first_seen": 1785600164.7682726,
+  "title": "Alternance – Gestion de projet & Data Engineering",
+  "company": "American Tower",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447565260"
+  ]
+ },
+ "fd137b7e07e0972147208a9592701114": {
+  "first_seen": 1785600164.7682824,
+  "title": "Stagiaire Assistant chef de projet H/F",
+  "company": "CPM France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445528309"
+  ]
+ },
+ "b8eb3d07d97f5d659bdf2746d6bba5bf": {
+  "first_seen": 1785600164.7682908,
+  "title": "STAGE - Assistant RH F/H",
+  "company": "KNDS France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4353825456"
+  ]
+ },
+ "97ea5bf6b52f064b3588b176df747ed8": {
+  "first_seen": 1785600164.7683232,
+  "title": "Software/Embedded Software Developer - Electrical Ground Support Equipment (EGSE)",
+  "company": "MaiaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420966251"
+  ]
+ },
+ "368136c7e018737d09b0b7229e08545b": {
+  "first_seen": 1785600164.768418,
+  "title": "Ingénieur FPGA H/F",
+  "company": "Pasqal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430938795"
+  ]
+ },
+ "e01e30e2fa049428ac00a67e2aeb4b7b": {
+  "first_seen": 1785600164.768428,
+  "title": "Power Systems Controls & Automation Engineer (H/F)",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430758341"
   ]
  }
 }
