@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785591135.0273566,
+   "last_success": 1785592956.6842413,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785591135.0273626,
+   "last_success": 1785592956.6842475,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785591148.0223339,
+   "last_success": 1785592970.3184755,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785591148.0223393,
+   "last_success": 1785592970.3184805,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785591148.022341,
+   "last_success": 1785592970.3184824,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785591148.0223427,
+   "last_success": 1785592970.318484,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785591148.0223439,
+   "last_success": 1785592970.3184853,
    "alerted": false
   }
  },
@@ -17887,6 +17887,195 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4375219532"
+  ]
+ },
+ "49db1abe0980117622b8291cf197288f": {
+  "first_seen": 1785592970.3193398,
+  "title": "Alternance Essai Hydromécanique Data Analyst / Data Scientist F/H F/H - IH - CEI HABILLAGE & EQUIPEMENTS",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442774485"
+  ]
+ },
+ "c52c99c0b4e27fe05ae9ff03628305e2": {
+  "first_seen": 1785592970.319352,
+  "title": "Stage Data analyst Opérations F/H",
+  "company": "Monoprix",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4379185993"
+  ]
+ },
+ "8251ba96f24063132c1a5e11ddb90ed4": {
+  "first_seen": 1785592970.3193834,
+  "title": "Stagiaire Analyste de données audiences et marketing - Pôle Études & Marketing Digital F/H",
+  "company": "INA campus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445534246"
+  ]
+ },
+ "7c122111910880433172ca4456caaf89": {
+  "first_seen": 1785592970.3194087,
+  "title": "Senior Data Scientist - Product Analytics",
+  "company": "Criteo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390824186"
+  ]
+ },
+ "3649b3eb50dbefd2bf3561508f227831": {
+  "first_seen": 1785592970.3194802,
+  "title": "Agentic & Product Delivery Manager (F/H)",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436611279"
+  ]
+ },
+ "ddef66cfd06c3ddcd7c11fa509e7809f": {
+  "first_seen": 1785592970.3194892,
+  "title": "Apprentissage : Acheteur Junior - Achats Indirect",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435985081"
+  ]
+ },
+ "821bf15bd90631608e83cdda94ad17b6": {
+  "first_seen": 1785592970.3194985,
+  "title": "Senior Data Engineer R&D H/F",
+  "company": "Forvis Mazars en France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447177723"
+  ]
+ },
+ "f5a86b11b491c2b8ab3892592aa07024": {
+  "first_seen": 1785592970.319522,
+  "title": "AI Product Manager",
+  "company": "Modjo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447410958"
+  ]
+ },
+ "4ceb75f5b3fe64b79071461c4815937e": {
+  "first_seen": 1785592970.3195763,
+  "title": "Chargée ou Chargé de projet IA & Transformation Digitale",
+  "company": "LISI AEROSPACE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439544105"
+  ]
+ },
+ "dff5b4d543616e95ad628ac68a5fa1cf": {
+  "first_seen": 1785592970.3196197,
+  "title": "Delivery Manager Data & IA (H/F/NB)",
+  "company": "TRIMANE | Expert BI et Big Data",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447790646"
+  ]
+ },
+ "7940843ad8937a8c49ccd9a629e4a3fe": {
+  "first_seen": 1785592970.3196285,
+  "title": "Chef de projet Data&IA - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426878314"
+  ]
+ },
+ "94070b881126429a4fdca2376b6b7601": {
+  "first_seen": 1785592970.3196378,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Investinit",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445510888"
+  ]
+ },
+ "41930d6bf2a4e2bccd12580b0d5ced66": {
+  "first_seen": 1785592970.3196573,
+  "title": "Technical Deployment Lead, Forward Deployed Engineering - Paris",
+  "company": "OpenAI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438378092"
+  ]
+ },
+ "3e6766b48d15f392524fd8c91374081f": {
+  "first_seen": 1785592970.319665,
+  "title": "Senior Machine Learning Engineer - Causality",
+  "company": "Criteo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410720676"
+  ]
+ },
+ "a781aa6eb133e15a8fb615dc6f569f1d": {
+  "first_seen": 1785592970.3196795,
+  "title": "VP of Applied Science",
+  "company": "Entrust",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447579971"
+  ]
+ },
+ "8e9e6c3a2a3914270ec8f7a190e00619": {
+  "first_seen": 1785592970.3198106,
+  "title": "Stage Ingénieure / Ingénieur d'études projets photovoltaïques H/F",
+  "company": "Mexens ex.Technique Solaire",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447554366"
+  ]
+ },
+ "372c757e95be020d6a93142c4e19e26a": {
+  "first_seen": 1785592970.3198183,
+  "title": "Legal Intern - Commercial/IP - PPI Internship",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4252504583"
+  ]
+ },
+ "172b8bcba9aaa560d74e72ee405ad60f": {
+  "first_seen": 1785592970.3198283,
+  "title": "STAGE - Assistant(e) Chef De Projet Media & Social Media - JANVIER 2027 (F/H)",
+  "company": "LVMH Fragrance Brands",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447712113"
+  ]
+ },
+ "5b234dd7d15fdd90804135f03d1c6484": {
+  "first_seen": 1785592970.3198364,
+  "title": "STAGE - Pilote Excellence Opérationnelle F/H",
+  "company": "KNDS France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399789112"
+  ]
+ },
+ "409c14b109306f5ed9ca0089950c0c82": {
+  "first_seen": 1785592970.319845,
+  "title": "STAGE - Assistant(e) Business Analyst Worldwide - Janvier 2027 - F/H",
+  "company": "LVMH Fragrance Brands",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447556682"
+  ]
+ },
+ "7ee5eb89de12df926fb6c4ab9670384e": {
+  "first_seen": 1785592970.3198614,
+  "title": "Stage ingénieur d'affaires Talent Pool (H/F)",
+  "company": "BASSETTI Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447519857"
   ]
  }
 }
