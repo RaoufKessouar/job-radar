@@ -10,7 +10,12 @@ from __future__ import annotations
 
 import os
 import smtplib
+import sys
 from email.mime.text import MIMEText
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from core import signals  # noqa: E402
 
 
 def _send(subject: str, html: str) -> bool:
@@ -42,6 +47,25 @@ def _offer_html(o: dict) -> str:
              "d&eacute;j&agrave; d&eacute;tect&eacute;e auparavant, repost&eacute;e par "
              "l'annonceur &mdash; le poste n'est probablement pas encore pourvu.</p>"
              if o.get("republication") else "")
+    # Candidature par email possible (adresse non reproduite : à lire dans l'offre)
+    mail_found, mail_ctx = signals.has_email_application(o)
+    if mail_found and mail_ctx:
+        mail_html = ("<p style='background:#fff4e5;border-left:4px solid #f0a020;"
+                     "padding:8px 10px;margin:8px 0'><b>&#128231; Candidature par "
+                     "email possible</b> &mdash; une adresse de contact figure dans "
+                     "la description : pense &agrave; la lire.</p>")
+    elif mail_found:
+        mail_html = ("<p style='background:#f5f5f5;border-left:4px solid #bbb;"
+                     "padding:8px 10px;margin:8px 0'>&#128231; Une adresse email "
+                     "appara&icirc;t dans la description (&agrave; v&eacute;rifier).</p>")
+    else:
+        mail_html = ""
+
+    posts_url = signals.linkedin_posts_url(o)
+    posts_html = (f"<p><a href=\"{posts_url}\" style='color:#0a66c2'>&#128269; "
+                  f"Chercher des posts LinkedIn (cooptation) chez "
+                  f"{o.get('company','')}</a></p>" if posts_url else "")
+
     return (
         f"<h2 style='margin-bottom:2px'>{o['title']}</h2>"
         f"<p style='margin-top:2px'><b>{o['company']}</b> — {o.get('location','')} "
@@ -49,7 +73,9 @@ def _offer_html(o: dict) -> str:
         f"{' — publiée ' + str(o['date_posted']) if o.get('date_posted') else ''}</p>"
         f"{repub}"
         f"{raison}"
+        f"{mail_html}"
         f"<p><a href=\"{o['url']}\" style='font-size:16px'>&#9658; Voir l'offre et postuler</a></p>"
+        f"{posts_html}"
     )
 
 
