@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785592956.6842413,
+   "last_success": 1785594763.9785547,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785592956.6842475,
+   "last_success": 1785594763.9785607,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785592970.3184755,
+   "last_success": 1785594778.2610793,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785592970.3184805,
+   "last_success": 1785594778.261084,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785592970.3184824,
+   "last_success": 1785594778.261086,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785592970.318484,
+   "last_success": 1785594778.2610877,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785592970.3184853,
+   "last_success": 1785594778.2610893,
    "alerted": false
   }
  },
@@ -10456,7 +10456,8 @@
    "https://www.linkedin.com/jobs/view/4435171155",
    "https://www.linkedin.com/jobs/view/4446369703",
    "https://www.linkedin.com/jobs/view/4444195635",
-   "https://www.linkedin.com/jobs/view/4447510838"
+   "https://www.linkedin.com/jobs/view/4447510838",
+   "https://www.linkedin.com/jobs/view/4447822164"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -12337,7 +12338,8 @@
    "https://www.linkedin.com/jobs/view/4446125016",
    "https://www.linkedin.com/jobs/view/4446386212",
    "https://www.linkedin.com/jobs/view/4444513060",
-   "https://www.linkedin.com/jobs/view/4447516788"
+   "https://www.linkedin.com/jobs/view/4447516788",
+   "https://www.linkedin.com/jobs/view/4447808379"
   ]
  },
  "87d1a53b8a454e1fb2896c44b5658723": {
@@ -18076,6 +18078,231 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447519857"
+  ]
+ },
+ "2c2ba18c8c64bec5dc8086a21b2e231f": {
+  "first_seen": 1785594778.2620559,
+  "title": "Data Scientist Senior – Secteur de l’énergie – Île-de-France (92) H/F",
+  "company": "Kicklox",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447769014"
+  ]
+ },
+ "f8b4f8671ff7ce8ea4104207b8f58074": {
+  "first_seen": 1785594778.2621236,
+  "title": "Un ingénieur ou une ingénieure de recherche",
+  "company": "HCERES",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447477687"
+  ]
+ },
+ "873133773e93f20e65ed707a65d92d4e": {
+  "first_seen": 1785594778.2621584,
+  "title": "Tech Lead Data",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4388510707"
+  ]
+ },
+ "c6e38e9f0e7c7f799cecccf898550698": {
+  "first_seen": 1785594778.262167,
+  "title": "Policy Researcher (Economics) - Digital Economy",
+  "company": "OECD - OCDE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447199441"
+  ]
+ },
+ "e51b5f05317423ea4707fdb31abda826": {
+  "first_seen": 1785594778.2621768,
+  "title": "Ingénieur.e d'études statistiques et actuarielles F/H",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439560285"
+  ]
+ },
+ "5bf3464242341da8564644799cd34121": {
+  "first_seen": 1785594778.2622163,
+  "title": "Manager Data & AI strategy - Strategic Alliance Lead – Google (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445533259"
+  ]
+ },
+ "b46e3d1ebc4eef274291689abd4e232a": {
+  "first_seen": 1785594778.2622242,
+  "title": "Manager - Data & AI strategy (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445521373"
+  ]
+ },
+ "f2e3561ea17b9b90a0adb90a892e4621": {
+  "first_seen": 1785594778.2622316,
+  "title": "Senior Software Engineer - Search Platform",
+  "company": "Algolia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4274308960"
+  ]
+ },
+ "215daf1b82ef174fb22522ebb8d0e471": {
+  "first_seen": 1785594778.2623332,
+  "title": "6-MONTH INTERNSHIP - Starting July 2026 – [JOB TITLE] – Master's ½ - €1700/month",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447191706"
+  ]
+ },
+ "2c86a6aa08f66a1925e9541bb17e09c7": {
+  "first_seen": 1785594778.2623444,
+  "title": "Alternance - Risque de Credit & Contreparties  (H/F)",
+  "company": "Crédit Mutuel Asset Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429682595"
+  ]
+ },
+ "438a2e3c5b44c5f4d9734beea2f0c906": {
+  "first_seen": 1785594778.2623723,
+  "title": "Racine Paris recherche un stagiaire H/F au 1er semestre 2027 en contentieux des affaires",
+  "company": "Racine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445597220"
+  ]
+ },
+ "11aaf477d59fa3cd224a7ae53137db1f": {
+  "first_seen": 1785594778.2624357,
+  "title": "Backend Engineer API (H/F)",
+  "company": "Velvet",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439303739"
+  ]
+ },
+ "b377d3db079a489b0a1e8ba722e77034": {
+  "first_seen": 1785594778.2624524,
+  "title": "STAGE - ANALYSTE REPORTING SUSTAINABILITY - CORPORATE (H/F/X)",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429377051"
+  ]
+ },
+ "704bf20eb334b086228f6077c85d3ba6": {
+  "first_seen": 1785594778.2624686,
+  "title": "Security Automation Engineer",
+  "company": "Contentsquare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436608436"
+  ]
+ },
+ "0d8400903b03fa0f3890936ae352388c": {
+  "first_seen": 1785594778.2624767,
+  "title": "Product Manager II, AI & Data Security",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430974852"
+  ]
+ },
+ "4c5c1dd0f4a61fa08f35f6504fe145e0": {
+  "first_seen": 1785594778.2624846,
+  "title": "Future Talent - Maintenance Engineer",
+  "company": "Tetra Pak",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380322813"
+  ]
+ },
+ "f7402e64cea1ba3f6cbe64101c229ae1": {
+  "first_seen": 1785594778.2625005,
+  "title": "AI Adoption & Change Manager (GenAI) F/H",
+  "company": "VISEO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418817734"
+  ]
+ },
+ "08a2470115ede26b2c70f0c53598890a": {
+  "first_seen": 1785594778.2625232,
+  "title": "Ingénieur.e R&D Etude de l'effet de la taille d'éprouvette sur la ténacité des alliages d'aluminium H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418804301"
+  ]
+ },
+ "df1d9b7e84d16ec77c2b994e70a1d204": {
+  "first_seen": 1785594778.26254,
+  "title": "Shop Sharks: Social Commerce Shark (Early Careers)",
+  "company": "SharkNinja",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447535159"
+  ]
+ },
+ "222bfb4281a8cdad6d2195348a443806": {
+  "first_seen": 1785594778.262565,
+  "title": "Apprenti(e) RH Généraliste",
+  "company": "Cytiva",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409938049"
+  ]
+ },
+ "ac041183b69c370d3e123e3eb2dc8079": {
+  "first_seen": 1785594778.2625778,
+  "title": "Assistant Chef de Produit Développement Prêt-à-porter Homme F/H - Stage SEPTEMBRE",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447553051"
+  ]
+ },
+ "9d5d4e3758b45a4c11601ef8d4be36de": {
+  "first_seen": 1785594778.2625856,
+  "title": "Stage Business Analyst Supply Chain F/H",
+  "company": "Monoprix",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4379444793"
+  ]
+ },
+ "f0e09c5af353f7ec00a1dd34cc3c60ca": {
+  "first_seen": 1785594778.2625954,
+  "title": "Apprenticeship : Chief of Staff Assistant to SAP France Managing Director F/M",
+  "company": "SAP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438324508"
+  ]
+ },
+ "7f32488d0a9b7650b23b622a88ca5f6a": {
+  "first_seen": 1785594778.2626755,
+  "title": "Control Command Software Engineer – SCADA & PLC EGSE",
+  "company": "MaiaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420952992"
+  ]
+ },
+ "e945b29ed68fcef4c2bf501303539c85": {
+  "first_seen": 1785594778.2627606,
+  "title": "Ingénieur logiciel ADA F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439365662"
   ]
  }
 }
