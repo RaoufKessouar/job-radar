@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785603821.8055012,
+   "last_success": 1785605534.5271776,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785603821.8055067,
+   "last_success": 1785605534.5271828,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785603835.5596395,
+   "last_success": 1785605546.5100229,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785603835.5596447,
+   "last_success": 1785605546.5100281,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785603835.5596464,
+   "last_success": 1785605546.5100298,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785603835.5596478,
+   "last_success": 1785605546.5100315,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785603835.5596492,
+   "last_success": 1785605546.5100334,
    "alerted": false
   }
  },
@@ -18736,6 +18736,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4439548784"
+  ]
+ },
+ "c21973161037bcc67aa43272bca9afd4": {
+  "first_seen": 1785605546.5110927,
+  "title": "Associate AI Strategy (H/F)",
+  "company": "Alveor",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447570041"
+  ]
+ },
+ "356d484dcdcfb32ab868dabc371bbea6": {
+  "first_seen": 1785605546.5111036,
+  "title": "CDI - CONTENT CRE[AI]TOR",
+  "company": "AGENCE79",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447424682"
+  ]
+ },
+ "61a2d0a4f0ab14b931e73991484932ce": {
+  "first_seen": 1785605546.5111477,
+  "title": "Consultant SI et Digital - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436606008"
+  ]
+ },
+ "8bd8e8ec21ab2387f75c47821d598462": {
+  "first_seen": 1785605546.5111563,
+  "title": "People AI Operations Lead",
+  "company": "Vibe.co",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429026964"
   ]
  }
 }
