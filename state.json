@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785610936.0688248,
+   "last_success": 1785612772.773181,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785610936.06883,
+   "last_success": 1785612772.7731864,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785610950.1482072,
+   "last_success": 1785612784.464493,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785610950.1482122,
+   "last_success": 1785612784.4644973,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785610950.1482139,
+   "last_success": 1785612784.4644992,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785610950.1482153,
+   "last_success": 1785612784.4645004,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785610950.1482165,
+   "last_success": 1785612784.4645019,
    "alerted": false
   }
  },
@@ -15332,7 +15332,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444515660",
-   "https://www.linkedin.com/jobs/view/4445068783"
+   "https://www.linkedin.com/jobs/view/4445068783",
+   "https://www.linkedin.com/jobs/view/4445585589"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -18791,6 +18792,204 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4439552712"
+  ]
+ },
+ "dded60fe8f2a19d01935e3f6253fbc2d": {
+  "first_seen": 1785612784.4652162,
+  "title": "Senior Deep Learning Scientist (H/F)",
+  "company": "Space Capital",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445806985"
+  ]
+ },
+ "152bf6ee5723983beef5a64a991648b6": {
+  "first_seen": 1785612784.4652784,
+  "title": "Assistant AI Officer Directions Risque & Finance",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417676165"
+  ]
+ },
+ "c1d3d4b08c921a9167b40311accbacb4": {
+  "first_seen": 1785612784.4652877,
+  "title": "Consultant Senior ou Manager AI Engineer - secteur Financier, H/F - FY27",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399532686"
+  ]
+ },
+ "f344af92ff7b9fc004763bc8aa7cefc5": {
+  "first_seen": 1785612784.4653137,
+  "title": "Data Center Technician",
+  "company": "Microsoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447728413"
+  ]
+ },
+ "35db0626680a307539ea4add31e41a05": {
+  "first_seen": 1785612784.4653432,
+  "title": "Stage Développeur C# F/H",
+  "company": "Fives",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419095276"
+  ]
+ },
+ "a98909ca9f4fc859bd9db8bee8390d7b": {
+  "first_seen": 1785612784.4653761,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Hong Kong Next Generation Internet Society",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447739877"
+  ]
+ },
+ "04e964d605f3495618ac3ec04aee9bc9": {
+  "first_seen": 1785612784.4654107,
+  "title": "Risk - Quantitative Engineer - Associate - Paris",
+  "company": "Goldman Sachs",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419087449"
+  ]
+ },
+ "1fbe894bc0ae1cad08b26a54b5f950ce": {
+  "first_seen": 1785612784.4654198,
+  "title": "Assistant(e) ingénieur(e) structures F/H",
+  "company": "DODIN CAMPENON BERNARD",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442104316"
+  ]
+ },
+ "54993be2fac48fdc229b782c815d6b06": {
+  "first_seen": 1785612784.4654272,
+  "title": "STAGE ASSISTANT CHEF DE PRODUIT (H/F)",
+  "company": "Getinge",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445536780"
+  ]
+ },
+ "154aeb43267b79e67ae741e75a0ce1b2": {
+  "first_seen": 1785612784.4655173,
+  "title": "Concepteur Applicatifs de Tests F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439353521"
+  ]
+ },
+ "243e61aa00f62e60fdba4ddb8e801986": {
+  "first_seen": 1785612784.4655528,
+  "title": "CDI - Ingénieure Guidage Lanceurs et Véhicules de rentrée",
+  "company": "ArianeGroup",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447189628"
+  ]
+ },
+ "aff7e436d49161e34fded08cefe3e42c": {
+  "first_seen": 1785612784.4655595,
+  "title": "Concepteur Applicatif de Tests F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439362227"
+  ]
+ },
+ "2646de2d570ff02dd0d800e3c1d2f7ad": {
+  "first_seen": 1785612784.4655674,
+  "title": "Ingénieur Traitement du Signal RF (H/F)",
+  "company": "CERBAIR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447712242"
+  ]
+ },
+ "0954da0a78f75d37e99e03195cd1c8bd": {
+  "first_seen": 1785612784.4656093,
+  "title": "Shopify Developer H/F",
+  "company": "Polène Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390031086"
+  ]
+ },
+ "f596410fe6ef58961ee0bc4cfe5bf0ac": {
+  "first_seen": 1785612784.4656162,
+  "title": "Senior Software Engineer, Firefox Desktop",
+  "company": "Mozilla",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438330769"
+  ]
+ },
+ "859ed126740782f6a000f831a8adf1c7": {
+  "first_seen": 1785612784.4656236,
+  "title": "Signal Integrity (SI) Engineer (m,f,d)",
+  "company": "Molex",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4408884315"
+  ]
+ },
+ "0e685cc3c406b5a8e6c7481dd37bb5a8": {
+  "first_seen": 1785612784.4656317,
+  "title": "Lead Développeur(se) Back-end (H/F)",
+  "company": "Vroomly",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417918947"
+  ]
+ },
+ "d661787e0c9c589ff8976e0df18c64c2": {
+  "first_seen": 1785612784.4656382,
+  "title": "Développeur Full Stack H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439553641"
+  ]
+ },
+ "5afa5a4ec7b9aa07a43bfec0e81df7fb": {
+  "first_seen": 1785612784.4656444,
+  "title": "Technical Support Specialist",
+  "company": "Abbott",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447583935"
+  ]
+ },
+ "0e022682647fa259a9df1ec25d8e3bff": {
+  "first_seen": 1785612784.465653,
+  "title": "Ingénieur en Packaging Électronique-Equipements Spatiaux",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436640194"
+  ]
+ },
+ "6eca359740b738151f5bcd1cdf960e47": {
+  "first_seen": 1785612784.46566,
+  "title": "Software Developer - C#, .NET, React.JS, Azure",
+  "company": "DEXIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422917798"
+  ]
+ },
+ "db7903b4cc207ba521b1033b36897b60": {
+  "first_seen": 1785612784.4656684,
+  "title": "Développeur Java / Angular – Paris H/F",
+  "company": "Kicklox",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447747995"
   ]
  }
 }
