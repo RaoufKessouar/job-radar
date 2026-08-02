@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785700956.5513382,
+   "last_success": 1785702744.2934835,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785700956.5513434,
+   "last_success": 1785702744.2934895,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785700970.6365647,
+   "last_success": 1785702756.7916055,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785700970.6365697,
+   "last_success": 1785702756.7916098,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785700970.6365714,
+   "last_success": 1785702756.7916112,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785700970.6365728,
+   "last_success": 1785702756.791612,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785700970.6365745,
+   "last_success": 1785702756.7916126,
    "alerted": false
   }
  },
@@ -20873,6 +20873,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448107615"
+  ]
+ },
+ "e89eeadc24bec109be50a60abccdf48a": {
+  "first_seen": 1785702756.792729,
+  "title": "Stage Graphiste Designer",
+  "company": "LACURE OFFICINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445827106"
+  ]
+ },
+ "6989ecd564a8912ead00fa530d1eb390": {
+  "first_seen": 1785702756.7927575,
+  "title": "Junior International Retail Training Project Manager – Men & Maison",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430984327"
+  ]
+ },
+ "9f8e661f2f9c3d164dcd78e50b2ec372": {
+  "first_seen": 1785702756.7927642,
+  "title": "ALTERNANCE_Visual Merchandiser (H/F/D) - Concept Store des Halles/Paris",
+  "company": "adidas",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412139420"
+  ]
+ },
+ "130bb57f6faaf5c0384aa216df988505": {
+  "first_seen": 1785702756.7927716,
+  "title": "ALTERNANCE - Intégrateur HW  – F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391149730"
+  ]
+ },
+ "d901257961c50440dc689341a752f341": {
+  "first_seen": 1785702756.7927835,
+  "title": "HR Intern – France",
+  "company": "Basware",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438992643"
+  ]
+ },
+ "8231845a71e011ec3f2bc5058245b924": {
+  "first_seen": 1785702756.7927947,
+  "title": "Robotics Software Engineer",
+  "company": "Bleu Robotics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447897823"
   ]
  }
 }
