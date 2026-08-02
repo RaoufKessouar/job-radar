@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785616330.0887828,
+   "last_success": 1785646951.9794462,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785616330.0887885,
+   "last_success": 1785646951.9794517,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785616342.7773852,
+   "last_success": 1785646964.080732,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785616342.7773898,
+   "last_success": 1785646964.0807364,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785616342.7773914,
+   "last_success": 1785646964.080738,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785616342.7773929,
+   "last_success": 1785646964.0807393,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785616342.7773945,
+   "last_success": 1785646964.0807407,
    "alerted": false
   }
  },
@@ -18999,6 +18999,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420446757"
+  ]
+ },
+ "1794cf9fe6e3993a26a1701a93bddf0f": {
+  "first_seen": 1785646964.0814297,
+  "title": "Tech Lead Machine Learning Engineer H/F",
+  "company": "Jems Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447860866"
+  ]
+ },
+ "8e54185ace80e3f4b7974c90363f1bcb": {
+  "first_seen": 1785646964.0814533,
+  "title": "Customer Intelligence Specialist",
+  "company": "Hager",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447753788"
+  ]
+ },
+ "09568b38be9edbbc371f19480a56ceb0": {
+  "first_seen": 1785646964.0814602,
+  "title": "Software Data enginer",
+  "company": "Ai-Way",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447859013"
+  ]
+ },
+ "3c3a677f1404e100359f42869f5ef7a9": {
+  "first_seen": 1785646964.0815277,
+  "title": "Data & AI Lead (f/m/d)",
+  "company": "SHARE NOW",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447634274"
+  ]
+ },
+ "b2959c563d9e7bc8fc393da99e40e4d8": {
+  "first_seen": 1785646964.0815606,
+  "title": "Chef(fe) de projets IA (F/H)",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436614160"
   ]
  }
 }
