@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785668556.358062,
+   "last_success": 1785670359.4325922,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785668556.3580685,
+   "last_success": 1785670359.4325979,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785668569.8954587,
+   "last_success": 1785670371.5922132,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785668569.8954635,
+   "last_success": 1785670371.5922177,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785668569.8954651,
+   "last_success": 1785670371.5922194,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785668569.8954668,
+   "last_success": 1785670371.5922208,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785668569.895468,
+   "last_success": 1785670371.5922222,
    "alerted": false
   }
  },
@@ -18887,7 +18887,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4439353521",
-   "https://www.linkedin.com/jobs/view/4439364054"
+   "https://www.linkedin.com/jobs/view/4439364054",
+   "https://www.linkedin.com/jobs/view/4439353520"
   ]
  },
  "243e61aa00f62e60fdba4ddb8e801986": {
@@ -19797,6 +19798,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445300919"
+  ]
+ },
+ "a359b52a6a3e7139684978b8b43b6d31": {
+  "first_seen": 1785670371.5929801,
+  "title": "Implementation Lead - Innovation Success (H/F)",
+  "company": "Ivalua",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439365108"
+  ]
+ },
+ "eb9201526274a4071265935e512552e4": {
+  "first_seen": 1785670371.593177,
+  "title": "Data Analytics Engineering H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439563057"
+  ]
+ },
+ "465baa7d3f60b8778094d6d4acd72574": {
+  "first_seen": 1785670371.593264,
+  "title": "STAGE - Assistant-e chef de produit - Sport - Training & Golf (F/H)",
+  "company": "Lacoste",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380903097"
+  ]
+ },
+ "fd03b2a816e491e538659360438da255": {
+  "first_seen": 1785670371.5932984,
+  "title": "Ingénieur électronique embarqué - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428500676"
+  ]
+ },
+ "a54b4adf4a6252f6c5633e0e38d6a2bc": {
+  "first_seen": 1785670371.5934246,
+  "title": "Ingénieur Essais Site (H/F)",
+  "company": "Siemens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409940366"
+  ]
+ },
+ "b2be36f54f7262487b699ee10265e301": {
+  "first_seen": 1785670371.593466,
+  "title": "Développeur Full Stack Python / React (H/F)",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4368021116"
+  ]
+ },
+ "365d4cc8942b6c99cf9457e6bca85bd6": {
+  "first_seen": 1785670371.5934737,
+  "title": "R&D Engineering, Staff Engineer - DevOps (f/m)",
+  "company": "Ansys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4421329859"
+  ]
+ },
+ "3805bcf3c627116127c3ec1c02a8aebd": {
+  "first_seen": 1785670371.5934803,
+  "title": "Founding Engineer",
+  "company": "Quarzo Life",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445839514"
+  ]
+ },
+ "19eedb8c77b79554e6597778148b3297": {
+  "first_seen": 1785670371.593488,
+  "title": "Ingénieur Equipement Subsea Junior",
+  "company": "Abyss Energy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445826661"
   ]
  }
 }
