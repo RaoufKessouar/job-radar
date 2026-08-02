@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785681109.1724896,
+   "last_success": 1785682930.3697646,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785681109.1724951,
+   "last_success": 1785682930.3697708,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785681122.5451908,
+   "last_success": 1785682942.2991872,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785681122.5451958,
+   "last_success": 1785682942.2991917,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785681122.5451977,
+   "last_success": 1785682942.2991936,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785681122.5451992,
+   "last_success": 1785682942.2991948,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785681122.5452006,
+   "last_success": 1785682942.2991962,
    "alerted": false
   }
  },
@@ -20195,6 +20195,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420958872"
+  ]
+ },
+ "f56c4cee6db55fde4251c874aa520276": {
+  "first_seen": 1785682942.299736,
+  "title": "Alternance - Digital Audit Innovation (F/H)",
+  "company": "KPMG France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447892839"
+  ]
+ },
+ "fc915fa6d10951068ba5100d8f315ade": {
+  "first_seen": 1785682942.2997491,
+  "title": "Directeur - SAP ERP - Record to Report F/H",
+  "company": "KPMG France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447087968"
+  ]
+ },
+ "ae0d8511d8666e8071fcf5c7b50c08a1": {
+  "first_seen": 1785682942.2998004,
+  "title": "Product Owner IA (H/F)",
+  "company": "AEW",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428289268"
+  ]
+ },
+ "97ce29a4793f1cf675b10cbc6227cf63": {
+  "first_seen": 1785682942.2999105,
+  "title": "Lead technique GenIA",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4389811564"
+  ]
+ },
+ "f7b17e80d7bbd00630b6d23c4456e0e6": {
+  "first_seen": 1785682942.2999551,
+  "title": "Forward Deployed Engineer - NEURALK-AI",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445839381"
+  ]
+ },
+ "6916176cb10c9e6dc3175d358a481b09": {
+  "first_seen": 1785682942.2999806,
+  "title": "Stage - Assistant(e) chef de projet transformation cuir H/F - Mode - Juillet 2023",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/3944164117"
   ]
  }
 }
