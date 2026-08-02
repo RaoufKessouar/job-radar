@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785650539.704213,
+   "last_success": 1785652348.2354305,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785650539.7042189,
+   "last_success": 1785652348.235437,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785650551.3607433,
+   "last_success": 1785652361.2017062,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785650551.3607478,
+   "last_success": 1785652361.2017102,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785650551.3607492,
+   "last_success": 1785652361.201712,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785650551.360751,
+   "last_success": 1785652361.2017133,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785650551.3607523,
+   "last_success": 1785652361.2017145,
    "alerted": false
   }
  },
@@ -11873,7 +11873,6 @@
   "company": "Kickmaker",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443899210",
    "https://www.linkedin.com/jobs/view/4444083477",
    "https://www.linkedin.com/jobs/view/4444651557",
    "https://www.linkedin.com/jobs/view/4444815736",
@@ -11882,7 +11881,8 @@
    "https://www.linkedin.com/jobs/view/4446015587",
    "https://www.linkedin.com/jobs/view/4446487955",
    "https://www.linkedin.com/jobs/view/4446952963",
-   "https://www.linkedin.com/jobs/view/4447441254"
+   "https://www.linkedin.com/jobs/view/4447441254",
+   "https://www.linkedin.com/jobs/view/4447624727"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -16063,7 +16063,8 @@
   "company": "Scaleway",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445080072"
+   "https://www.linkedin.com/jobs/view/4445080072",
+   "https://www.linkedin.com/jobs/view/4445828716"
   ]
  },
  "9c5901299b9753bd5b0227ed0e17c590": {
@@ -19242,6 +19243,114 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4390487739"
+  ]
+ },
+ "4137c49335aa7cf3614af1c77eefbb61": {
+  "first_seen": 1785652361.2027893,
+  "title": "AI & Data Governance and Trust Manager",
+  "company": "MSX International",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411820053"
+  ]
+ },
+ "7e5cc7a23bc0553741d82e5a3bdb3655": {
+  "first_seen": 1785652361.2028236,
+  "title": "Consultative AI Sales Professional",
+  "company": "DXC Technology",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4371314015"
+  ]
+ },
+ "3b1148482d83d23b43e52dc9fd74c164": {
+  "first_seen": 1785652361.202844,
+  "title": "PreSales Consultant (GCP & Modern Workplace)",
+  "company": "SoftwareOne",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447602484"
+  ]
+ },
+ "49bb13668cbaa91ebb7927c61310e61b": {
+  "first_seen": 1785652361.2028508,
+  "title": "Architecte Data & IA F/H",
+  "company": "KPMG France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442162677"
+  ]
+ },
+ "8d92af26a67b3a6735aeb6db134ea0c7": {
+  "first_seen": 1785652361.2028604,
+  "title": "Chef.fe de Projet Inventaire et Récolement (F/H)",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438844515"
+  ]
+ },
+ "700804576a6529c706d04b29835b58c4": {
+  "first_seen": 1785652361.2028687,
+  "title": "Ingénieur Data Spark H/F",
+  "company": "GROUPAMA - G2S",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418831497"
+  ]
+ },
+ "d2bb9317ac90135007580063ce86c109": {
+  "first_seen": 1785652361.2028756,
+  "title": "Operational Excellence Consultant",
+  "company": "MSIG Europe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426295530"
+  ]
+ },
+ "ce04e612c57c11e84e9c70018abad0b6": {
+  "first_seen": 1785652361.202886,
+  "title": "Conception d'un système d'échange de données sécurisé pour une chaîne d'approvisionnement H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410498416"
+  ]
+ },
+ "50d4fd2b09824561d39781a6d7382212": {
+  "first_seen": 1785652361.2028947,
+  "title": "frog - Senior Consultant / Senior Consultante - Data Driven CX",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447234062"
+  ]
+ },
+ "503acd61b4830d51f6fe78a89b74a395": {
+  "first_seen": 1785652361.2029026,
+  "title": "Assistant.e chef.fe de projet AllPoints / MGM - Stage",
+  "company": "Believe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429334214"
+  ]
+ },
+ "9ee5793ff1fb52ee19a24c2bf409948c": {
+  "first_seen": 1785652361.20291,
+  "title": "Manager / Senior Manager en Transformation Digitale H/F (Paris)",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409216767"
+  ]
+ },
+ "92664fba8b0d5b21db8c3f32c4cfd291": {
+  "first_seen": 1785652361.2030072,
+  "title": "Ingénieur développement embarqué | BSW – Automotive (F/H)",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445834347"
   ]
  }
 }
