@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785684743.3075476,
+   "last_success": 1785686567.8278553,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785684743.3075538,
+   "last_success": 1785686567.8278613,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785684756.7469847,
+   "last_success": 1785686582.2243757,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785684756.7469897,
+   "last_success": 1785686582.2243814,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785684756.7469919,
+   "last_success": 1785686582.224384,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785684756.746993,
+   "last_success": 1785686582.224386,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785684756.7469945,
+   "last_success": 1785686582.2243884,
    "alerted": false
   }
  },
@@ -20312,6 +20312,160 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4380996565"
+  ]
+ },
+ "d8f75a082ab6f329cde4342b53a3b304": {
+  "first_seen": 1785686582.2248898,
+  "title": "Data Architect / Senior Data Engineer — Databricks Expert",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427857412"
+  ]
+ },
+ "c76c9b6fd5b90b6a8f29c2dc1bccdc76": {
+  "first_seen": 1785686582.2249181,
+  "title": "Ingénieur traitement du signal radar et GE pour applications temps réel  H/F",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419989244"
+  ]
+ },
+ "57ede856faea0a767fe644ac5fdce916": {
+  "first_seen": 1785686582.225282,
+  "title": "Architecte Data H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439559330"
+  ]
+ },
+ "b18c0ac07b44e0d55b8850ec220e30d6": {
+  "first_seen": 1785686582.2252946,
+  "title": "Data Management Officer (DMO) - H/F",
+  "company": "Leihia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447884708",
+   "https://www.linkedin.com/jobs/view/4447886613"
+  ]
+ },
+ "fcc4775d59678009357a4469be052516": {
+  "first_seen": 1785686582.2253683,
+  "title": "Comptable junior",
+  "company": "BBC Studios",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428284232"
+  ]
+ },
+ "2554be5de8d3f6dadb2170d1633b81e7": {
+  "first_seen": 1785686582.2253802,
+  "title": "APP - CHEF DE PRODUIT NEUROSCIENCE EN ALTERNANCE",
+  "company": "Novartis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428250839"
+  ]
+ },
+ "e3cd6a0fc2f8bb0dc98c50982e8df5d2": {
+  "first_seen": 1785686582.225396,
+  "title": "Conseiller de Vente (F/H) - CDI Temps Complet - Champs Elysées",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431163029"
+  ]
+ },
+ "fbe89a531c004765f53c617c9117ba20": {
+  "first_seen": 1785686582.2254193,
+  "title": "STAGE - Assistant(e) Chef de Produit France (F/H/X) - Janvier 2027",
+  "company": "Bel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445828620"
+  ]
+ },
+ "2569b6fa43285791efbadcb88fda140b": {
+  "first_seen": 1785686582.2254329,
+  "title": "APPRENTI(E) EN MARKETING PRODUIT - Image Guiding Solutions",
+  "company": "GE HealthCare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431121448"
+  ]
+ },
+ "ca47bb187d3e053849b25f0c92294dd9": {
+  "first_seen": 1785686582.2254431,
+  "title": "CDI - Designer Graphique - Paris",
+  "company": "Slidor",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445824816"
+  ]
+ },
+ "51597622a1692a977de8ee8235567f09": {
+  "first_seen": 1785686582.225457,
+  "title": "Client Solutions Manager - Luxury Goods - Global Business Solutions - Paris",
+  "company": "TikTok",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447602303"
+  ]
+ },
+ "e4bf3f3a8ff9c5f3b98b0c4ef81d5755": {
+  "first_seen": 1785686582.2254713,
+  "title": "Magasinier.e pièces automobiles (H/F)",
+  "company": "Volkswagen Group Retail France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4379403487"
+  ]
+ },
+ "2215e82ca7187103cca49ec2719f9ae4": {
+  "first_seen": 1785686582.225484,
+  "title": "Employé libre-service polyvalent (f/h)",
+  "company": "NORMAL A/S",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447897151"
+  ]
+ },
+ "1743e3f899ea15fcf659c5ffa576c2b0": {
+  "first_seen": 1785686582.2254956,
+  "title": "Alternance - Brand Development Assistant - Septembre 2026",
+  "company": "Shiseido",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429653149"
+  ]
+ },
+ "8db28e394c0a722dd760a94b298e0583": {
+  "first_seen": 1785686582.2255168,
+  "title": "Developpeur Java / Angular - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428293637"
+  ]
+ },
+ "9dd59bfbd39d640674403fd43892e660": {
+  "first_seen": 1785686582.2255616,
+  "title": "CDI 30h APRÈS-MIDI - Accueil Entreprise",
+  "company": "Agence d'hôtes et hôtesses Trinity - Paris 16",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445855451"
+  ]
+ },
+ "68a9b063376c7454c9617256d3f8007f": {
+  "first_seen": 1785686582.2256129,
+  "title": "Stage - Développement d’un simulateur 6 DDL pour corps rigides",
+  "company": "MaiaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420974057"
   ]
  }
 }
