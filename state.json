@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785693743.9255993,
+   "last_success": 1785695569.6333885,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785693743.9256046,
+   "last_success": 1785695569.633394,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785693755.4889998,
+   "last_success": 1785695584.5657723,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785693755.4890044,
+   "last_success": 1785695584.565778,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785693755.4890058,
+   "last_success": 1785695584.5657802,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785693755.4890075,
+   "last_success": 1785695584.565782,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785693755.4890087,
+   "last_success": 1785695584.5657837,
    "alerted": false
   }
  },
@@ -20005,7 +20005,8 @@
   "company": "Eversheds Sutherland",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4387526217"
+   "https://www.linkedin.com/jobs/view/4387526217",
+   "https://www.linkedin.com/jobs/view/4387510862"
   ]
  },
  "ed451246d4a75488c8799aaf8a0a2c0a": {
@@ -20620,6 +20621,105 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4364130886"
+  ]
+ },
+ "e134b342a2df48ab15a374de4b1e880c": {
+  "first_seen": 1785695584.5670388,
+  "title": "Internship - Media Coordinator France (F/H)",
+  "company": "Tiffany & Co.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409272838"
+  ]
+ },
+ "c7941ddafb59729ca45bea7d67640a21": {
+  "first_seen": 1785695584.5671506,
+  "title": "Consultant - Product Owner, Chef de Projet Data et IA H/F",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4363080545"
+  ]
+ },
+ "13ca6d4eca67fedb493176c32ae97f7d": {
+  "first_seen": 1785695584.567228,
+  "title": "Marketing And Business Development Intern",
+  "company": "SVR Global LLC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447653434"
+  ]
+ },
+ "74dee57d5cdddae6f66c5032331186c0": {
+  "first_seen": 1785695584.5672498,
+  "title": "Stage Community Manager H/F - 2 mois",
+  "company": "Dupond Durand",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445847409"
+  ]
+ },
+ "59f73750383a31089fb7d96c7c598398": {
+  "first_seen": 1785695584.5673559,
+  "title": "Assistant RH H/F - Alternance",
+  "company": "Beckman Coulter Diagnostics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411395243"
+  ]
+ },
+ "a8a276c58750516c91cf0da8e6682763": {
+  "first_seen": 1785695584.5673797,
+  "title": "STAGE - Chargé(e) Formation et Développement des Compétences F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447897610"
+  ]
+ },
+ "66768ebbfe931d75b863ae4b376e0072": {
+  "first_seen": 1785695584.5674002,
+  "title": "Fluid System Development Engineer",
+  "company": "MaiaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420958871"
+  ]
+ },
+ "f0dcdae09a9b31a9d0de1232bfc23612": {
+  "first_seen": 1785695584.567407,
+  "title": "Solution Engineer",
+  "company": "Vusion",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447895295"
+  ]
+ },
+ "5df09527dbf21e3a65056ec1ae58af18": {
+  "first_seen": 1785695584.567419,
+  "title": "Stage – Assistant.e Chef.fe de projet Commande Spéciale F/H",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431140987"
+  ]
+ },
+ "bd70098409750c08b82fe0318b76a12b": {
+  "first_seen": 1785695584.5674353,
+  "title": "Senior Full-Stack Engineer",
+  "company": "Nabla",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4400410206"
+  ]
+ },
+ "01cc6aa3a1c6f4ca369582366bfadf2b": {
+  "first_seen": 1785695584.567443,
+  "title": "Senior Software Engineer I",
+  "company": "Checkout.com",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428273136"
   ]
  }
 }
