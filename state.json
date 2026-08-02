@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785655969.048698,
+   "last_success": 1785657768.0728474,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785655969.0487034,
+   "last_success": 1785657768.0728557,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785655981.369894,
+   "last_success": 1785657779.3702056,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785655981.3698993,
+   "last_success": 1785657779.3702106,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785655981.3699007,
+   "last_success": 1785657779.3702123,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785655981.3699026,
+   "last_success": 1785657779.370214,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785655981.3699038,
+   "last_success": 1785657779.3702152,
    "alerted": false
   }
  },
@@ -15333,7 +15333,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4444515660",
    "https://www.linkedin.com/jobs/view/4445068783",
-   "https://www.linkedin.com/jobs/view/4445585589"
+   "https://www.linkedin.com/jobs/view/4445585589",
+   "https://www.linkedin.com/jobs/view/4445822738"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -19424,6 +19425,123 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4430958999"
+  ]
+ },
+ "f9edacd231d1c8835b99179f0e0bb51a": {
+  "first_seen": 1785657779.3712487,
+  "title": "Alternant(e) / Stagiaire – IA Générative & Automatisation (H/F)",
+  "company": "Pause-Com",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447892136"
+  ]
+ },
+ "79e8e028fe67cccedad2165658071f33": {
+  "first_seen": 1785657779.3712938,
+  "title": "Développeur Java/Angular Junior (H/F/X)",
+  "company": "Ekkiden",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447464678"
+  ]
+ },
+ "400e7a06bf200dc7115ff1643a6ee797": {
+  "first_seen": 1785657779.371415,
+  "title": "Ingénieur Validation Vérification Radar Numérique F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402062657"
+  ]
+ },
+ "b5658b454fc5b493a1dbf159b4e931e0": {
+  "first_seen": 1785657779.3714402,
+  "title": "Technicien Validation Automobile – Banc HIL & Véhicule - H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439329274"
+  ]
+ },
+ "ea9598be2e5484730ebabb0577d6eaae": {
+  "first_seen": 1785657779.3714693,
+  "title": "Ingénieur ou ingénieure homologation/acceptation ATS+/NEXTEO",
+  "company": "Groupe SNCF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447643163"
+  ]
+ },
+ "676903616466775949f53797d0c54429": {
+  "first_seen": 1785657779.3714767,
+  "title": "Ingénieur Concepteur FPGA H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411667413"
+  ]
+ },
+ "96af3770912f5776db4cdb07f2fd67b4": {
+  "first_seen": 1785657779.371496,
+  "title": "Ingénieur Bureau d'études mécaniques F/H",
+  "company": "ABB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445983099"
+  ]
+ },
+ "4fa9b500853c33811b3fa7c27a351e82": {
+  "first_seen": 1785657779.371503,
+  "title": "Consultant junior audit IT (F/H)",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419066724"
+  ]
+ },
+ "cfede25c3cde6b7e78934599c8588657": {
+  "first_seen": 1785657779.3715098,
+  "title": "Senior Software Engineer",
+  "company": "Quantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447783459"
+  ]
+ },
+ "913c6611dfff5bb30ab28596ae66d2e0": {
+  "first_seen": 1785657779.371517,
+  "title": "Développeur Java/Salesforce  F/H",
+  "company": "Bpifrance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4335055040"
+  ]
+ },
+ "2b0bcd39faf400f5047608b4757918e1": {
+  "first_seen": 1785657779.371527,
+  "title": "Chargé d'affaire moyen Industriel Automatisme et Digital H/F",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439354410"
+  ]
+ },
+ "f68f8581c3b0d6bb375698362e7ea6f7": {
+  "first_seen": 1785657779.3715441,
+  "title": "Chef de Projet - Pilotage Fournisseurs & Gestion Contractuelle (Systèmes Embarqués)",
+  "company": "IT Link Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438365154"
+  ]
+ },
+ "3e92df0dc4648433502521ae0c384b9c": {
+  "first_seen": 1785657779.3715603,
+  "title": "Chef(fe) de projet digital / Assistant(e) Product Owner Digital",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420920545"
   ]
  }
 }
