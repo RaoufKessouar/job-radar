@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785675755.872374,
+   "last_success": 1785677564.7098706,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785675755.87238,
+   "last_success": 1785677564.7098765,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785675767.9585438,
+   "last_success": 1785677576.561055,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785675767.9585483,
+   "last_success": 1785677576.5610604,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785675767.9585497,
+   "last_success": 1785677576.561062,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785675767.958551,
+   "last_success": 1785677576.5610638,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785675767.9585524,
+   "last_success": 1785677576.5610652,
    "alerted": false
   }
  },
@@ -20005,6 +20005,133 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4387526217"
+  ]
+ },
+ "ed451246d4a75488c8799aaf8a0a2c0a": {
+  "first_seen": 1785677576.5616894,
+  "title": "Product Analytics - Data Scientist",
+  "company": "Criteo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390824195"
+  ]
+ },
+ "06b75e211aec60a07b25830cb90b8a39": {
+  "first_seen": 1785677576.5617707,
+  "title": "Consultant Senior et Manager Intelligence Artificielle (IA & IA générative) - secteur financier F/H",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391063148"
+  ]
+ },
+ "81a90749ff72c6a1f069746865c70d7f": {
+  "first_seen": 1785677576.5617955,
+  "title": "Site Reliability Engineer – AI Applications (M/W/X)",
+  "company": "Ubisoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428257881"
+  ]
+ },
+ "559ddce7979aca256ba79bcad42e3498": {
+  "first_seen": 1785677576.562016,
+  "title": "Alternant(e) Game Master Réalité Virtuelle H/F",
+  "company": "The Gate VR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440511667"
+  ]
+ },
+ "5bc6a8e181ee3f3a8af339a8d5238d11": {
+  "first_seen": 1785677576.5620246,
+  "title": "Technicien Valideur Rétrofit (H/F)",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417658249"
+  ]
+ },
+ "e055c0f922ed8c432d856ae9c32b2859": {
+  "first_seen": 1785677576.562032,
+  "title": "EU Field Operations Executive",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447868544"
+  ]
+ },
+ "2e1fa5ce93dcd56031349730c629b9ca": {
+  "first_seen": 1785677576.562041,
+  "title": "Stage 2 mois Community Manager et Réseaux Sociaux",
+  "company": "Hello Récit",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445814517"
+  ]
+ },
+ "7ffbebf6c5f93c8444a6ef7bde59d531": {
+  "first_seen": 1785677576.562051,
+  "title": "Technicien(ne) Assemblage, Intégration, Vérification en mécanique, électronique H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429322055"
+  ]
+ },
+ "f02ff319c4c4a1e520e40b87e68e6e1c": {
+  "first_seen": 1785677576.5621102,
+  "title": "Ingénieur-e Développement logiciel 3DExperience / Widgets & Innovation F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447884228"
+  ]
+ },
+ "b6d226fabba6722d71b1dffd5963ff48": {
+  "first_seen": 1785677576.5621338,
+  "title": "Entangled-Photon Source Research Engineer",
+  "company": "Quandela",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446033245"
+  ]
+ },
+ "f198f2425f9382101e5f3aaba149e5a5": {
+  "first_seen": 1785677576.562141,
+  "title": "Développeur web fullstack H/F",
+  "company": "Leihia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447891553",
+   "https://www.linkedin.com/jobs/view/4447891552"
+  ]
+ },
+ "ea4a72c0e9d6233dab30db4b8447d848": {
+  "first_seen": 1785677576.5621781,
+  "title": "Ingénieur Assurance Qualité H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411364583"
+  ]
+ },
+ "87874f940d290e1618c4665da03f4e81": {
+  "first_seen": 1785677576.5622346,
+  "title": "Technicien de Maintenance Systèmes Automatisés F/H",
+  "company": "Groupe ADP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410827194"
+  ]
+ },
+ "cca0083d7aa9c1ec0a0b438fa3dab032": {
+  "first_seen": 1785677576.562242,
+  "title": "Ingénieur support (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402520318"
   ]
  }
 }
