@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785664946.4639652,
+   "last_success": 1785666750.1506243,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785664946.4639697,
+   "last_success": 1785666750.1506302,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785664958.840684,
+   "last_success": 1785666761.8804116,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785664958.8406894,
+   "last_success": 1785666761.8804162,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785664958.8406909,
+   "last_success": 1785666761.8804178,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785664958.8406925,
+   "last_success": 1785666761.8804195,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785664958.8406937,
+   "last_success": 1785666761.8804212,
    "alerted": false
   }
  },
@@ -19644,6 +19644,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4363105622"
+  ]
+ },
+ "e792072ddb6b3bac77d6a3dc02fe9461": {
+  "first_seen": 1785666761.881058,
+  "title": "Alternance - Analyse de données RH (H/F)",
+  "company": "Club Med",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402349452"
+  ]
+ },
+ "4b9704a5df74bbceebe561f1f5591411": {
+  "first_seen": 1785666761.8810685,
+  "title": "Computational Chemistry Scientist - CDD 18 mois",
+  "company": "Servier France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391107475"
+  ]
+ },
+ "ed5115c11b31df5d8878dd9c68b46284": {
+  "first_seen": 1785666761.8810964,
+  "title": "Consultant junior en risque de marché & modélisation bancaire (H/F)",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4102071304"
+  ]
+ },
+ "ea39b1b410a2a42948c2b1bd7fdd9b5e": {
+  "first_seen": 1785666761.8811567,
+  "title": "Monitor Deloitte - Consultant junior Stratégie (F/H)",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4299328921"
+  ]
+ },
+ "0f1e46df7f7ed8235cff8f67fcdff046": {
+  "first_seen": 1785666761.8811646,
+  "title": "Stage Analyste Performance Commerciale & Reporting - F/H",
+  "company": "PwC France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431320431"
+  ]
+ },
+ "ca7d56e9572bb3b1f9f6f68bf12e7037": {
+  "first_seen": 1785666761.881211,
+  "title": "Business Analyst Data (F/H)",
+  "company": "ACT-ON DATA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4342779192"
+  ]
+ },
+ "6154b869ad736b53bd16a5fac166a98a": {
+  "first_seen": 1785666761.8812606,
+  "title": "Product Manager, HR Data Platform (F/H/NB)",
+  "company": "Ubisoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436631637"
+  ]
+ },
+ "52a46f7f0f81e5f06f2dfcfc60ec861f": {
+  "first_seen": 1785666761.8812864,
+  "title": "Demand and Supply Planner H/F",
+  "company": "Air Liquide Healthcare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439056757"
   ]
  }
 }
