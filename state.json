@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785690078.1239157,
+   "last_success": 1785690198.5211391,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785690078.1239212,
+   "last_success": 1785690198.521145,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785690090.2266219,
+   "last_success": 1785690210.4551752,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785690090.226628,
+   "last_success": 1785690210.4551806,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785690090.2266297,
+   "last_success": 1785690210.4551823,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785690090.2266312,
+   "last_success": 1785690210.455184,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785690090.2266326,
+   "last_success": 1785690210.455185,
    "alerted": false
   }
  },
@@ -15374,7 +15374,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444506991",
-   "https://www.linkedin.com/jobs/view/4445568780"
+   "https://www.linkedin.com/jobs/view/4445568780",
+   "https://www.linkedin.com/jobs/view/4445830759"
   ]
  },
  "532f5a62d4637816820f666d783bf2bf": {
@@ -20469,7 +20470,7 @@
   ]
  },
  "edd1544260a16b55fcceeff018e14f82": {
-  "first_seen": 1785690090.227127,
+  "first_seen": 1785690210.4556944,
   "title": "Stage - 6 mois - IA Data Analyst F/H",
   "company": "Natixis Corporate & Investment Banking",
   "source": "linkedin",
@@ -20477,35 +20478,44 @@
    "https://www.linkedin.com/jobs/view/4390046794"
   ]
  },
- "01cc6aa3a1c6f4ca369582366bfadf2b": {
-  "first_seen": 1785690090.227274,
-  "title": "Senior Software Engineer I",
-  "company": "Checkout.com",
+ "ff6db5707a1670daf97f7cbcfcdad2a9": {
+  "first_seen": 1785690210.4558015,
+  "title": "Analyste débutant à la mise en œuvre du programme anti-Co, Anti-Fraude et ESEC - H/F",
+  "company": "TotalEnergies",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4428273136"
+   "https://www.linkedin.com/jobs/view/4447882544"
   ]
  },
- "e9527e736fd0bddff3df7b1e0d2e4475": {
-  "first_seen": 1785690090.227279,
-  "title": "Manager Architect Cloud - Paris",
-  "company": "Artefact",
+ "69cd3a04357959c3ad1b8dd4d913447c": {
+  "first_seen": 1785690210.4558105,
+  "title": "EIC Assistant Consultant en alternance F/H",
+  "company": "Cushman & Wakefield",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4380932189"
+   "https://www.linkedin.com/jobs/view/4402275614"
   ]
  },
- "8ec255466e07c059831bc22ba32e072b": {
-  "first_seen": 1785690090.227317,
-  "title": "CDI - Product Manager Data & Integration H/F",
-  "company": "Hermès",
+ "e9fcbfb9a6927070547a65e5e21e24a3": {
+  "first_seen": 1785690210.4558227,
+  "title": "Apprentissage Documentaliste juridique (Siège) - H/F",
+  "company": "Inserm Paris / Île-de-France",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4410822166"
+   "https://www.linkedin.com/jobs/view/4447841956"
+  ]
+ },
+ "bfd9b36e27bc67b57f57e6e7e02833e6": {
+  "first_seen": 1785690210.4558303,
+  "title": "Senior Product Manager Retail Media",
+  "company": "Mirakl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417654882"
   ]
  },
  "8fe8dcdb3e52a211522ca080de40f4e4": {
-  "first_seen": 1785690090.2273228,
+  "first_seen": 1785690210.4558828,
   "title": "Forward Deployed AI Engineer, France",
   "company": "BCG X",
   "source": "linkedin",
@@ -20514,12 +20524,84 @@
   ]
  },
  "748a2e201b724fba8f140424de3fa662": {
-  "first_seen": 1785690090.2273283,
+  "first_seen": 1785690210.4558969,
   "title": "Forward Deployed AI Scientist, France - BCG X",
   "company": "BCG X",
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4390713326"
+  ]
+ },
+ "14cf3d579d91daba0375f74a1bbd941e": {
+  "first_seen": 1785690210.4560566,
+  "title": "Référent Composant Logiciel (F/H)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4421253418"
+  ]
+ },
+ "6f0c0ab21c8a87755bf5fc3a9513e3f2": {
+  "first_seen": 1785690210.4560723,
+  "title": "Ingénieur  Harnais électrique /Câblage / Electronique - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4309201465"
+  ]
+ },
+ "7389fc9febc49f45edcee1e7dd7ef90b": {
+  "first_seen": 1785690210.456103,
+  "title": "Ingénieur Logiciel Moyens de Test (F/H)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4381488371"
+  ]
+ },
+ "c4cca7173cba609d514c37b08523173b": {
+  "first_seen": 1785690210.4561145,
+  "title": "Ingénieur Test & Commissioning (T&C) - Systèmes de Trains Automatiques (ATS)",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417665041"
+  ]
+ },
+ "ffe62b62b26528f425b7807d8a53f6fc": {
+  "first_seen": 1785690210.456139,
+  "title": "Consultante / Consultant CIO Advisory - Alternance",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447809969"
+  ]
+ },
+ "aa2cf6b6c8b59f6c16e880556f9cc1c1": {
+  "first_seen": 1785690210.4561527,
+  "title": "Exhibit With Us",
+  "company": "Revelstoke Visual Arts Society",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447863522"
+  ]
+ },
+ "8e8c136150ab1eebffc4cbfb11706b98": {
+  "first_seen": 1785690210.4561715,
+  "title": "Formateur Habilitations Electriques H/F",
+  "company": "SOCOTEC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4319103035"
+  ]
+ },
+ "5c11d1ff8cd0bb72dc534697500dd487": {
+  "first_seen": 1785690210.4561818,
+  "title": "Stage - Juriste d’entreprise - Droit des affaires & International",
+  "company": "Atlas énergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401488403"
   ]
  }
 }
