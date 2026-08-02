@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785697332.344829,
+   "last_success": 1785699153.745188,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785697332.3448348,
+   "last_success": 1785699153.7451944,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785697344.9611385,
+   "last_success": 1785699167.09001,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785697344.961143,
+   "last_success": 1785699167.0900147,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785697344.9611442,
+   "last_success": 1785699167.0900168,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785697344.9611454,
+   "last_success": 1785699167.090018,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785697344.9611468,
+   "last_success": 1785699167.0900197,
    "alerted": false
   }
  },
@@ -20729,6 +20729,123 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445383545"
+  ]
+ },
+ "ce0effde084b11ff7580ccdb041dd4e4": {
+  "first_seen": 1785699167.090574,
+  "title": "Ingénieur Plateforme IA Agentique (H/F)",
+  "company": "DHM IT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447660376"
+  ]
+ },
+ "601df37967d510a6e38e062d43d9bbaf": {
+  "first_seen": 1785699167.0905883,
+  "title": "AI Evaluation Engineer — Agentic Systems (H/F)",
+  "company": "DHM IT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447659401"
+  ]
+ },
+ "675a017d22493370087a8eb9b599c145": {
+  "first_seen": 1785699167.0906484,
+  "title": "Alternant / Alternante - Chef.fe de Projet Junior (INNOVATION & ENGAGEMENT) (F/H)",
+  "company": "ENGIE Research & Innovation",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411686151"
+  ]
+ },
+ "f74bcd77201503777831c03b9907eceb": {
+  "first_seen": 1785699167.0907397,
+  "title": "Offre d'Apprentissage  Amélioration & Performance Fournisseurs F/H F/H - L - DIVISION SUPPORT & SERVICES",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447876316"
+  ]
+ },
+ "951a425401d0a48e2abd48af7b57d735": {
+  "first_seen": 1785699167.0907595,
+  "title": "ALTERNANCE - Assistant(e) UX UI (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422033369"
+  ]
+ },
+ "248571afb3291e23e4a9d3afad56a63f": {
+  "first_seen": 1785699167.0908742,
+  "title": "Ingénieur(e) Ressource Solaire et Production (H/F)",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431325860"
+  ]
+ },
+ "655e3963ab8451dcca43fc6607238e91": {
+  "first_seen": 1785699167.0909226,
+  "title": "Stage – Office Manager Développement Souliers - Mode - Janvier (H/F/X)",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/3944161636"
+  ]
+ },
+ "8672b17bb380d93ebcb9ed6c4edd331d": {
+  "first_seen": 1785699167.0909357,
+  "title": "Stage - \"Chargé(e) de méthodes et qualité\" (H/F)",
+  "company": "BNP Paribas Real Estate",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390030758"
+  ]
+ },
+ "5c7314a2a188e3c6ad7e1301bf7b4482": {
+  "first_seen": 1785699167.0909572,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Catalis Partners Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447664330"
+  ]
+ },
+ "280f56d3df05996d0ed404721777ea8f": {
+  "first_seen": 1785699167.0909677,
+  "title": "STAGE - CONSULTANT JUNIOR CORPORATE (F/H)",
+  "company": "Havas Worldwide Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4156192712"
+  ]
+ },
+ "d3f9b56b60be18ffbdf4d7670c8cc8ed": {
+  "first_seen": 1785699167.0909874,
+  "title": "STAGE - ASSISTANT.E STUDIO FLOU (F/H/X) - OCTOBRE 2026",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411660332"
+  ]
+ },
+ "4a983fb94606f4c8cd9fecedb1c67d79": {
+  "first_seen": 1785699167.091008,
+  "title": "STAGE - ASSISTANT.E STUDIO FLOU DEFILE (F/H/X) - OCTOBRE 2026",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411664307"
+  ]
+ },
+ "cc8fac8fcbc6f49c4a04342a90092487": {
+  "first_seen": 1785699167.0910459,
+  "title": "STAGE - Assistant(e) Sales Merchandiser Fashion Accessoires - Juillet 2026 (H/F/X)",
+  "company": "Chloé",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4421798320"
   ]
  }
 }
