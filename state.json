@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785657768.0728474,
+   "last_success": 1785659199.3058217,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785657768.0728557,
+   "last_success": 1785659199.3058276,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785657779.3702056,
+   "last_success": 1785659212.869941,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785657779.3702106,
+   "last_success": 1785659212.8699455,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785657779.3702123,
+   "last_success": 1785659212.8699474,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785657779.370214,
+   "last_success": 1785659212.8699486,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785657779.3702152,
+   "last_success": 1785659212.8699503,
    "alerted": false
   }
  },
@@ -19542,6 +19542,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420920545"
+  ]
+ },
+ "3d28f055689bfd776ff0eb7d303db075": {
+  "first_seen": 1785659212.8709247,
+  "title": "Assistant PR & Influence - Shiseido EMEA H/F",
+  "company": "Shiseido",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429676906"
   ]
  }
 }
