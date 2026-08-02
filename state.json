@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785695569.6333885,
+   "last_success": 1785697332.344829,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785695569.633394,
+   "last_success": 1785697332.3448348,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785695584.5657723,
+   "last_success": 1785697344.9611385,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785695584.565778,
+   "last_success": 1785697344.961143,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785695584.5657802,
+   "last_success": 1785697344.9611442,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785695584.565782,
+   "last_success": 1785697344.9611454,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785695584.5657837,
+   "last_success": 1785697344.9611468,
    "alerted": false
   }
  },
@@ -20720,6 +20720,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4428273136"
+  ]
+ },
+ "bd264ae15a4916182d36151da2380a4e": {
+  "first_seen": 1785697344.9617684,
+  "title": "Prévisionniste & BI sur les Moteurs à Forte Puissance F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445383545"
   ]
  }
 }
