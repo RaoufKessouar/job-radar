@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785663128.1470315,
+   "last_success": 1785664946.4639652,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785663128.1470375,
+   "last_success": 1785664946.4639697,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785663140.216719,
+   "last_success": 1785664958.840684,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785663140.2167232,
+   "last_success": 1785664958.8406894,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785663140.2167253,
+   "last_success": 1785664958.8406909,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785663140.2167265,
+   "last_success": 1785664958.8406925,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785663140.216728,
+   "last_success": 1785664958.8406937,
    "alerted": false
   }
  },
@@ -12663,7 +12663,8 @@
    "https://www.linkedin.com/jobs/view/4442333972",
    "https://www.linkedin.com/jobs/view/4446737182",
    "https://www.linkedin.com/jobs/view/4445069830",
-   "https://www.linkedin.com/jobs/view/4445801128"
+   "https://www.linkedin.com/jobs/view/4445801128",
+   "https://www.linkedin.com/jobs/view/4445840192"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -19553,6 +19554,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4429676906"
+  ]
+ },
+ "457bb190302365493a13a175f01073cd": {
+  "first_seen": 1785664958.8417141,
+  "title": "BUSINESS DEVELOPER H/F _ STAGE RÉMUNÉRÉ",
+  "company": "Make Me Win",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445848235"
+  ]
+ },
+ "ebb83203ea3e3fe49560c57aaebb4ea8": {
+  "first_seen": 1785664958.842026,
+  "title": "INGENIEUR COBOL - F/H",
+  "company": "CASDEN Banque Populaire",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4400405082"
+  ]
+ },
+ "74fe5a90883e12343962fd8e58a6a275": {
+  "first_seen": 1785664958.8420365,
+  "title": "Research Engineer - Single-Photon Source Fabrication",
+  "company": "Quandela",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447164358"
+  ]
+ },
+ "b2786049e9b059b7973600fb52a333d2": {
+  "first_seen": 1785664958.8420532,
+  "title": "Ingénieur Essais Vibrations F/H",
+  "company": "Eaton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417221568"
+  ]
+ },
+ "27a38520f433aa5354d42211aeaec763": {
+  "first_seen": 1785664958.8421016,
+  "title": "Magasinier auto",
+  "company": "Toyota - Groupe Vauban",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447805396"
+  ]
+ },
+ "144fa1d81177c39b87b31e6fe30a1cca": {
+  "first_seen": 1785664958.842114,
+  "title": "Stage - Journaliste Vidéo (H/F)",
+  "company": "Le Média Positif 🍀",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445848236"
+  ]
+ },
+ "a9c5167bb21735f8983251c6f42c0d9b": {
+  "first_seen": 1785664958.84213,
+  "title": "Dog Concierge",
+  "company": "Doggy's",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447874463"
+  ]
+ },
+ "930b7eb0929362641112538fb85dfa71": {
+  "first_seen": 1785664958.8421426,
+  "title": "Ingénieur Génie Électrique – Réseaux de Distribution HTA/BT (H/F)",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417655645"
+  ]
+ },
+ "abe4690f64bb1d454e9f76339c770953": {
+  "first_seen": 1785664958.842181,
+  "title": "Offre de stage - Chargé d’affaires réglementaires H/F",
+  "company": "PMU",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420693226"
+  ]
+ },
+ "d40ac6a40c5f720a426e550e9ffe1965": {
+  "first_seen": 1785664958.8421905,
+  "title": "Technicien Informatique - Paris, France  (H/F)",
+  "company": "Tekneum by Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4363105622"
   ]
  }
 }
