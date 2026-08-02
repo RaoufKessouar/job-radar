@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785682930.3697646,
+   "last_success": 1785684743.3075476,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785682930.3697708,
+   "last_success": 1785684743.3075538,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785682942.2991872,
+   "last_success": 1785684756.7469847,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785682942.2991917,
+   "last_success": 1785684756.7469897,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785682942.2991936,
+   "last_success": 1785684756.7469919,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785682942.2991948,
+   "last_success": 1785684756.746993,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785682942.2991962,
+   "last_success": 1785684756.7469945,
    "alerted": false
   }
  },
@@ -20249,6 +20249,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/3944164117"
+  ]
+ },
+ "84f32ff554268e4d35d6379a4d377233": {
+  "first_seen": 1785684756.7479541,
+  "title": "Data Analyst / Power BI Senior (F/H)",
+  "company": "ACT-ON DATA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380951090"
+  ]
+ },
+ "0844fdde3380468ff8a1cce9a333656b": {
+  "first_seen": 1785684756.7479641,
+  "title": "enseignant-chercheur en robotique et IA",
+  "company": "ENSTA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420988129"
+  ]
+ },
+ "abb0f292efb80fbf05ed2116b545819a": {
+  "first_seen": 1785684756.7480888,
+  "title": "Enterprise Account Executive",
+  "company": "Qlik",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4381000453"
+  ]
+ },
+ "8c4b8e04926dd4d11ff2ba987692e4fb": {
+  "first_seen": 1785684756.7480993,
+  "title": "ALT 2026 - PMO Digital Workplace (H/F)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428508001"
+  ]
+ },
+ "11e1dcbb677f199ba72d443e421286cc": {
+  "first_seen": 1785684756.7481112,
+  "title": "Apprentissage - Commercial(e) équipements incendie - Ivry-Sur-Seine 94",
+  "company": "Chubb Fire & Security",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429666271"
+  ]
+ },
+ "757311b740f74fb72f245eef39be6d0c": {
+  "first_seen": 1785684756.7481194,
+  "title": "Alternance - Creative Designer Apprentice",
+  "company": "Brevo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444523084"
+  ]
+ },
+ "43864c0f2b0905230f6e6100b2d8a8bf": {
+  "first_seen": 1785684756.748195,
+  "title": "Finance & Strategy Intern",
+  "company": "Deliveroo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380996565"
   ]
  }
 }
