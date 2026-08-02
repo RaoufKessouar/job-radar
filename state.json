@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785673921.1558,
+   "last_success": 1785675755.872374,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785673921.1558063,
+   "last_success": 1785675755.87238,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785673934.2204585,
+   "last_success": 1785675767.9585438,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785673934.2204635,
+   "last_success": 1785675767.9585483,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785673934.2204654,
+   "last_success": 1785675767.9585497,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785673934.2204669,
+   "last_success": 1785675767.958551,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785673934.2204688,
+   "last_success": 1785675767.9585524,
    "alerted": false
   }
  },
@@ -19906,6 +19906,105 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4371070057"
+  ]
+ },
+ "35e0a7490871bd0e4d2bf1182170f4cc": {
+  "first_seen": 1785675767.959629,
+  "title": "January 2027 - Internship - Lazard Investment Banking Intern (Central Eastern Europe Team) - Paris",
+  "company": "Lazard",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419081232"
+  ]
+ },
+ "a5c0d56f292bb5e82acd506d43b59ad6": {
+  "first_seen": 1785675767.9596384,
+  "title": "Site Reliability Engineer Intern",
+  "company": "Criteo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390810980"
+  ]
+ },
+ "14178ab2a4acfedb203b3f412c71ba9b": {
+  "first_seen": 1785675767.9596703,
+  "title": "Alternant(e) Chargé(e) de Projet Recrutement & Data – Talent Acquisition (H/F/NB)",
+  "company": "Disneyland Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447878670"
+  ]
+ },
+ "b2eaeb1a032790c24983f841f832c339": {
+  "first_seen": 1785675767.9596872,
+  "title": "Customer Success Apprentice F/H",
+  "company": "Walter Learning",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447859671"
+  ]
+ },
+ "45e9aaa92dfa9c5666632a22a04423ad": {
+  "first_seen": 1785675767.9596975,
+  "title": "Stage - Chargé de contenu &amp; outils collaboratifs (H/F)",
+  "company": "Banque BCP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391096261"
+  ]
+ },
+ "4f3f7446cf28a466cbfcdfc0ceadeefe": {
+  "first_seen": 1785675767.9597352,
+  "title": "Data Scientist IA – Développeur Machine Learning H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439561282"
+  ]
+ },
+ "d306a6ee41e1d0ac6a24583ec071259e": {
+  "first_seen": 1785675767.9597807,
+  "title": "Développeur IA Générative & Prototypage Rapide (F/H)",
+  "company": "Davidson consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4251941416"
+  ]
+ },
+ "893a8a7dafdd661ad51ab2087aa8cea5": {
+  "first_seen": 1785675767.9598022,
+  "title": "Stage - Chargé(e) de projet RSE & Développement Durable  (H/F)",
+  "company": "Club Med",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402354363"
+  ]
+ },
+ "8d8203ac5a3d7da16b4bdca34771ed38": {
+  "first_seen": 1785675767.9598112,
+  "title": "Transformation Digitale du secteur F/H - L - DIVISION SUPPORT & SERVICES",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445601494"
+  ]
+ },
+ "aff13f88580167493d14965aa83b357c": {
+  "first_seen": 1785675767.9598365,
+  "title": "Recruteur.se junior (stage) [AQ-11154]",
+  "company": "Aquent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445859171"
+  ]
+ },
+ "fc2edf3dd176a324683295ea86e97ec6": {
+  "first_seen": 1785675767.959847,
+  "title": "STAGIAIRE (H/F) - DÉPARTEMENT CONTENTIEUX - JUILLET/DÉCEMBRE 2027",
+  "company": "Eversheds Sutherland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4387526217"
   ]
  }
 }
