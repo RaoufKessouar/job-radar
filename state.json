@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785666750.1506243,
+   "last_success": 1785668556.358062,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785666750.1506302,
+   "last_success": 1785668556.3580685,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785666761.8804116,
+   "last_success": 1785668569.8954587,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785666761.8804162,
+   "last_success": 1785668569.8954635,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785666761.8804178,
+   "last_success": 1785668569.8954651,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785666761.8804195,
+   "last_success": 1785668569.8954668,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785666761.8804212,
+   "last_success": 1785668569.895468,
    "alerted": false
   }
  },
@@ -19716,6 +19716,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4439056757"
+  ]
+ },
+ "6654265b80c99aed3c9e741e118c984b": {
+  "first_seen": 1785668569.8960016,
+  "title": "Data Analyst Alteryx (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438944476"
+  ]
+ },
+ "475c7b5c2f3c1849abaef52dd3f21287": {
+  "first_seen": 1785668569.896187,
+  "title": "Opérateur de Saisie X/ F/H",
+  "company": "HOUSE OF ABY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445834084"
+  ]
+ },
+ "fa8dd424b2102de1f9c760dca5400879": {
+  "first_seen": 1785668569.8962362,
+  "title": "ALTERNANCE - Assistant(e) Chef de Produit (F/H)",
+  "company": "Lacoste",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430969617"
+  ]
+ },
+ "3afbfaa002a13cff148b9615e77e3147": {
+  "first_seen": 1785668569.8962436,
+  "title": "Engineer Data GCP / Azure (H/F)",
+  "company": "Inetum",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439323438"
+  ]
+ },
+ "dea55c702cf1cd3bca3c8e0aca6a89d1": {
+  "first_seen": 1785668569.8962517,
+  "title": "Responsable de projets Gen-AI -  F/H - MBDA",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445308437"
+  ]
+ },
+ "931f16fc41bdd9384105bde22803af0e": {
+  "first_seen": 1785668569.8962603,
+  "title": "ALTERNANCE - Assistant Chef de Projets Paid Media (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4406236492"
+  ]
+ },
+ "d64da63bba0cb00020864c157d98dc02": {
+  "first_seen": 1785668569.8962727,
+  "title": "Chercheur H/F pour l'analyse de l'exosphère de Mercure avec PHEBUS sur Bepi-Colombo",
+  "company": "CNRS Centre-Est",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447846008"
+  ]
+ },
+ "9e35701a18c2721d5b4ac246239a8dbc": {
+  "first_seen": 1785668569.8964138,
+  "title": "Manager I, Engineering - AI Platform - Evaluation & Annotation",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420931273"
+  ]
+ },
+ "6a4de55cff1f4055579c2232414f6ea5": {
+  "first_seen": 1785668569.8964417,
+  "title": "Chef-fe de Produit Digital IA industriel F/H - SAFRAN SA (FRANCE)",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445300919"
   ]
  }
 }
