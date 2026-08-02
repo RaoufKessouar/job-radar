@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785672269.0093362,
+   "last_success": 1785673921.1558,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785672269.0093427,
+   "last_success": 1785673921.1558063,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785672280.79315,
+   "last_success": 1785673934.2204585,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785672280.7931557,
+   "last_success": 1785673934.2204635,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785672280.7931573,
+   "last_success": 1785673934.2204654,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785672280.793159,
+   "last_success": 1785673934.2204669,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785672280.7931602,
+   "last_success": 1785673934.2204688,
    "alerted": false
   }
  },
@@ -19897,6 +19897,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447819968"
+  ]
+ },
+ "bdf48f8dac62d4765ea340475b8daea1": {
+  "first_seen": 1785673934.2215238,
+  "title": "Data Engineer F/H",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4371070057"
   ]
  }
 }
