@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785654146.4845762,
+   "last_success": 1785655969.048698,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785654146.4845827,
+   "last_success": 1785655969.0487034,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785654160.1507168,
+   "last_success": 1785655981.369894,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785654160.1507215,
+   "last_success": 1785655981.3698993,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785654160.1507232,
+   "last_success": 1785655981.3699007,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785654160.150725,
+   "last_success": 1785655981.3699026,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785654160.1507263,
+   "last_success": 1785655981.3699038,
    "alerted": false
   }
  },
@@ -18882,7 +18882,8 @@
   "company": "MBDA",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4439353521"
+   "https://www.linkedin.com/jobs/view/4439353521",
+   "https://www.linkedin.com/jobs/view/4439364054"
   ]
  },
  "243e61aa00f62e60fdba4ddb8e801986": {
@@ -19387,6 +19388,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4329006904"
+  ]
+ },
+ "4bc5179e3999d6b7d4f34a1e910cd70b": {
+  "first_seen": 1785655981.3710601,
+  "title": "Site Reliability Engineer (SRE) - AI GPU Clusters",
+  "company": "Scaleway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445816852"
+  ]
+ },
+ "a7826727b0a05c252b492d4cb66b43a1": {
+  "first_seen": 1785655981.371105,
+  "title": "Stage Fondation Education H/F",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438366258"
+  ]
+ },
+ "410b2b52692b3b0e2d3b25112ab1fb40": {
+  "first_seen": 1785655981.371121,
+  "title": "STAGE JANVIER 2027 - Media Project Manager PAN (H/F)",
+  "company": "Cartier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438341531"
+  ]
+ },
+ "c5d4a84293e195d3b524ba802f051e25": {
+  "first_seen": 1785655981.3711436,
+  "title": "Stage - Assistant chef de produit (H/F)",
+  "company": "PHOENIX OCP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430958999"
   ]
  }
 }
