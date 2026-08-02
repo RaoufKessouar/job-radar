@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785670359.4325922,
+   "last_success": 1785672141.0584242,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785670359.4325979,
+   "last_success": 1785672141.0584302,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785670371.5922132,
+   "last_success": 1785672154.3244295,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785670371.5922177,
+   "last_success": 1785672154.3244348,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785670371.5922194,
+   "last_success": 1785672154.3244364,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785670371.5922208,
+   "last_success": 1785672154.324438,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785670371.5922222,
+   "last_success": 1785672154.3244395,
    "alerted": false
   }
  },
@@ -19879,6 +19879,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445826661"
+  ]
+ },
+ "c68bf00c9d1d7cbf59f64df0b438146b": {
+  "first_seen": 1785672154.3249352,
+  "title": "Product Data Scientist Intern",
+  "company": "Criteo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390810974"
+  ]
+ },
+ "41753b893d5fd7054be17e681d1c38ae": {
+  "first_seen": 1785672154.325086,
+  "title": "Stage Bac + 5 : modélisation mécanique du noyau sur Abaqus et conception moule instrumenté F/H - SAFRAN SA (FRANCE)",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447819968"
   ]
  }
 }
