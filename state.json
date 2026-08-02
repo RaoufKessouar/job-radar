@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785659522.6399283,
+   "last_success": 1785661337.0416799,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785659522.6399348,
+   "last_success": 1785661337.0416858,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785659536.0282166,
+   "last_success": 1785661351.0427043,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785659536.0282214,
+   "last_success": 1785661351.0427086,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785659536.0282235,
+   "last_success": 1785661351.0427105,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785659536.0282245,
+   "last_success": 1785661351.0427117,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785659536.028226,
+   "last_success": 1785661351.0427134,
    "alerted": false
   }
  },
@@ -9636,7 +9636,8 @@
    "https://www.linkedin.com/jobs/view/4259603961",
    "https://www.linkedin.com/jobs/view/4444464006",
    "https://www.linkedin.com/jobs/view/4447251299",
-   "https://www.linkedin.com/jobs/view/4447799136"
+   "https://www.linkedin.com/jobs/view/4447799136",
+   "https://www.linkedin.com/jobs/view/4447873540"
   ]
  },
  "3518d4afa984bea20441c454e2a67733": {
@@ -12717,7 +12718,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445345887"
+   "https://www.linkedin.com/jobs/view/4445345887",
+   "https://www.linkedin.com/jobs/view/4447893155"
   ]
  },
  "b9340bedbf923f6da9e058bb524af07c": {
