@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785652348.2354305,
+   "last_success": 1785654146.4845762,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785652348.235437,
+   "last_success": 1785654146.4845827,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785652361.2017062,
+   "last_success": 1785654160.1507168,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785652361.2017102,
+   "last_success": 1785654160.1507215,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785652361.201712,
+   "last_success": 1785654160.1507232,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785652361.2017133,
+   "last_success": 1785654160.150725,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785652361.2017145,
+   "last_success": 1785654160.1507263,
    "alerted": false
   }
  },
@@ -19351,6 +19351,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445834347"
+  ]
+ },
+ "0ada38e4b2424ed8cef32ea9475a7b47": {
+  "first_seen": 1785654160.1515,
+  "title": "Consultant Data RH H/F",
+  "company": "mc2i",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401276472"
+  ]
+ },
+ "92b25fb0ca7fe3ac24c05b2d49b5e2f6": {
+  "first_seen": 1785654160.1515126,
+  "title": "Azure / Fabric Data Engineer (Microsoft)",
+  "company": "Devoteam | Microsoft Partner",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390121866"
+  ]
+ },
+ "7d9b8ae14df0a6e7744c6e2b1612ab4c": {
+  "first_seen": 1785654160.1515253,
+  "title": "Analyste Performances Marketing & BI Opérations (F/H)",
+  "company": "Van Cleef & Arpels",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429646639"
+  ]
+ },
+ "4cbacd4054021b28692ffa3e2e3e8672": {
+  "first_seen": 1785654160.1515596,
+  "title": "Consultant en Data Engineering - F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4329006904"
   ]
  }
 }
