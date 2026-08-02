@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785691942.4664798,
+   "last_success": 1785693743.9255993,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785691942.4664857,
+   "last_success": 1785693743.9256046,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785691955.653189,
+   "last_success": 1785693755.4889998,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785691955.6531937,
+   "last_success": 1785693755.4890044,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785691955.6531959,
+   "last_success": 1785693755.4890058,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785691955.6531975,
+   "last_success": 1785693755.4890075,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785691955.6531992,
+   "last_success": 1785693755.4890087,
    "alerted": false
   }
  },
@@ -20602,6 +20602,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4401488403"
+  ]
+ },
+ "b558f3c20958787448edf99ec0ee965a": {
+  "first_seen": 1785693755.4896371,
+  "title": "Senior Data Scientist NLP/GenAI - Catalog",
+  "company": "Mirakl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4299146951"
+  ]
+ },
+ "899d323aa32174e72a86821518dc42ce": {
+  "first_seen": 1785693755.4896688,
+  "title": "Consultant Senior - Engineering Excellence & AI Paris F/H",
+  "company": "Zenika",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4364130886"
   ]
  }
 }
