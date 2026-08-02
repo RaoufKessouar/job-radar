@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785646951.9794462,
+   "last_success": 1785648739.3297992,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785646951.9794517,
+   "last_success": 1785648739.3298037,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785646964.080732,
+   "last_success": 1785648751.3249674,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785646964.0807364,
+   "last_success": 1785648751.324971,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785646964.080738,
+   "last_success": 1785648751.3249724,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785646964.0807393,
+   "last_success": 1785648751.3249736,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785646964.0807407,
+   "last_success": 1785648751.3249745,
    "alerted": false
   }
  },
@@ -19044,6 +19044,177 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4436614160"
+  ]
+ },
+ "a3f1460a2fae210f1dbc295518cc7b67": {
+  "first_seen": 1785648751.3255777,
+  "title": "STAGE - STAGE - Assistant(e) Trader Programmatique - F/H",
+  "company": "Havas Media France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428717434"
+  ]
+ },
+ "675c93cbe58fe48495a4876eb49f3d82": {
+  "first_seen": 1785648751.3257236,
+  "title": "STAGE - Assistant(e) Ressources Humaines (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409948664"
+  ]
+ },
+ "94fcab842046697a8d09aacc614f5a00": {
+  "first_seen": 1785648751.3257308,
+  "title": "Apprenti contrôle de gestion projet f/h",
+  "company": "Siemens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438335286"
+  ]
+ },
+ "d8113b30cc53c503fb123ad1bd357a1f": {
+  "first_seen": 1785648751.3257608,
+  "title": "ALTERNANCE 12 mois - Ingénieur Excellence Opérationnelle H/F - Septembre 2026",
+  "company": "Coca-Cola Europacific Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4377183468"
+  ]
+ },
+ "634f286bba2e9c18d3f2c8eaf2d81445": {
+  "first_seen": 1785648751.325766,
+  "title": "Cryogenic stage thermal engineer",
+  "company": "MaiaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420967157"
+  ]
+ },
+ "0be61dd698f6d32b975b095fc45a3105": {
+  "first_seen": 1785648751.3257883,
+  "title": "DevOps / Architect Engineer F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447823342"
+  ]
+ },
+ "ff1e51a0b60e03ba4550674c88a7cc4a": {
+  "first_seen": 1785648751.3257935,
+  "title": "Apprentice HR Assistant",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420928427"
+  ]
+ },
+ "1d84edd44885c695d9412ee275a1cf50": {
+  "first_seen": 1785648751.3258016,
+  "title": "Ingénieur Développeur C++ / Python – Secteur Défense (F/H)",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445817670"
+  ]
+ },
+ "37c1a872cddbd6e66d7ff827ca74b7b0": {
+  "first_seen": 1785648751.3258073,
+  "title": "Revenue Operations Intern",
+  "company": "Deepki",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429688000"
+  ]
+ },
+ "940d72edef91d1a3c35ae56b590fe7f9": {
+  "first_seen": 1785648751.3258135,
+  "title": "Stage Assistant Chef de Projet Digital H/F",
+  "company": "CACEIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4378189609"
+  ]
+ },
+ "1cd77747b085cfa811ff9aed2b77c9c8": {
+  "first_seen": 1785648751.3258212,
+  "title": "Collaborateur – 0 à 2 ans d’expérience (H/F)",
+  "company": "Seban Avocats",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447845849"
+  ]
+ },
+ "653150c4886db2afb93d6687559612e9": {
+  "first_seen": 1785648751.3258302,
+  "title": "Doctorant CIFRE - Ségrégation et précipitation aux joints de grains dans les pièces forgées F/H",
+  "company": "Framatome",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438349246"
+  ]
+ },
+ "cbeb3e41195ce4d79e4e2def2dfc1a1d": {
+  "first_seen": 1785648751.3258376,
+  "title": "Assistant chargé de mission sécurité H/F - Alternance",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4378804058"
+  ]
+ },
+ "deb00cf247402bde3328e4229d734e4b": {
+  "first_seen": 1785648751.3258874,
+  "title": "Stage Marketing",
+  "company": "LDeclic",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445821230"
+  ]
+ },
+ "81bf453f7cebe8a5fb61dbe84f4bf57c": {
+  "first_seen": 1785648751.3258934,
+  "title": "Community Manager CAPITAL (H/F) - Stage",
+  "company": "Prisma Media",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438355815"
+  ]
+ },
+ "0c0abfe18dca0f6d58713a5c2fd8b016": {
+  "first_seen": 1785648751.325902,
+  "title": "Alternance de 12 à 24 mois - Chargé(e) de communication interne (H/F)",
+  "company": "OCP Répartition",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430990362"
+  ]
+ },
+ "ec6390e20061c9f61f60ef54d4d600bc": {
+  "first_seen": 1785648751.3259084,
+  "title": "STAGE - ASSISTANT(E) VIP (H/F) - SEPTEMBRE 2026",
+  "company": "JACQUEMUS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438357306"
+  ]
+ },
+ "20b4b172ab84331f52d21ee59a90e77e": {
+  "first_seen": 1785648751.3259158,
+  "title": "Stage - Assistant(e) Chef(fe) de Projet Digital & E-commerce (H/F/X)",
+  "company": "BAT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438906800"
+  ]
+ },
+ "eebbd01bd397dbd2d35960d7157f865f": {
+  "first_seen": 1785648751.3259249,
+  "title": "Doctorant·e en linguistique typologique dans l’aire Pacifique (F/H)",
+  "company": "PSL Research University",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445824016"
   ]
  }
 }
