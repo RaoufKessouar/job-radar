@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785679360.471554,
+   "last_success": 1785681109.1724896,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785679360.4715605,
+   "last_success": 1785681109.1724951,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785679373.310543,
+   "last_success": 1785681122.5451908,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785679373.310548,
+   "last_success": 1785681122.5451958,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785679373.310549,
+   "last_success": 1785681122.5451977,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785679373.3105495,
+   "last_success": 1785681122.5451992,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785679373.3105502,
+   "last_success": 1785681122.5452006,
    "alerted": false
   }
  },
@@ -20177,6 +20177,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4371606857"
+  ]
+ },
+ "ff29b1a4cb2d84f88addefd017dee4ed": {
+  "first_seen": 1785681122.5457096,
+  "title": "AI Architect H/F",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426984132"
+  ]
+ },
+ "6b1fb53c0aea94a923c9b39c257c3f1c": {
+  "first_seen": 1785681122.5457993,
+  "title": "Control & Mission Preparation Engineer",
+  "company": "MaiaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420958872"
   ]
  }
 }
