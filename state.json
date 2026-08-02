@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785699153.745188,
+   "last_success": 1785700956.5513382,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785699153.7451944,
+   "last_success": 1785700956.5513434,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785699167.09001,
+   "last_success": 1785700970.6365647,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785699167.0900147,
+   "last_success": 1785700970.6365697,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785699167.0900168,
+   "last_success": 1785700970.6365714,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785699167.090018,
+   "last_success": 1785700970.6365728,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785699167.0900197,
+   "last_success": 1785700970.6365745,
    "alerted": false
   }
  },
@@ -20846,6 +20846,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4421798320"
+  ]
+ },
+ "f89fec72880de3a6919669a9294b52d3": {
+  "first_seen": 1785700970.6375828,
+  "title": "[Alternance] Analyste ALM Junior H-F",
+  "company": "Abeille Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4388215163"
+  ]
+ },
+ "850e57f9884a8f86de592f4adfcf0b98": {
+  "first_seen": 1785700970.6377847,
+  "title": "Research Engineer — Vision & Perception",
+  "company": "Bleu Robotics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448117429"
+  ]
+ },
+ "3c99363a0512688bef91993cbc2da58e": {
+  "first_seen": 1785700970.6377964,
+  "title": "Research Engineer — Robot Learning",
+  "company": "Bleu Robotics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448107615"
   ]
  }
 }
