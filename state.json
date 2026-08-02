@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785688312.3780591,
+   "last_success": 1785690078.1239157,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785688312.378065,
+   "last_success": 1785690078.1239212,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785688325.7441728,
+   "last_success": 1785690090.2266219,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785688325.7441778,
+   "last_success": 1785690090.226628,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785688325.74418,
+   "last_success": 1785690090.2266297,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785688325.7441814,
+   "last_success": 1785690090.2266312,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785688325.7441828,
+   "last_success": 1785690090.2266326,
    "alerted": false
   }
  },
@@ -20466,6 +20466,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4420974057"
+  ]
+ },
+ "edd1544260a16b55fcceeff018e14f82": {
+  "first_seen": 1785690090.227127,
+  "title": "Stage - 6 mois - IA Data Analyst F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390046794"
+  ]
+ },
+ "01cc6aa3a1c6f4ca369582366bfadf2b": {
+  "first_seen": 1785690090.227274,
+  "title": "Senior Software Engineer I",
+  "company": "Checkout.com",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428273136"
+  ]
+ },
+ "e9527e736fd0bddff3df7b1e0d2e4475": {
+  "first_seen": 1785690090.227279,
+  "title": "Manager Architect Cloud - Paris",
+  "company": "Artefact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380932189"
+  ]
+ },
+ "8ec255466e07c059831bc22ba32e072b": {
+  "first_seen": 1785690090.227317,
+  "title": "CDI - Product Manager Data & Integration H/F",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410822166"
+  ]
+ },
+ "8fe8dcdb3e52a211522ca080de40f4e4": {
+  "first_seen": 1785690090.2273228,
+  "title": "Forward Deployed AI Engineer, France",
+  "company": "BCG X",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390721148"
+  ]
+ },
+ "748a2e201b724fba8f140424de3fa662": {
+  "first_seen": 1785690090.2273283,
+  "title": "Forward Deployed AI Scientist, France - BCG X",
+  "company": "BCG X",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390713326"
   ]
  }
 }
