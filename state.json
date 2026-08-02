@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785648739.3297992,
+   "last_success": 1785650539.704213,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785648739.3298037,
+   "last_success": 1785650539.7042189,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785648751.3249674,
+   "last_success": 1785650551.3607433,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785648751.324971,
+   "last_success": 1785650551.3607478,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785648751.3249724,
+   "last_success": 1785650551.3607492,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785648751.3249736,
+   "last_success": 1785650551.360751,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785648751.3249745,
+   "last_success": 1785650551.3607523,
    "alerted": false
   }
  },
@@ -19215,6 +19215,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445824016"
+  ]
+ },
+ "df5effe8d27850c2470a2edd8dfcf2f9": {
+  "first_seen": 1785650551.361446,
+  "title": "Alternance - 2 ans - Chef de project finance F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417662626"
+  ]
+ },
+ "85a8b109abf7a2a18880d5620dc2b36c": {
+  "first_seen": 1785650551.361471,
+  "title": "Doctorant·e en description linguistique dans l’aire Pacifique (H/F) (F/H)",
+  "company": "PSL Research University",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445820071"
+  ]
+ },
+ "05917d7325ac4b35971fbd187cdd17ec": {
+  "first_seen": 1785650551.3614917,
+  "title": "Post doctorat en Chimie Analytique et Spectrométrie de masse - 12 mois H/F H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390487739"
   ]
  }
 }
