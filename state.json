@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785677564.7098706,
+   "last_success": 1785679360.471554,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785677564.7098765,
+   "last_success": 1785679360.4715605,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785677576.561055,
+   "last_success": 1785679373.310543,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785677576.5610604,
+   "last_success": 1785679373.310548,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785677576.561062,
+   "last_success": 1785679373.310549,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785677576.5610638,
+   "last_success": 1785679373.3105495,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785677576.5610652,
+   "last_success": 1785679373.3105502,
    "alerted": false
   }
  },
@@ -20132,6 +20132,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4402520318"
+  ]
+ },
+ "65c10c906a8e97fde26a2aa4138b9f3b": {
+  "first_seen": 1785679373.3110502,
+  "title": "STAGE - Assistant Data Manager (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4371152631"
+  ]
+ },
+ "a816ac3ffa6ce21db42998d38c9aefc6": {
+  "first_seen": 1785679373.3111165,
+  "title": "Data analyst Sénior H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4324159226"
+  ]
+ },
+ "3e39d92ca343c388dd24cbe8edc0f724": {
+  "first_seen": 1785679373.3113248,
+  "title": "Fullstack Software Engineer RoR/JS W/M",
+  "company": "Pennylane",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402520519"
+  ]
+ },
+ "dda0ea8b6e66d05e63c0d19e9a1141b9": {
+  "first_seen": 1785679373.3113334,
+  "title": "Alternance – Chargé(e) d’études Homologation Packaging – Parfums Beauté – Septembre 2026 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409981295"
+  ]
+ },
+ "99d8dafe6f47f3a024facf63f9f9a371": {
+  "first_seen": 1785679373.3113387,
+  "title": "Fullstack Software Engineer (H/F/X)",
+  "company": "Kolecto",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4371606857"
   ]
  }
 }
