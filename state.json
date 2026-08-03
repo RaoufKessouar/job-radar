@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785763945.8014514,
+   "last_success": 1785764530.4064121,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785763945.8014576,
+   "last_success": 1785764530.4064176,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785763961.738998,
+   "last_success": 1785764545.803649,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785763961.7390032,
+   "last_success": 1785764545.803654,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785763961.739005,
+   "last_success": 1785764545.8036559,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785763961.7390068,
+   "last_success": 1785764545.8036573,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785763961.739008,
+   "last_success": 1785764545.8036585,
    "alerted": false
   }
  },
@@ -17004,7 +17004,8 @@
   "company": "Google DeepMind",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4437570592"
+   "https://www.linkedin.com/jobs/view/4437570592",
+   "https://www.linkedin.com/jobs/view/4447978520"
   ]
  },
  "46fb948098e8bcf91c4431689ce1dce6": {
@@ -22303,6 +22304,15 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Conception-d-un-model-de-conducteur-adaptatif-par-IA--H-F-_JOBREQ_50274138"
+  ]
+ },
+ "b70997341fc32cc0f485f19e1e282b82": {
+  "first_seen": 1785764545.8042505,
+  "title": "Data Engineer / Data Scientist H/F",
+  "company": "Epiconcept company : Epidemiology - e-Health - Data science",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448179855"
   ]
  }
 }
