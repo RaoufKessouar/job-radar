@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785785536.616666,
+   "last_success": 1785787351.9593177,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785785536.6166718,
+   "last_success": 1785787351.959323,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785785552.5959496,
+   "last_success": 1785787368.6356025,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785785552.5959551,
+   "last_success": 1785787368.6356065,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785785552.5959573,
+   "last_success": 1785787368.6356077,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785785552.595959,
+   "last_success": 1785787368.635609,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785785552.5959609,
+   "last_success": 1785787368.63561,
    "alerted": false
   }
  },
@@ -22803,6 +22803,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448210214"
+  ]
+ },
+ "a7bf2426d97458ebd04a23c9e8a0a8bc": {
+  "first_seen": 1785787368.6361136,
+  "title": "AI Engineer",
+  "company": "Avanade",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448389386"
+  ]
+ },
+ "73c1e035b16bf7b32036e29bc256e146": {
+  "first_seen": 1785787368.636167,
+  "title": "Data scientist-e / Data ingénieur-e",
+  "company": "Urssaf Caisse nationale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448390789"
   ]
  }
 }
