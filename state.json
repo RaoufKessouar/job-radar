@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785765730.05472,
+   "last_success": 1785767550.212244,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785765730.0547254,
+   "last_success": 1785767550.2122495,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785765744.7031305,
+   "last_success": 1785767564.641825,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785765744.703135,
+   "last_success": 1785767564.6418295,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785765744.7031367,
+   "last_success": 1785767564.641831,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785765744.703138,
+   "last_success": 1785767564.6418324,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785765744.7031393,
+   "last_success": 1785767564.6418338,
    "alerted": false
   }
  },
@@ -9557,7 +9557,8 @@
   "company": "SkillCorner",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442074619"
+   "https://www.linkedin.com/jobs/view/4442074619",
+   "https://www.linkedin.com/jobs/view/4447976908"
   ]
  },
  "d55dc24ba30a8d8b23c4e5a4c4105526": {
@@ -14977,7 +14978,8 @@
   "company": "Niji",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4385463344"
+   "https://www.linkedin.com/jobs/view/4385463344",
+   "https://www.linkedin.com/jobs/view/4446226026"
   ]
  },
  "87b2bda24b66b90da06521c14749b3f9": {
@@ -22331,6 +22333,123 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Charg-de-veille-et-analyse--H-F-_JOBREQ_50272736"
+  ]
+ },
+ "487c1fd6a18aff2715ded770cb4f2b5a": {
+  "first_seen": 1785767564.6424491,
+  "title": "Chargé d'Études Actuarielles & Data",
+  "company": "Swiss Life France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447992323"
+  ]
+ },
+ "aef7c36432b2fbf0d41c39b2c62b2062": {
+  "first_seen": 1785767564.642477,
+  "title": "Data Engineer / Data Model H/F",
+  "company": "Epiconcept company : Epidemiology - e-Health - Data science",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448192759"
+  ]
+ },
+ "60c8113b5a47e57b5188a24ca9dcd7b0": {
+  "first_seen": 1785767564.6424983,
+  "title": "IT Supply Chain Apprentice",
+  "company": "Faurecia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448188618"
+  ]
+ },
+ "3e077faf63296486a74dcd95d290ef00": {
+  "first_seen": 1785767564.6425052,
+  "title": "Business Analyst",
+  "company": "ENGIE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445893542"
+  ]
+ },
+ "92fde1c6b39d0926a18dd3a42117472e": {
+  "first_seen": 1785767564.6425438,
+  "title": "Data Analyst – Power BI (m/f/d)",
+  "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447968367"
+  ]
+ },
+ "cd2e7b11d9416a4edc7ca168462d9a85": {
+  "first_seen": 1785767564.6425943,
+  "title": "Quantitative economics researcher",
+  "company": "Capital Fund Management (CFM)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445879929"
+  ]
+ },
+ "547ddd6bb1aaf2d6b55547ce22f420f6": {
+  "first_seen": 1785767564.6426022,
+  "title": "DATA ENGINEER AND BUSINESS TOOL DEVELOPER F/H",
+  "company": "Framatome",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447985038"
+  ]
+ },
+ "3ce555180ebc3979797c03b3eb305540": {
+  "first_seen": 1785767564.6426127,
+  "title": "Stage – Automation Engineer – CHANEL Europe – Octobre 2026 – H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447989372"
+  ]
+ },
+ "a2ff99ef94e9cc5b07b178947db63fd0": {
+  "first_seen": 1785767564.6426282,
+  "title": "Senior Full Stack Data Analyst",
+  "company": "Brevo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445070115"
+  ]
+ },
+ "5afa51a64678c2f6386ff67c2ac12c68": {
+  "first_seen": 1785767564.6426513,
+  "title": "Tech Lead Data & Opérations H/F",
+  "company": "Agatha Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447954576"
+  ]
+ },
+ "001b7870ce1137c08d6fbea5951c1d79": {
+  "first_seen": 1785767564.6426594,
+  "title": "Web Analyst expérimenté H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4322692812"
+  ]
+ },
+ "ab86a4109ad869b83690a37a75a86d8a": {
+  "first_seen": 1785767564.642669,
+  "title": "Pilote de Centre de Compétences LiDAR F/H",
+  "company": "Groupe INTM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448178992"
+  ]
+ },
+ "6fd472c5ef31bebfff028526ae88152e": {
+  "first_seen": 1785767564.6426811,
+  "title": "295 - Data Scientist / Expert IA Générative – Senior Claude (H/F) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445883999"
   ]
  }
 }
