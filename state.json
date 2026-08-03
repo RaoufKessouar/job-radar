@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785738746.0026581,
+   "last_success": 1785740579.270122,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785738746.0026639,
+   "last_success": 1785740579.2701285,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785738760.562957,
+   "last_success": 1785740591.9421322,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785738760.5629618,
+   "last_success": 1785740591.942137,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785738760.562964,
+   "last_success": 1785740591.9421387,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785738760.5629652,
+   "last_success": 1785740591.9421399,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785738760.5629668,
+   "last_success": 1785740591.9421408,
    "alerted": false
   }
  },
@@ -16071,7 +16071,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445080072",
-   "https://www.linkedin.com/jobs/view/4445828716"
+   "https://www.linkedin.com/jobs/view/4445828716",
+   "https://www.linkedin.com/jobs/view/4445861507"
   ]
  },
  "9c5901299b9753bd5b0227ed0e17c590": {
@@ -19404,7 +19405,8 @@
   "company": "Scaleway",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445816852"
+   "https://www.linkedin.com/jobs/view/4445816852",
+   "https://www.linkedin.com/jobs/view/4445867319"
   ]
  },
  "a7826727b0a05c252b492d4cb66b43a1": {
@@ -21073,6 +21075,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4431336192"
+  ]
+ },
+ "dfc6e159d72ef8afc0861ddf5cc88fdd": {
+  "first_seen": 1785740591.9429371,
+  "title": "Stage Category manager enseignes et marché F/H",
+  "company": "Cereal Partners Worldwide (Nestlé & General Mills)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448106942"
+  ]
+ },
+ "42453157f84b0f696a6dc6859e9d5411": {
+  "first_seen": 1785740591.942955,
+  "title": "[Stage] Ingénieur en Diagnostic des Infrastructures H/F",
+  "company": "SOCOTEC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4265355241"
+  ]
+ },
+ "18dc9cec4ae41c510860240a92f53bcd": {
+  "first_seen": 1785740591.942972,
+  "title": "ALTERNANCE -  Assistant Digital Product Manager (H/F)",
+  "company": "Alliance Healthcare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4408882922"
+  ]
+ },
+ "3bbeb73ea06fc81df5f4d08a509e259f": {
+  "first_seen": 1785740591.9430027,
+  "title": "Technicien mesures qualité de l'eau H/F",
+  "company": "Apave",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420959581"
+  ]
+ },
+ "e9527e736fd0bddff3df7b1e0d2e4475": {
+  "first_seen": 1785740591.9431098,
+  "title": "Manager Architect Cloud - Paris",
+  "company": "Artefact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380932189"
+  ]
+ },
+ "b280ce2ed1d6dcd9e3324278beb55bb2": {
+  "first_seen": 1785740591.9431176,
+  "title": "Consultant confirmé en Data Product Management - F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4350672508"
+  ]
+ },
+ "cd8e285434ae51f00354d566898fb0c2": {
+  "first_seen": 1785740591.943124,
+  "title": "Ingénieur Développement applicatif",
+  "company": "TerX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448132381"
+  ]
+ },
+ "8ec255466e07c059831bc22ba32e072b": {
+  "first_seen": 1785740591.943138,
+  "title": "CDI - Product Manager Data & Integration H/F",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410822166"
+  ]
+ },
+ "939082afdc38c1f074a08ee96a2d9eee": {
+  "first_seen": 1785740591.9431832,
+  "title": "Account Executive Commercial",
+  "company": "Genesys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447677610"
+  ]
+ },
+ "19d3a3ad59eef8fc1e49729673040805": {
+  "first_seen": 1785740591.9431922,
+  "title": "Chargé(e) de communication - relation presse en Stage H/F",
+  "company": "Kicklox",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447276040"
   ]
  }
 }
