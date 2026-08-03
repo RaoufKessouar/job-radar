@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785771136.8769267,
+   "last_success": 1785772941.3070495,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785771136.8769321,
+   "last_success": 1785772941.3070545,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785771149.926555,
+   "last_success": 1785772957.2436106,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785771149.9265597,
+   "last_success": 1785772957.2436163,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785771149.9265614,
+   "last_success": 1785772957.243618,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785771149.9265625,
+   "last_success": 1785772957.2436194,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785771149.9265637,
+   "last_success": 1785772957.2436209,
    "alerted": false
   }
  },
@@ -22486,6 +22486,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446226575"
+  ]
+ },
+ "b519a43dec6d1355a581181889de0680": {
+  "first_seen": 1785772957.2441528,
+  "title": "CS27 BAC+5 - Data Analyst (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447998651"
+  ]
+ },
+ "0943a713b00e28a7b9a5b505bafb3b52": {
+  "first_seen": 1785772957.244268,
+  "title": "IT Quant - CDI (H/F)",
+  "company": "MERITIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446209836"
   ]
  }
 }
