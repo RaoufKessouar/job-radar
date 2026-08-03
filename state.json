@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785735129.340203,
+   "last_success": 1785736942.7851562,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785735129.3402083,
+   "last_success": 1785736942.7851617,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785735141.6501887,
+   "last_success": 1785736955.9047978,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785735141.6501937,
+   "last_success": 1785736955.9048023,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785735141.6501951,
+   "last_success": 1785736955.904804,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785735141.6501966,
+   "last_success": 1785736955.9048054,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785735141.650198,
+   "last_success": 1785736955.9048069,
    "alerted": false
   }
  },
@@ -10449,7 +10449,6 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443375813",
    "https://www.linkedin.com/jobs/view/4443920616",
    "https://www.linkedin.com/jobs/view/4444718513",
    "https://www.linkedin.com/jobs/view/4445369474",
@@ -10458,7 +10457,8 @@
    "https://www.linkedin.com/jobs/view/4446369703",
    "https://www.linkedin.com/jobs/view/4444195635",
    "https://www.linkedin.com/jobs/view/4447510838",
-   "https://www.linkedin.com/jobs/view/4447822164"
+   "https://www.linkedin.com/jobs/view/4447822164",
+   "https://www.linkedin.com/jobs/view/4448143019"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -10577,7 +10577,8 @@
   "company": "TerX",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443391617"
+   "https://www.linkedin.com/jobs/view/4443391617",
+   "https://www.linkedin.com/jobs/view/4448124463"
   ]
  },
  "3c4dacabab284141f6212fe3863f245e": {
@@ -11874,7 +11875,6 @@
   "company": "Kickmaker",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444083477",
    "https://www.linkedin.com/jobs/view/4444651557",
    "https://www.linkedin.com/jobs/view/4444815736",
    "https://www.linkedin.com/jobs/view/4444872303",
@@ -11883,7 +11883,8 @@
    "https://www.linkedin.com/jobs/view/4446487955",
    "https://www.linkedin.com/jobs/view/4446952963",
    "https://www.linkedin.com/jobs/view/4447441254",
-   "https://www.linkedin.com/jobs/view/4447624727"
+   "https://www.linkedin.com/jobs/view/4447624727",
+   "https://www.linkedin.com/jobs/view/4447694293"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -12341,7 +12342,8 @@
    "https://www.linkedin.com/jobs/view/4446386212",
    "https://www.linkedin.com/jobs/view/4444513060",
    "https://www.linkedin.com/jobs/view/4447516788",
-   "https://www.linkedin.com/jobs/view/4447808379"
+   "https://www.linkedin.com/jobs/view/4447808379",
+   "https://www.linkedin.com/jobs/view/4448143028"
   ]
  },
  "87d1a53b8a454e1fb2896c44b5658723": {
@@ -20963,6 +20965,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447687293"
+  ]
+ },
+ "e323b3c3fe20fd2a5d33cebfcb810d46": {
+  "first_seen": 1785736955.9055805,
+  "title": "Ingénieur logiciel embarqué - Ferroviaire H/F",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445863352"
+  ]
+ },
+ "ed52269b2763e2e23ee2b8aec1c5dd96": {
+  "first_seen": 1785736955.905592,
+  "title": "Ingénieur développement logiciel embarqué - sécurité incendie H/F",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445881028"
   ]
  }
 }
