@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785780143.0098994,
+   "last_success": 1785781931.798494,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785780143.0099053,
+   "last_success": 1785781931.7985015,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785780158.3430965,
+   "last_success": 1785781947.548747,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785780158.3431013,
+   "last_success": 1785781947.5487518,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785780158.3431032,
+   "last_success": 1785781947.5487545,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785780158.3431046,
+   "last_success": 1785781947.5487556,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785780158.343106,
+   "last_success": 1785781947.5487573,
    "alerted": false
   }
  },
@@ -22784,6 +22784,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448154392"
+  ]
+ },
+ "bcb6aa55e505937df2dca5edb7283e04": {
+  "first_seen": 1785781947.549358,
+  "title": "Data Analytics/Data Science au sein de l’Audit Interne en Système d’information",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446237276"
   ]
  }
 }
