@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785781931.798494,
+   "last_success": 1785783758.0268714,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785781931.7985015,
+   "last_success": 1785783758.0268767,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785781947.548747,
+   "last_success": 1785783774.7964833,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785781947.5487518,
+   "last_success": 1785783774.7964873,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785781947.5487545,
+   "last_success": 1785783774.7964888,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785781947.5487556,
+   "last_success": 1785783774.79649,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785781947.5487573,
+   "last_success": 1785783774.7964911,
    "alerted": false
   }
  },
@@ -22793,6 +22793,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446237276"
+  ]
+ },
+ "1c5d28f8e90ec72dc424ace981132a7b": {
+  "first_seen": 1785783774.7972474,
+  "title": "Ingénieur Système embarqué Junior F/H - Paris",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448210214"
   ]
  }
 }
