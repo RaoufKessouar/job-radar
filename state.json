@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785769339.4182074,
+   "last_success": 1785771136.8769267,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785769339.4182131,
+   "last_success": 1785771136.8769321,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785769354.3042684,
+   "last_success": 1785771149.926555,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785769354.3042727,
+   "last_success": 1785771149.9265597,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785769354.304274,
+   "last_success": 1785771149.9265614,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785769354.3042758,
+   "last_success": 1785771149.9265625,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785769354.304277,
+   "last_success": 1785771149.9265637,
    "alerted": false
   }
  },
@@ -22459,6 +22459,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4439190376"
+  ]
+ },
+ "a46e857843c23719bb39467f56ca199b": {
+  "first_seen": 1785771149.9275017,
+  "title": "ingénieur IA - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446213833"
+  ]
+ },
+ "bf20b505a6a1acf420f2cbfb8210841c": {
+  "first_seen": 1785771149.9275568,
+  "title": "CS27 BAC+5 - Conception d’un modèle de conducteur adaptatif par IA (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447987824"
+  ]
+ },
+ "8dd9258f4e2faad79f7ef498f7832886": {
+  "first_seen": 1785771149.9275663,
+  "title": "Ingénieur logiciel/Ingénieure logiciel",
+  "company": "INFOGENE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446226575"
   ]
  }
 }
