@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785747754.7579646,
+   "last_success": 1785749584.0566235,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785747754.75797,
+   "last_success": 1785749584.0566292,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785747772.1693723,
+   "last_success": 1785749597.8442514,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785747772.169378,
+   "last_success": 1785749597.8442564,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785747772.16938,
+   "last_success": 1785749597.8442583,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785747772.1693811,
+   "last_success": 1785749597.8442597,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785747772.1693826,
+   "last_success": 1785749597.8442616,
    "alerted": false
   }
  },
@@ -12667,7 +12667,8 @@
    "https://www.linkedin.com/jobs/view/4446737182",
    "https://www.linkedin.com/jobs/view/4445069830",
    "https://www.linkedin.com/jobs/view/4445801128",
-   "https://www.linkedin.com/jobs/view/4445840192"
+   "https://www.linkedin.com/jobs/view/4445840192",
+   "https://www.linkedin.com/jobs/view/4445888057"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -15340,7 +15341,8 @@
    "https://www.linkedin.com/jobs/view/4444515660",
    "https://www.linkedin.com/jobs/view/4445068783",
    "https://www.linkedin.com/jobs/view/4445585589",
-   "https://www.linkedin.com/jobs/view/4445822738"
+   "https://www.linkedin.com/jobs/view/4445822738",
+   "https://www.linkedin.com/jobs/view/4445873329"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -21481,6 +21483,186 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-Bac-5-Ingnieur-Programmation---Ralit-augmente--H-F-_JOBREQ_50271960"
+  ]
+ },
+ "3be39d7f363b26ba393b1e34f590c19e": {
+  "first_seen": 1785749597.8448808,
+  "title": "Stage: Ingénieur Logiciel assisté par l'IA F/H",
+  "company": "SAP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447920070"
+  ]
+ },
+ "e2119d75b28f545e113df7c618839514": {
+  "first_seen": 1785749597.8450296,
+  "title": "Ingénieur Développement Logiciel Automobile ( +5 ans d'éxperience / dSPACE)",
+  "company": "AWAKE Group x INNOVATEAM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445888018"
+  ]
+ },
+ "361209c1093b2b4a4d26b7a6d8c3d876": {
+  "first_seen": 1785749597.8450856,
+  "title": "INGENIEUR-E R&D SYSTEME F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448150037"
+  ]
+ },
+ "fe82c13e75ef0283c93d4889536867ab": {
+  "first_seen": 1785749597.8450923,
+  "title": "Middleware Consultant",
+  "company": "ThunderSoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439808166"
+  ]
+ },
+ "d8544c5546f69bb705bdcbe36be7bb73": {
+  "first_seen": 1785749597.8451164,
+  "title": "Software Engineer",
+  "company": "Prismm",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448124252"
+  ]
+ },
+ "fb974d4deb85b2d806ccea4d3771ad48": {
+  "first_seen": 1785749597.8451228,
+  "title": "Python Developer",
+  "company": "HCLTech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448139888"
+  ]
+ },
+ "ebcffaa7a3918390ba0e508ab08870b7": {
+  "first_seen": 1785749597.8451421,
+  "title": "Automaticien - Nantes/Lyon/IDF F/H",
+  "company": "B-Hive Engineering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448152317"
+  ]
+ },
+ "188aeadac1204be7a6e6af3c50b6cdab": {
+  "first_seen": 1785749597.84515,
+  "title": "Fullstack Developer (JS) H/F",
+  "company": "Polène Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4400542226"
+  ]
+ },
+ "c2e15980416def90a37403189e62c55d": {
+  "first_seen": 1785749597.8451567,
+  "title": "Software Engineer",
+  "company": "ThunderSoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447677584"
+  ]
+ },
+ "da668d9773579a6fc7b19765fbb52907": {
+  "first_seen": 1785749597.8451867,
+  "title": "CS27 BAC+5 - Ingénieur Digitalisation et simulation Amortissements projets Véhicules (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447918155"
+  ]
+ },
+ "95c83434d35f3f50ed06620f47c3d0e9": {
+  "first_seen": 1785749597.8452628,
+  "title": "Tech Lead Software Engineer (Frontend or Backend) - H/F",
+  "company": "imagino",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437136884"
+  ]
+ },
+ "b7c57ffd231d115f6ce8282a5f8a055f": {
+  "first_seen": 1785749597.8452795,
+  "title": "Technicien Hotline Machines-Outils - Laser 2D (H/F)",
+  "company": "TRUMPF France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4310322700"
+  ]
+ },
+ "e35537ae9b7e3429178693dd8c15474d": {
+  "first_seen": 1785749597.8452945,
+  "title": "Web Editor AD Intern",
+  "company": "Condé Nast",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447688173"
+  ]
+ },
+ "791a1f6d16d118d7792dfaca6e981a53": {
+  "first_seen": 1785749597.8453162,
+  "title": "Département Bancaire - Stage juillet/décembre 2027",
+  "company": "Linklaters Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417956387"
+  ]
+ },
+ "f0d1c6accf7589f4b9d24c996cfa39af": {
+  "first_seen": 1785749597.8453286,
+  "title": "CONSULTANT FORMATEUR / CONSULTANTE FORMATRICE ÉDITEUR SIRH F/H",
+  "company": "Cabinet ALTERNEGO - Recrutements - Gestion des Talents - Conseil RH",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448146809"
+  ]
+ },
+ "dd35a7a0c45541788b5f8c8c24e26b9a": {
+  "first_seen": 1785749597.8453465,
+  "title": "STAGE - ASSISTANT(E) CHEF DE PROJET RESPONSABILITE SOCIALE /RSE - JUILLET 2026",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4366216401"
+  ]
+ },
+ "5a9b0b11ce7e7d1081e431f70da70dfa": {
+  "first_seen": 1785749597.8453555,
+  "title": "JURISTE DROIT DES AFFAIRES, CONTENTIEUX & RÉGLEMENTATION",
+  "company": "DataOne",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448158218"
+  ]
+ },
+ "215078ef419aea3fa78ba063ba725ef2": {
+  "first_seen": 1785749597.8453658,
+  "title": "Ingénieur conception et développement logiciel Algorithmie - Simulation H/F",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445879090"
+  ]
+ },
+ "efc0cfe24e1385dd7e47f2883ebc9378": {
+  "first_seen": 1785749597.8453772,
+  "title": "CS27 BAC+5 - Pilotage de l'industrialisation et qualité (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Pilotage-de-l-industrialisation-et-qualit--H-F-_JOBREQ_50273404"
+  ]
+ },
+ "050a4921e6cd38f89eb418a5b9da71fc": {
+  "first_seen": 1785749597.8453896,
+  "title": "CS27 BAC+5 - Ingénieur Digitalisation et simulation Amortissements projets Véhicules (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---STAGE---Bac-5---Ingnieur-Digitalisation-et-simulation-Amortissements-projets-Vhicules--H-F-_JOBREQ_50271903"
   ]
  }
 }
