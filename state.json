@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785736942.7851562,
+   "last_success": 1785738746.0026581,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785736942.7851617,
+   "last_success": 1785738746.0026639,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785736955.9047978,
+   "last_success": 1785738760.562957,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785736955.9048023,
+   "last_success": 1785738760.5629618,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785736955.904804,
+   "last_success": 1785738760.562964,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785736955.9048054,
+   "last_success": 1785738760.5629652,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785736955.9048069,
+   "last_success": 1785738760.5629668,
    "alerted": false
   }
  },
@@ -20983,6 +20983,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445881028"
+  ]
+ },
+ "5985ace6543fd043fd02d0ceeeb8d593": {
+  "first_seen": 1785738760.563644,
+  "title": "ALTERNANCE - ASSISTANT RH F/H",
+  "company": "Cdiscount",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4350738947"
+  ]
+ },
+ "74bed2be48af6aa9c71b50bb3219928e": {
+  "first_seen": 1785738760.5636616,
+  "title": "Juriste stagiaire F/M",
+  "company": "Omoda | Jaecoo France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447651662"
+  ]
+ },
+ "5c6223774cbad6e29c517b5c0b292cd6": {
+  "first_seen": 1785738760.5636895,
+  "title": "Alternant Chef de projet Consumer Experience F/H",
+  "company": "Nestlé",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443956181"
+  ]
+ },
+ "6abaf641937945694d6c40bc815764bf": {
+  "first_seen": 1785738760.5637066,
+  "title": "Assistant Community Manager H/F - Stage",
+  "company": "Saatchi & Saatchi France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402131946"
+  ]
+ },
+ "1999012416308e34ce7f99e6b352c243": {
+  "first_seen": 1785738760.563715,
+  "title": "Assistant Ressources Humaines en alternance F/H",
+  "company": "Walter Learning",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448119967"
+  ]
+ },
+ "cccf61abe62ce97b7671a87d5a169276": {
+  "first_seen": 1785738760.5637336,
+  "title": "Assistant Ingénieur Pédagogique en stage F/H",
+  "company": "Walter Learning",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448117995"
+  ]
+ },
+ "76ea06a21c47efc6d21286853e353854": {
+  "first_seen": 1785738760.56376,
+  "title": "Alternant(e) Graphiste",
+  "company": "iad Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437223322"
+  ]
+ },
+ "159d94ee06b868bf2236247652cf399a": {
+  "first_seen": 1785738760.5637934,
+  "title": "Stage Chef de produit Food F/H",
+  "company": "Nestlé",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448100974"
+  ]
+ },
+ "6d7ad8ec9d8dc954c7d397a2061a0548": {
+  "first_seen": 1785738760.5638227,
+  "title": "Stage Assistant Chargé De Mission - Unité Arts et Spectacles F/H",
+  "company": "ARTE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437183317"
+  ]
+ },
+ "5c7b60fc1fd85915086faecefaf966fd": {
+  "first_seen": 1785738760.563842,
+  "title": "STAGE- Juriste Sanctions Economiques et Contrôle des Exportations - H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431336192"
   ]
  }
 }
