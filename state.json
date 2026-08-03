@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785702744.2934835,
+   "last_success": 1785733341.2881818,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785702744.2934895,
+   "last_success": 1785733341.2881877,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785702756.7916055,
+   "last_success": 1785733355.242872,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785702756.7916098,
+   "last_success": 1785733355.2428772,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785702756.7916112,
+   "last_success": 1785733355.242879,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785702756.791612,
+   "last_success": 1785733355.2428803,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785702756.7916126,
+   "last_success": 1785733355.2428815,
    "alerted": false
   }
  },
@@ -20927,6 +20927,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447897823"
+  ]
+ },
+ "abba457ce3a656218a6b696ee5c8789e": {
+  "first_seen": 1785733355.243861,
+  "title": "Solutions Architect, Graduate Program",
+  "company": "NVIDIA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447668533"
+  ]
+ },
+ "061e179c14441007c481a6c4e1efbc83": {
+  "first_seen": 1785733355.2439492,
+  "title": "Stage de fin d'études Développeur Full-Stack",
+  "company": "Galadrim",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448116843"
   ]
  }
 }
