@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785749584.0566235,
+   "last_success": 1785750496.6297977,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785749584.0566292,
+   "last_success": 1785750496.6298032,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785749597.8442514,
+   "last_success": 1785750516.0123687,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785749597.8442564,
+   "last_success": 1785750516.0123732,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785749597.8442583,
+   "last_success": 1785750516.0123749,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785749597.8442597,
+   "last_success": 1785750516.0123758,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785749597.8442616,
+   "last_success": 1785750516.0123775,
    "alerted": false
   }
  },
@@ -21663,6 +21663,33 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---STAGE---Bac-5---Ingnieur-Digitalisation-et-simulation-Amortissements-projets-Vhicules--H-F-_JOBREQ_50271903"
+  ]
+ },
+ "eecd9a5c487a30c793c7abef3ebcbe0b": {
+  "first_seen": 1785750516.0129743,
+  "title": "Développeur linux embarqué",
+  "company": "TerX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448163414"
+  ]
+ },
+ "6c569dcf2124a28c08812f954ce0afc3": {
+  "first_seen": 1785750516.013036,
+  "title": "CS27 BAC+5 Ingénieur Programmation - Réalité augmentée (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447902596"
+  ]
+ },
+ "653e1721f200cd4c456c7ce9e071b229": {
+  "first_seen": 1785750516.0130672,
+  "title": "Ingénieur Etudes et Développement C++ (H/F)",
+  "company": "Algofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444532714"
   ]
  }
 }
