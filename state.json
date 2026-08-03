@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785744152.6568313,
+   "last_success": 1785745965.6205654,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785744152.6568372,
+   "last_success": 1785745965.6205719,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785744166.261457,
+   "last_success": 1785745981.8981247,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785744166.2614625,
+   "last_success": 1785745981.8981297,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785744166.261464,
+   "last_success": 1785745981.8981314,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785744166.2614653,
+   "last_success": 1785745981.8981328,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785744166.261467,
+   "last_success": 1785745981.8981338,
    "alerted": false
   }
  },
@@ -9604,7 +9604,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4443069944",
    "https://www.linkedin.com/jobs/view/4444713838",
-   "https://www.linkedin.com/jobs/view/4404839765"
+   "https://www.linkedin.com/jobs/view/4404839765",
+   "https://www.linkedin.com/jobs/view/4448124323"
   ]
  },
  "0f74be4bf42ae34b5c3eceebc33b5bec": {
@@ -21192,6 +21193,294 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Flins/CS27---BAC--5---Archiviste---H-F_JOBREQ_50273971"
+  ]
+ },
+ "ff954062369d45cc3f1d0c50e4b8349f": {
+  "first_seen": 1785745981.898685,
+  "title": "Alternance - Assistant Acceleration IA - Septembre 2026 (H/F)",
+  "company": "Puig",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445883828"
+  ]
+ },
+ "f19d239687051406e3337bacf49bd2cd": {
+  "first_seen": 1785745981.8987262,
+  "title": "Agentic AI Director - Grand Groupe International",
+  "company": "KatchMe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447696775"
+  ]
+ },
+ "3aca9dc0b917e566bc0856920164a3b1": {
+  "first_seen": 1785745981.8987365,
+  "title": "Lead Data Scientist - Senior Manager",
+  "company": "BIP France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448153347"
+  ]
+ },
+ "2388f9fd739fec61e40b86a9b6ca3d24": {
+  "first_seen": 1785745981.898744,
+  "title": "Senior AI Scientist",
+  "company": "Pigment",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435818082"
+  ]
+ },
+ "fa429f506ab5af5ffa4c350a813bf7a3": {
+  "first_seen": 1785745981.8988793,
+  "title": "DATA ANALYST (H/F)",
+  "company": "Lobellia Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445853793"
+  ]
+ },
+ "f9b70a3bcd6b277daa26bb113c265044": {
+  "first_seen": 1785745981.8989537,
+  "title": "Stage — Business Ops | Audit Revenue",
+  "company": "Audit revenue",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445879638"
+  ]
+ },
+ "082d90898e0314c2f7bf99a2f5d09abb": {
+  "first_seen": 1785745981.8989604,
+  "title": "DEVELOPPEUR FULLSTACK JAVA",
+  "company": "RED TIC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448106990"
+  ]
+ },
+ "ea9b31de96e427244038feb3f2760229": {
+  "first_seen": 1785745981.8989768,
+  "title": "Développeur Java / .NET",
+  "company": "jolyet.ai",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448106865"
+  ]
+ },
+ "98a18f5a503037cabf342e5db1a322c4": {
+  "first_seen": 1785745981.8989828,
+  "title": "Developpeur C++/Qt",
+  "company": "TerX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448142151"
+  ]
+ },
+ "3b16d45385a523331f671502d6078f88": {
+  "first_seen": 1785745981.8991344,
+  "title": "HR Intern",
+  "company": "AMETEK",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402515038"
+  ]
+ },
+ "2045756c9d3e57793a38c862c3501e57": {
+  "first_seen": 1785745981.8991437,
+  "title": "Technicien essais et dév instrumentation  1666 F/H - ONERA",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445616336"
+  ]
+ },
+ "4452baaced4935351feb3d2f5fc024f2": {
+  "first_seen": 1785745981.8991535,
+  "title": "Assistant chargé de communication et marketing - alternance (H/F)",
+  "company": "Volkswagen Group Retail France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438954825"
+  ]
+ },
+ "f84256be3b81891752386d9bb479fe0b": {
+  "first_seen": 1785745981.8991687,
+  "title": "Ingénieur logiciel développement IHM (H/F)",
+  "company": "TerX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448127438"
+  ]
+ },
+ "546d6f1fb303fd90fdbe46e7cfc3d6f4": {
+  "first_seen": 1785745981.8991785,
+  "title": "STAGE - Chargé(e) de développement RH F/H",
+  "company": "VINCI Construction France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448147441"
+  ]
+ },
+ "955041d963284777795ee21a580df784": {
+  "first_seen": 1785745981.8991947,
+  "title": "Stagiaire RH H/F (4 à 6 mois)",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402930477"
+  ]
+ },
+ "f4d492f59b3ea365ae39a9ad8e222922": {
+  "first_seen": 1785745981.8992162,
+  "title": "Assistant(e) Communication F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448149443"
+  ]
+ },
+ "e5e98c506eac445c876c855b4ee5e828": {
+  "first_seen": 1785745981.8992226,
+  "title": "Architecte Applicatif C++",
+  "company": "ACENSI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448148188"
+  ]
+ },
+ "afa08512c3e4ad68b313a6af7305bd5b": {
+  "first_seen": 1785745981.899238,
+  "title": "#AxiansAlternance -  Assistant(e) QSE F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448148427"
+  ]
+ },
+ "c80d6ce1dcf132dc92ae4ae98a88e9ad": {
+  "first_seen": 1785745981.8992457,
+  "title": "Assistant Ressources Humaines (H/F) - Alternance",
+  "company": "Groupe Challancin",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447902433"
+  ]
+ },
+ "66257596e03ea07febc5e5321e19ba13": {
+  "first_seen": 1785745981.8992536,
+  "title": "Technicien(ne) de production H/F",
+  "company": "GE HealthCare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420479960"
+  ]
+ },
+ "8417c06b6fb46d1d560dfd1f9d99c085": {
+  "first_seen": 1785745981.899265,
+  "title": "DGA/ CAJ /AID/ Chargé de communication évènementiel F/H",
+  "company": "DGA - Direction générale de l'armement",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4378986124"
+  ]
+ },
+ "ab6f80d8be743d02e2c6b2300480ac5f": {
+  "first_seen": 1785745981.8992722,
+  "title": "Ingénieur électronique H/F",
+  "company": "Kicklox",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445671856"
+  ]
+ },
+ "3adc9e183171c765b84faa187665f5f8": {
+  "first_seen": 1785745981.8992827,
+  "title": "Assistant Product Owner, stage de fin d'études [Luxe-Retail] (H/F)",
+  "company": "Adone Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448165171"
+  ]
+ },
+ "6bb287a8fd94c47630a9e1531345a9d5": {
+  "first_seen": 1785745981.8992896,
+  "title": "Consultant automatisation des tests",
+  "company": "WeYouBetter",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445859654"
+  ]
+ },
+ "ee65ab16de405dc091ef87ad301b3d26": {
+  "first_seen": 1785745981.8993094,
+  "title": "Blockchain Developer",
+  "company": "MSTECH",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448128089"
+  ]
+ },
+ "a7cf688a121acc2108d53ad19cd65df9": {
+  "first_seen": 1785745981.8993394,
+  "title": "Ingénieur Observabilité & Plateforme Kubernetes (H/F)",
+  "company": "MERITIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445885154"
+  ]
+ },
+ "134c81d73ea5379b2e785433cc7bdd5d": {
+  "first_seen": 1785745981.8993487,
+  "title": "STAGE ASSISTANT(E) ATTACHÉ(E) DE PRESSE SPORT JUILLET 2026",
+  "company": "187 COM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445849450"
+  ]
+ },
+ "6bcabc6c7e1ecc4c24e55c290881d12f": {
+  "first_seen": 1785745981.899376,
+  "title": "CDI - Agent de sécurité chargé de télésurveillance H/F",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402324176"
+  ]
+ },
+ "ec50fe38bd9f3c5a8b251fceb0aaf7da": {
+  "first_seen": 1785745981.8993936,
+  "title": "Assistant technique/Assistante technique",
+  "company": "SOHO Playtime",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443698260"
+  ]
+ },
+ "328bb36343ab32dc0ea6d4a850afca4a": {
+  "first_seen": 1785745981.8994017,
+  "title": "INGENIEUR(E) TRAIN F/H",
+  "company": "Société des grands projets",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411684939"
+  ]
+ },
+ "4c243ed2196462b45ad9db228e926504": {
+  "first_seen": 1785745981.899409,
+  "title": "Ingénieur de production H/F / Paris",
+  "company": "Synapsys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447697289"
+  ]
+ },
+ "a52b8ab0c7f6d8eae38c994aedade868": {
+  "first_seen": 1785745981.8994377,
+  "title": "CS27 BAC+5 Ingénieur Programmation - Réalité augmentée (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-Bac-5-Ingnieur-Programmation---Ralit-augmente--H-F-_JOBREQ_50271960"
   ]
  }
 }
