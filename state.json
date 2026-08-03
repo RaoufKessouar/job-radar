@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785760344.2434382,
+   "last_success": 1785762194.756972,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785760344.243444,
+   "last_success": 1785762194.7569788,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785760359.9087496,
+   "last_success": 1785762208.70623,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785760359.9087543,
+   "last_success": 1785762208.706235,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785760359.9087563,
+   "last_success": 1785762208.7062364,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785760359.9087577,
+   "last_success": 1785762208.7062383,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785760359.9087594,
+   "last_success": 1785762208.7062395,
    "alerted": false
   }
  },
@@ -15380,7 +15380,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4444506991",
    "https://www.linkedin.com/jobs/view/4445568780",
-   "https://www.linkedin.com/jobs/view/4445830759"
+   "https://www.linkedin.com/jobs/view/4445830759",
+   "https://www.linkedin.com/jobs/view/4445867318"
   ]
  },
  "532f5a62d4637816820f666d783bf2bf": {
@@ -22050,6 +22051,231 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Data-Analyst--H-F-_JOBREQ_50274106"
+  ]
+ },
+ "4d31591001e7b76508e87cd33942a342": {
+  "first_seen": 1785762208.7070694,
+  "title": "STAGE – ASSISTANCE IA AUX ÉQUIPES AVANT-VENTE DÉFENSE ",
+  "company": "Esri France",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/esri/jobs/stage-assistance-ia-aux-equipes-avant-vente-defense_meudon"
+  ]
+ },
+ "d706802a15b433b4ce2aa148405c5469": {
+  "first_seen": 1785762208.7073889,
+  "title": "Research/AI Engineering",
+  "company": "IDEMIA Public Security",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447967878"
+  ]
+ },
+ "234a9f8dcf1e7fdf27b084237c28ee64": {
+  "first_seen": 1785762208.7073972,
+  "title": "Ingénieur Data & IA F/H",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391402013"
+  ]
+ },
+ "f7a49b74f9434900f71f805cec9b5d22": {
+  "first_seen": 1785762208.7074313,
+  "title": "Senior MLOps Engineer (H/F)",
+  "company": "NTT DATA, Inc.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402169905"
+  ]
+ },
+ "aefe7fb5666510ebbed3437cc0738b86": {
+  "first_seen": 1785762208.7074704,
+  "title": "Stage – Sustainability Data & ESG Reporting – Septembre 2026 (H/F)",
+  "company": "Vusion",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447908430"
+  ]
+ },
+ "0203f3e9e052a8cdaaf24b150952374b": {
+  "first_seen": 1785762208.7074869,
+  "title": "Product Owner IA - Adoption & Transformation digitale H/F",
+  "company": "Crédit Agricole Group Infrastructure Platform",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448149565"
+  ]
+ },
+ "48aec8ec75b08ad61c59bd7c3e9e2082": {
+  "first_seen": 1785762208.7075138,
+  "title": "GTM BATIMENT - Stage Bureau d'étude façade – Automatisation Plans d'Exécution F/H",
+  "company": "VINCI Construction France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448146517"
+  ]
+ },
+ "6f5bff7b443eb56a1609aa7b5b146082": {
+  "first_seen": 1785762208.707524,
+  "title": "Consultant(e) Stagiaire en Évaluation Financière - Immobilier et Industrie - Paris - F/H",
+  "company": "EY-Parthenon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447962696"
+  ]
+ },
+ "79ee3b5231275ea0152574dc7cee00bc": {
+  "first_seen": 1785762208.707566,
+  "title": "Stagiaire - Production visuelle - IA / CGI / MOTION / POST PRODUCTION",
+  "company": "VELAR Studio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448168428"
+  ]
+ },
+ "71567dad0ff904ad6b1119d3e3a019f3": {
+  "first_seen": 1785762208.707606,
+  "title": "Stagiaire IT - Ingénieur Réseau Sécurité H/F",
+  "company": "Lutessa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447563262"
+  ]
+ },
+ "9dc4bac099153c7c6eed9d8097bf2ec2": {
+  "first_seen": 1785762208.7076173,
+  "title": "GTM BATIMENT - Stage Bureau d'étude façade – Automatisation Création des Nomenclatures F/H",
+  "company": "VINCI Construction France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448155272"
+  ]
+ },
+ "cf6f34b40469ae5071db9a1e46c8e986": {
+  "first_seen": 1785762208.7076375,
+  "title": "Stage (6 mois) - Assistant Corporate Development / M&amp;A) - F/H – Paris",
+  "company": "Groupe BPCE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445899814"
+  ]
+ },
+ "98228ec7a99ac892bda11c3885e03ae6": {
+  "first_seen": 1785762208.707653,
+  "title": "Project Support Intern",
+  "company": "International Institute of Refrigeration",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448153842"
+  ]
+ },
+ "d913c420f328d6481ff8960458ad85cf": {
+  "first_seen": 1785762208.7076616,
+  "title": "Qualitative Analyst Internship (6 months)",
+  "company": "The Social Wire | Groupe EDG",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448163272"
+  ]
+ },
+ "deaa181d5d3d4518fcd8cebdbc43c44b": {
+  "first_seen": 1785762208.707681,
+  "title": "Stage - Analyste Stratégie – Appels d’Offres & Partenariats (F/H)",
+  "company": "PHOTOSOL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432598432"
+  ]
+ },
+ "f6ee72669c127375d5658b07c7921eb5": {
+  "first_seen": 1785762208.7077005,
+  "title": "Consultant(e) Stagiaire en Évaluation Financière - Complex Capital Structure - Paris - F/H",
+  "company": "EY-Parthenon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447960757"
+  ]
+ },
+ "8b06249de031bd56202d07542e355d1d": {
+  "first_seen": 1785762208.707709,
+  "title": "Stage Analyste en Capital Investissement H/F",
+  "company": "IDIA Capital Investissement",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447907502"
+  ]
+ },
+ "0ee4957cc89e703ce2964f2687376505": {
+  "first_seen": 1785762208.7077174,
+  "title": "Stagiaire en Communication d'entreprise 1",
+  "company": "Boston Scientific",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448178044"
+  ]
+ },
+ "066d7edacd7f2ef3a4a999baab8d177a": {
+  "first_seen": 1785762208.707792,
+  "title": "Créateur de Contenu (H/F) - Instagram, YouTube, TikTok - Studentjob.fr",
+  "company": "Jobster",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447964166"
+  ]
+ },
+ "0fb22417147d941c347305977f5776f1": {
+  "first_seen": 1785762208.7078068,
+  "title": "Stage / Alternance - Assistant(e) polyvalent(e) H/F",
+  "company": "Bolloré",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447958874"
+  ]
+ },
+ "012106a395f33ce718f54396fe494661": {
+  "first_seen": 1785762208.7078156,
+  "title": "Ingénieur Développeur Logiciel Simulation Virtuelle C++ UNREAL F/H",
+  "company": "KNDS France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446210086"
+  ]
+ },
+ "9f1662cd040779c7270263009fcba35d": {
+  "first_seen": 1785762208.7078245,
+  "title": "Stage Chargé de recrutement - F/H",
+  "company": "PwC France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431322432"
+  ]
+ },
+ "f5ed2f070c04dad8431e8e11bbc11b14": {
+  "first_seen": 1785762208.7078419,
+  "title": "Assistant.e chef.fe de projets - Stage ou alternance - AXESS IDF SUD",
+  "company": "Axess",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448173266"
+  ]
+ },
+ "6f2e94e9a1b2d3268c8647cf6ed78c55": {
+  "first_seen": 1785762208.7078497,
+  "title": "Ingénieur Automatisme F/H",
+  "company": "B-Hive Engineering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448155237"
+  ]
+ },
+ "6ac3999290abcfc06840b42fd2f06f60": {
+  "first_seen": 1785762208.7078834,
+  "title": "CS27 BAC+5 - Développeur / Data engineer (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Dveloppeur---Data-engineer--H-F-_JOBREQ_50272479"
   ]
  }
 }
