@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785758562.6762137,
+   "last_success": 1785760344.2434382,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785758562.67622,
+   "last_success": 1785760344.243444,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785758578.985815,
+   "last_success": 1785760359.9087496,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785758578.9858196,
+   "last_success": 1785760359.9087543,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785758578.985821,
+   "last_success": 1785760359.9087563,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785758578.985822,
+   "last_success": 1785760359.9087577,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785758578.9858232,
+   "last_success": 1785760359.9087594,
    "alerted": false
   }
  },
@@ -21969,6 +21969,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447692889"
+  ]
+ },
+ "9a6ac112815283e20687be52b5489d03": {
+  "first_seen": 1785760359.909396,
+  "title": "Consultant data",
+  "company": "Datatorii",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445888889"
+  ]
+ },
+ "eeb7e12bde9516bc1cb934276a6a5b51": {
+  "first_seen": 1785760359.9094374,
+  "title": "Data Manager - Préclinique H/F",
+  "company": "AIXIAL GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426409077"
+  ]
+ },
+ "7e3f05121bed1176e42265563a00a65c": {
+  "first_seen": 1785760359.9094565,
+  "title": "Chef de Projet Data",
+  "company": "act digital EMEA - Alter Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445893256"
+  ]
+ },
+ "97b37ff97ed341d68d1ec443a43dce42": {
+  "first_seen": 1785760359.9094658,
+  "title": "Manager Data/IA [Luxe-Retail] (H/F)",
+  "company": "Adone Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448158460"
+  ]
+ },
+ "5a791308e2db6e33928218c79d6c9548": {
+  "first_seen": 1785760359.909476,
+  "title": "EGB Algo Trader",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445889726"
+  ]
+ },
+ "3b4a60b12d5cc81077838498d7a2f654": {
+  "first_seen": 1785760359.9095557,
+  "title": "Data Scientist Intern",
+  "company": "Equativ",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448171333"
+  ]
+ },
+ "2a2e867b88f6109daf184d1827a907f3": {
+  "first_seen": 1785760359.9095633,
+  "title": "Lead AI Engineer",
+  "company": "Datatorii",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445896716"
+  ]
+ },
+ "5c83744130302d0ba71332e763728c34": {
+  "first_seen": 1785760359.909573,
+  "title": "Discipline Engineer IA/ML and UWB data fusion algorithm",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448174541"
+  ]
+ },
+ "8b45a0bfcd715944f5a9bbe19e91b211": {
+  "first_seen": 1785760359.9096868,
+  "title": "CS27 BAC+5 - Data Analyst (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Data-Analyst--H-F-_JOBREQ_50274106"
   ]
  }
 }
