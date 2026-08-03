@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785762194.756972,
+   "last_success": 1785763945.8014514,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785762194.7569788,
+   "last_success": 1785763945.8014576,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785762208.70623,
+   "last_success": 1785763961.738998,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785762208.706235,
+   "last_success": 1785763961.7390032,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785762208.7062364,
+   "last_success": 1785763961.739005,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785762208.7062383,
+   "last_success": 1785763961.7390068,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785762208.7062395,
+   "last_success": 1785763961.739008,
    "alerted": false
   }
  },
@@ -22276,6 +22276,33 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Dveloppeur---Data-engineer--H-F-_JOBREQ_50272479"
+  ]
+ },
+ "82b46e9849c1ab900638e81bac10f92d": {
+  "first_seen": 1785763961.739549,
+  "title": "Data Scientist H/F - CDD 12 mois",
+  "company": "La Banque Postale Consumer Finance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448302007"
+  ]
+ },
+ "aa9cd9c265ee2249ccada562d46bc9cf": {
+  "first_seen": 1785763961.7395685,
+  "title": "Data & Business Operations Intern",
+  "company": "Shotgun",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447995173"
+  ]
+ },
+ "71daf82f994bba6be7f434e7d3bc4c23": {
+  "first_seen": 1785763961.739909,
+  "title": "CS27 BAC+5 - Conception d’un modèle de conducteur adaptatif par IA (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Conception-d-un-model-de-conducteur-adaptatif-par-IA--H-F-_JOBREQ_50274138"
   ]
  }
 }
