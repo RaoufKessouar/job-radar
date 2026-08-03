@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785740579.270122,
+   "last_success": 1785742352.6424198,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785740579.2701285,
+   "last_success": 1785742352.6424446,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785740591.9421322,
+   "last_success": 1785742364.5388331,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785740591.942137,
+   "last_success": 1785742364.5388377,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785740591.9421387,
+   "last_success": 1785742364.5388396,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785740591.9421399,
+   "last_success": 1785742364.538841,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785740591.9421408,
+   "last_success": 1785742364.5388432,
    "alerted": false
   }
  },
@@ -21165,6 +21165,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447276040"
+  ]
+ },
+ "7ed05b62182865448512e96f43d849b2": {
+  "first_seen": 1785742364.5397503,
+  "title": "Chargé (e) d'études Innovation Logistique en stage F/H",
+  "company": "Auchan",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/auchan/jobs/charge-d-etudes-innovation-logistique-en-stage-f-h_paris"
   ]
  }
 }
