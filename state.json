@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785756727.6979933,
+   "last_success": 1785758562.6762137,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785756727.697999,
+   "last_success": 1785758562.67622,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785756743.832021,
+   "last_success": 1785758578.985815,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785756743.8320253,
+   "last_success": 1785758578.9858196,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785756743.8320272,
+   "last_success": 1785758578.985821,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785756743.8320284,
+   "last_success": 1785758578.985822,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785756743.8320293,
+   "last_success": 1785758578.9858232,
    "alerted": false
   }
  },
@@ -21852,6 +21852,123 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4392272284"
+  ]
+ },
+ "3bab44a5503dc3152de6c01a888a68c1": {
+  "first_seen": 1785758578.986575,
+  "title": "Responsable conception et développement mécanique/électronique (H/F)",
+  "company": "TRAPIL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418763724"
+  ]
+ },
+ "88596cbecc9c1c6e9d158d4703f53d37": {
+  "first_seen": 1785758578.986589,
+  "title": "Java Calypso Engineer (M/F)",
+  "company": "Algofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448160477"
+  ]
+ },
+ "87f946212581d6713fcef225e13a826a": {
+  "first_seen": 1785758578.9866452,
+  "title": "Consultant(e) Technique PLM - 3DEXPERIENCE H/F",
+  "company": "Visiativ",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439113100"
+  ]
+ },
+ "f8583253caf66dfbdca6a6cf82ea0b54": {
+  "first_seen": 1785758578.9866588,
+  "title": "Développeur Front-End React H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447915227"
+  ]
+ },
+ "6c05b235f3dc3c82433a5e7668776b0c": {
+  "first_seen": 1785758578.9866772,
+  "title": "Développeur Python Senior H/F",
+  "company": "Display Interactive",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4409941330"
+  ]
+ },
+ "a76d781e9a99a5d83585992d3380e53e": {
+  "first_seen": 1785758578.9866834,
+  "title": "Développeur Flutter - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4074562856"
+  ]
+ },
+ "6454e51b963f3d5e35a6d48386145f65": {
+  "first_seen": 1785758578.9866993,
+  "title": "Technicien électronique/Technicienne électronique",
+  "company": "MISTRAS Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412757043"
+  ]
+ },
+ "4ef54588c6ebfa7fc7966c624532b4dc": {
+  "first_seen": 1785758578.986706,
+  "title": "CDI - Chef de projet CAO (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447903586"
+  ]
+ },
+ "71e6eb7ea71dfa111bd743b627addf6c": {
+  "first_seen": 1785758578.9867249,
+  "title": "ASSISTANT INFORMATIQUE H/F",
+  "company": "TEORHEM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448164193"
+  ]
+ },
+ "01f83ba554df0f8bba6ad547999b9342": {
+  "first_seen": 1785758578.9867296,
+  "title": "Auditeur / Pentester (F/H)",
+  "company": "Advens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448159947"
+  ]
+ },
+ "6f64967325eeef9dc2599c62e5cf553f": {
+  "first_seen": 1785758578.986737,
+  "title": "Développeur(se) Fullstack Java / Angular / IA (H/F)",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448147682"
+  ]
+ },
+ "6ae5d93d414c982ac72f9b9518c47051": {
+  "first_seen": 1785758578.986744,
+  "title": "Ingénieur projets junior - Automobile (H/F)",
+  "company": "MIGSO-PCUBED",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445837544"
+  ]
+ },
+ "ca38f11960375d250374111016f821a4": {
+  "first_seen": 1785758578.9867504,
+  "title": "Field Service Engineer 2",
+  "company": "Dell Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447692889"
   ]
  }
 }
