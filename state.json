@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785774739.633135,
+   "last_success": 1785776581.6254845,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785774739.6331408,
+   "last_success": 1785776581.625491,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785774753.3507638,
+   "last_success": 1785776595.700591,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785774753.3507679,
+   "last_success": 1785776595.7005956,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785774753.350769,
+   "last_success": 1785776595.7005973,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785774753.3507705,
+   "last_success": 1785776595.7005985,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785774753.3507717,
+   "last_success": 1785776595.7006001,
    "alerted": false
   }
  },
@@ -22523,6 +22523,213 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448196695"
+  ]
+ },
+ "0fd887ec2fcb487bb64e89a6b70a3d1c": {
+  "first_seen": 1785776595.7012024,
+  "title": "Data Scientist Python Senior (H/F)",
+  "company": "CLOSTERA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448318167"
+  ]
+ },
+ "ef21395de01053c61cdee39181d52121": {
+  "first_seen": 1785776595.7012756,
+  "title": "AI Engineer (France)",
+  "company": "Meltwater",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448203414"
+  ]
+ },
+ "ae875373383e58cef66957ee2c2c5d67": {
+  "first_seen": 1785776595.7013485,
+  "title": "Member of Technical Staff, Agent Code",
+  "company": "Cohere",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4301302785"
+  ]
+ },
+ "f9af8147b68df6b06d26ba28f750fb98": {
+  "first_seen": 1785776595.701379,
+  "title": "Forward Deployed Engineer",
+  "company": "Beamy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448305389"
+  ]
+ },
+ "3f76064afa922d59b5d69ebb6f9530d2": {
+  "first_seen": 1785776595.7013953,
+  "title": "Managing Consultant/Consultante - Transformation IA & Agentic AI",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433799522"
+  ]
+ },
+ "3ea553d0c265858306a1b8b105bd8c22": {
+  "first_seen": 1785776595.7014031,
+  "title": "Data Innovation & International Strategy Apprentice (m/f/d)",
+  "company": "IDEXX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448335035"
+  ]
+ },
+ "9e8a976ca375e01c7124564349fdda34": {
+  "first_seen": 1785776595.7014108,
+  "title": "Community Manager Data Apprentissage (h/f)",
+  "company": "AXA Group Operations",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448195598"
+  ]
+ },
+ "93c58904f3562a773ea1b43be917ce85": {
+  "first_seen": 1785776595.70143,
+  "title": "Directeur de Projet IT / Lead Architect Agentic AI — Paris",
+  "company": "We+",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447990241"
+  ]
+ },
+ "cadef8230a5b874db4065dc1cfac6641": {
+  "first_seen": 1785776595.7014422,
+  "title": "Founding Engineer",
+  "company": "Bixoto",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446237138"
+  ]
+ },
+ "4246c40656b74097c770c960ad547ddb": {
+  "first_seen": 1785776595.7014582,
+  "title": "Product Manager - ArrowSphere Cloud & AI",
+  "company": "Arrow Electronics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448199932"
+  ]
+ },
+ "24de8c2f7060a1d2906feba15c8579f5": {
+  "first_seen": 1785776595.7014854,
+  "title": "Data & AI Product Designer / Architect",
+  "company": "Talent-R",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448164371"
+  ]
+ },
+ "cbc7d4b0413c6995a5ce1f356f1b322b": {
+  "first_seen": 1785776595.7014928,
+  "title": "Développeur Python - CDI (H/F)",
+  "company": "MERITIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446219710"
+  ]
+ },
+ "07fb07019ae04a954eeb7434019f2dbe": {
+  "first_seen": 1785776595.7014985,
+  "title": "Data Engineer | Internship",
+  "company": "AREKA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448321215"
+  ]
+ },
+ "3a67a5a670ddf58504779d48feba7da3": {
+  "first_seen": 1785776595.7015054,
+  "title": "Tech Lead Data H/F",
+  "company": "Jems Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446226050"
+  ]
+ },
+ "581d54e8ab15a3191943cc0731cfb7a3": {
+  "first_seen": 1785776595.7015314,
+  "title": "Alternance - 1 an - Assistant Ingénieur Financier Indices F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4379878956"
+  ]
+ },
+ "95f0b1739a5ca2b93f54724db7fe6c30": {
+  "first_seen": 1785776595.7015405,
+  "title": "CS27 BAC+5 Stagiaire AI ADOPTION & COMMUNICATION SPECIALIST (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448202156"
+  ]
+ },
+ "6a4f89fd8c0f367c68ff7ae033b9aeef": {
+  "first_seen": 1785776595.70155,
+  "title": "Stage - Chargé(e) de projet Hub IA F/H",
+  "company": "Bouygues Travaux Publics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446222466"
+  ]
+ },
+ "b4228a4eca848364677e40e9db5c428a": {
+  "first_seen": 1785776595.70156,
+  "title": "Chargé (e) d'études Innovation Logistique en stage F/H",
+  "company": "Auchan Retail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448201039"
+  ]
+ },
+ "0cedc4f4fd4420f5c2372190692981a6": {
+  "first_seen": 1785776595.7016633,
+  "title": "Ingénieur.e développement logiciel embarqué en C - Secteur spatial",
+  "company": "SOLENT SAS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448181793"
+  ]
+ },
+ "d5941d848989fbf2e5ad4ff0bc62b9ad": {
+  "first_seen": 1785776595.7016838,
+  "title": "Ingénieur Développement C embarqué temps réel baremetal - Aéronautique H/F",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445875158"
+  ]
+ },
+ "739d891a8a4f95f2ec7594ad9aeb4173": {
+  "first_seen": 1785776595.701692,
+  "title": "Spécialiste Electronique & Logiciel Freinage",
+  "company": "Ampere Software Technology",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447999340"
+  ]
+ },
+ "98d85634f00944eeef209985dbdd74dc": {
+  "first_seen": 1785776595.7017071,
+  "title": "Software Engineer",
+  "company": "Biomemory",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448311262"
+  ]
+ },
+ "e2955857c554af93b8f432e864d9ee33": {
+  "first_seen": 1785776595.701715,
+  "title": "Software Engineer (Industrial) | Internship",
+  "company": "Gradient Denervation Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448313793"
   ]
  }
 }
