@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785764530.4064121,
+   "last_success": 1785765730.05472,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785764530.4064176,
+   "last_success": 1785765730.0547254,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785764545.803649,
+   "last_success": 1785765744.7031305,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785764545.803654,
+   "last_success": 1785765744.703135,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785764545.8036559,
+   "last_success": 1785765744.7031367,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785764545.8036573,
+   "last_success": 1785765744.703138,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785764545.8036585,
+   "last_success": 1785765744.7031393,
    "alerted": false
   }
  },
@@ -22313,6 +22313,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448179855"
+  ]
+ },
+ "e6da0433f0d57b3deddcc0c7061f09f1": {
+  "first_seen": 1785765744.7041605,
+  "title": "Forward Deployed Engineer, Agentic Platform",
+  "company": "Bayes Impact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448167431"
+  ]
+ },
+ "7ceec48a34c4441f2cf0130a61bd5b5e": {
+  "first_seen": 1785765744.7042058,
+  "title": "CS27 BAC+5 - Chargé de veille et analyse (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Charg-de-veille-et-analyse--H-F-_JOBREQ_50272736"
   ]
  }
 }
