@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785751362.0732474,
+   "last_success": 1785753126.3919423,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785751362.0732539,
+   "last_success": 1785753126.3919477,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785751376.8021097,
+   "last_success": 1785753141.0832877,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785751376.802114,
+   "last_success": 1785753141.0832925,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785751376.8021157,
+   "last_success": 1785753141.0832937,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785751376.8021169,
+   "last_success": 1785753141.0832949,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785751376.8021183,
+   "last_success": 1785753141.0832963,
    "alerted": false
   }
  },
@@ -21762,6 +21762,60 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5-Stagiaire-AI-ADOPTION---COMMUNICATION-SPECIALIST--H-F-_JOBREQ_50273932"
+  ]
+ },
+ "342da0f49417f98c897b992bde71e553": {
+  "first_seen": 1785753141.0839007,
+  "title": "Senior Software Engineer - Action Platform",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448166608"
+  ]
+ },
+ "4ea935a6003dd51a9561b5c71b366fc2": {
+  "first_seen": 1785753141.083925,
+  "title": "Head of Sales start-up tech IA H/F",
+  "company": "Team.is",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439991981"
+  ]
+ },
+ "678f71bd3cd2af61ee6eb30fa590abb5": {
+  "first_seen": 1785753141.0839357,
+  "title": "Alternance - Data Delivery Management Immobilier, Locatif et Financier H/F",
+  "company": "Swiss Life Asset Managers France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445891519"
+  ]
+ },
+ "26b438ef2e72f23357b9b6801139d9dc": {
+  "first_seen": 1785753141.083953,
+  "title": "Senior Manager Transformation IA [Luxe-Retail] (H/F)",
+  "company": "Adone Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448168068"
+  ]
+ },
+ "5fe1d4c022fd1d2cee7184ebaaf25f7e": {
+  "first_seen": 1785753141.0839643,
+  "title": "Senior AI Engineer IA Générative & Plateformes IA H/F",
+  "company": "Crédit Agricole Group Infrastructure Platform",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448146638"
+  ]
+ },
+ "e8440941e88cddf4f26e22d366701f18": {
+  "first_seen": 1785753141.0839727,
+  "title": "Ingénieur.e SysOps / DevOps IA",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445861376"
   ]
  }
 }
