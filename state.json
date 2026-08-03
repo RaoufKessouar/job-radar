@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785750496.6297977,
+   "last_success": 1785751362.0732474,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785750496.6298032,
+   "last_success": 1785751362.0732539,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785750516.0123687,
+   "last_success": 1785751376.8021097,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785750516.0123732,
+   "last_success": 1785751376.802114,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785750516.0123749,
+   "last_success": 1785751376.8021157,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785750516.0123758,
+   "last_success": 1785751376.8021169,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785750516.0123775,
+   "last_success": 1785751376.8021183,
    "alerted": false
   }
  },
@@ -21690,6 +21690,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444532714"
+  ]
+ },
+ "2caf2e0c079be5d2a9f850dce42adbff": {
+  "first_seen": 1785751376.803065,
+  "title": "Data Analyst H/F",
+  "company": "OTC FLOW France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437757318"
+  ]
+ },
+ "51cb2acea360ab61f34405b0072c7580": {
+  "first_seen": 1785751376.8030863,
+  "title": "Data Engineer - H/F",
+  "company": "Cyllene",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448146649"
+  ]
+ },
+ "f69443c1caa322558977de7609c47bf0": {
+  "first_seen": 1785751376.8031979,
+  "title": "Stage – Innovation et Communication Environnementale (6 mois) F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448154257"
+  ]
+ },
+ "3cb4824eacc8dbf46950679ff9a1b2d2": {
+  "first_seen": 1785751376.803207,
+  "title": "Gen AI Software Engineer",
+  "company": "Getraline | Certified B Corp™",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448148859"
+  ]
+ },
+ "94aae87403c9f8eccc42febd317eee9e": {
+  "first_seen": 1785751376.8032355,
+  "title": "KERING Data Platform Engineer",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448161474"
+  ]
+ },
+ "43fefd1e72cabbd90a6a2c7b95da2b74": {
+  "first_seen": 1785751376.8032503,
+  "title": "STAGE - Assistant(e) Chef de Produit/Sport Tennis F/H",
+  "company": "Lacoste",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380774999"
+  ]
+ },
+ "d1415f1e8f5f80196634aadf1b6f5502": {
+  "first_seen": 1785751376.803335,
+  "title": "Junior Product Manager - Stage",
+  "company": "Believe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447909373"
+  ]
+ },
+ "7b6c23decccbb29623cd410354b1f09e": {
+  "first_seen": 1785751376.8034134,
+  "title": "CS27 BAC+5 Stagiaire AI ADOPTION & COMMUNICATION SPECIALIST (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5-Stagiaire-AI-ADOPTION---COMMUNICATION-SPECIALIST--H-F-_JOBREQ_50273932"
   ]
  }
 }
