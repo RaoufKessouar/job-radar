@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785742352.6424198,
+   "last_success": 1785744152.6568313,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785742352.6424446,
+   "last_success": 1785744152.6568372,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785742364.5388331,
+   "last_success": 1785744166.261457,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785742364.5388377,
+   "last_success": 1785744166.2614625,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785742364.5388396,
+   "last_success": 1785744166.261464,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785742364.538841,
+   "last_success": 1785744166.2614653,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785742364.5388432,
+   "last_success": 1785744166.261467,
    "alerted": false
   }
  },
@@ -21174,6 +21174,24 @@
   "source": "wttj",
   "urls": [
    "https://www.welcometothejungle.com/fr/companies/auchan/jobs/charge-d-etudes-innovation-logistique-en-stage-f-h_paris"
+  ]
+ },
+ "52da6c4fed6d290280b7255526c904de": {
+  "first_seen": 1785744166.2620993,
+  "title": "Quantitative Analyst",
+  "company": "Durlston Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445863875"
+  ]
+ },
+ "fee3dc9b6b2fb9fd73419ef6a2d1702a": {
+  "first_seen": 1785744166.2623143,
+  "title": "CS27 - BAC +5 - Archiviste - H/F",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Flins/CS27---BAC--5---Archiviste---H-F_JOBREQ_50273971"
   ]
  }
 }
