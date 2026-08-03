@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785772941.3070495,
+   "last_success": 1785774739.633135,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785772941.3070545,
+   "last_success": 1785774739.6331408,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785772957.2436106,
+   "last_success": 1785774753.3507638,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785772957.2436163,
+   "last_success": 1785774753.3507679,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785772957.243618,
+   "last_success": 1785774753.350769,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785772957.2436194,
+   "last_success": 1785774753.3507705,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785772957.2436209,
+   "last_success": 1785774753.3507717,
    "alerted": false
   }
  },
@@ -12148,7 +12148,8 @@
   "company": "Thales",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444933962"
+   "https://www.linkedin.com/jobs/view/4444933962",
+   "https://www.linkedin.com/jobs/view/4431639563"
   ]
  },
  "37f5cfce38ebbae65d5a05a8b07dd5dd": {
@@ -22504,6 +22505,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446209836"
+  ]
+ },
+ "69c35b6263b77da33a171ee5369550e5": {
+  "first_seen": 1785774753.3517592,
+  "title": "CS27 BAC+5 - Développeur / Data engineer (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447997655"
+  ]
+ },
+ "0338e65a5ddfc5f82b65c3152f062ce1": {
+  "first_seen": 1785774753.3518064,
+  "title": "Ingénieur Systèmes Embarqués",
+  "company": "ELITYS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448196695"
   ]
  }
 }
