@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785754939.1798637,
+   "last_success": 1785756727.6979933,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785754939.1798697,
+   "last_success": 1785756727.697999,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785754955.083885,
+   "last_success": 1785756743.832021,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785754955.0838904,
+   "last_success": 1785756743.8320253,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785754955.083892,
+   "last_success": 1785756743.8320272,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785754955.083894,
+   "last_success": 1785756743.8320284,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785754955.0838952,
+   "last_success": 1785756743.8320293,
    "alerted": false
   }
  },
@@ -21834,6 +21834,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448171007"
+  ]
+ },
+ "80e073dc2448114aa2ec6a69eaf51649": {
+  "first_seen": 1785756743.832533,
+  "title": "KERING Data Scientist",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448156625"
+  ]
+ },
+ "a51ef32ff1dd24614b8e58846fc9d99e": {
+  "first_seen": 1785756743.8326852,
+  "title": "Research Scientist, FAIR SGT - Paris",
+  "company": "Meta",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4392272284"
   ]
  }
 }
