@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785825140.3847206,
+   "last_success": 1785826958.911576,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785825140.3847277,
+   "last_success": 1785826958.9115818,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785825157.302062,
+   "last_success": 1785826973.4548876,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785825157.3020668,
+   "last_success": 1785826973.4548924,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785825157.3020682,
+   "last_success": 1785826973.454894,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785825157.3020692,
+   "last_success": 1785826973.4548957,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785825157.3020706,
+   "last_success": 1785826973.4548972,
    "alerted": false
   }
  },
@@ -23075,6 +23075,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448637636"
+  ]
+ },
+ "b23eebc187a76fffd9d6c0926c93d938": {
+  "first_seen": 1785826973.4559686,
+  "title": "STAGE/ALTERNANCE - CHARGÉ.E D'ÉTUDES INNOVATION (F/H/NB)",
+  "company": "Ipsos bva",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448623431"
+  ]
+ },
+ "c05ac9d24fbf4b59b927e47967bc62c8": {
+  "first_seen": 1785826973.455979,
+  "title": "Stage Assistant chef de projet développement packaging H/F",
+  "company": "LABORATOIRE NATIVE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445889040"
+  ]
+ },
+ "0a812dc5fafdd62ec0bd60aedea57e9c": {
+  "first_seen": 1785826973.4560106,
+  "title": "STAGE - CHARGÉ.E D'ÉTUDES COMMUNAUTÉS (F/H/NB)",
+  "company": "Ipsos bva",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448618430"
+  ]
+ },
+ "a03b8edd6098053cd98aea62dea3ddb8": {
+  "first_seen": 1785826973.456029,
+  "title": "Stage - Consultant en Organisation & Conseil RH- Paris (H/F)",
+  "company": "SEMAPHORES",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405346177"
+  ]
+ },
+ "824cd4d0af551ded7be4090fdf47d11a": {
+  "first_seen": 1785826973.4560611,
+  "title": "STAGE - Influence de l'entrée d'air sur les performances aéroacoustiques des futures architectures F/H - YX - BE SYSTEME",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448391303"
+  ]
+ },
+ "9f4a1d8d2140be89ed52d46e44d4e116": {
+  "first_seen": 1785826973.4560688,
+  "title": "Product Manager Junior (H/F)",
+  "company": "Hello Watt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448219570"
   ]
  }
 }
