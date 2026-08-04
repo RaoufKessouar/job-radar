@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785789123.9783294,
+   "last_success": 1785819750.8536232,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785789123.9783347,
+   "last_success": 1785819750.8536289,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785789142.0154011,
+   "last_success": 1785819766.7780967,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785789142.0154064,
+   "last_success": 1785819766.7781022,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785789142.0154078,
+   "last_success": 1785819766.7781038,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785789142.0154095,
+   "last_success": 1785819766.778105,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785789142.015411,
+   "last_success": 1785819766.7781065,
    "alerted": false
   }
  },
@@ -11878,7 +11878,6 @@
   "company": "Kickmaker",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444651557",
    "https://www.linkedin.com/jobs/view/4444815736",
    "https://www.linkedin.com/jobs/view/4444872303",
    "https://www.linkedin.com/jobs/view/4445433912",
@@ -11887,7 +11886,8 @@
    "https://www.linkedin.com/jobs/view/4446952963",
    "https://www.linkedin.com/jobs/view/4447441254",
    "https://www.linkedin.com/jobs/view/4447624727",
-   "https://www.linkedin.com/jobs/view/4447694293"
+   "https://www.linkedin.com/jobs/view/4447694293",
+   "https://www.linkedin.com/jobs/view/4448805648"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -12647,7 +12647,8 @@
   "company": "AEROCONTACT",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445224043"
+   "https://www.linkedin.com/jobs/view/4445224043",
+   "https://www.linkedin.com/jobs/view/4448374988"
   ]
  },
  "3c93d91e906f80f94dfd918fdc215c71": {
@@ -22830,6 +22831,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448237175"
+  ]
+ },
+ "d76affcd5230f19c8f8f6c91587ff702": {
+  "first_seen": 1785819766.7790818,
+  "title": "Data Analyste",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448686425"
+  ]
+ },
+ "3406e2fcb8ef0336d3c99ef93b6b5749": {
+  "first_seen": 1785819766.7790978,
+  "title": "Consultant(s) Data/Business Intelligence (H/F)",
+  "company": "LIPTON FIT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446259067"
+  ]
+ },
+ "4dc24347d7a47a77232b5071e8af47bd": {
+  "first_seen": 1785819766.7791336,
+  "title": "DATA ENGINEER AND BUSINESS TOOL DEVELOPER F/H",
+  "company": "EDF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446272926"
+  ]
+ },
+ "b84a563e5eb144951c898bb6457bf66e": {
+  "first_seen": 1785819766.7792878,
+  "title": "Ingénieur Système et logiciel",
+  "company": "ARealTI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448624920"
+  ]
+ },
+ "be785ab98bf57e75383787551ca23398": {
+  "first_seen": 1785819766.7792952,
+  "title": "Ingénieur Implémentation Software MBD",
+  "company": "TerX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448617530"
+  ]
+ },
+ "2539aca8f6fa15f552c7a1a8b0e1dc5f": {
+  "first_seen": 1785819766.7793028,
+  "title": "Flight Control & Dynamics Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448310109"
+  ]
+ },
+ "7ac65bddf1759e4c0a43b854c3542ef6": {
+  "first_seen": 1785819766.7793226,
+  "title": "Flight Guidance & Motion Planning Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448196356"
   ]
  }
 }
