@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785839534.3808002,
+   "last_success": 1785841335.1329732,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785839534.3808062,
+   "last_success": 1785841335.1330147,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785839551.368664,
+   "last_success": 1785841348.9078643,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785839551.3686683,
+   "last_success": 1785841348.907869,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785839551.3686702,
+   "last_success": 1785841348.9078712,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785839551.3686714,
+   "last_success": 1785841348.9078727,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785839551.3686728,
+   "last_success": 1785841348.9078743,
    "alerted": false
   }
  },
@@ -12673,7 +12673,8 @@
    "https://www.linkedin.com/jobs/view/4445069830",
    "https://www.linkedin.com/jobs/view/4445801128",
    "https://www.linkedin.com/jobs/view/4445840192",
-   "https://www.linkedin.com/jobs/view/4445888057"
+   "https://www.linkedin.com/jobs/view/4445888057",
+   "https://www.linkedin.com/jobs/view/4446620303"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -22887,7 +22888,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448310109"
+   "https://www.linkedin.com/jobs/view/4448310109",
+   "https://www.linkedin.com/jobs/view/4448845619"
   ]
  },
  "7ac65bddf1759e4c0a43b854c3542ef6": {
@@ -22896,7 +22898,8 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448196356"
+   "https://www.linkedin.com/jobs/view/4448196356",
+   "https://www.linkedin.com/jobs/view/4448845618"
   ]
  },
  "7bbb96aa8fef11507f09048e0a0f3807": {
@@ -23410,6 +23413,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448852301"
+  ]
+ },
+ "77fdefe60891c0693359e665dd397510": {
+  "first_seen": 1785841348.908448,
+  "title": "stage 6 mois – data science et développement",
+  "company": "Sanofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448856580"
+  ]
+ },
+ "05ed9188334fd40532229c72d4f5ecde": {
+  "first_seen": 1785841348.9084728,
+  "title": "Stagiaire de fin d'études Equipe DPO / Privacy Office F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4371139857"
+  ]
+ },
+ "700364ea7e7b1ca43f4a0da0e1d70dcf": {
+  "first_seen": 1785841348.9086158,
+  "title": "Ingénieur Développement logiciel embarqué - SDR F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448843215"
   ]
  }
 }
