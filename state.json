@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785846735.3890305,
+   "last_success": 1785848542.9755163,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785846735.3890357,
+   "last_success": 1785848542.9755228,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785846751.148854,
+   "last_success": 1785848558.3419187,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785846751.1488585,
+   "last_success": 1785848558.3419235,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785846751.14886,
+   "last_success": 1785848558.3419251,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785846751.1488612,
+   "last_success": 1785848558.3419266,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785846751.1488628,
+   "last_success": 1785848558.341928,
    "alerted": false
   }
  },
@@ -12475,7 +12475,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444666773",
-   "https://www.linkedin.com/jobs/view/4446754472"
+   "https://www.linkedin.com/jobs/view/4446754472",
+   "https://www.linkedin.com/jobs/view/4448508122"
   ]
  },
  "f81e78ebbee986e2ce7ea88df16460d1": {
@@ -12485,7 +12486,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444643809",
-   "https://www.linkedin.com/jobs/view/4446755463"
+   "https://www.linkedin.com/jobs/view/4446755463",
+   "https://www.linkedin.com/jobs/view/4448518319"
   ]
  },
  "e099ea0dc7f949a033716d5c4d3ee65d": {
@@ -23522,6 +23524,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448526115"
+  ]
+ },
+ "ffbe9f8b6deeb5bac9f154ed94ec35e0": {
+  "first_seen": 1785848558.342774,
+  "title": "Ingénieur.e IA - Stage",
+  "company": "Colombus Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390956210"
+  ]
+ },
+ "44bfc775373c278bc32dbbb6417601e2": {
+  "first_seen": 1785848558.3432384,
+  "title": "STAGE - Marketing Data Analyst F/H",
+  "company": "Orange",
+  "source": "carriere-orange",
+  "urls": [
+   "https://orange.jobs/fr/fr/job/CTS-2026-52967/STAGE---Marketing-Data-Analyst-F%2FH"
   ]
  }
 }
