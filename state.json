@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785821549.2231348,
+   "last_success": 1785823377.6256356,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785821549.2231402,
+   "last_success": 1785823377.6256416,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785821562.9609683,
+   "last_success": 1785823394.578849,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785821562.9609725,
+   "last_success": 1785823394.5788536,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785821562.960974,
+   "last_success": 1785823394.5788555,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785821562.9609756,
+   "last_success": 1785823394.578857,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785821562.960977,
+   "last_success": 1785823394.5788586,
    "alerted": false
   }
  },
@@ -15347,7 +15347,8 @@
    "https://www.linkedin.com/jobs/view/4445068783",
    "https://www.linkedin.com/jobs/view/4445585589",
    "https://www.linkedin.com/jobs/view/4445822738",
-   "https://www.linkedin.com/jobs/view/4445873329"
+   "https://www.linkedin.com/jobs/view/4445873329",
+   "https://www.linkedin.com/jobs/view/4446299231"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -22921,6 +22922,159 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448221769"
+  ]
+ },
+ "a38ca1650849b8bb16ce85172693ac22": {
+  "first_seen": 1785823394.5796077,
+  "title": "Stagiaire en Intelligence Collective - Paris (H/F)",
+  "company": "GROUPE ALPHA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4294035541"
+  ]
+ },
+ "518ecc4cba1892f30d2cc2f824546b32": {
+  "first_seen": 1785823394.579634,
+  "title": "GTM BATIMENT - Stage Bureau d'étude façade – Automatisation Plans d'Exécution F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448396974"
+  ]
+ },
+ "dae841d743603e21247a788fc85e8ce2": {
+  "first_seen": 1785823394.579674,
+  "title": "Stage - Assistant(e) Chef de Projet Social Listening & Social Media – Parfums Beauté – Janvier 2027 – H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448673695"
+  ]
+ },
+ "5bddcd093790b87070a1356266f3a574": {
+  "first_seen": 1785823394.5798154,
+  "title": "Ingénieur en développement logiciel réseau (H/F)",
+  "company": "DGSE - Direction Générale de la Sécurité Extérieure",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445890966"
+  ]
+ },
+ "9c8d5effcfd807416220cc1affa9dbed": {
+  "first_seen": 1785823394.5798242,
+  "title": "Dévelopeur(euse) Logiciel - Custom Solutions F/H/X",
+  "company": "Genetec",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446202292"
+  ]
+ },
+ "2cf89b0d93a483496cf09049d7e82da7": {
+  "first_seen": 1785823394.5798306,
+  "title": "Ingénieur(e) systèmes",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447993828"
+  ]
+ },
+ "c6a57d5cfcd8753be9c74e6cdff89ba5": {
+  "first_seen": 1785823394.5798614,
+  "title": "Ingénieur Banc de tests LabVIEW / TestStand H/F",
+  "company": "STYREL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446212836"
+  ]
+ },
+ "378cb2d9e555c240a09cc911fbd7fca9": {
+  "first_seen": 1785823394.579868,
+  "title": "Forward Deployed Engineer H/F",
+  "company": "GoMind",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448237163"
+  ]
+ },
+ "8cd670ff60004bdcb5e68d319e3ad8eb": {
+  "first_seen": 1785823394.579883,
+  "title": "IT Quantitative Engineer (Crypto prime broker)",
+  "company": "Aplo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447981958"
+  ]
+ },
+ "586172cffa87f8e5b3ad3bdc0b4e61ae": {
+  "first_seen": 1785823394.5798903,
+  "title": "Ingénieur système batterie F/H",
+  "company": "Safran",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445890988"
+  ]
+ },
+ "a470ef6422cadf411137e13f8e18e409": {
+  "first_seen": 1785823394.5799053,
+  "title": "Ingénieur(e) / DevOps services HPC H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380437708"
+  ]
+ },
+ "a9632d0c8e9fc5835e963b0322aecb95": {
+  "first_seen": 1785823394.5799165,
+  "title": "Ingénieur simulateurs d’entrainement pour les pilotes d'aéronefs F/H",
+  "company": "DGA - Direction générale de l'armement",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447996426"
+  ]
+ },
+ "4079637445c04adf44ec4dd0046f1e0d": {
+  "first_seen": 1785823394.5799236,
+  "title": "Contrat de thèse (PIMM) - CETIM",
+  "company": "AMVALOR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446206287"
+  ]
+ },
+ "720c19fea3fb8221fd131f21a019bee0": {
+  "first_seen": 1785823394.5799303,
+  "title": "Développeur DevOps F/H",
+  "company": "asmodee",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447976662"
+  ]
+ },
+ "37884528de9f9fe8479b629845bfede3": {
+  "first_seen": 1785823394.579944,
+  "title": "IT Strategy & Operations Intern- FIFA Clearing House",
+  "company": "FIFA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448661830"
+  ]
+ },
+ "2be46603d8f4532d1100c39b7431b31f": {
+  "first_seen": 1785823394.579951,
+  "title": "CDD - Chef de projets CAO (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447997887"
+  ]
+ },
+ "7b7bfc889ea41c15a928da6ba364d051": {
+  "first_seen": 1785823394.579984,
+  "title": "Zaproszenie do złożenia oferty nr 2, 3 nazwa zamówienia: Elektronika i prototypowanie _ elektronik - projekt: „ULTRACLEA",
+  "company": "Wydział Informatyki AGH",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448637636"
   ]
  }
 }
