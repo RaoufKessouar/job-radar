@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785830554.8925047,
+   "last_success": 1785832350.1196623,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785830554.89251,
+   "last_success": 1785832350.119669,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785830568.2074046,
+   "last_success": 1785832370.615484,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785830568.207409,
+   "last_success": 1785832370.6154892,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785830568.2074106,
+   "last_success": 1785832370.6154912,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785830568.2074122,
+   "last_success": 1785832370.6154923,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785830568.2074134,
+   "last_success": 1785832370.6154943,
    "alerted": false
   }
  },
@@ -23193,6 +23193,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446621090"
+  ]
+ },
+ "7642c5b29e7d0a15e37be7af61488172": {
+  "first_seen": 1785832370.616079,
+  "title": "Ingénieur Automatisation & IA – Python",
+  "company": "Taleo Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446608562"
   ]
  }
 }
