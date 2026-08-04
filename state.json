@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785857526.1148818,
+   "last_success": 1785859358.4465075,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785857526.1148875,
+   "last_success": 1785859358.446514,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785857541.3686087,
+   "last_success": 1785859373.1869366,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785857541.368613,
+   "last_success": 1785859373.1869395,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785857541.3686152,
+   "last_success": 1785859373.1869407,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785857541.3686163,
+   "last_success": 1785859373.1869414,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785857541.368618,
+   "last_success": 1785859373.186942,
    "alerted": false
   }
  },
@@ -9585,7 +9585,8 @@
   "company": "Viveris",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442747271"
+   "https://www.linkedin.com/jobs/view/4442747271",
+   "https://www.linkedin.com/jobs/view/4448884790"
   ]
  },
  "99b98f242972a7338f3da368fcb1a22f": {
@@ -9649,7 +9650,8 @@
   "company": "Viveris",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442732537"
+   "https://www.linkedin.com/jobs/view/4442732537",
+   "https://www.linkedin.com/jobs/view/4448889579"
   ]
  },
  "d23e9a02b00afd20d93ce27aef100426": {
@@ -13500,7 +13502,8 @@
   "company": "Thales",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445968983"
+   "https://www.linkedin.com/jobs/view/4445968983",
+   "https://www.linkedin.com/jobs/view/4440067504"
   ]
  },
  "09ec9fa8b36fed7ba72c3baee30822da": {
@@ -15788,7 +15791,8 @@
   "company": "Crédit Agricole CIB",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447014076"
+   "https://www.linkedin.com/jobs/view/4447014076",
+   "https://www.linkedin.com/jobs/view/4405241344"
   ]
  },
  "a67fd6d06432013a32929763e3779a6b": {
@@ -16900,7 +16904,8 @@
   "company": "Mobilize Financial Services",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447138983"
+   "https://www.linkedin.com/jobs/view/4447138983",
+   "https://www.linkedin.com/jobs/view/4448545110"
   ]
  },
  "89326cf19bc0096499361754b8df12f1": {
@@ -16936,7 +16941,8 @@
   "company": "ORNESS",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445527010"
+   "https://www.linkedin.com/jobs/view/4445527010",
+   "https://www.linkedin.com/jobs/view/4446658711"
   ]
  },
  "532fc4453d5ed119b81f21fb3be8f96e": {
@@ -23500,7 +23506,8 @@
   "company": "Seedext",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448518172"
+   "https://www.linkedin.com/jobs/view/4448518172",
+   "https://www.linkedin.com/jobs/view/4448533245"
   ]
  },
  "e20fb5457aaf3b7c815c355e223aa0b7": {
@@ -23834,6 +23841,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4437672318"
+  ]
+ },
+ "fd7e4c401e03438ee6e149e6a163905f": {
+  "first_seen": 1785859373.1873775,
+  "title": "Data Project Associate - Stage",
+  "company": "DiliTrust",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432232087"
+  ]
+ },
+ "1795707d5bbed62b5864ea6658fc195e": {
+  "first_seen": 1785859373.1874578,
+  "title": "Développeur Python IA",
+  "company": "Neosoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448527991"
+  ]
+ },
+ "e7de8c5a8488b0b630bb759df4a14997": {
+  "first_seen": 1785859373.1875548,
+  "title": "Ingénieur développement électronique embarqué - F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391751999"
+  ]
+ },
+ "cd63474ca5c9eb11ee6cfe963225c945": {
+  "first_seen": 1785859373.1875699,
+  "title": "Ingénieur logiciel - Algorithmes Expérimenté F/H",
+  "company": "CorWave",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449009057"
+  ]
+ },
+ "cbd47f9cab46d949a7b3a5f007d3c224": {
+  "first_seen": 1785859373.1875815,
+  "title": "Développeur senior basic Software  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4347240029"
   ]
  }
 }
