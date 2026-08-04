@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785844962.0922906,
+   "last_success": 1785846735.3890305,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785844962.092296,
+   "last_success": 1785846735.3890357,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785844977.0179515,
+   "last_success": 1785846751.148854,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785844977.017956,
+   "last_success": 1785846751.1488585,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785844977.0179582,
+   "last_success": 1785846751.14886,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785844977.0179596,
+   "last_success": 1785846751.1488612,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785844977.017961,
+   "last_success": 1785846751.1488628,
    "alerted": false
   }
  },
@@ -23486,6 +23486,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448286407"
+  ]
+ },
+ "39680cf112044e219aac05af997745f5": {
+  "first_seen": 1785846751.149686,
+  "title": "Stage – Data Analyst",
+  "company": "Seedext",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448518172"
+  ]
+ },
+ "e20fb5457aaf3b7c815c355e223aa0b7": {
+  "first_seen": 1785846751.1497152,
+  "title": "Data Engineer / Data Model H/F",
+  "company": "Softway Medical Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448222947"
+  ]
+ },
+ "7a57cf0edd16680797f01d07b301649b": {
+  "first_seen": 1785846751.1497943,
+  "title": "Ingénieur Développement logiciel embarqué - SDR F/H - MBDA",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448875193"
+  ]
+ },
+ "fa82d301e489d6e281de6b2bca6fb14e": {
+  "first_seen": 1785846751.1498654,
+  "title": "Ingénieur électronique (F/H)",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448526115"
   ]
  }
 }
