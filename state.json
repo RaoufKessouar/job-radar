@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785850349.566843,
+   "last_success": 1785852154.0860116,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785850349.5668488,
+   "last_success": 1785852154.0860176,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785850364.8938506,
+   "last_success": 1785852170.985804,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785850364.893855,
+   "last_success": 1785852170.9858088,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785850364.8938563,
+   "last_success": 1785852170.985811,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785850364.8938577,
+   "last_success": 1785852170.9858124,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785850364.893859,
+   "last_success": 1785852170.9858143,
    "alerted": false
   }
  },
@@ -16086,7 +16086,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4445080072",
    "https://www.linkedin.com/jobs/view/4445828716",
-   "https://www.linkedin.com/jobs/view/4445861507"
+   "https://www.linkedin.com/jobs/view/4445861507",
+   "https://www.linkedin.com/jobs/view/4446293303"
   ]
  },
  "9c5901299b9753bd5b0227ed0e17c590": {
@@ -23688,6 +23689,87 @@
   "source": "carriere-orange",
   "urls": [
    "https://orange.jobs/fr/fr/job/CTS-2026-52967/STAGE---Marketing-Data-Analyst-F%2FH"
+  ]
+ },
+ "4bb9febf9435e83a304b6ec40a698f7d": {
+  "first_seen": 1785852170.9868793,
+  "title": "Product Designer",
+  "company": "AutoRetouch",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448314021"
+  ]
+ },
+ "4f1cc461b3910c123cca476653bab203": {
+  "first_seen": 1785852170.9870162,
+  "title": "Data, Analytics & AI Consultant - Luxe, Retail, Hospitalité, Services - CDI",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448864595"
+  ]
+ },
+ "2ed6e5936989670bed8ca871a59f7349": {
+  "first_seen": 1785852170.9871407,
+  "title": "Software Development Engineer in Test (SDET)",
+  "company": "Sonos, Inc.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448512274"
+  ]
+ },
+ "e5462135614b9bfaa3361011a4a17cbd": {
+  "first_seen": 1785852170.9871478,
+  "title": "Expert Microsoft Copilot Studio",
+  "company": "ViaAduc",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448283126"
+  ]
+ },
+ "40464e83942ba0a48465ae6964bb30a2": {
+  "first_seen": 1785852170.9871633,
+  "title": "Architecte Google Cloud Platform & Agentic AI",
+  "company": "Devoteam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430398002"
+  ]
+ },
+ "5b681231a325f0de3c07b8aede326977": {
+  "first_seen": 1785852170.987212,
+  "title": "Technical Consultant – Expert Data – Paris",
+  "company": "NeoXam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4382178285"
+  ]
+ },
+ "4648b557c5fdf9d1450e55cc29c1dc5a": {
+  "first_seen": 1785852170.9872487,
+  "title": "Apprenti(e) Pre-Sales",
+  "company": "Arrow Electronics",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440069194"
+  ]
+ },
+ "09bb92609f79ff06d1fbff266df79ee9": {
+  "first_seen": 1785852170.9872668,
+  "title": "STAGE _Growth & Operations Junior Marketing Manager",
+  "company": "Wizaly",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439220029"
+  ]
+ },
+ "97ac6399f6befb24a77206fbcdc3ec4a": {
+  "first_seen": 1785852170.9872758,
+  "title": "Stage - Business App Specialist (H/F/X)",
+  "company": "Amplifon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448890095"
   ]
  }
 }
