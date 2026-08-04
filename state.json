@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785862937.2140036,
+   "last_success": 1785864769.220597,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785862937.2140095,
+   "last_success": 1785864769.2206035,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785862952.4684544,
+   "last_success": 1785864783.1856272,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785862952.46846,
+   "last_success": 1785864783.1856322,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785862952.4684618,
+   "last_success": 1785864783.1856341,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785862952.4684634,
+   "last_success": 1785864783.1856353,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785862952.4684649,
+   "last_success": 1785864783.1856365,
    "alerted": false
   }
  },
@@ -10692,7 +10692,8 @@
   "company": "FACTORHY Avocats",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4440497090"
+   "https://www.linkedin.com/jobs/view/4440497090",
+   "https://www.linkedin.com/jobs/view/4446678171"
   ]
  },
  "40944a68312e1c178162c387b5d16838": {
@@ -23985,6 +23986,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448282027"
+  ]
+ },
+ "b4312fd27321535280947bb1cb5ff32e": {
+  "first_seen": 1785864783.1867285,
+  "title": "Quantitative Analyst FI NL H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422960041"
+  ]
+ },
+ "294cf3bd614dbbdf096e6bdf719cadea": {
+  "first_seen": 1785864783.1868682,
+  "title": "Ingénieur IA",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449012208"
+  ]
+ },
+ "f857ebe6054b53cb0cc54df309fa05fb": {
+  "first_seen": 1785864783.1868756,
+  "title": "Staff Research Scientist",
+  "company": "Google",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448544285"
+  ]
+ },
+ "de1807e3baa9750af8707d05dbd393f3": {
+  "first_seen": 1785864783.1869066,
+  "title": "Apprenti.e - Développeur RPA (Robotic Process Automation) - Finance F/H",
+  "company": "Safran",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448895657"
+  ]
+ },
+ "8692ed9ad9e4b96dcd80fe724b42e6d8": {
+  "first_seen": 1785864783.18692,
+  "title": "AI Lead Engineer",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448537263"
+  ]
+ },
+ "6e065f765ef780da964032e49e6fd79c": {
+  "first_seen": 1785864783.1869502,
+  "title": "IA & Automatisation (H/F) - Stage",
+  "company": "Amarenco",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435550541"
+  ]
+ },
+ "6ef8e053bbed37223308babdce534789": {
+  "first_seen": 1785864783.186973,
+  "title": "Stage Conseil - Transformation Digitale - Energie - IDF",
+  "company": "Sopra Steria Next",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442799247"
+  ]
+ },
+ "cf65fa36323fe51e53525c577c55f010": {
+  "first_seen": 1785864783.1869807,
+  "title": "Stage - Analyste Social Media Junior",
+  "company": "We Are Social",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448840373"
+  ]
+ },
+ "4454337b83acef7c65db8a6cdab89dd8": {
+  "first_seen": 1785864783.1870387,
+  "title": "Embedded Software Engineer (M/F)",
+  "company": "ThrustMe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449007465"
+  ]
+ },
+ "57ea22c49abffc87f40aac5c780ca9c9": {
+  "first_seen": 1785864783.1870759,
+  "title": "ALTERNANCE Développement logiciel embarqué  H/F",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449021013"
   ]
  }
 }
