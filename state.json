@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785859358.4465075,
+   "last_success": 1785861153.739185,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785859358.446514,
+   "last_success": 1785861153.7391906,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785859373.1869366,
+   "last_success": 1785861167.461729,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785859373.1869395,
+   "last_success": 1785861167.461734,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785859373.1869407,
+   "last_success": 1785861167.4617357,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785859373.1869414,
+   "last_success": 1785861167.4617622,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785859373.186942,
+   "last_success": 1785861167.4617636,
    "alerted": false
   }
  },
@@ -23886,6 +23886,105 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4347240029"
+  ]
+ },
+ "4140d9704d1ab8378bd4b74a3cc8796d": {
+  "first_seen": 1785861167.462357,
+  "title": "Stage - 6 mois - Développeur Outil de Filtrage - Alertes de Production F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4392687061"
+  ]
+ },
+ "03c65a1319c1a9cc404dc4fabcb4f095": {
+  "first_seen": 1785861167.4624343,
+  "title": "Lead pricing data scientist",
+  "company": "ThePackengers",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446665424"
+  ]
+ },
+ "da82defcac10bcd2ff8e4c673927e1f7": {
+  "first_seen": 1785861167.4625685,
+  "title": "AI-Native Developer F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428956643"
+  ]
+ },
+ "dad36a9c6060c5c8dbe98b0e3c74d860": {
+  "first_seen": 1785861167.4626212,
+  "title": "Chef de projet Intelligence Artificielle / Data- H/F - IBM Future Now",
+  "company": "IBM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446663006"
+  ]
+ },
+ "fe617791d86e35d976c9f049e3555254": {
+  "first_seen": 1785861167.462635,
+  "title": "AI Evangelist",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446628024"
+  ]
+ },
+ "89444bf80cc11be490d14f2031297835": {
+  "first_seen": 1785861167.4626434,
+  "title": "Product Owner IA (F/H/X)",
+  "company": "Epsilon France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4380436960"
+  ]
+ },
+ "216eab13aa05d47dc8467c6739b6b141": {
+  "first_seen": 1785861167.4626527,
+  "title": "AI Product Support Specialist",
+  "company": "Alpine Business Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448521372"
+  ]
+ },
+ "a9d0f064c5df36d42eadc67242035165": {
+  "first_seen": 1785861167.4626603,
+  "title": "Innovation project intern F/H",
+  "company": "VINCI Concessions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448884835"
+  ]
+ },
+ "29d61f06cd3405521d4c31923922cae1": {
+  "first_seen": 1785861167.4627118,
+  "title": "Startup Partnerships - France & Southern Europe",
+  "company": "Anthropic",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439468131"
+  ]
+ },
+ "6e46e313ecf82720a4475132e7ea02a2": {
+  "first_seen": 1785861167.462761,
+  "title": "Insights Analyst",
+  "company": "Behaviorally",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448336114"
+  ]
+ },
+ "ee5d76edfd26d2db7b19e5c8cf873be3": {
+  "first_seen": 1785861167.4627683,
+  "title": "Stage Innovation : Ingénieur Réseaux & DevOps",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448282027"
   ]
  }
 }
