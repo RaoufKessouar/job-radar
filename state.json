@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785855735.699712,
+   "last_success": 1785857526.1148818,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785855735.6997182,
+   "last_success": 1785857526.1148875,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785855751.5502086,
+   "last_success": 1785857541.3686087,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785855751.5502136,
+   "last_success": 1785857541.368613,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785855751.5502155,
+   "last_success": 1785857541.3686152,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785855751.550217,
+   "last_success": 1785857541.3686163,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785855751.5502188,
+   "last_success": 1785857541.368618,
    "alerted": false
   }
  },
@@ -23807,6 +23807,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444446214"
+  ]
+ },
+ "3e96a47c59f939da2624d05697c6848f": {
+  "first_seen": 1785857541.369682,
+  "title": "Data scientist / ingénieur informatique statisticien risque (banque) (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446658489"
+  ]
+ },
+ "28ae76100c509d5d0dae789d36eac70c": {
+  "first_seen": 1785857541.3696938,
+  "title": "Consultant Analytics - Conseil de spécialité DATA - Ile-de-France",
+  "company": "Sopra Steria Next",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448882567"
+  ]
+ },
+ "11d7db7d43e165eaea05d09ad31b530d": {
+  "first_seen": 1785857541.3697014,
+  "title": "Research Scientist, Omni-lingual (FAIR)",
+  "company": "Meta",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437672318"
   ]
  }
 }
