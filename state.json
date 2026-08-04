@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785870142.9259386,
+   "last_success": 1785871966.3931663,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785870142.9259443,
+   "last_success": 1785871966.3931727,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785870158.7673674,
+   "last_success": 1785871979.9462361,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785870158.7673721,
+   "last_success": 1785871979.9462416,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785870158.767374,
+   "last_success": 1785871979.9462433,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785870158.7673757,
+   "last_success": 1785871979.9462452,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785870158.767377,
+   "last_success": 1785871979.9462464,
    "alerted": false
   }
  },
@@ -22830,7 +22830,8 @@
   "company": "Avanade",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448389386"
+   "https://www.linkedin.com/jobs/view/4448389386",
+   "https://www.linkedin.com/jobs/view/4449021770"
   ]
  },
  "73c1e035b16bf7b32036e29bc256e146": {
@@ -24229,6 +24230,105 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4431753466"
+  ]
+ },
+ "7e1ef2b110b6a97e348f34d2138b35d9": {
+  "first_seen": 1785871979.9472806,
+  "title": "Alternance - Data Analyst (H/F)",
+  "company": "ENGIE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449019903"
+  ]
+ },
+ "7e26be34fbc3cbe92823643728782c5a": {
+  "first_seen": 1785871979.9472983,
+  "title": "Artificial Intelligence Researcher",
+  "company": "Esparon Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449023697"
+  ]
+ },
+ "ed30b6487d52d09a320460bfe4dd5ab6": {
+  "first_seen": 1785871979.947316,
+  "title": "Analyste Opérationnel (F/H)",
+  "company": "KFC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446638638"
+  ]
+ },
+ "ebe8c053f1eb3667c18d0edb84c3a09d": {
+  "first_seen": 1785871979.947343,
+  "title": "Commercial & Analytics Projects - Mid-level (H/F)",
+  "company": "Picnic Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4168600573"
+  ]
+ },
+ "353d080d469faf43fd06457ff1fc5c68": {
+  "first_seen": 1785871979.9473507,
+  "title": "Forward Deployed Engineer",
+  "company": "GALILEO RH",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444033594"
+  ]
+ },
+ "eb0636ea2f7f9376008ecb53924bf69c": {
+  "first_seen": 1785871979.9473825,
+  "title": "Metal Insight Researcher",
+  "company": "QAIrbon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448849223"
+  ]
+ },
+ "1c96a4928876132bf01f976f814f4501": {
+  "first_seen": 1785871979.9474063,
+  "title": "Stage - 6 mois - Valuation Risk Analyst F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446632929"
+  ]
+ },
+ "412d29b28545cdd957a398f410fd8189": {
+  "first_seen": 1785871979.9474678,
+  "title": "Consultant en Solution (F/H)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4392377245"
+  ]
+ },
+ "2b92ade51dec2f4881ad0a4426490609": {
+  "first_seen": 1785871979.947552,
+  "title": "HR Data & AI project manager F/H - MBDA",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4445703830"
+  ]
+ },
+ "14142c0801cfa7d2121efcb230cf7e3a": {
+  "first_seen": 1785871979.9475722,
+  "title": "Frontend Developer - Remote / Paris, France",
+  "company": "Adsroid",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449035522"
+  ]
+ },
+ "c08722773dedb049d0d1b5ec1cb6c31f": {
+  "first_seen": 1785871979.9475932,
+  "title": "Consultant Process Mining – F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4350662474"
   ]
  }
 }
