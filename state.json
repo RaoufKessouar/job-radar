@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785864769.220597,
+   "last_success": 1785865849.5223074,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785864769.2206035,
+   "last_success": 1785865849.5223138,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785864783.1856272,
+   "last_success": 1785865863.3298666,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785864783.1856322,
+   "last_success": 1785865863.3298712,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785864783.1856341,
+   "last_success": 1785865863.3298726,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785864783.1856353,
+   "last_success": 1785865863.329874,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785864783.1856365,
+   "last_success": 1785865863.3298752,
    "alerted": false
   }
  },
@@ -24076,6 +24076,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449021013"
+  ]
+ },
+ "e28ca8ddb0464bf902340adcc2b423da": {
+  "first_seen": 1785865863.3305056,
+  "title": "AI Portfolio Lead H/F",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391786534"
+  ]
+ },
+ "4d9ddecc518952129216214326cb0bb7": {
+  "first_seen": 1785865863.330525,
+  "title": "DÃ©veloppeur Senior Python IA GÃ©nÃ©rative â€“ LLM, & MLOps H/F",
+  "company": "ami Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446280143"
+  ]
+ },
+ "53832143284e7c496a6ccf5882a70f6f": {
+  "first_seen": 1785865863.3305347,
+  "title": "Responsable de la transformation IA (F/H)/ AI Transformation Leader (F/M)",
+  "company": "GE Vernova",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440085724"
+  ]
+ },
+ "ab6d1659b8455dddd28f171ecc765763": {
+  "first_seen": 1785865863.3306808,
+  "title": "Enterprise Platform Advisory Consultant",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448546382"
+  ]
+ },
+ "2ed4a6aa97c193e896b7c460f286ac48": {
+  "first_seen": 1785865863.3306875,
+  "title": "Tech Lead - Platform Squad",
+  "company": "Pelico",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431264457"
+  ]
+ },
+ "33f57b44e936c1ff975efad41bec4a07": {
+  "first_seen": 1785865863.3306952,
+  "title": "Product Manager (CCaaS) - French Speaking",
+  "company": "Kaluza",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4399019809"
   ]
  }
 }
