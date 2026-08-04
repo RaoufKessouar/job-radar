@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785848542.9755163,
+   "last_success": 1785848698.0198793,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785848542.9755228,
+   "last_success": 1785848698.0198853,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785848558.3419187,
+   "last_success": 1785848712.8289037,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785848558.3419235,
+   "last_success": 1785848712.8289082,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785848558.3419251,
+   "last_success": 1785848712.8289099,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785848558.3419266,
+   "last_success": 1785848712.8289113,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785848558.341928,
+   "last_success": 1785848712.8289127,
    "alerted": false
   }
  },
@@ -22126,7 +22126,8 @@
   "company": "VINCI Construction France",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448146517"
+   "https://www.linkedin.com/jobs/view/4448146517",
+   "https://www.linkedin.com/jobs/view/4448829826"
   ]
  },
  "6f5bff7b443eb56a1609aa7b5b146082": {
@@ -22162,7 +22163,8 @@
   "company": "VINCI Construction France",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448155272"
+   "https://www.linkedin.com/jobs/view/4448155272",
+   "https://www.linkedin.com/jobs/view/4448831758"
   ]
  },
  "cf6f34b40469ae5071db9a1e46c8e986": {
@@ -23527,7 +23529,7 @@
   ]
  },
  "ffbe9f8b6deeb5bac9f154ed94ec35e0": {
-  "first_seen": 1785848558.342774,
+  "first_seen": 1785848712.8298454,
   "title": "Ingénieur.e IA - Stage",
   "company": "Colombus Consulting",
   "source": "linkedin",
@@ -23535,8 +23537,152 @@
    "https://www.linkedin.com/jobs/view/4390956210"
   ]
  },
+ "eeb1afbd1cbd99a4dd8e43bb58da3fe8": {
+  "first_seen": 1785848712.8299582,
+  "title": "Product Owner Data & IA expérimenté H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4322622771"
+  ]
+ },
+ "ca0f594021048d83126a2bc6de718cee": {
+  "first_seen": 1785848712.8300085,
+  "title": "Manager Solution Design (d/f/m)",
+  "company": "4flow",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448312569"
+  ]
+ },
+ "de48b98d3974447c118728094e01d655": {
+  "first_seen": 1785848712.8300173,
+  "title": "Managing Consultante/Consultant - Data/AI Strategy & Governance",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4340954262"
+  ]
+ },
+ "c855ad4fdfae30b2e713e21a0a4f1cd6": {
+  "first_seen": 1785848712.8300235,
+  "title": "Experienced AI adoption Lead",
+  "company": "Ayvens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446209138"
+  ]
+ },
+ "523eefeeab15514bee3b18a2bb608edb": {
+  "first_seen": 1785848712.8300314,
+  "title": "Consultant AMOA / IA Senior F/H-FR878334",
+  "company": "Morgan Philips Specialist Recruitment",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448277528"
+  ]
+ },
+ "6393a3ed9269ad65cd40d1663b1ae6d4": {
+  "first_seen": 1785848712.8300767,
+  "title": "Strategy Analyst/ Chef de projet F/H",
+  "company": "RELX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447988373"
+  ]
+ },
+ "58c6fb3fa1983628ad3f5ab97c98663e": {
+  "first_seen": 1785848712.8300836,
+  "title": "Lead Engineer / Expert OpenShift AI",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446256545"
+  ]
+ },
+ "ecc5ab69de6826bcdb93dde32cfaee36": {
+  "first_seen": 1785848712.830101,
+  "title": "Apprenti(e) charge(e) veille technologique H/F",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391594840"
+  ]
+ },
+ "42706a246edc2a4c1de7971a55f5430c": {
+  "first_seen": 1785848712.8301077,
+  "title": "Project Design Authority et architecte IA - F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4364653582"
+  ]
+ },
+ "ae162e7f319dee41c32b5a6a286ccd70": {
+  "first_seen": 1785848712.8301206,
+  "title": "Catalyst - Special projects CEO's office",
+  "company": "H Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446208707"
+  ]
+ },
+ "55ec04275614835678a59833f28bf820": {
+  "first_seen": 1785848712.8301332,
+  "title": "STAGE 6 MOIS - À partir de janvier 2027 – Sales Business Analyst & Development – Master ½ - 1700€/mois",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448287393"
+  ]
+ },
+ "94c2d0b5cb967e2a9e0b46c239bc72c6": {
+  "first_seen": 1785848712.8301399,
+  "title": "Solutions Architect Digital Natives Mid Market France",
+  "company": "Databricks",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4437608517"
+  ]
+ },
+ "c447e8edb5b70cac092b2de7da0a3548": {
+  "first_seen": 1785848712.8301876,
+  "title": "Quantum computing developer R&D H/F",
+  "company": "Bull",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433097504"
+  ]
+ },
+ "b366b6748f2d3829e62ec9c73e1d1d5f": {
+  "first_seen": 1785848712.8302193,
+  "title": "VP of Optimization",
+  "company": "Pelico",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448316237"
+  ]
+ },
+ "ef8aa0124c8dbb36bceeef2f928a83f6": {
+  "first_seen": 1785848712.8302395,
+  "title": "Apprenti(e) Chef de projet IT F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448302662"
+  ]
+ },
+ "870de2a22179dad151d54643a5b20c11": {
+  "first_seen": 1785848712.8302705,
+  "title": "OFFERING MANAGER",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446628024"
+  ]
+ },
  "44bfc775373c278bc32dbbb6417601e2": {
-  "first_seen": 1785848558.3432384,
+  "first_seen": 1785848712.8308423,
   "title": "STAGE - Marketing Data Analyst F/H",
   "company": "Orange",
   "source": "carriere-orange",
