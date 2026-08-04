@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785866571.928773,
+   "last_success": 1785868363.9896348,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785866571.928778,
+   "last_success": 1785868363.9896407,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785866586.2327585,
+   "last_success": 1785868380.5844553,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785866586.2327633,
+   "last_success": 1785868380.58446,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785866586.2327652,
+   "last_success": 1785868380.5844615,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785866586.2327666,
+   "last_success": 1785868380.5844626,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785866586.2327685,
+   "last_success": 1785868380.5844638,
    "alerted": false
   }
  },
@@ -24130,6 +24130,105 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4399019809"
+  ]
+ },
+ "cc3a466c042b01d4db8551584e45b7e4": {
+  "first_seen": 1785868380.5855892,
+  "title": "Lead AI Product Manager - Agentic & ML",
+  "company": "Wivoo, a Wavestone Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412743432"
+  ]
+ },
+ "e896ae674735048e63bc658e93a950ac": {
+  "first_seen": 1785868380.5855978,
+  "title": "Data Analysis Internship",
+  "company": "Alpine Business Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448514399"
+  ]
+ },
+ "2a33735b1faa4bf38c5477f91f046915": {
+  "first_seen": 1785868380.5856392,
+  "title": "Data Scientist - Not Applicable",
+  "company": "Worldline",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449026124"
+  ]
+ },
+ "ed19a569f17854082760b529faaecbbd": {
+  "first_seen": 1785868380.5856633,
+  "title": "Chargé(e) développement RH (F/H) Stage 6 mois",
+  "company": "Ofi Invest",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448886720"
+  ]
+ },
+ "ab3082fe9b93432abde4500910576f84": {
+  "first_seen": 1785868380.585672,
+  "title": "Ingénieur Développement Logiciel Contrôles & Diagnostics (H/F)",
+  "company": "GE Vernova",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440081812"
+  ]
+ },
+ "b74a51f55e967746c927b6e0d9f6527e": {
+  "first_seen": 1785868380.585678,
+  "title": "Solution Architect AI",
+  "company": "GALILEO RH",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448556108"
+  ]
+ },
+ "88876674175790425146a35e66f636c1": {
+  "first_seen": 1785868380.5856864,
+  "title": "Stage (6 mois) - Chef de projet développement - Paris (F/H)",
+  "company": "PHOTOSOL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440005358"
+  ]
+ },
+ "85164d224cd4a2338c676a9420b8cae9": {
+  "first_seen": 1785868380.5856946,
+  "title": "ALTERNANCE - Consultant(e) Data Tracking & Analytics Junior - F/H",
+  "company": "Havas Media France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448537505"
+  ]
+ },
+ "d7967c304e70dfb895b96fea7e45c96a": {
+  "first_seen": 1785868380.5857081,
+  "title": "Stagiaire Analyste Retail Europe – F/H",
+  "company": "GIVENCHY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440024192"
+  ]
+ },
+ "206ec5388bb270b0582febc611987ac5": {
+  "first_seen": 1785868380.585715,
+  "title": "Stage - Chef de projet junior/PMO H/F",
+  "company": "Devoteam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432254775"
+  ]
+ },
+ "52455ec200c534912249deaea033fae5": {
+  "first_seen": 1785868380.5857935,
+  "title": "[STAGE]  Digitalization of Warehouse Management",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431753466"
   ]
  }
 }
