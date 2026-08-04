@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785841335.1329732,
+   "last_success": 1785843157.9778612,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785841335.1330147,
+   "last_success": 1785843157.9778671,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785841348.9078643,
+   "last_success": 1785843171.4336245,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785841348.907869,
+   "last_success": 1785843171.4336305,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785841348.9078712,
+   "last_success": 1785843171.4336324,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785841348.9078727,
+   "last_success": 1785843171.4336338,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785841348.9078743,
+   "last_success": 1785843171.4336352,
    "alerted": false
   }
  },
@@ -16499,7 +16499,8 @@
   "company": "Niji",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4417227254"
+   "https://www.linkedin.com/jobs/view/4417227254",
+   "https://www.linkedin.com/jobs/view/4446220088"
   ]
  },
  "1eaeb72e9702711d29db0c7bdc51bfba": {
@@ -23440,6 +23441,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448843215"
+  ]
+ },
+ "a15296fe29bec5779d568b5fd553b043": {
+  "first_seen": 1785843171.4347343,
+  "title": "AI Agent Engineer Intern (Internship)",
+  "company": "GetVocal AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448287543"
+  ]
+ },
+ "48bda2d7d714459740dd3bb80632b694": {
+  "first_seen": 1785843171.4347963,
+  "title": "Apprentice - FinOps Analyst (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448853086"
+  ]
+ },
+ "215579a233c49cea9e323a4b27db45b1": {
+  "first_seen": 1785843171.434819,
+  "title": "Expert Dataiku - H/F",
+  "company": "Synchrone Fr",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446619708"
+  ]
+ },
+ "d130d4ccdce9765855c1cf91f5e1dce6": {
+  "first_seen": 1785843171.4348502,
+  "title": "Apprenti Développeur F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448383930"
+  ]
+ },
+ "31ddf769447efc91b1496731c337ce6b": {
+  "first_seen": 1785843171.4348586,
+  "title": "CDI - Responsable Data & IA Gouvernance (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448286407"
   ]
  }
 }
