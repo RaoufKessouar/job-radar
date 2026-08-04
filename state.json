@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785835959.8450243,
+   "last_success": 1785837741.0396554,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785835959.8450298,
+   "last_success": 1785837741.0396612,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785835974.0613737,
+   "last_success": 1785837754.815582,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785835974.061379,
+   "last_success": 1785837754.815587,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785835974.0613809,
+   "last_success": 1785837754.8155887,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785835974.0613818,
+   "last_success": 1785837754.8155901,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785835974.061383,
+   "last_success": 1785837754.8155916,
    "alerted": false
   }
  },
@@ -23383,6 +23383,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446620292"
+  ]
+ },
+ "33e8687dc5c0b902ca6e3508790218c1": {
+  "first_seen": 1785837754.8165052,
+  "title": "AI Engineer",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448277763"
+  ]
+ },
+ "6234187e2f4812c29a81ac9a9ed7e573": {
+  "first_seen": 1785837754.8165853,
+  "title": "Ingénieur Développement Python Scientifique (H/F)",
+  "company": "CesGensLaB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446608948"
+  ]
+ },
+ "b0a15c4761aaec4a0d19d51fd030d706": {
+  "first_seen": 1785837754.8166566,
+  "title": "Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448852301"
   ]
  }
 }
