@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785819750.8536232,
+   "last_success": 1785821549.2231348,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785819750.8536289,
+   "last_success": 1785821549.2231402,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785819766.7780967,
+   "last_success": 1785821562.9609683,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785819766.7781022,
+   "last_success": 1785821562.9609725,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785819766.7781038,
+   "last_success": 1785821562.960974,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785819766.778105,
+   "last_success": 1785821562.9609756,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785819766.7781065,
+   "last_success": 1785821562.960977,
    "alerted": false
   }
  },
@@ -22894,6 +22894,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448196356"
+  ]
+ },
+ "7bbb96aa8fef11507f09048e0a0f3807": {
+  "first_seen": 1785821562.9618568,
+  "title": "Stagiaire Analyste Etudes Trafic & Revenus – Mobilité & Data",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448618028"
+  ]
+ },
+ "b6da55850e7831c2c2141248c25349cf": {
+  "first_seen": 1785821562.9620707,
+  "title": "Stagiaire analyste opérations F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448609892"
+  ]
+ },
+ "c5dec44b2f34f0e18766225c33069b6a": {
+  "first_seen": 1785821562.9620864,
+  "title": "Intern AI & Management Consulting (Value Engineering)",
+  "company": "Process Analytics Factory - PAFnow by Celonis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448221769"
   ]
  }
 }
