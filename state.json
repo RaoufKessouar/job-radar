@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785873736.3011308,
+   "last_success": 1785875539.2498972,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785873736.3011613,
+   "last_success": 1785875539.249904,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785873753.617564,
+   "last_success": 1785875555.8612068,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785873753.6175687,
+   "last_success": 1785875555.8612115,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785873753.6175706,
+   "last_success": 1785875555.8612132,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785873753.617572,
+   "last_success": 1785875555.861214,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785873753.6175737,
+   "last_success": 1785875555.8612156,
    "alerted": false
   }
  },
@@ -22923,7 +22923,8 @@
   "company": "VINCI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448618028"
+   "https://www.linkedin.com/jobs/view/4448618028",
+   "https://www.linkedin.com/jobs/view/4449050573"
   ]
  },
  "b6da55850e7831c2c2141248c25349cf": {
@@ -24338,6 +24339,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446699036"
+  ]
+ },
+ "a460acc7e26eeb7ee1b390e2f75fb671": {
+  "first_seen": 1785875555.8621032,
+  "title": "Fixed Income Quantitative Analyst F/M",
+  "company": "Candriam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4381673319"
+  ]
+ },
+ "9239dfeb5e6af945d3d659ac7b315019": {
+  "first_seen": 1785875555.8621233,
+  "title": "STAGE - Assistant(e) Learning, boutique Mode Paris JANVIER 2023",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/3944163325"
   ]
  }
 }
