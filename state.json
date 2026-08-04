@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785826958.911576,
+   "last_success": 1785828758.5661979,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785826958.9115818,
+   "last_success": 1785828758.5662067,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785826973.4548876,
+   "last_success": 1785828773.7498734,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785826973.4548924,
+   "last_success": 1785828773.7498782,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785826973.454894,
+   "last_success": 1785828773.74988,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785826973.4548957,
+   "last_success": 1785828773.7498817,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785826973.4548972,
+   "last_success": 1785828773.7498832,
    "alerted": false
   }
  },
@@ -23129,6 +23129,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448219570"
+  ]
+ },
+ "210e2c4cb8e447c78a2e9eef3ce092dd": {
+  "first_seen": 1785828773.750363,
+  "title": "Ingénieur en data - Optimisation d'une base de données et suivi d'incidents cyber [stage]",
+  "company": "Commandement de la Cyberdéfense (COMCYBER)",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/commandement-de-la-cyberdefense-comcyber/jobs/ingenieur-en-data-optimisation-d-une-base-de-donnees-et-suivi-d-incidents-cyber-stage_paris_CDLCC_y25qGdZ"
+  ]
+ },
+ "9f51ba731510a0b5f61d616aded453e5": {
+  "first_seen": 1785828773.7507038,
+  "title": "AI Application Architect",
+  "company": "Avanade",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448381939"
   ]
  }
 }
