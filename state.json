@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785828758.5661979,
+   "last_success": 1785830554.8925047,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785828758.5662067,
+   "last_success": 1785830554.89251,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785828773.7498734,
+   "last_success": 1785830568.2074046,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785828773.7498782,
+   "last_success": 1785830568.207409,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785828773.74988,
+   "last_success": 1785830568.2074106,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785828773.7498817,
+   "last_success": 1785830568.2074122,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785828773.7498832,
+   "last_success": 1785830568.2074134,
    "alerted": false
   }
  },
@@ -9639,7 +9639,8 @@
    "https://www.linkedin.com/jobs/view/4444464006",
    "https://www.linkedin.com/jobs/view/4447251299",
    "https://www.linkedin.com/jobs/view/4447799136",
-   "https://www.linkedin.com/jobs/view/4447873540"
+   "https://www.linkedin.com/jobs/view/4447873540",
+   "https://www.linkedin.com/jobs/view/4448846001"
   ]
  },
  "3518d4afa984bea20441c454e2a67733": {
@@ -23147,6 +23148,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448381939"
+  ]
+ },
+ "c2c4665ced60740fbcec4f174b1e8258": {
+  "first_seen": 1785830568.208134,
+  "title": "Alternance – Développeur / Développeuse IA (Agents & Applications) – Industrie",
+  "company": "Artelia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448834210"
+  ]
+ },
+ "713295853f8e35aa16b38d009f62bac5": {
+  "first_seen": 1785830568.2081904,
+  "title": "Forward Deployed Engineer",
+  "company": "Nanonets",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446614403"
+  ]
+ },
+ "d5358393fee0b4f0da343312cca2a6c6": {
+  "first_seen": 1785830568.2082355,
+  "title": "Chef de projets IA H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4382130948"
+  ]
+ },
+ "d337c825062ddeec721926f14b20615a": {
+  "first_seen": 1785830568.2083006,
+  "title": "Software Engineer - Connectivity",
+  "company": "Hashlist",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428443912"
+  ]
+ },
+ "0839aceedad1869758176378a886f8e8": {
+  "first_seen": 1785830568.2083077,
+  "title": "SoC Software Integration Engineer",
+  "company": "Hashlist",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446621090"
   ]
  }
 }
