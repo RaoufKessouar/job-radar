@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785852154.0860116,
+   "last_success": 1785853933.353226,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785852154.0860176,
+   "last_success": 1785853933.3532324,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785852170.985804,
+   "last_success": 1785853947.027414,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785852170.9858088,
+   "last_success": 1785853947.027419,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785852170.985811,
+   "last_success": 1785853947.0274208,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785852170.9858124,
+   "last_success": 1785853947.0274224,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785852170.9858143,
+   "last_success": 1785853947.027424,
    "alerted": false
   }
  },
@@ -10453,7 +10453,6 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443920616",
    "https://www.linkedin.com/jobs/view/4444718513",
    "https://www.linkedin.com/jobs/view/4445369474",
    "https://www.linkedin.com/jobs/view/4446116808",
@@ -10462,7 +10461,8 @@
    "https://www.linkedin.com/jobs/view/4444195635",
    "https://www.linkedin.com/jobs/view/4447510838",
    "https://www.linkedin.com/jobs/view/4447822164",
-   "https://www.linkedin.com/jobs/view/4448143019"
+   "https://www.linkedin.com/jobs/view/4448143019",
+   "https://www.linkedin.com/jobs/view/4448885314"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -12348,7 +12348,8 @@
    "https://www.linkedin.com/jobs/view/4444513060",
    "https://www.linkedin.com/jobs/view/4447516788",
    "https://www.linkedin.com/jobs/view/4447808379",
-   "https://www.linkedin.com/jobs/view/4448143028"
+   "https://www.linkedin.com/jobs/view/4448143028",
+   "https://www.linkedin.com/jobs/view/4448878857"
   ]
  },
  "87d1a53b8a454e1fb2896c44b5658723": {
@@ -23770,6 +23771,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448890095"
+  ]
+ },
+ "227674ebbd38c6e1286ea699403d71c8": {
+  "first_seen": 1785853947.0280838,
+  "title": "Stage - Data Analyst (H/F)",
+  "company": "KLEPIERRE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449000146"
+  ]
+ },
+ "eeea0bac0a9c9dfc35bd23479da8110e": {
+  "first_seen": 1785853947.0281408,
+  "title": "Senior Product Data Scientist",
+  "company": "Wivoo, a Wavestone Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412744423"
+  ]
+ },
+ "1ea582acb67fd0371fb4607682f1dbd0": {
+  "first_seen": 1785853947.028206,
+  "title": "Alternant(e) Intelligence Artificielle",
+  "company": "Experteam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446642764"
+  ]
+ },
+ "ff3016a19e31a5e480dd1763f037b7b3": {
+  "first_seen": 1785853947.0282383,
+  "title": "Une/Un lead technique intelligence artificielle",
+  "company": "Arcom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444446214"
   ]
  }
 }
