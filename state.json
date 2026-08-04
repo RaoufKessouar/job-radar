@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785834145.3593552,
+   "last_success": 1785835959.8450243,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785834145.359361,
+   "last_success": 1785835959.8450298,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785834159.3921065,
+   "last_success": 1785835974.0613737,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785834159.3921115,
+   "last_success": 1785835974.061379,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785834159.3921134,
+   "last_success": 1785835974.0613809,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785834159.3921146,
+   "last_success": 1785835974.0613818,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785834159.392116,
+   "last_success": 1785835974.061383,
    "alerted": false
   }
  },
@@ -17705,7 +17705,8 @@
   "company": "SoTalent",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445572778"
+   "https://www.linkedin.com/jobs/view/4445572778",
+   "https://www.linkedin.com/jobs/view/4446629116"
   ]
  },
  "8032d3cb66b68342eb04a411e714803f": {
@@ -23202,6 +23203,186 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446608562"
+  ]
+ },
+ "d6f9c34a73351f1497d4b23c1aa531bc": {
+  "first_seen": 1785835974.0619292,
+  "title": "Stage - Chargé d'appels d'offres H/F",
+  "company": "Crédit Agricole",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/groupe-credit-agricole/jobs/stage-charge-d-appels-d-offres-h-f_paris_CA_oDXWOYQ"
+  ]
+ },
+ "75cc0ea93859b450e503ebac4d9bae40": {
+  "first_seen": 1785835974.062006,
+  "title": "KERING BI Developer",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448165431"
+  ]
+ },
+ "b77155c84636bac9dfd2a86b48165b15": {
+  "first_seen": 1785835974.0620146,
+  "title": "Manager BI / Data Analytics [Luxe-Retail] (H/F)",
+  "company": "Adone Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448156448"
+  ]
+ },
+ "7c733d423abe28d4a5f63cf421cd2a1d": {
+  "first_seen": 1785835974.0621686,
+  "title": "Stage/Alternance Business Analyst Junior",
+  "company": "Filéane",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448836125"
+  ]
+ },
+ "89f6bbf7461c5d9d9726272a07de43f7": {
+  "first_seen": 1785835974.0621967,
+  "title": "Architecte IA / Senior Datascientist – IA générative - F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4354185644"
+  ]
+ },
+ "54035e83454dd62e4bdff704d367105f": {
+  "first_seen": 1785835974.0622087,
+  "title": "Développeur Full Stack IA (F/H)",
+  "company": "INFOGENE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446623383"
+  ]
+ },
+ "4f9c4c07c01b523a3418820041e116d5": {
+  "first_seen": 1785835974.0622163,
+  "title": "APPRENTISSAGE - Data Analyst e-Commerce (F/H)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431674892"
+  ]
+ },
+ "1f7ee054ea8746de826d2a00c2782a47": {
+  "first_seen": 1785835974.0622582,
+  "title": "Data Engineer GCP DBT H/F",
+  "company": "Jems Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446229007"
+  ]
+ },
+ "0a86904eff6561f694b566b348817821": {
+  "first_seen": 1785835974.0622756,
+  "title": "Analyste de Besoins en Systèmes d'Informations Qualité et Data F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448831220"
+  ]
+ },
+ "160dd7df313ecad3f717df467d28d4c5": {
+  "first_seen": 1785835974.0622811,
+  "title": "3D Engineer",
+  "company": "SkinBit",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448329147"
+  ]
+ },
+ "7b028e73a60d22f5f3a4cc9083c18842": {
+  "first_seen": 1785835974.0622876,
+  "title": "STAGE - Global Retail controlling assistant (H/F)",
+  "company": "Lacoste",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4390353331"
+  ]
+ },
+ "59635edeaf44000b596074b00e485944": {
+  "first_seen": 1785835974.0622945,
+  "title": "Apprenti Ingénieur méthodes F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448304627"
+  ]
+ },
+ "31e56fdf6a6c9f3a014b5519dd4d4ab3": {
+  "first_seen": 1785835974.0623016,
+  "title": "CDI - RESPONSABLE OPERATIONS DATA IA - (F/H/X)",
+  "company": "CANAL+ Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438232511"
+  ]
+ },
+ "4f95986db697d63bf3d347af83a07db5": {
+  "first_seen": 1785835974.0623083,
+  "title": "Full Stack Engineer",
+  "company": "Trust In SODA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448216068"
+  ]
+ },
+ "b91ff5ec34ab950ec916b96afb53e359": {
+  "first_seen": 1785835974.0623152,
+  "title": "Business Intelligence Engineer, Volume Planning Analytics EU",
+  "company": "Amazon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448661016"
+  ]
+ },
+ "c2cdea9f20370fc8d5edbc92dca59241": {
+  "first_seen": 1785835974.0623217,
+  "title": "Directrice / Directeur de programme Data F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4354122578"
+  ]
+ },
+ "3b56c22734086d8ac90e77da2eb728a0": {
+  "first_seen": 1785835974.0623436,
+  "title": "Ingénieur Plateforme IA / MLOps (H/F)",
+  "company": "DomusVi France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446629253"
+  ]
+ },
+ "8ef391b3e7b6f11eb56de28e6b4ff401": {
+  "first_seen": 1785835974.0624163,
+  "title": "Consultant Microsoft Copilot Studio / Power Platform – IA (H/F)",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448806020"
+  ]
+ },
+ "f01ca126908cf12b4c8e7773b1a7dd03": {
+  "first_seen": 1785835974.0624392,
+  "title": "Manager conseil - IA Aéronautique - IDF",
+  "company": "Sopra Steria Next",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442784901"
+  ]
+ },
+ "eb7b7daced19a1bc5794682a916615a4": {
+  "first_seen": 1785835974.062453,
+  "title": "Référent Technique IA",
+  "company": "Taleo Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446620292"
   ]
  }
 }
