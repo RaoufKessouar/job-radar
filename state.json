@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785954728.8008986,
+   "last_success": 1785956537.3896654,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785954728.8009045,
+   "last_success": 1785956537.3896713,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785954742.9258366,
+   "last_success": 1785956553.9507859,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785954742.925841,
+   "last_success": 1785956553.9507916,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785954742.925843,
+   "last_success": 1785956553.9507935,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785954742.9258442,
+   "last_success": 1785956553.9507945,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785954742.9258459,
+   "last_success": 1785956553.950796,
    "alerted": false
   }
  },
@@ -25642,7 +25642,8 @@
   "company": "Riverside Research",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4449676298"
+   "https://www.linkedin.com/jobs/view/4449676298",
+   "https://www.linkedin.com/jobs/view/4449680212"
   ]
  },
  "62fc2ba63f6fbb4ec6b78ad26266a879": {
@@ -25760,6 +25761,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440956017"
+  ]
+ },
+ "dee9743c9dae66cb7040e5e76cdcb39e": {
+  "first_seen": 1785956553.9513912,
+  "title": "Stage Intelligence Artificielle & Transformation Digitale – H/F",
+  "company": "Devoteam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413542041"
+  ]
+ },
+ "0557aa58374bb57d4397e97fac6227ee": {
+  "first_seen": 1785956553.951447,
+  "title": "Careers",
+  "company": "LABCSMART",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449133850"
+  ]
+ },
+ "8b4c00b224a4c53b9e4dec44d4389c7c": {
+  "first_seen": 1785956553.9515173,
+  "title": "Développeur Logiciel Algorithmes des Systèmes d'Arme F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441201265"
   ]
  }
 }
