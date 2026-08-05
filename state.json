@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785943908.7237818,
+   "last_success": 1785945730.5881288,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785943908.7237873,
+   "last_success": 1785945730.588135,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785943922.4410248,
+   "last_success": 1785945744.870763,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785943922.441029,
+   "last_success": 1785945744.8707674,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785943922.4410307,
+   "last_success": 1785945744.8707688,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785943922.441032,
+   "last_success": 1785945744.8707702,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785943922.4410334,
+   "last_success": 1785945744.8707716,
    "alerted": false
   }
  },
@@ -23520,7 +23520,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4448518172",
    "https://www.linkedin.com/jobs/view/4448533245",
-   "https://www.linkedin.com/jobs/view/4447336718"
+   "https://www.linkedin.com/jobs/view/4447336718",
+   "https://www.linkedin.com/jobs/view/4449112957"
   ]
  },
  "e20fb5457aaf3b7c815c355e223aa0b7": {
@@ -25441,6 +25442,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449601141"
+  ]
+ },
+ "133dc86b6b95834984a5e989f30321f7": {
+  "first_seen": 1785945744.8714955,
+  "title": "Bachelor and Master projects",
+  "company": "Aquila Consortium",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449620788"
+  ]
+ },
+ "283c2f011985f4f0563137ffe105f8fa": {
+  "first_seen": 1785945744.871548,
+  "title": "Data Analyst / Cibleur Marketing – CRM H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440969774"
   ]
  }
 }
