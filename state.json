@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785952966.5122595,
+   "last_success": 1785954728.8008986,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785952966.5122657,
+   "last_success": 1785954728.8009045,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785952979.9412432,
+   "last_success": 1785954742.9258366,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785952979.9412477,
+   "last_success": 1785954742.925841,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785952979.9412498,
+   "last_success": 1785954742.925843,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785952979.9412513,
+   "last_success": 1785954742.9258442,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785952979.9412527,
+   "last_success": 1785954742.9258459,
    "alerted": false
   }
  },
@@ -25742,6 +25742,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446683349"
+  ]
+ },
+ "88470a6a12021072657f1b6b13dfa0b4": {
+  "first_seen": 1785954742.9265566,
+  "title": "AI Engineer - Freelance H/F",
+  "company": "Team.is",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449111752"
+  ]
+ },
+ "86522e5aa151c0a10bf8cc695c1b051e": {
+  "first_seen": 1785954742.9266016,
+  "title": "AI Ops PM Intern",
+  "company": "Skello",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440956017"
   ]
  }
 }
