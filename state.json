@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785960167.141052,
+   "last_success": 1785961951.0773704,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785960167.1410573,
+   "last_success": 1785961951.0773754,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785960182.7930796,
+   "last_success": 1785961964.8133333,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785960182.7930846,
+   "last_success": 1785961964.8133378,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785960182.7930865,
+   "last_success": 1785961964.8133397,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785960182.7930877,
+   "last_success": 1785961964.813341,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785960182.793089,
+   "last_success": 1785961964.8133428,
    "alerted": false
   }
  },
@@ -26005,6 +26005,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449902274"
+  ]
+ },
+ "f84388b7861a2c08a195d88ecbeacc15": {
+  "first_seen": 1785961964.813998,
+  "title": "Data Engineer (Detect & Track Distillation)",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449697393"
+  ]
+ },
+ "eb11e206c79139050acf419cc599ca7b": {
+  "first_seen": 1785961964.8142445,
+  "title": "Stage - Assistant(e) Chef de Projet Digital (H/F/X) - Mode – Janvier 2027",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449182876"
+  ]
+ },
+ "3244865aa3c9d3eaf943e43ca0a08850": {
+  "first_seen": 1785961964.8142607,
+  "title": "TRACKING ET WEBANALYTICS",
+  "company": "Societe Generale Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440246438"
   ]
  }
 }
