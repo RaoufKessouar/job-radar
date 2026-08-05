@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785931335.7200763,
+   "last_success": 1785933150.5382378,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785931335.7200835,
+   "last_success": 1785933150.5382438,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785931352.4568505,
+   "last_success": 1785933164.3137538,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785931352.456855,
+   "last_success": 1785933164.31376,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785931352.4568577,
+   "last_success": 1785933164.313762,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785931352.4568586,
+   "last_success": 1785933164.3137639,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785931352.4568598,
+   "last_success": 1785933164.3137653,
    "alerted": false
   }
  },
@@ -25015,6 +25015,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448598972"
+  ]
+ },
+ "439c467a13bfe71f993278e1899e0cc2": {
+  "first_seen": 1785933164.3145194,
+  "title": "Data scientist ou prompt engineer",
+  "company": "JobEgo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448994862"
+  ]
+ },
+ "9862d2e4bfe1c710d10957731b6a5048": {
+  "first_seen": 1785933164.314602,
+  "title": "AI Engineer, Product",
+  "company": "SignalAI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447399424"
+  ]
+ },
+ "e26319cbaae890ca23af24d77e9ed7ea": {
+  "first_seen": 1785933164.314632,
+  "title": "Applied AI Engineer, Prototyping",
+  "company": "SignalAI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447394626"
+  ]
+ },
+ "edf731ca076f56cdbb1f834bf4e0ca08": {
+  "first_seen": 1785933164.3147411,
+  "title": "Product Manager- AI-Native Digital Studio, Paris",
+  "company": "JobEgo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449107058"
+  ]
+ },
+ "64dedaf804c72247a596c3268fd4a4e1": {
+  "first_seen": 1785933164.3147535,
+  "title": "Ingénieur.e études et développement Python",
+  "company": "Ossia Portugal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448992643"
   ]
  }
 }
