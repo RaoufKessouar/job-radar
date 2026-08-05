@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785907948.7610455,
+   "last_success": 1785909758.3071833,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785907948.7610524,
+   "last_success": 1785909758.3071897,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785907965.953562,
+   "last_success": 1785909772.3410735,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785907965.9535673,
+   "last_success": 1785909772.3410788,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785907965.953569,
+   "last_success": 1785909772.341081,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785907965.9535701,
+   "last_success": 1785909772.341082,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785907965.9535713,
+   "last_success": 1785909772.3410838,
    "alerted": false
   }
  },
@@ -11882,7 +11882,6 @@
   "company": "Kickmaker",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444815736",
    "https://www.linkedin.com/jobs/view/4444872303",
    "https://www.linkedin.com/jobs/view/4445433912",
    "https://www.linkedin.com/jobs/view/4446015587",
@@ -11891,7 +11890,8 @@
    "https://www.linkedin.com/jobs/view/4447441254",
    "https://www.linkedin.com/jobs/view/4447624727",
    "https://www.linkedin.com/jobs/view/4447694293",
-   "https://www.linkedin.com/jobs/view/4448805648"
+   "https://www.linkedin.com/jobs/view/4448805648",
+   "https://www.linkedin.com/jobs/view/4448932399"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -24467,6 +24467,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447304144"
+  ]
+ },
+ "518401a00823a3d82c7dfaa0e309d673": {
+  "first_seen": 1785909772.341806,
+  "title": "ALTERNANT DATA ANALYST",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448914381"
+  ]
+ },
+ "29e1ab804e6eb838fbc2e60f37b56f59": {
+  "first_seen": 1785909772.341959,
+  "title": "Embedded Systems Engineer",
+  "company": "OPUS Aerospace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449082110"
+  ]
+ },
+ "cd66fd182f7ea107d5d2d222f9bf50f5": {
+  "first_seen": 1785909772.3419666,
+  "title": "SOFTWARE ENGINEER",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448910480"
   ]
  }
 }
