@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785949344.118146,
+   "last_success": 1785951146.7348218,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785949344.1181524,
+   "last_success": 1785951146.734827,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785949361.6992936,
+   "last_success": 1785951161.0463405,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785949361.6992986,
+   "last_success": 1785951161.0463448,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785949361.6993,
+   "last_success": 1785951161.0463467,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785949361.6993017,
+   "last_success": 1785951161.046348,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785949361.699303,
+   "last_success": 1785951161.0463493,
    "alerted": false
   }
  },
@@ -15402,7 +15402,8 @@
    "https://www.linkedin.com/jobs/view/4444506991",
    "https://www.linkedin.com/jobs/view/4445568780",
    "https://www.linkedin.com/jobs/view/4445830759",
-   "https://www.linkedin.com/jobs/view/4445867318"
+   "https://www.linkedin.com/jobs/view/4445867318",
+   "https://www.linkedin.com/jobs/view/4447346310"
   ]
  },
  "532f5a62d4637816820f666d783bf2bf": {
@@ -25543,6 +25544,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448055384"
+  ]
+ },
+ "32687f24fce8b0896266884cd9660ff9": {
+  "first_seen": 1785951161.0472252,
+  "title": "Ingénieur.e Hardware/Système",
+  "company": "Theraclion",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448993007"
+  ]
+ },
+ "7220625acb6f0d083a68ee8616a83a0b": {
+  "first_seen": 1785951161.0472338,
+  "title": "Senior Software Engineer & Architect",
+  "company": "Gama",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449654501"
   ]
  }
 }
