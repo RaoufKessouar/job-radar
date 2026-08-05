@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785911529.0546527,
+   "last_success": 1785913358.1314874,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785911529.0546587,
+   "last_success": 1785913358.1314933,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785911542.0909505,
+   "last_success": 1785913373.1205459,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785911542.0909555,
+   "last_success": 1785913373.1205509,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785911542.0909574,
+   "last_success": 1785913373.1205528,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785911542.0909593,
+   "last_success": 1785913373.120554,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785911542.090961,
+   "last_success": 1785913373.1205554,
    "alerted": false
   }
  },
@@ -24540,6 +24540,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448923312"
+  ]
+ },
+ "a0fc0193c71b6dc8756f61190d04f0cd": {
+  "first_seen": 1785913373.1216018,
+  "title": "Head of Data - BeReal",
+  "company": "BeReal.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449040524"
+  ]
+ },
+ "08ffa38714ac1be08b8949ff4101b629": {
+  "first_seen": 1785913373.121613,
+  "title": "Codeur sas /Sata Analyst sas /Analyst de données sas",
+  "company": "RIDCHA DATA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449059979"
   ]
  }
 }
