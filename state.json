@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785938535.846054,
+   "last_success": 1785940343.888885,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785938535.8460598,
+   "last_success": 1785940343.8888917,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785938552.3564363,
+   "last_success": 1785940358.4123101,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785938552.3564413,
+   "last_success": 1785940358.4123147,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785938552.356443,
+   "last_success": 1785940358.4123178,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785938552.3564444,
+   "last_success": 1785940358.4123192,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785938552.356446,
+   "last_success": 1785940358.4123206,
    "alerted": false
   }
  },
@@ -25340,6 +25340,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449106524"
+  ]
+ },
+ "99bab70db03bf7e298ceb3b7c9845ea6": {
+  "first_seen": 1785940358.4132214,
+  "title": "PhD projects",
+  "company": "Aquila Consortium",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449626721"
   ]
  }
 }
