@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785927759.025061,
+   "last_success": 1785929563.4728353,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785927759.0250669,
+   "last_success": 1785929563.4728413,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785927774.397555,
+   "last_success": 1785929583.1160376,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785927774.3975601,
+   "last_success": 1785929583.1160426,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785927774.3975618,
+   "last_success": 1785929583.1160443,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785927774.3975632,
+   "last_success": 1785929583.1160457,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785927774.3975646,
+   "last_success": 1785929583.1160471,
    "alerted": false
   }
  },
@@ -23967,7 +23967,8 @@
   "company": "VINCI Concessions",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448884835"
+   "https://www.linkedin.com/jobs/view/4448884835",
+   "https://www.linkedin.com/jobs/view/4449417259"
   ]
  },
  "29d61f06cd3405521d4c31923922cae1": {
@@ -24897,6 +24898,123 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449476490"
+  ]
+ },
+ "1656240820196a0196c56e54d46c271b": {
+  "first_seen": 1785929583.116972,
+  "title": "Consultant(e) Data (Tableau & Finance de Marché)",
+  "company": "ACCELITE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442123191"
+  ]
+ },
+ "3d8cc9ceb4f432b0286d356103894b3f": {
+  "first_seen": 1785929583.1169808,
+  "title": "Tracking & Analytics specialist",
+  "company": "Optimize matter",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449463723"
+  ]
+ },
+ "7d63c5b0cae6ef2999cf5a7a0cf2685c": {
+  "first_seen": 1785929583.1169877,
+  "title": "Product Owner Data F/H",
+  "company": "Lutessa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446838237"
+  ]
+ },
+ "48c91dd4c4411fc213e24638a6549fd1": {
+  "first_seen": 1785929583.1170027,
+  "title": "Stagiaire école (F/H)",
+  "company": "CIC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449101203"
+  ]
+ },
+ "0a9e50a62d24fcb71c3796d8a9908b1b": {
+  "first_seen": 1785929583.11701,
+  "title": "Chef de projet Satisfaction Clients NPS CSAT - H/F",
+  "company": "Monoprix",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448526540"
+  ]
+ },
+ "8a2addefb08a30bb079d40931e4f501d": {
+  "first_seen": 1785929583.1170185,
+  "title": "Product Manager - Data & Digital Transformation",
+  "company": "Wivoo, a Wavestone Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410533983"
+  ]
+ },
+ "8ba90b5bd18792f515aa38423a004b22": {
+  "first_seen": 1785929583.1170273,
+  "title": "Chargé des Outils Applicatifs et data F/H/X",
+  "company": "BUT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448876562"
+  ]
+ },
+ "413328a9d66eae2d14b6edbd55806ffa": {
+  "first_seen": 1785929583.1171749,
+  "title": "Marketing AI Program Manager (W/M/X)",
+  "company": "Bel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438044987"
+  ]
+ },
+ "135d3280f30d58f3987a01e392a16b4f": {
+  "first_seen": 1785929583.1171818,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Corbett MD",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447378040"
+  ]
+ },
+ "68592ced775546d066a5b4391dbf0ccf": {
+  "first_seen": 1785929583.117203,
+  "title": "Associate - McKinsey Tech & AI",
+  "company": "McKinsey & Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/2580426498"
+  ]
+ },
+ "212615aaec87f3325c4f4ad34321597f": {
+  "first_seen": 1785929583.1172097,
+  "title": "Innovation project intern F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449045838"
+  ]
+ },
+ "08b032df2f0956a6326b4719eab8fbcf": {
+  "first_seen": 1785929583.1172233,
+  "title": "Data engineer sénior F/H",
+  "company": "Artelys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447380039"
+  ]
+ },
+ "1f22e8f7e9309ec95daed1db65ac3241": {
+  "first_seen": 1785929583.1172307,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Teknostra Engineering Pvt. Ltd.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448598972"
   ]
  }
 }
