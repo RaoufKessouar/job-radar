@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785933150.5382378,
+   "last_success": 1785934480.384703,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785933150.5382438,
+   "last_success": 1785934480.384709,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785933164.3137538,
+   "last_success": 1785934497.1780722,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785933164.31376,
+   "last_success": 1785934497.1780777,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785933164.313762,
+   "last_success": 1785934497.1780791,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785933164.3137639,
+   "last_success": 1785934497.1780808,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785933164.3137653,
+   "last_success": 1785934497.1780825,
    "alerted": false
   }
  },
@@ -25060,6 +25060,150 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448992643"
+  ]
+ },
+ "337feff08f932d968d6b76d8cc24fce8": {
+  "first_seen": 1785934497.178959,
+  "title": "Software Engineer, New Grad",
+  "company": "SignalAI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448002333"
+  ]
+ },
+ "53a2b2f2396e0a9df3f8bd64dea8c7a0": {
+  "first_seen": 1785934497.178969,
+  "title": "Ingénieur Intégration & Validation Logiciel f/h",
+  "company": "Siemens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412363506"
+  ]
+ },
+ "8ba8fec0b001524b899f61fd5b9eca0e": {
+  "first_seen": 1785934497.1789844,
+  "title": "Ingénieur Logiciel Simulation Virtuelle C++ UNREAL F/H",
+  "company": "KNDS France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446633967"
+  ]
+ },
+ "265e0e4ed78f3d285e65b9c3139a37d7": {
+  "first_seen": 1785934497.1789916,
+  "title": "SOFTWARE ENGINEER",
+  "company": "Nexen GridTech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448955742"
+  ]
+ },
+ "9b0ac8c6a90488e738c8ce7ee441c8b9": {
+  "first_seen": 1785934497.1790006,
+  "title": "Ingénieur.e études et développement C++",
+  "company": "Ossia Portugal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448594076"
+  ]
+ },
+ "b29fc489a13cacb3ef016f7a9ddd58f5": {
+  "first_seen": 1785934497.1790185,
+  "title": "Software Engineer - Python/ Rust",
+  "company": "Qube Research & Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446596212"
+  ]
+ },
+ "be43bfca7ef6b46eaedb0e12c09ffa83": {
+  "first_seen": 1785934497.1790252,
+  "title": "Développeur Full Stack",
+  "company": "Sidely",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449488850"
+  ]
+ },
+ "175b02dd43fda14eca503b7f24ff0753": {
+  "first_seen": 1785934497.179033,
+  "title": "Ingénieur(e) Équipement et Systèmes GNSS F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448891412"
+  ]
+ },
+ "4135fe5e126e2ffeee98b439450d4e26": {
+  "first_seen": 1785934497.179042,
+  "title": "Ingénieur Développement Système Electrique et Contrôle H/F",
+  "company": "GE Vernova",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440098140"
+  ]
+ },
+ "cb2bc1a1e35d8117144cd2d3080cd865": {
+  "first_seen": 1785934497.1790495,
+  "title": "Cybersecurity Offensive Analyst",
+  "company": "IDEMIA Public Security",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448530379"
+  ]
+ },
+ "c7ab07955776c1b7f87c761a1a254618": {
+  "first_seen": 1785934497.1790564,
+  "title": "CDI Architecte Yocto (H/F)",
+  "company": "Spherea Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446656045"
+  ]
+ },
+ "441472cf026f8fcd8d4641b27b250c53": {
+  "first_seen": 1785934497.179069,
+  "title": "Junior Frontend Developer",
+  "company": "Odaseva",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448964495"
+  ]
+ },
+ "4255972ce3b3185f862bec72ead046bb": {
+  "first_seen": 1785934497.1790774,
+  "title": "Développeur Algo Trading - Bonds H/F",
+  "company": "Crédit Agricole CIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4415368808"
+  ]
+ },
+ "374dbdf14850c455e5093955a6d6ded8": {
+  "first_seen": 1785934497.179098,
+  "title": "Software Safety Manager",
+  "company": "Hashlist",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448997057"
+  ]
+ },
+ "84712c83f0c2d83afacb4ae48c4b5974": {
+  "first_seen": 1785934497.1791093,
+  "title": "Ingénieur de Recherche – Automaticien/Électronicien (H/F) (F/H)",
+  "company": "MS MIRIS | Mines Paris - PSL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447350099"
+  ]
+ },
+ "982d2b5153755db33ba7d650f8952490": {
+  "first_seen": 1785934497.1791182,
+  "title": "Stagiaire : Transformation Digitale / IA Générative & Assistants",
+  "company": "LISI AEROSPACE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4406142853"
   ]
  }
 }
