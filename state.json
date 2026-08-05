@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785945730.5881288,
+   "last_success": 1785947544.8268454,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785945730.588135,
+   "last_success": 1785947544.8268514,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785945744.870763,
+   "last_success": 1785947560.9222496,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785945744.8707674,
+   "last_success": 1785947560.9222543,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785945744.8707688,
+   "last_success": 1785947560.9222562,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785945744.8707702,
+   "last_success": 1785947560.9222577,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785945744.8707716,
+   "last_success": 1785947560.922259,
    "alerted": false
   }
  },
@@ -24730,7 +24730,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449453134",
-   "https://www.linkedin.com/jobs/view/4449447522"
+   "https://www.linkedin.com/jobs/view/4449447522",
+   "https://www.linkedin.com/jobs/view/4449436989"
   ]
  },
  "5916ab679c2a252e45f5d2224673d5d0": {
@@ -25460,6 +25461,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440969774"
+  ]
+ },
+ "757935ffde28114e1fb385bbb78880b7": {
+  "first_seen": 1785947560.9232879,
+  "title": "AI Engineer H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440973597"
+  ]
+ },
+ "8d4a4156b20d7070d22756a7df9eade0": {
+  "first_seen": 1785947560.9233453,
+  "title": "Software Engineer Intern - Crossbeam Ventures (M/F/X)",
+  "company": "Crossbeam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434668263"
+  ]
+ },
+ "4090d1adf67345209ee99229fd21eeff": {
+  "first_seen": 1785947560.9233534,
+  "title": "GenAI Engineer",
+  "company": "SFEIR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4326775827"
+  ]
+ },
+ "5894b87bd6184d04bd80a4a3ca8e316e": {
+  "first_seen": 1785947560.9235246,
+  "title": "Ingénieur Automatisation F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449044939"
+  ]
+ },
+ "b6956c88fb07427209cb81f9ab5b99ca": {
+  "first_seen": 1785947560.9235818,
+  "title": "Alternance Ingénieur Produit Onduleur H/F",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431754329"
+  ]
+ },
+ "d924c02429a486d4931c1ad6e74c8af2": {
+  "first_seen": 1785947560.9235928,
+  "title": "Développeur Python / Angular Junior – IA & Automatisation",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448022850"
+  ]
+ },
+ "fa614c9214ca44b2cfba2d916a0a64f7": {
+  "first_seen": 1785947560.9236004,
+  "title": "Electronic Engineer (M/F)",
+  "company": "ThrustMe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449010356"
+  ]
+ },
+ "6efcc826b9aee52a3933f040684d8215": {
+  "first_seen": 1785947560.923612,
+  "title": "Ingénieur(e) Essai et Mise en Service des installations de signalisation ferroviaire",
+  "company": "Alstom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446692006"
   ]
  }
 }
