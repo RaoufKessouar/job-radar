@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785920548.3693476,
+   "last_success": 1785922328.6078455,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785920548.3693535,
+   "last_success": 1785922328.6078515,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785920563.05152,
+   "last_success": 1785922344.0510972,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785920563.0515254,
+   "last_success": 1785922344.0511038,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785920563.0515273,
+   "last_success": 1785922344.0511055,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785920563.051529,
+   "last_success": 1785922344.0511072,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785920563.0515306,
+   "last_success": 1785922344.0511086,
    "alerted": false
   }
  },
@@ -24675,6 +24675,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449442950"
+  ]
+ },
+ "efa2f4e7ed67d540a971fa5739d1db18": {
+  "first_seen": 1785922344.0517566,
+  "title": "Machine Learning Engineer, Power Forecasts",
+  "company": "Kpler",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449452860"
+  ]
+ },
+ "e414a00ea4db3aec85034dce99720e7d": {
+  "first_seen": 1785922344.0518143,
+  "title": "AP26 - BAC+5 - Data Analyst (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449100179"
+  ]
+ },
+ "56074a6e68390468ed36a14348c8c528": {
+  "first_seen": 1785922344.0518708,
+  "title": "Junior AI practitioner",
+  "company": "Unlimitail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448972663"
   ]
  }
 }
