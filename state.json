@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785934964.052383,
+   "last_success": 1785936779.0613303,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785934964.0523887,
+   "last_success": 1785936779.061336,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785934978.2345665,
+   "last_success": 1785936793.7675502,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785934978.2345715,
+   "last_success": 1785936793.7675548,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785934978.2345731,
+   "last_success": 1785936793.7675567,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785934978.2345743,
+   "last_success": 1785936793.7675588,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785934978.2345755,
+   "last_success": 1785936793.7675602,
    "alerted": false
   }
  },
@@ -25204,6 +25204,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4406142853"
+  ]
+ },
+ "98d71c6ee668192edfb315bf68f3679a": {
+  "first_seen": 1785936793.7684832,
+  "title": "CTO H/F",
+  "company": "Team.is",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439142765"
+  ]
+ },
+ "88769163abf49688ba11f1293939d8f5": {
+  "first_seen": 1785936793.7685578,
+  "title": "STAGE - Business Analyst, Market access Europe, Trading Power H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449482124"
+  ]
+ },
+ "c0c1d1b18dc52639642266e0bc9951b2": {
+  "first_seen": 1785936793.7685845,
+  "title": "Stage ou Alternance - Assistant(e) RH Généraliste - Septembre 2026",
+  "company": "Guerlain",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449006576"
+  ]
+ },
+ "5030868cb6e4d1a5ac1d8ea90778978b": {
+  "first_seen": 1785936793.7689033,
+  "title": "Senior Generalist Programmer (H/F/NB)",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419260137"
+  ]
+ },
+ "e4c9860c539a33d97c4d0dcd5440c405": {
+  "first_seen": 1785936793.7689142,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "SONAR 360 | Estratégia com Precisão",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449041038"
+  ]
+ },
+ "383724b52a57a12f6e2d926b42c3b06f": {
+  "first_seen": 1785936793.7689242,
+  "title": "PILOTE ESSAIS ELECTROMAGNETISME SUR MACHINE ELECTRIQUE H/F",
+  "company": "Emitech Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446655284"
+  ]
+ },
+ "60fa981a9058617f88cfb2212f8805b2": {
+  "first_seen": 1785936793.7689333,
+  "title": "Développeur mobile React Native",
+  "company": "Milango.io",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448956946"
+  ]
+ },
+ "ae3cecfc7d51c64932121e0b4fcdc014": {
+  "first_seen": 1785936793.7689445,
+  "title": "Ingénieur conception bancs de tests (LabVIEW) – Paris (H/F)",
+  "company": "IT-Hive consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447343138"
+  ]
+ },
+ "d200e2b703c6d78a650bc8f19cb6e7a0": {
+  "first_seen": 1785936793.7689524,
+  "title": "INGENIEUR ELECTRICITE AUTOMATISME (H/F)",
+  "company": "SUEZ",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4062592062"
+  ]
+ },
+ "b85e046d2070ae89f8e23305d6d2e33e": {
+  "first_seen": 1785936793.7689624,
+  "title": "Technicien.ne de maintenance industriel (Le Plessis Pâté)",
+  "company": "Exotec",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448991552"
   ]
  }
 }
