@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785922328.6078455,
+   "last_success": 1785924191.074494,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785922328.6078515,
+   "last_success": 1785924191.0745,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785922344.0510972,
+   "last_success": 1785924206.8607476,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785922344.0511038,
+   "last_success": 1785924206.8607528,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785922344.0511055,
+   "last_success": 1785924206.8607547,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785922344.0511072,
+   "last_success": 1785924206.860756,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785922344.0511086,
+   "last_success": 1785924206.8607576,
    "alerted": false
   }
  },
@@ -12680,7 +12680,8 @@
    "https://www.linkedin.com/jobs/view/4445801128",
    "https://www.linkedin.com/jobs/view/4445840192",
    "https://www.linkedin.com/jobs/view/4445888057",
-   "https://www.linkedin.com/jobs/view/4446620303"
+   "https://www.linkedin.com/jobs/view/4446620303",
+   "https://www.linkedin.com/jobs/view/4447381352"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -24702,6 +24703,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448972663"
+  ]
+ },
+ "c0939ee02ed1eb3b7ef064eb8b4b989b": {
+  "first_seen": 1785924206.8614464,
+  "title": "ESG Data Analyst Intern",
+  "company": "Apiday",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449462527"
+  ]
+ },
+ "0f063d9f9c0d040b460052a42a129933": {
+  "first_seen": 1785924206.8614824,
+  "title": "About the research centre or Inria department",
+  "company": "paca-dev",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449453134"
+  ]
+ },
+ "5916ab679c2a252e45f5d2224673d5d0": {
+  "first_seen": 1785924206.8615067,
+  "title": "Data Analyst",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448995271"
+  ]
+ },
+ "73b23b32e1ed4729f14248b37e01bc14": {
+  "first_seen": 1785924206.861733,
+  "title": "Product Owner / Product Manager IA (H/F)",
+  "company": "Monsieur Guiz | Product Management & Design",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4381288940"
+  ]
+ },
+ "06002c0c3e91a4ef967525d017c81a44": {
+  "first_seen": 1785924206.8617437,
+  "title": "Consultant(e) senior secteur finance Projets Intelligence Artificielle Paris (Étoile)",
+  "company": "Addventa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448950329"
+  ]
+ },
+ "edeaa0d202fec8e028cd74c7a1a4364a": {
+  "first_seen": 1785924206.8617766,
+  "title": "Solutions Architect, Graduate Program",
+  "company": "NVIDIA AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447380459"
+  ]
+ },
+ "64d9b7ec9e20f6cb3ac464cefb589bcc": {
+  "first_seen": 1785924206.861843,
+  "title": "Ingénieur Développement logiciel embarqué - SDR F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447377643"
   ]
  }
 }
