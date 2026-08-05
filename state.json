@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785906159.851952,
+   "last_success": 1785907948.7610455,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785906159.8519585,
+   "last_success": 1785907948.7610524,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785906175.3581636,
+   "last_success": 1785907965.953562,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785906175.3581684,
+   "last_success": 1785907965.9535673,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785906175.3581693,
+   "last_success": 1785907965.953569,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785906175.3581705,
+   "last_success": 1785907965.9535701,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785906175.3581717,
+   "last_success": 1785907965.9535713,
    "alerted": false
   }
  },
@@ -23511,7 +23511,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448518172",
-   "https://www.linkedin.com/jobs/view/4448533245"
+   "https://www.linkedin.com/jobs/view/4448533245",
+   "https://www.linkedin.com/jobs/view/4447336718"
   ]
  },
  "e20fb5457aaf3b7c815c355e223aa0b7": {
@@ -24439,6 +24440,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448912528"
+  ]
+ },
+ "7ca53f28cb5e138e0ee3418694fafe38": {
+  "first_seen": 1785907965.9542694,
+  "title": "ALTERNANCE 12 MOIS - À PARTIR DE SEPTEMBRE 2026 - APPRENTICE - HR PROXY PRODUCT OWNER (ANALYTICS, AI & MASTER DATA) - MA",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448927277"
+  ]
+ },
+ "f951b78cf0b1f4fe3431be71fcc39b9a": {
+  "first_seen": 1785907965.9542937,
+  "title": "STAGE- Assistant Master Data F/H/NB - SEPTEMBRE 2026",
+  "company": "Maison Francis Kurkdjian",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449091656"
+  ]
+ },
+ "dfbee6501d4c4400a4a0b521758910ef": {
+  "first_seen": 1785907965.954323,
+  "title": "Alternant(e) Business Analyst (H/F)",
+  "company": "SUBSTIPHARM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447304144"
   ]
  }
 }
