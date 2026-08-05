@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785918729.6668723,
+   "last_success": 1785919095.09425,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785918729.6668785,
+   "last_success": 1785919095.0942562,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785918743.611525,
+   "last_success": 1785919111.5039423,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785918743.6115296,
+   "last_success": 1785919111.5039463,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785918743.6115313,
+   "last_success": 1785919111.5039477,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785918743.6115327,
+   "last_success": 1785919111.5039492,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785918743.611534,
+   "last_success": 1785919111.5039504,
    "alerted": false
   }
  },
@@ -24621,6 +24621,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448972663"
+  ]
+ },
+ "15b1ded75d643bac0ea16ea9bf3eca3a": {
+  "first_seen": 1785919111.504646,
+  "title": "Lead Data Scientist F/H",
+  "company": "celio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449457460"
+  ]
+ },
+ "330e93680be66d7f36bf620a75227e51": {
+  "first_seen": 1785919111.5048738,
+  "title": "Technical Lead IA Appliquée / Forward Deployed AI Engineer",
+  "company": "DeepRec.ai",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442596468"
+  ]
+ },
+ "ac62a4f22ddb62e5676f102866f81dbb": {
+  "first_seen": 1785919111.5050533,
+  "title": "LEAD AERIAL ROBOTICS ENGINEER",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448916392"
+  ]
+ },
+ "f86dcf3290c97b95fda092a9eebd5100": {
+  "first_seen": 1785919111.5050864,
+  "title": "Ingénieur(e) Algorithmes de Navigation Spatiale F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449030115"
+  ]
+ },
+ "1bfcff257fa198c9262b57587bc6e3e0": {
+  "first_seen": 1785919111.5050976,
+  "title": "Ingénieur Guidage Navigation Contrôle aérospatial H/F",
+  "company": "Sirius Space Services",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447361874"
+  ]
+ },
+ "248e6a5df452813ceb072d4ac403a21f": {
+  "first_seen": 1785919111.5051062,
+  "title": "DÉTAILS",
+  "company": "paca-dev",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449442950"
   ]
  }
 }
