@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785913358.1314874,
+   "last_success": 1785915156.1021993,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785913358.1314933,
+   "last_success": 1785915156.1022046,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785913373.1205459,
+   "last_success": 1785915170.5494099,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785913373.1205509,
+   "last_success": 1785915170.5494146,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785913373.1205528,
+   "last_success": 1785915170.5494163,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785913373.120554,
+   "last_success": 1785915170.5494177,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785913373.1205554,
+   "last_success": 1785915170.549419,
    "alerted": false
   }
  },
@@ -24558,6 +24558,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449059979"
+  ]
+ },
+ "8144e7622fb8f23a99ae46233999a9de": {
+  "first_seen": 1785915170.5503366,
+  "title": "Machine Learning Engineer",
+  "company": "BAO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448956806"
+  ]
+ },
+ "bd24bbd719737d714dbf04242b90e0d1": {
+  "first_seen": 1785915170.550353,
+  "title": "Data Scientist - dataTV - Paris H/F",
+  "company": "Groupe iliad",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448968666"
+  ]
+ },
+ "1111d58a78e0e3dcaa8d3d314490d012": {
+  "first_seen": 1785915170.550368,
+  "title": "Engineering Intern — Fall 2026",
+  "company": "Naftiko",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448923616"
+  ]
+ },
+ "cfbfe0b591ab3adf6fc7cbf3a27eaab9": {
+  "first_seen": 1785915170.5503829,
+  "title": "Operation Specialist - Internship or Apprenticeship (F/H)",
+  "company": "Veesion",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439237439"
+  ]
+ },
+ "a786c23d226b331fe925340cbed04c2b": {
+  "first_seen": 1785915170.550397,
+  "title": "Member of Technical Staff",
+  "company": "BAO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448965541"
   ]
  }
 }
