@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785936779.0613303,
+   "last_success": 1785938535.846054,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785936779.061336,
+   "last_success": 1785938535.8460598,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785936793.7675502,
+   "last_success": 1785938552.3564363,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785936793.7675548,
+   "last_success": 1785938552.3564413,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785936793.7675567,
+   "last_success": 1785938552.356443,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785936793.7675588,
+   "last_success": 1785938552.3564444,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785936793.7675602,
+   "last_success": 1785938552.356446,
    "alerted": false
   }
  },
@@ -11676,7 +11676,8 @@
   "company": "Thales",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444418704"
+   "https://www.linkedin.com/jobs/view/4444418704",
+   "https://www.linkedin.com/jobs/view/4391768546"
   ]
  },
  "428b15a959fb9809ead995b945b57449": {
@@ -25294,6 +25295,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448991552"
+  ]
+ },
+ "76a59fbc7ef0eb41aa891db56f885733": {
+  "first_seen": 1785938552.3570063,
+  "title": "Event Marketing Intern (Janvier 2027)",
+  "company": "CybelAngel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449611119"
+  ]
+ },
+ "a14edf17e7f62543fa27480228847871": {
+  "first_seen": 1785938552.3570855,
+  "title": "Software Engineer (R&D Hardware Tooling)",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432404023"
+  ]
+ },
+ "266255d47a8fda21cbe7f62937cc0703": {
+  "first_seen": 1785938552.3571644,
+  "title": "Software Engineer - Visualization",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432293855"
+  ]
+ },
+ "58ae9181b46a7c1f9e82910e999b1527": {
+  "first_seen": 1785938552.3571804,
+  "title": "INGENIEUR INTEGRATION LOGICIEL DE CONTRÔLE H/F",
+  "company": "Emitech Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448015543"
+  ]
+ },
+ "13030c662e657c50c4f8f529b4cce6e6": {
+  "first_seen": 1785938552.357213,
+  "title": "Ingénieur Domotique & Smart Home",
+  "company": "GazelTech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449106524"
   ]
  }
 }
