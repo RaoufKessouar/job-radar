@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785947544.8268454,
+   "last_success": 1785949344.118146,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785947544.8268514,
+   "last_success": 1785949344.1181524,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785947560.9222496,
+   "last_success": 1785949361.6992936,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785947560.9222543,
+   "last_success": 1785949361.6992986,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785947560.9222562,
+   "last_success": 1785949361.6993,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785947560.9222577,
+   "last_success": 1785949361.6993017,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785947560.922259,
+   "last_success": 1785949361.699303,
    "alerted": false
   }
  },
@@ -13507,7 +13507,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445968983",
-   "https://www.linkedin.com/jobs/view/4440067504"
+   "https://www.linkedin.com/jobs/view/4440067504",
+   "https://www.linkedin.com/jobs/view/4412908935"
   ]
  },
  "09ec9fa8b36fed7ba72c3baee30822da": {
@@ -25533,6 +25534,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4446692006"
+  ]
+ },
+ "ccffdca3ef625ffcfd69d417ca837c4b": {
+  "first_seen": 1785949361.6997766,
+  "title": "Développeur Python - Data & BI",
+  "company": "Gemmyo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448055384"
   ]
  }
 }
