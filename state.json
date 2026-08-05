@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785924191.074494,
+   "last_success": 1785925967.4758036,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785924191.0745,
+   "last_success": 1785925967.4758103,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785924206.8607476,
+   "last_success": 1785925982.3243217,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785924206.8607528,
+   "last_success": 1785925982.3243268,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785924206.8607547,
+   "last_success": 1785925982.3243284,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785924206.860756,
+   "last_success": 1785925982.3243303,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785924206.8607576,
+   "last_success": 1785925982.3243315,
    "alerted": false
   }
  },
@@ -24675,7 +24675,8 @@
   "company": "paca-dev",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4449442950"
+   "https://www.linkedin.com/jobs/view/4449442950",
+   "https://www.linkedin.com/jobs/view/4449463040"
   ]
  },
  "efa2f4e7ed67d540a971fa5739d1db18": {
@@ -24720,7 +24721,8 @@
   "company": "paca-dev",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4449453134"
+   "https://www.linkedin.com/jobs/view/4449453134",
+   "https://www.linkedin.com/jobs/view/4449447522"
   ]
  },
  "5916ab679c2a252e45f5d2224673d5d0": {
@@ -24766,6 +24768,114 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447377643"
+  ]
+ },
+ "99571764deeef234a2e231c624e95d95": {
+  "first_seen": 1785925982.3253276,
+  "title": "IT Quant / Analyste Quantitatif",
+  "company": "Capgemini",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449468433"
+  ]
+ },
+ "b43831559d97abbb859412ae39621a51": {
+  "first_seen": 1785925982.3253672,
+  "title": "CDD - Data Analyst - Hardware Components - F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449017054"
+  ]
+ },
+ "76bc227545307c71b47c54c85063a5cd": {
+  "first_seen": 1785925982.3253858,
+  "title": "Client Insights Data Analyst (F/H)",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432406350"
+  ]
+ },
+ "759c20c81d6a8ecd6e113cbd5ea76e30": {
+  "first_seen": 1785925982.3254478,
+  "title": "Data Engineer - Cloud GCP F/H",
+  "company": "Zenika",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4349587305"
+  ]
+ },
+ "f4043283a724fb3d6654d799c0856436": {
+  "first_seen": 1785925982.3254583,
+  "title": "STAGE - Assistant Coordinateur Retail, Performance et Data - JUILLET 2026 (H/F/NB)",
+  "company": "Maison Francis Kurkdjian",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4372905752"
+  ]
+ },
+ "23e45272ad9b10cfb5ed4e2965ef417b": {
+  "first_seen": 1785925982.3254647,
+  "title": "Media Analyst Consultant",
+  "company": "Wizaly",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446646353"
+  ]
+ },
+ "4ff234245f00b17a7056d6f2aa7659eb": {
+  "first_seen": 1785925982.325472,
+  "title": "Data Engineer GCP (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413465393"
+  ]
+ },
+ "ce21c7efba5ebd7763c35b5693c04879": {
+  "first_seen": 1785925982.3254802,
+  "title": "Data Analyst Adobe Campaign (H/F)",
+  "company": "Extia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448514652"
+  ]
+ },
+ "c694214b23b7f17f25bcd4539377c9fa": {
+  "first_seen": 1785925982.3254874,
+  "title": "Staff Research Scientist, Compiler Optimization",
+  "company": "Google",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448544285"
+  ]
+ },
+ "0cee5ce57bce1bad25a8d059d8a8c85c": {
+  "first_seen": 1785925982.325505,
+  "title": "CDI - Business Analyst (H/F)",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449451886"
+  ]
+ },
+ "497e0c72404e59cbe99d4eb8b488da54": {
+  "first_seen": 1785925982.3255181,
+  "title": "Ingénieur-e IA/ML pour simulation multiphysique et optimisation F/H - SAFRAN AIRCRAFT ENGINES FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448966177"
+  ]
+ },
+ "82abeb4db244e65528d5c4cd8efa4760": {
+  "first_seen": 1785925982.325617,
+  "title": "Consultant(e) Confirmé / Senior – Data Engineer / ML Engineer",
+  "company": "Square Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448990281"
   ]
  }
 }
