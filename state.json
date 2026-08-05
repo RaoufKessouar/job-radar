@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785925967.4758036,
+   "last_success": 1785927759.025061,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785925967.4758103,
+   "last_success": 1785927759.0250669,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785925982.3243217,
+   "last_success": 1785927774.397555,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785925982.3243268,
+   "last_success": 1785927774.3975601,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785925982.3243284,
+   "last_success": 1785927774.3975618,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785925982.3243303,
+   "last_success": 1785927774.3975632,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785925982.3243315,
+   "last_success": 1785927774.3975646,
    "alerted": false
   }
  },
@@ -11108,7 +11108,8 @@
   "company": "DxO Labs",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443760958"
+   "https://www.linkedin.com/jobs/view/4443760958",
+   "https://www.linkedin.com/jobs/view/4447379908"
   ]
  },
  "fa8507a32e793eaf0643847df3d55bac": {
@@ -14252,7 +14253,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4446039931",
    "https://www.linkedin.com/jobs/view/4447288679",
-   "https://www.linkedin.com/jobs/view/4447782688"
+   "https://www.linkedin.com/jobs/view/4447782688",
+   "https://www.linkedin.com/jobs/view/4449469862"
   ]
  },
  "8a47c276a9f6f63ad6f2bae851b14e2c": {
@@ -21857,7 +21859,8 @@
   "company": "Sundayy",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448171007"
+   "https://www.linkedin.com/jobs/view/4448171007",
+   "https://www.linkedin.com/jobs/view/4449478290"
   ]
  },
  "80e073dc2448114aa2ec6a69eaf51649": {
@@ -24876,6 +24879,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448990281"
+  ]
+ },
+ "b9b8d01e6193c1b3b46f4e72a979b075": {
+  "first_seen": 1785927774.398412,
+  "title": "Stage AMOA / Recette & Test - Projet Intelligence Artificielle (H/F)",
+  "company": "Groupe SII",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449486139"
+  ]
+ },
+ "a2956914857a6a25bbb6ef3ac8ff6d9d": {
+  "first_seen": 1785927774.3984427,
+  "title": "stage 6 mois – ingénierie logicielle native IA",
+  "company": "Sanofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449476490"
   ]
  }
 }
