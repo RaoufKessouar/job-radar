@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785958374.9166012,
+   "last_success": 1785960167.141052,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785958374.9166067,
+   "last_success": 1785960167.1410573,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785958388.311708,
+   "last_success": 1785960182.7930796,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785958388.3117127,
+   "last_success": 1785960182.7930846,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785958388.311714,
+   "last_success": 1785960182.7930865,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785958388.3117151,
+   "last_success": 1785960182.7930877,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785958388.3117168,
+   "last_success": 1785960182.793089,
    "alerted": false
   }
  },
@@ -22408,7 +22408,8 @@
   "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447968367"
+   "https://www.linkedin.com/jobs/view/4447968367",
+   "https://www.linkedin.com/jobs/view/4449109129"
   ]
  },
  "cd2e7b11d9416a4edc7ca168462d9a85": {
@@ -25914,6 +25915,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449139572"
+  ]
+ },
+ "3de287f3bef58e98837d3710c99ce83f": {
+  "first_seen": 1785960182.7938676,
+  "title": "Intern - Data Analyst",
+  "company": "Alpine Business Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449126325"
+  ]
+ },
+ "2a7f570c3e0820f21a99421fa1dfc128": {
+  "first_seen": 1785960182.7938845,
+  "title": "Applied Scientist / Research Engineer, AI4Engineering - EMEA",
+  "company": "SignalAI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448002289"
+  ]
+ },
+ "70adc8bdfa2b62d7391e1b47a7c9baeb": {
+  "first_seen": 1785960182.793892,
+  "title": "Senior Data Analyst - Growth",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449689977"
+  ]
+ },
+ "2c990706b5deabff883349162bafbfd8": {
+  "first_seen": 1785960182.7939312,
+  "title": "CDI - Data Engineer - H/F",
+  "company": "Mediaperformances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426954184"
+  ]
+ },
+ "8f27ed639e88a190411b0d761fec85cb": {
+  "first_seen": 1785960182.7939565,
+  "title": "Process Excellence Analyst - Paris - H/F",
+  "company": "Groupe iliad",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449119423"
+  ]
+ },
+ "26cf31a50aceaee46cd7a7c93f48fb65": {
+  "first_seen": 1785960182.793968,
+  "title": "Stage – Assistant.e Business Analyst Haute Joaillerie (F/H) – Septembre 2026",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449659943"
+  ]
+ },
+ "89300082f9d459550c7dcfe1e5ebf76f": {
+  "first_seen": 1785960182.7940276,
+  "title": "Junior Power Sector Analyst",
+  "company": "OECD - OCDE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449153220"
+  ]
+ },
+ "9f0a9b77b5a58394861f5aa401da1d2c": {
+  "first_seen": 1785960182.7940342,
+  "title": "Alternance - Data Analyst",
+  "company": "Ironhack",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449659336"
+  ]
+ },
+ "1809d5efe7dccb0198d89f8146e4c790": {
+  "first_seen": 1785960182.7941248,
+  "title": "ML Ops Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449902415"
+  ]
+ },
+ "9f81ae58b5abbf83744d2d865600a644": {
+  "first_seen": 1785960182.7941332,
+  "title": "Machine Learning Engineer - PRISM - Supply Chain (f/m/d)",
+  "company": "Decathlon Digital",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449902274"
   ]
  }
 }
