@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785909758.3071833,
+   "last_success": 1785911529.0546527,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785909758.3071897,
+   "last_success": 1785911529.0546587,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785909772.3410735,
+   "last_success": 1785911542.0909505,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785909772.3410788,
+   "last_success": 1785911542.0909555,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785909772.341081,
+   "last_success": 1785911542.0909574,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785909772.341082,
+   "last_success": 1785911542.0909593,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785909772.3410838,
+   "last_success": 1785911542.090961,
    "alerted": false
   }
  },
@@ -22173,7 +22173,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448155272",
-   "https://www.linkedin.com/jobs/view/4448831758"
+   "https://www.linkedin.com/jobs/view/4448831758",
+   "https://www.linkedin.com/jobs/view/4449407451"
   ]
  },
  "cf6f34b40469ae5071db9a1e46c8e986": {
@@ -24494,6 +24495,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448910480"
+  ]
+ },
+ "50f55376ccda460dc40158b864621525": {
+  "first_seen": 1785911542.091746,
+  "title": "STAGE 6 MOIS - À partir de janvier 2027 – Brand communication – Master 1/2 - 1700€/mois - Opportunités au sein des 4 Div",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448534236"
+  ]
+ },
+ "fded9135a502637dd277ff4d675ffe6d": {
+  "first_seen": 1785911542.0917559,
+  "title": "VP AI - THUNDERS.AI",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448926284"
+  ]
+ },
+ "cf11cbf1d7e8d0fcdfe16d69330c8304": {
+  "first_seen": 1785911542.0917633,
+  "title": "FORWARD DEPLOYED ENGINEER",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448913391"
+  ]
+ },
+ "e4fb50c7a9fdc18b0a469dc00e715382": {
+  "first_seen": 1785911542.09178,
+  "title": "Stage de fin d’études – Consultant Entreprise Transformation (H/F) – à Paris",
+  "company": "SILAMIR GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448956079"
+  ]
+ },
+ "4919775e1f395ca73ebc3834f4b9e02d": {
+  "first_seen": 1785911542.0917873,
+  "title": "PRODUCT MANAGER JUNIOR (STAGE) - JANVIER 2027",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448923312"
   ]
  }
 }
