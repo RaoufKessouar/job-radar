@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785875539.2498972,
+   "last_success": 1785906159.851952,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785875539.249904,
+   "last_success": 1785906159.8519585,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785875555.8612068,
+   "last_success": 1785906175.3581636,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785875555.8612115,
+   "last_success": 1785906175.3581684,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785875555.8612132,
+   "last_success": 1785906175.3581693,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785875555.861214,
+   "last_success": 1785906175.3581705,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785875555.8612156,
+   "last_success": 1785906175.3581717,
    "alerted": false
   }
  },
@@ -22933,7 +22933,8 @@
   "company": "VINCI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448609892"
+   "https://www.linkedin.com/jobs/view/4448609892",
+   "https://www.linkedin.com/jobs/view/4449042902"
   ]
  },
  "c5dec44b2f34f0e18766225c33069b6a": {
@@ -24357,6 +24358,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/3944163325"
+  ]
+ },
+ "1113928152fa8582767a0b46b6df0684": {
+  "first_seen": 1785906175.359125,
+  "title": "Consultant Data Scientist / GenAI Engineer H/F",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448597227"
+  ]
+ },
+ "b014081b50acce4ab88ea220f7f6c4b3": {
+  "first_seen": 1785906175.3591516,
+  "title": "Data Scientist Junior (F/M) F/H",
+  "company": "VINCI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449059009"
+  ]
+ },
+ "3242a80d805b596e4df2f876c2343e88": {
+  "first_seen": 1785906175.3591576,
+  "title": "Data Scientist (CDI) F/H",
+  "company": "EDF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447329586"
+  ]
+ },
+ "e3b0b0bcc2593d7ba9b9d800cc248710": {
+  "first_seen": 1785906175.3591816,
+  "title": "HOW WE HIRE",
+  "company": "SnapGeniX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447350288"
+  ]
+ },
+ "48cc21d04cbbacb0c4ff7a9003f31a34": {
+  "first_seen": 1785906175.3592093,
+  "title": "SOFTWARE ENGINEER INTERN",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448913388"
+  ]
+ },
+ "ca5a2ecbda9aa046737659c6933e21ed": {
+  "first_seen": 1785906175.3592567,
+  "title": "Offre de stage : Energy Analyst Intern",
+  "company": "Forsyt Energy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449063118"
+  ]
+ },
+ "1e6287c783d63308ec1606ba00d31202": {
+  "first_seen": 1785906175.359278,
+  "title": "Security Engineer - Apprenticeship (m/f/d)",
+  "company": "Deezer",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448925135"
+  ]
+ },
+ "f1ecb349c9fdf1ea609062e97758f941": {
+  "first_seen": 1785906175.3593016,
+  "title": "Back-end Engineer",
+  "company": "Ellis Claims",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449419356"
+  ]
+ },
+ "fbd5caf3ac2f5ec1cbed7bb3ff56c2f5": {
+  "first_seen": 1785906175.3593097,
+  "title": "SOFTWARE ENGINEER - STAGE DE FIN D'ÉTUDES",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448912528"
   ]
  }
 }
