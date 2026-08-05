@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785940343.888885,
+   "last_success": 1785942154.2010431,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785940343.8888917,
+   "last_success": 1785942154.2010493,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785940358.4123101,
+   "last_success": 1785942171.0112238,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785940358.4123147,
+   "last_success": 1785942171.0112276,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785940358.4123178,
+   "last_success": 1785942171.0112293,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785940358.4123192,
+   "last_success": 1785942171.0112302,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785940358.4123206,
+   "last_success": 1785942171.0112314,
    "alerted": false
   }
  },
@@ -15094,7 +15094,8 @@
   "company": "Kering",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447045077"
+   "https://www.linkedin.com/jobs/view/4447045077",
+   "https://www.linkedin.com/jobs/view/4449642686"
   ]
  },
  "4086289d281ab2e3e009bc09df627063": {
@@ -22141,7 +22142,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448146517",
-   "https://www.linkedin.com/jobs/view/4448829826"
+   "https://www.linkedin.com/jobs/view/4448829826",
+   "https://www.linkedin.com/jobs/view/4449416244"
   ]
  },
  "6f5bff7b443eb56a1609aa7b5b146082": {
@@ -25349,6 +25351,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449626721"
+  ]
+ },
+ "a22b5f74c42fd9996d96175136ba880c": {
+  "first_seen": 1785942171.0116227,
+  "title": "STAGE - ASSISTANT CREATION VISUELLE & COMMUNICATION (H/F)",
+  "company": "PM Studio Paris",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/edition-limitee/jobs/stage-assistant-creation-visuelle-communication-h-f_paris"
+  ]
+ },
+ "2e72740860275e2c40fe9feb944130b4": {
+  "first_seen": 1785942171.0119927,
+  "title": "Stage – Assistant(e) Business Analyst (Business Development) – Janvier 2027 (6 mois)",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449068434"
+  ]
+ },
+ "71c2fbf9f81e98b35e5e23789729870b": {
+  "first_seen": 1785942171.012,
+  "title": "DATA ENGINEER - SENIOR",
+  "company": "Rare.engineer",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447301271"
+  ]
+ },
+ "354b8d46cc50c5ba949ea4f468045a00": {
+  "first_seen": 1785942171.012037,
+  "title": "Senior Data Engineer Python/GCP (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449633724"
+  ]
+ },
+ "a59330198cb8a2d37a1cd0589c1ce2a8": {
+  "first_seen": 1785942171.0120616,
+  "title": "First openings coming soon",
+  "company": "Lightcone Research",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449091990"
+  ]
+ },
+ "c7b0889c32e0e6866f25ea69efd2a4e5": {
+  "first_seen": 1785942171.0120707,
+  "title": "Stagiaire Ingénieur Calculs mécaniques et structures H/F",
+  "company": "Ametra Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448015154"
+  ]
+ },
+ "bb66a8a41a2dba8734d2e1ca54306e10": {
+  "first_seen": 1785942171.012099,
+  "title": "Stagiaire école (F/H)",
+  "company": "AGENCE CIC PARIS HAUSSMANN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449601258"
+  ]
+ },
+ "9420ea25c50258dba892bc1823977ad3": {
+  "first_seen": 1785942171.0121062,
+  "title": "Founding engineer Typescript H/F - Fintech",
+  "company": "LITY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449447929"
+  ]
+ },
+ "2f535a0e7f383438ade6fc1c1a1192b5": {
+  "first_seen": 1785942171.0121126,
+  "title": "Data analytics engineer",
+  "company": "Optimize matter",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449471493"
+  ]
+ },
+ "fa3f4ecdca55c1326f1d684d9fba208c": {
+  "first_seen": 1785942171.012124,
+  "title": "Solutions Engineer",
+  "company": "Sidely",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449601141"
   ]
  }
 }
