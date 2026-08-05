@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785956537.3896654,
+   "last_success": 1785958374.9166012,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785956537.3896713,
+   "last_success": 1785958374.9166067,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785956553.9507859,
+   "last_success": 1785958388.311708,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785956553.9507916,
+   "last_success": 1785958388.3117127,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785956553.9507935,
+   "last_success": 1785958388.311714,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785956553.9507945,
+   "last_success": 1785958388.3117151,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785956553.950796,
+   "last_success": 1785958388.3117168,
    "alerted": false
   }
  },
@@ -25788,6 +25788,132 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441201265"
+  ]
+ },
+ "f13e1971b8bd4fe3f22aa31df1365da7": {
+  "first_seen": 1785958388.312515,
+  "title": "ALTERNANCE - Ingénieur Data & Intelligence Artificielle pour Systèmes de Communications Navales - F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440950922"
+  ]
+ },
+ "7a6816c41f46090c052e03ec35c73880": {
+  "first_seen": 1785958388.3125243,
+  "title": "Tech Lead AI/ML (F/H/X)",
+  "company": "Epsilon France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432226030"
+  ]
+ },
+ "f4959a564b4e2b23eacdf2d29c832d5d": {
+  "first_seen": 1785958388.312557,
+  "title": "Développeur·se Senior Python",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449126721"
+  ]
+ },
+ "3fc53ea6ab83b0254b71c4ef8b6011e3": {
+  "first_seen": 1785958388.3125644,
+  "title": "Senior Machine Learning Engineer",
+  "company": "Sonos, Inc.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4393810265"
+  ]
+ },
+ "e412ef689ae7d8430b9a0d8422f5f9eb": {
+  "first_seen": 1785958388.3125725,
+  "title": "Ingénieur-e Data & IA - F/H - SAFRAN AEROSYSTEMS FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449671601"
+  ]
+ },
+ "0d3336baf048003ced9a0c7c0e6c54d7": {
+  "first_seen": 1785958388.312594,
+  "title": "Doctorant en Vérification formelle d'IA (H/F)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4343731578"
+  ]
+ },
+ "5ec2b65fb666a283c0685d7cb9106933": {
+  "first_seen": 1785958388.3126025,
+  "title": "Consultant en Stratégie & Transformation Data / IA (H/F) - CDI",
+  "company": "Artemys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449147324"
+  ]
+ },
+ "8419fc722b3e8142474719ab26bafaf7": {
+  "first_seen": 1785958388.312611,
+  "title": "Consultant(e) Usages & IA Digital Workplace (H/F)",
+  "company": "Rhapsodies Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448015391"
+  ]
+ },
+ "96a985007e1d5e08b155a1399ce6b57d": {
+  "first_seen": 1785958388.312628,
+  "title": "Assistant chef de projet DATA et IA - H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449665480"
+  ]
+ },
+ "5ab76fff9d2c546ac18d074794d36341": {
+  "first_seen": 1785958388.312639,
+  "title": "(Senior) AI Tech Consultant — Paris | BCG Platinion",
+  "company": "Boston Consulting Group (BCG)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449145128"
+  ]
+ },
+ "3f8a8eb560ae38faaf0b583a409d40f5": {
+  "first_seen": 1785958388.3126535,
+  "title": "BUSINESS ANALYST CONFIRME IA H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401355989"
+  ]
+ },
+ "49c07f480193b53bc3cec5b89785954f": {
+  "first_seen": 1785958388.3127127,
+  "title": "Cloud & Data Engineer",
+  "company": "SFEIR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/3634254863"
+  ]
+ },
+ "a963420ff7f4b4b5f4218775ad92c88f": {
+  "first_seen": 1785958388.3127513,
+  "title": "Lead AI engineer",
+  "company": "Mirakl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438400649"
+  ]
+ },
+ "749011fef8987e92abd4384e60808ead": {
+  "first_seen": 1785958388.3127775,
+  "title": "Alternance NLP Engineer",
+  "company": "ChapsVision",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449139572"
   ]
  }
 }
