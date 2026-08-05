@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785951558.3145251,
+   "last_success": 1785952966.5122595,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785951558.3145316,
+   "last_success": 1785952966.5122657,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785951572.2914696,
+   "last_success": 1785952979.9412432,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785951572.2914734,
+   "last_success": 1785952979.9412477,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785951161.0463467,
+   "last_success": 1785952979.9412498,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785951572.2915173,
+   "last_success": 1785952979.9412513,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785951572.2915182,
+   "last_success": 1785952979.9412527,
    "alerted": false
   }
  },
@@ -25562,6 +25562,186 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449654501"
+  ]
+ },
+ "a281124a10e6ad632e4c0297c04bec9f": {
+  "first_seen": 1785952979.9421601,
+  "title": "FREELANCE-Data analyst / data scientist ESG - Asset management - Matlab, Python, SQL, Snowflake obligatoires",
+  "company": "Mon Consultant Indépendant",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448012938"
+  ]
+ },
+ "20b4d9da5b5b25d9c7d27b83e5c2f9c9": {
+  "first_seen": 1785952979.9421725,
+  "title": "Data analyste CRM/ Marketing/ Retail H/F",
+  "company": "Histoire d'Or",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448984025"
+  ]
+ },
+ "11484b174f8c46d4883231b31c84f7fe": {
+  "first_seen": 1785952979.94219,
+  "title": "6-MONTH INTERNSHIP - Starting July 2026 – Supply Chain – Master's ½ - €1700/month",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449125908"
+  ]
+ },
+ "6c8346b890a4c31214b0a83ad5dbb937": {
+  "first_seen": 1785952979.9422565,
+  "title": "Analyste risques de marché",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448054478"
+  ]
+ },
+ "1d527701f3aed38946a52df29bdca3e8": {
+  "first_seen": 1785952979.9422958,
+  "title": "Chief Data Officer (H/F)",
+  "company": "BIOGARAN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422890494"
+  ]
+ },
+ "03011263d5c30e0245a30a444d50a051": {
+  "first_seen": 1785952979.9423037,
+  "title": "Data Product Manager F/H",
+  "company": "Hubvisory",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447368642"
+  ]
+ },
+ "33c5df39797776bf7516f06a021190fb": {
+  "first_seen": 1785952979.942321,
+  "title": "Assistant.e Merchandising Strategy Analyst - Stage Septembre 2026",
+  "company": "Undiz",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449453766"
+  ]
+ },
+ "27b7366d01e98e416bd430d3c1f8bc3b": {
+  "first_seen": 1785952979.9423306,
+  "title": "Enseignant/Chercheur (F/H)",
+  "company": "MS MIRIS | Mines Paris - PSL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447343367"
+  ]
+ },
+ "20ec35861556191fea467de0f433a878": {
+  "first_seen": 1785952979.9423394,
+  "title": "Co-Op- Network Research Scientist",
+  "company": "Riverside Research",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449676298"
+  ]
+ },
+ "62fc2ba63f6fbb4ec6b78ad26266a879": {
+  "first_seen": 1785952979.942592,
+  "title": "Staff Software Engineer, Infrastructure (Cloud)",
+  "company": "AeroVect",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449634637"
+  ]
+ },
+ "02b0603b5027392d960152358b98c576": {
+  "first_seen": 1785952979.9426,
+  "title": "Technicien(ne) maintenance électronique F/H",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404380021"
+  ]
+ },
+ "0be1d74527b5f6220944dc054c1533ac": {
+  "first_seen": 1785952979.942607,
+  "title": "Ingénieur contrôle hardware",
+  "company": "Dematic",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447391849"
+  ]
+ },
+ "d78e91ef26e4e388b00e8f920706295c": {
+  "first_seen": 1785952979.9426148,
+  "title": "Développeur front-end/Développeuse front-end",
+  "company": "BlaBlaCar",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447386289"
+  ]
+ },
+ "11cbeaff5471e6528bf8e037cd94b451": {
+  "first_seen": 1785952979.9426215,
+  "title": "Staff iOS Engineer - BeReal",
+  "company": "BeReal.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449048329"
+  ]
+ },
+ "0dfa1c52c8dc09c85453e64b2146af42": {
+  "first_seen": 1785952979.942628,
+  "title": "Founding Associate",
+  "company": "Pelagon",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449094478"
+  ]
+ },
+ "062e5bf393b85f257d5878777d80eaf3": {
+  "first_seen": 1785952979.9426348,
+  "title": "Consultant Junior Green Datacenter",
+  "company": "SustainIT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447365941"
+  ]
+ },
+ "4eb752a5d5124befc8f244510e0afea6": {
+  "first_seen": 1785952979.9426417,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Talkie",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449036635"
+  ]
+ },
+ "92a8cc0c21b808ad3fb1435e48c8190c": {
+  "first_seen": 1785952979.9426563,
+  "title": "BMC Helix Developer (Remote)",
+  "company": "Müller's Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449486096"
+  ]
+ },
+ "b3acfc51d87780c6ac6e3aff39c2439c": {
+  "first_seen": 1785952979.9426734,
+  "title": "Staff Engineer Platform",
+  "company": "Malt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449127348"
+  ]
+ },
+ "8aa826fe6d0f32e262e0cd7ce303f421": {
+  "first_seen": 1785952979.942687,
+  "title": "V&V Leader F/H",
+  "company": "Alstom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446683349"
   ]
  }
 }
