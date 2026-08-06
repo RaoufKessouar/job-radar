@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786023218.5034359,
+   "last_success": 1786025020.5571845,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786023218.503441,
+   "last_success": 1786025020.5571914,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786023233.1860065,
+   "last_success": 1786025036.4947395,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786023233.1860104,
+   "last_success": 1786025036.4947448,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786023233.1860123,
+   "last_success": 1786025036.4947472,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786023233.1860135,
+   "last_success": 1786025036.4947488,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786023233.1860147,
+   "last_success": 1786025036.4947507,
    "alerted": false
   }
  },
@@ -21885,7 +21885,8 @@
   "company": "Kering",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448156625"
+   "https://www.linkedin.com/jobs/view/4448156625",
+   "https://www.linkedin.com/jobs/view/4450261431"
   ]
  },
  "a51ef32ff1dd24614b8e58846fc9d99e": {
@@ -27949,6 +27950,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448410596"
+  ]
+ },
+ "ad280a8915ea815bb8f9272cb58a8662": {
+  "first_seen": 1786025036.4952636,
+  "title": "Apprenti(e) Junior Data Scientist H/F",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404514495"
+  ]
+ },
+ "dc276e746e18110d386bb9fc97d635b8": {
+  "first_seen": 1786025036.4954586,
+  "title": "Analytics - Future Leaders Graduate Program",
+  "company": "Picnic Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404312654"
+  ]
+ },
+ "797fd0cd2c58dac15acd2ce3f6d1ac20": {
+  "first_seen": 1786025036.4958985,
+  "title": "Thèse de doctorat: Génération assistée par LLM de modèles matériels fonctionnels et formels H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4403352575"
+  ]
+ },
+ "39144a1fee875dfe196f7383ba0c8f29": {
+  "first_seen": 1786025036.496349,
+  "title": "Stage Assistant(e) Concertation & Communication publique",
+  "company": "ENERTRAG",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439994927"
+  ]
+ },
+ "dfb834940f1c9e8d54330f377ada8a03": {
+  "first_seen": 1786025036.4963603,
+  "title": "Stage - 6 mois - Business Analyst/Support Fonctionnel Applicatif F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448408942"
+  ]
+ },
+ "d3e3d23c97543096ba3c0fde8a118063": {
+  "first_seen": 1786025036.496377,
+  "title": "STAGE - Assistant Chef de produit : DANONE & VELOUTE - Janvier 2027 - (H/F)",
+  "company": "Danone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441453854"
+  ]
+ },
+ "4b828482b8cdd46daea1510e530bff44": {
+  "first_seen": 1786025036.496387,
+  "title": "INGENIEUR INTEGRATION LOGICIEL DE CONTRÔLE (Sport auto) H/F",
+  "company": "Emitech Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448015543"
   ]
  }
 }
