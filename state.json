@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786007024.7328355,
+   "last_success": 1786008815.2099361,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786007024.7328408,
+   "last_success": 1786008815.2099428,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786007038.419869,
+   "last_success": 1786008829.2006192,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786007038.419872,
+   "last_success": 1786008829.2006242,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786007038.4198735,
+   "last_success": 1786008829.2006257,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786007038.419875,
+   "last_success": 1786008829.200627,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786007038.4198759,
+   "last_success": 1786008829.2006288,
    "alerted": false
   }
  },
@@ -12685,7 +12685,8 @@
    "https://www.linkedin.com/jobs/view/4445840192",
    "https://www.linkedin.com/jobs/view/4445888057",
    "https://www.linkedin.com/jobs/view/4446620303",
-   "https://www.linkedin.com/jobs/view/4447381352"
+   "https://www.linkedin.com/jobs/view/4447381352",
+   "https://www.linkedin.com/jobs/view/4448091443"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -24079,7 +24080,8 @@
   "company": "We Are Social",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448840373"
+   "https://www.linkedin.com/jobs/view/4448840373",
+   "https://www.linkedin.com/jobs/view/4450222095"
   ]
  },
  "4454337b83acef7c65db8a6cdab89dd8": {
@@ -27082,6 +27084,60 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Ingnieur-crash--H-F-_JOBREQ_50274538"
+  ]
+ },
+ "e46ba07b9ce621a78c4cabb84b61deb7": {
+  "first_seen": 1786008829.201697,
+  "title": "Alternance - Data Analyst F/H",
+  "company": "Enedis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450208931"
+  ]
+ },
+ "1addb63a1835f57e613d44a43779e3f3": {
+  "first_seen": 1786008829.2018015,
+  "title": "Data Engineer",
+  "company": "ADVANCED Schema",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/3886398270"
+  ]
+ },
+ "f5dc24906d38b4bafc7052e3b68d9be3": {
+  "first_seen": 1786008829.2021718,
+  "title": "AI Strategy & Business Transformation - Consultant.e stagiaire",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448086647"
+  ]
+ },
+ "6cb4f26baa1fd2309c299edea97ac45e": {
+  "first_seen": 1786008829.2021868,
+  "title": "Responsable Etudes et Conception d'Algorithmes de Traitement d'Image F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450210958"
+  ]
+ },
+ "c9ca780bf7532e7959460878782feda4": {
+  "first_seen": 1786008829.2023969,
+  "title": "Assistant Chef de projet Déploiement (stage) F/H",
+  "company": "padoa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424353440"
+  ]
+ },
+ "b227efe9595aec2a6f781faf1827efdf": {
+  "first_seen": 1786008829.202525,
+  "title": "Ingénieur·e test & validation systèmes embarqués (hardware / logiciel)",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448092610"
   ]
  }
 }
