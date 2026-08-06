@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786025020.5571845,
+   "last_success": 1786026803.200253,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786025020.5571914,
+   "last_success": 1786026803.2002587,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786025036.4947395,
+   "last_success": 1786026816.7258708,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786025036.4947448,
+   "last_success": 1786026816.7258756,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786025036.4947472,
+   "last_success": 1786026816.7258773,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786025036.4947488,
+   "last_success": 1786026816.7258785,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786025036.4947507,
+   "last_success": 1786026816.7258797,
    "alerted": false
   }
  },
@@ -28013,6 +28013,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448015543"
+  ]
+ },
+ "06043d02d7747df138e1489da8faf385": {
+  "first_seen": 1786026816.7269425,
+  "title": "Analytics Engineer",
+  "company": "mym",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450240311"
+  ]
+ },
+ "86155b88018ba19ecd32fbca7fc0d87f": {
+  "first_seen": 1786026816.7269795,
+  "title": "Full Stack Engineer",
+  "company": "Dataworks",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441953818"
+  ]
+ },
+ "e04db163174a0ebadbd9d821ad7811f6": {
+  "first_seen": 1786026816.7272213,
+  "title": "STAGE - Assistant Chargé de Projet Amélioration Continue des Achats Outillages (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423224060"
+  ]
+ },
+ "4cf0358d9eef2b592cec1753d5241440": {
+  "first_seen": 1786026816.7274995,
+  "title": "Lead FullStack Engineer",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449756185"
+  ]
+ },
+ "04b4df4cd17691b1d0d12106e8154d11": {
+  "first_seen": 1786026816.72752,
+  "title": "Commissioning Coordinator BMS/I&C",
+  "company": "Exyte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412910818"
+  ]
+ },
+ "659d073524ee9bd4fe32c9acd3055f4f": {
+  "first_seen": 1786026816.7275267,
+  "title": "Tech lead",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449738635"
+  ]
+ },
+ "14142e072e046c4d77e1be09652047b6": {
+  "first_seen": 1786026816.7275352,
+  "title": "Ingénieur Vérification Asic R&D (F/H) - Eviden",
+  "company": "Eviden",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432592729"
   ]
  }
 }
