@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785994418.279886,
+   "last_success": 1785996236.6900861,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785994418.2798917,
+   "last_success": 1785996236.690092,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785994435.0161116,
+   "last_success": 1785996252.0836775,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785994435.0161161,
+   "last_success": 1785996252.083682,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785994435.0161178,
+   "last_success": 1785996252.0836837,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785994435.0161192,
+   "last_success": 1785996252.0836854,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785994435.0161207,
+   "last_success": 1785996252.0836866,
    "alerted": false
   }
  },
@@ -15365,7 +15365,8 @@
    "https://www.linkedin.com/jobs/view/4445585589",
    "https://www.linkedin.com/jobs/view/4445822738",
    "https://www.linkedin.com/jobs/view/4445873329",
-   "https://www.linkedin.com/jobs/view/4446299231"
+   "https://www.linkedin.com/jobs/view/4446299231",
+   "https://www.linkedin.com/jobs/view/4448076880"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -26558,6 +26559,132 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4418773486"
+  ]
+ },
+ "7efea5411e16e24d40a65758f8598159": {
+  "first_seen": 1785996252.0848591,
+  "title": "STAGE - Assistant Contrôle de Gestion HDTI (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449134256"
+  ]
+ },
+ "135aeb6048f401dd3a2890aa10c72f94": {
+  "first_seen": 1785996252.0848682,
+  "title": "Senior Software Engineer (Python/TypeScript)",
+  "company": "Lithosquare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417302547"
+  ]
+ },
+ "2456d8488f151322e97251daf06277c9": {
+  "first_seen": 1785996252.0848954,
+  "title": "STAGE - Assistant Chef de projet développement RH F/H/NB - JANVIER 2027",
+  "company": "Maison Francis Kurkdjian",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449477583"
+  ]
+ },
+ "559f3d2b4d6619a258c2a019c0f814d1": {
+  "first_seen": 1785996252.084903,
+  "title": "STAGE - Consultant Cybersécurité - GRC H/F",
+  "company": "SYNETIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449104105"
+  ]
+ },
+ "90a9b0de68405586b75e425d07859512": {
+  "first_seen": 1785996252.084989,
+  "title": "STAGE 6 MOIS - À PARTIR DE JANVIER 2027 - BRAND COMMUNICATION - MASTER 1/2 - 1700€/MOIS - OPPORTUNITÉS AU SEIN DES 4 DIV",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449314807"
+  ]
+ },
+ "7db77e6e483b77dd91ce46e5b703762d": {
+  "first_seen": 1785996252.0850468,
+  "title": "Intern- Disputes & Investigations",
+  "company": "Alvarez & Marsal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441205074"
+  ]
+ },
+ "20b7d1fb41fca28e07d0dbecd19ad7c7": {
+  "first_seen": 1785996252.0851753,
+  "title": "Ingénieur-e d'études senseurs inertiels F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446565126"
+  ]
+ },
+ "4653a667fdbb50a6d2628a72758535ce": {
+  "first_seen": 1785996252.085196,
+  "title": "Développeur C# Junior",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448019782"
+  ]
+ },
+ "7a80cc28b1c2d8d1345d4d8005c0cc16": {
+  "first_seen": 1785996252.0852041,
+  "title": "Ingénieur Développement logiciel 3DExperience F/H",
+  "company": "Safran",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448019117"
+  ]
+ },
+ "2423d12ad2c0a53c079062c3301b8549": {
+  "first_seen": 1785996252.0852334,
+  "title": "Développeuse / Développeur .NET, REACT, C#",
+  "company": "Capgemini",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449469186"
+  ]
+ },
+ "086a5a87c38878c5cc9016d8e4a5b3c5": {
+  "first_seen": 1785996252.0852425,
+  "title": "Ingénieur Validation et Administration Linux HPC / R&D (H/F)",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428937925"
+  ]
+ },
+ "722a3856d5cd0635c1245d5eeb9d1119": {
+  "first_seen": 1785996252.0852535,
+  "title": "Développeur Full Stack Java Angular – Paris, France (H/F) - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429403583"
+  ]
+ },
+ "1e7119806553b13b3f1770ae751a8435": {
+  "first_seen": 1785996252.0852642,
+  "title": "Assistant ingénieur (H/F) en mesures et analyses du métabolisme des systèmes aquatiques",
+  "company": "RESAMA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449661385"
+  ]
+ },
+ "845e26e7183a5df40dd26f097b123648": {
+  "first_seen": 1785996252.0852718,
+  "title": "DÉVELOPPEUR FULL-STACK JAVA / ANGULAR F/H",
+  "company": "SQLI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4394637330"
   ]
  }
 }
