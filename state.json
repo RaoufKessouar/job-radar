@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785961951.0773704,
+   "last_success": 1785992621.016995,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785961951.0773754,
+   "last_success": 1785992621.0170002,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785961964.8133333,
+   "last_success": 1785992634.7718196,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785961964.8133378,
+   "last_success": 1785992634.7718246,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785961964.8133397,
+   "last_success": 1785992634.7718265,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785961964.813341,
+   "last_success": 1785992634.771828,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785961964.8133428,
+   "last_success": 1785992634.7718294,
    "alerted": false
   }
  },
@@ -11240,7 +11240,9 @@
    "https://www.linkedin.com/jobs/view/4444847823",
    "https://www.linkedin.com/jobs/view/4444857493",
    "https://www.linkedin.com/jobs/view/4447406658",
-   "https://www.linkedin.com/jobs/view/4447407668"
+   "https://www.linkedin.com/jobs/view/4447407668",
+   "https://www.linkedin.com/jobs/view/4449325578",
+   "https://www.linkedin.com/jobs/view/4449316744"
   ]
  },
  "6f893d04b0312561a116813884e7f6f5": {
@@ -11884,7 +11886,6 @@
   "company": "Kickmaker",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444872303",
    "https://www.linkedin.com/jobs/view/4445433912",
    "https://www.linkedin.com/jobs/view/4446015587",
    "https://www.linkedin.com/jobs/view/4446487955",
@@ -11893,7 +11894,8 @@
    "https://www.linkedin.com/jobs/view/4447624727",
    "https://www.linkedin.com/jobs/view/4447694293",
    "https://www.linkedin.com/jobs/view/4448805648",
-   "https://www.linkedin.com/jobs/view/4448932399"
+   "https://www.linkedin.com/jobs/view/4448932399",
+   "https://www.linkedin.com/jobs/view/4449354758"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -25644,7 +25646,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449676298",
-   "https://www.linkedin.com/jobs/view/4449680212"
+   "https://www.linkedin.com/jobs/view/4449680212",
+   "https://www.linkedin.com/jobs/view/4449668299"
   ]
  },
  "62fc2ba63f6fbb4ec6b78ad26266a879": {
@@ -26032,6 +26035,483 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440246438"
+  ]
+ },
+ "99d84e59255fc808865bfbf7fc6b4056": {
+  "first_seen": 1785992634.772217,
+  "title": "Stage AMOA / Recette & Test  - Projet Intelligence Artificielle (H/F)",
+  "company": "Groupe SII",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/sii/jobs/stage-amoa-recette-test-projet-intelligence-artificielle-h-f_velizy-villacoublay"
+  ]
+ },
+ "904740f2262cecb082425fbc94c5d6ee": {
+  "first_seen": 1785992634.7723298,
+  "title": "Internship : AI Automation",
+  "company": "Outsight",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449922883"
+  ]
+ },
+ "187822e9046d5e95d91ed1dea7479a96": {
+  "first_seen": 1785992634.772479,
+  "title": "CHARGE DE PROJET DATA JUNIOR H/F - MARCK & BALSAN - CDD 1 AN - A PARTIR DE SEPTEMBRE 2026",
+  "company": "Marck & Balsan",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448040717"
+  ]
+ },
+ "119f788e0171649b123bc2d673f362eb": {
+  "first_seen": 1785992634.772555,
+  "title": "Ingénieur IA Générative & Cybersécurité (LLM / Python)",
+  "company": "act digital EMEA - Alter Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448062947"
+  ]
+ },
+ "0ee2151565f6f3ade06f1c7083f8669d": {
+  "first_seen": 1785992634.7725844,
+  "title": "IT Helpdesk Technician Apprentice",
+  "company": "Oetker Hotels",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446243009"
+  ]
+ },
+ "41cf380202470000576a35d8b7259734": {
+  "first_seen": 1785992634.772601,
+  "title": "Chef de projet conformité &amp; data F/H",
+  "company": "BRED Banque Populaire",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448029122"
+  ]
+ },
+ "5e2c8605e5902d5261de08570d292d56": {
+  "first_seen": 1785992634.772615,
+  "title": "Internship, Private Equity Performance Improvement, Paris",
+  "company": "Alvarez & Marsal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440987718"
+  ]
+ },
+ "65207d9623189dc8ba36fd29158328e1": {
+  "first_seen": 1785992634.7726219,
+  "title": "Junior Automation Specialist",
+  "company": "Alpine Business Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449129300"
+  ]
+ },
+ "de4741d6ae72c2e0ba8c7236aa95544a": {
+  "first_seen": 1785992634.7726374,
+  "title": "Stage - Assistant(e) chef de projet RSE & Digital learning - Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449472244"
+  ]
+ },
+ "9e5bf851a312d8edd9919e82b31fa569": {
+  "first_seen": 1785992634.7726448,
+  "title": "Analytic Consultant - CGA Team - FMCG - CHR (H/F)",
+  "company": "NielsenIQ",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439992983"
+  ]
+ },
+ "dff8972dfe3d9f095707469515be36f8": {
+  "first_seen": 1785992634.7726603,
+  "title": "Chargé de Projet & Performance (F/H) – en stage",
+  "company": "Carrefour",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447397207"
+  ]
+ },
+ "ff016403f7bd888bdbff80de4c2660c9": {
+  "first_seen": 1785992634.7727256,
+  "title": "AI Product Manager (H/F)",
+  "company": "Groupe Atland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448031794"
+  ]
+ },
+ "1eb77c3d9a2d75a0a1098eb4d5f56119": {
+  "first_seen": 1785992634.7727344,
+  "title": "Consultant Junior Back-End / API REST – IA & Vibe Coding",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448023894"
+  ]
+ },
+ "4af0d32918104899da70812a968fdbaf": {
+  "first_seen": 1785992634.7727563,
+  "title": "PRODUCT ENGINEER (STAGE)",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449327629"
+  ]
+ },
+ "80f7f693644f43c8a7b06baefc60560b": {
+  "first_seen": 1785992634.772773,
+  "title": "Ingénieur Threat Hunting IA",
+  "company": "act digital EMEA - Alter Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448062948"
+  ]
+ },
+ "0b46c02d3c35d29ac931aca0ecac874f": {
+  "first_seen": 1785992634.7727802,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Cléopâtre",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448967373"
+  ]
+ },
+ "b47c18e119e0fa1f52ff41da53a21cbb": {
+  "first_seen": 1785992634.772793,
+  "title": "AI Senior Product Manager",
+  "company": "bsport",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431748483"
+  ]
+ },
+ "75b7619a84321ffc36c0b45f2087143d": {
+  "first_seen": 1785992634.772807,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Let's BI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449620514"
+  ]
+ },
+ "54ff0f9e1693d8c8d746bf0a1e2d0127": {
+  "first_seen": 1785992634.7728136,
+  "title": "AI, Data & Performance Manager F/H",
+  "company": "OUTSCALE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449930864"
+  ]
+ },
+ "28cb52b0010c0d39da02b7098f2e1939": {
+  "first_seen": 1785992634.772821,
+  "title": "Alternance - Python Backend Developper H/F - Startup IA",
+  "company": "Noota",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448031499"
+  ]
+ },
+ "efb9e1ec59d5740e0963fa845f327de4": {
+  "first_seen": 1785992634.7728298,
+  "title": "Consultant·e Senior - Coach craft & IA (Spec-Driven Development)",
+  "company": "Aneo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449628989"
+  ]
+ },
+ "7b25a4f20f76fdb0d54cf12b27494d49": {
+  "first_seen": 1785992634.7728477,
+  "title": "Stage - Assistant(e) Coordination Projets Digitaux (H/F/X) – Mode – Janvier 2027",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449186658"
+  ]
+ },
+ "29f3c222e110de721adb1106b4848628": {
+  "first_seen": 1785992634.7728796,
+  "title": "Consultante / Consultant en Innovation Produits & Services Connectés - STAGE",
+  "company": "Capgemini Invent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449651330"
+  ]
+ },
+ "f2c2cc498a8b3d2652ab7cb92b66a8f9": {
+  "first_seen": 1785992634.7729328,
+  "title": "Digital Apprentice",
+  "company": "Coty",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431481243"
+  ]
+ },
+ "93e7264e64e5c21c89da29f13699ffcb": {
+  "first_seen": 1785992634.772952,
+  "title": "KERING Full-Stack Developer",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449650554"
+  ]
+ },
+ "b4bbe0b4e0793d1fabcfcc436bada67a": {
+  "first_seen": 1785992634.7729633,
+  "title": "Campus - Stage - Assistant(e) Junior Chef de Projet SEO/GEO & Web Analytics - Digital Performance - (6 mois, France)",
+  "company": "American Express",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413010455"
+  ]
+ },
+ "2f3ab55d6589957ea0ae8327c77ac7cc": {
+  "first_seen": 1785992634.7729723,
+  "title": "Ingénieur(e) en optimisation pour système énergétique hybride",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432457804"
+  ]
+ },
+ "b68cff0e5453547d16bf2e1a7e4fba50": {
+  "first_seen": 1785992634.7730079,
+  "title": "STAGE - CHARGE(E) DE PROJET DIGITAL",
+  "company": "Buffalo Grill",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449626777"
+  ]
+ },
+ "1b23959cd418007e30fad8df776e3b20": {
+  "first_seen": 1785992634.7730255,
+  "title": "Growth Marketing Apprentice - starting in November (1 year)",
+  "company": "PayFit",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449136160"
+  ]
+ },
+ "d6b141ddf733408e69c5a638b5255470": {
+  "first_seen": 1785992634.773036,
+  "title": "Alternance ou stage - Chargé.e méthodes et process opérations",
+  "company": "Zeplug",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447395256"
+  ]
+ },
+ "368bd8f076101333333fb99f8a377608": {
+  "first_seen": 1785992634.7730453,
+  "title": "EIC Analystes stagiaires fin d’études -  F/H",
+  "company": "Cushman & Wakefield",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4308068641"
+  ]
+ },
+ "ab85f43585a96538b87427f3deebb989": {
+  "first_seen": 1785992634.7730541,
+  "title": "Stage Chargé de Mission Handicap & Inclusion (H/F)",
+  "company": "Cheval Blanc",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422881335"
+  ]
+ },
+ "30534209747cb7eccfc384439cf0543f": {
+  "first_seen": 1785992634.7731085,
+  "title": "Stagiaire Marketing & Growth - Data & IA",
+  "company": "JobEgo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449104694"
+  ]
+ },
+ "e760d96c999a8e67118c1d8f5a7cb875": {
+  "first_seen": 1785992634.7731164,
+  "title": "Stage Énergie & Carbone F/H/X",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449464253"
+  ]
+ },
+ "5c69e5adee7b724b2b5beaf56937813b": {
+  "first_seen": 1785992634.7731268,
+  "title": "Assistant Développement Produit Prêt-à-porter Femme F/H - STAGE",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4421842904"
+  ]
+ },
+ "effc8e42e5542e92b1e3c128a8ee906e": {
+  "first_seen": 1785992634.7731411,
+  "title": "STAGE 2 - Assistant(e) Boutique - F1",
+  "company": "Cartier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448999720"
+  ]
+ },
+ "fbc561a5aa042bcf956405795349889d": {
+  "first_seen": 1785992634.773158,
+  "title": "Analyste risques sur opérations de marché",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448043529"
+  ]
+ },
+ "6c4cf6b67e3761db3fa44666bb993ac2": {
+  "first_seen": 1785992634.7731688,
+  "title": "Stages de M2 en chimie prébiotique à Paris",
+  "company": "Astrobiology Introductory Course (RED) Rencontres Exobiologiques pour Doctorants",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449630438"
+  ]
+ },
+ "6eca20215edade3948cd83f4b1fc66ae": {
+  "first_seen": 1785992634.7731764,
+  "title": "Stage community manager",
+  "company": "Next Film Distribution",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449490141"
+  ]
+ },
+ "ef380decedc9dab6b9c6f282946b1d8d": {
+  "first_seen": 1785992634.7731915,
+  "title": "Stagiaire - Evenementiel (F/H/X)",
+  "company": "Groupe SeLoger",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432275239"
+  ]
+ },
+ "48610bbcb7c79fba10d66a51cfbabcfa": {
+  "first_seen": 1785992634.7732391,
+  "title": "Développement C++ orienté objet H/F",
+  "company": "Médiane Système",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449366307"
+  ]
+ },
+ "251440cc7fa79c4db82ee73d7319ac93": {
+  "first_seen": 1785992634.773327,
+  "title": "Ingénieur Intégration Validation & Vérification",
+  "company": "act digital EMEA - Alter Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448063967"
+  ]
+ },
+ "af53a59064a2998a718ffc34a11126a1": {
+  "first_seen": 1785992634.7733471,
+  "title": "DevOps Software Engineer - Security Research, SEAR",
+  "company": "Apple",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449162868"
+  ]
+ },
+ "003de5ba24955dab515fe2c2923ffe4f": {
+  "first_seen": 1785992634.7733765,
+  "title": "Alternance - Ingénieur en développement logiciel H/F",
+  "company": "Hitachi Rail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448036617"
+  ]
+ },
+ "4f36295ef848c53d34f41df1dbc5cf7d": {
+  "first_seen": 1785992634.7733839,
+  "title": "Technicien en conception électronique F/H",
+  "company": "ABGi France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4371508503"
+  ]
+ },
+ "4950857488fce0822153bb829c1e9718": {
+  "first_seen": 1785992634.773391,
+  "title": "Développeur Cobol (H-F)",
+  "company": "Actimage",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449361020"
+  ]
+ },
+ "f813c40e83cbbde0c23b11d24c801d1d": {
+  "first_seen": 1785992634.7733996,
+  "title": "Ingénieur systèmes et réseaux junior (H/F)",
+  "company": "ReeVo Cloud & Cybersécurité",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412773312"
+  ]
+ },
+ "ad15125b0d5f0b3d46350bfd6d6ef1f9": {
+  "first_seen": 1785992634.7734067,
+  "title": "Control System & OT Cybersecurity Specialist  H/F",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449485953"
+  ]
+ },
+ "55c640c97dbc732f9201ebbcb05bb18e": {
+  "first_seen": 1785992634.773415,
+  "title": "Ingénieur ou Ingénieure d'étude signalisation ferroviaire",
+  "company": "Groupe SNCF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449980475"
+  ]
+ },
+ "382771851e364cd68327a4e4f16a8560": {
+  "first_seen": 1785992634.7734213,
+  "title": "Consultant IoT Healthcare",
+  "company": "GazelTech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449123186"
+  ]
+ },
+ "53d1c1de35e6e865e05fb5da7b68e8f1": {
+  "first_seen": 1785992634.7734275,
+  "title": "Security Engineer",
+  "company": "Qdrant",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449624692"
+  ]
+ },
+ "6a3564478e1288884a48759dedcbabc6": {
+  "first_seen": 1785992634.7734346,
+  "title": "STAGE - Assistant Chef de Produit Chaussure (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449132384"
+  ]
+ },
+ "9df964a947b26faec37885e8f12dc5ac": {
+  "first_seen": 1785992634.773441,
+  "title": "Technicien support IT/OT H/F",
+  "company": "Soors",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449917576"
   ]
  }
 }
