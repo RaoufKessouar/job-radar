@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786001632.6067722,
+   "last_success": 1786003425.4563806,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786001632.606778,
+   "last_success": 1786003425.456387,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786001647.4349186,
+   "last_success": 1786003441.549165,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786001647.434924,
+   "last_success": 1786003441.54917,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786001647.4349256,
+   "last_success": 1786003441.5491717,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786001647.434927,
+   "last_success": 1786003441.5491736,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786001647.4349284,
+   "last_success": 1786003441.5491753,
    "alerted": false
   }
  },
@@ -16104,7 +16104,8 @@
    "https://www.linkedin.com/jobs/view/4445080072",
    "https://www.linkedin.com/jobs/view/4445828716",
    "https://www.linkedin.com/jobs/view/4445861507",
-   "https://www.linkedin.com/jobs/view/4446293303"
+   "https://www.linkedin.com/jobs/view/4446293303",
+   "https://www.linkedin.com/jobs/view/4448078927"
   ]
  },
  "9c5901299b9753bd5b0227ed0e17c590": {
@@ -26802,6 +26803,141 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449953873"
+  ]
+ },
+ "1b307129bd2beaf11fb359f08187acf7": {
+  "first_seen": 1786003441.5499713,
+  "title": "Senior Data Analyst",
+  "company": "Skello",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440945326"
+  ]
+ },
+ "b8bd1919074b356eba6d19358170ffe1": {
+  "first_seen": 1786003441.5499802,
+  "title": "Sales Operations Analyst H/F",
+  "company": "ELIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448047457"
+  ]
+ },
+ "11e6385325f855625b75fd5010905b10": {
+  "first_seen": 1786003441.5499883,
+  "title": "[Internship] Product Manager - trader/quant platform",
+  "company": "TwoWay",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448097290"
+  ]
+ },
+ "ba2601a5ff5bf9bff29f21e1650953bd": {
+  "first_seen": 1786003441.5499947,
+  "title": "Product Owner Data H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440202236"
+  ]
+ },
+ "2fd5e8410dc5d4def0b43fea78d22801": {
+  "first_seen": 1786003441.5500798,
+  "title": "AI Product Ops Manager",
+  "company": "Skello",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440946328"
+  ]
+ },
+ "648ea3d94c3b5059e8d349ccd9d3fdae": {
+  "first_seen": 1786003441.5501049,
+  "title": "Consultant Change Management & IA - Digital Workplace H/F",
+  "company": "Devoteam | Google Cloud Partner",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449452761"
+  ]
+ },
+ "aa8be6992e515df30860e2335b48d6e2": {
+  "first_seen": 1786003441.5501218,
+  "title": "Solution Advisor - SAP Academy for Customer Success - FRANCE (Hybrid)",
+  "company": "SAP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449131050"
+  ]
+ },
+ "148e5e152bfaef4d6b1f402ce27cff4d": {
+  "first_seen": 1786003441.5501647,
+  "title": "Data Analytics Engineer H/F",
+  "company": "JD2M (Jedéclaremonmeublé.com)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4406157834"
+  ]
+ },
+ "3120c8360b317bd7c57cd0e070d440cc": {
+  "first_seen": 1786003441.5501804,
+  "title": "Développeur / Développeuse Full-Stack",
+  "company": "Pix",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449125172"
+  ]
+ },
+ "8a05fde1f85912163e90d932de1bbbf3": {
+  "first_seen": 1786003441.550196,
+  "title": "Chef de projet archivage électronique - Débutant H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449484072"
+  ]
+ },
+ "ea78cdbad535db3aa942fd5a87347ed7": {
+  "first_seen": 1786003441.550202,
+  "title": "AI Specialist",
+  "company": "BauWatch Nederland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422345243"
+  ]
+ },
+ "1026ba6a51f19eee0999de6641023f0b": {
+  "first_seen": 1786003441.5502303,
+  "title": "Alternance Assistant(e) de projet en gestion des collections numériques (F/H) - Septembre 2026",
+  "company": "Louis Vuitton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449478522"
+  ]
+ },
+ "697cdba737d1023aea1f7c2480732537": {
+  "first_seen": 1786003441.5502884,
+  "title": "Internship - Project Manager & Data | ClimateTech | Paris/ Berlin - 5 mois minimum",
+  "company": "Thermosphr",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449363825"
+  ]
+ },
+ "a9ef422b8c14715e69161efc830973c6": {
+  "first_seen": 1786003441.550742,
+  "title": "Ingenieur Systeme F/H F/H",
+  "company": "VINCI Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449664110"
+  ]
+ },
+ "f221f9bd48562e284a9379919512befe": {
+  "first_seen": 1786003441.5507493,
+  "title": "Ingénieur opérations & GTB | Climate Tech",
+  "company": "Thermosphr",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449376565"
   ]
  }
 }
