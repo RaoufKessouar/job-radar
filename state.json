@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786005203.0125313,
+   "last_success": 1786005563.0091739,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786005203.0125372,
+   "last_success": 1786005563.0091794,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786005216.617307,
+   "last_success": 1786005578.1433594,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786005216.617312,
+   "last_success": 1786005578.1433644,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786005216.6173139,
+   "last_success": 1786005578.1433659,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786005216.617315,
+   "last_success": 1786005578.143367,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786005216.6173162,
+   "last_success": 1786005578.1433685,
    "alerted": false
   }
  },
@@ -26992,6 +26992,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449379459"
+  ]
+ },
+ "5104f55e921b77f1627cb51b086c698d": {
+  "first_seen": 1786005578.1450067,
+  "title": "Data Scientist Santé H/F",
+  "company": "Institut de Myologie",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450209921"
+  ]
+ },
+ "154df84b1fb7aca96495c4205a402557": {
+  "first_seen": 1786005578.1451712,
+  "title": "Ingénieur Système Logiciel (F/H)",
+  "company": "NEODEsystems",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449378785"
+  ]
+ },
+ "7069ed93f1079dde661e3fa50e82ac41": {
+  "first_seen": 1786005578.1453571,
+  "title": "CS27 BAC+5 - Etude allègement véhicule (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27-BAC-5---Etude-allgement-vhicule--H-F-_JOBREQ_50274490"
   ]
  }
 }
