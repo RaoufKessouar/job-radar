@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786026803.200253,
+   "last_success": 1786028621.3440926,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786026803.2002587,
+   "last_success": 1786028621.3440986,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786026816.7258708,
+   "last_success": 1786028636.5153224,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786026816.7258756,
+   "last_success": 1786028636.5153282,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786026816.7258773,
+   "last_success": 1786028636.5153298,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786026816.7258785,
+   "last_success": 1786028636.5153313,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786026816.7258797,
+   "last_success": 1786028636.5153327,
    "alerted": false
   }
  },
@@ -11716,7 +11716,8 @@
   "company": "Davidson consulting",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4182198225"
+   "https://www.linkedin.com/jobs/view/4182198225",
+   "https://www.linkedin.com/jobs/view/4413463414"
   ]
  },
  "d16d3edb761a2a989614dcd5cbeea73c": {
@@ -28076,6 +28077,186 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4432592729"
+  ]
+ },
+ "08d100dfd8f58cb697d9e9ef8b76f4eb": {
+  "first_seen": 1786028636.5159516,
+  "title": "Apprenti(e) Data Analyst – Lutte contre la fraude et analyse des risques H/F",
+  "company": "Anah",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448412877"
+  ]
+ },
+ "df862a39e7bccf563477d0180a8c0113": {
+  "first_seen": 1786028636.5159643,
+  "title": "Senior Data Scientist / Industrial Data Analyst",
+  "company": "dsm-firmenich",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4395162780"
+  ]
+ },
+ "882eef4c542fa72857894f234bd789df": {
+  "first_seen": 1786028636.5160112,
+  "title": "Data analyst Spark- Tableau - (H/F) - CDI",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449755564"
+  ]
+ },
+ "aede40905bc0db4ae54ec1e751f03b42": {
+  "first_seen": 1786028636.5161111,
+  "title": "Analytics Engineer F/H",
+  "company": "Orano",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450282108"
+  ]
+ },
+ "881483cfac71f49da1aa16a8f5e0d025": {
+  "first_seen": 1786028636.5161192,
+  "title": "Ingénieur Data H/F",
+  "company": "GROUPAMA - G2S",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424207116"
+  ]
+ },
+ "dd435594f2cef18418d84b638d159e8c": {
+  "first_seen": 1786028636.5161276,
+  "title": "Consultant(e) DataOps F/H - Transport, secteur public",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4387661323"
+  ]
+ },
+ "d7c781cf0f6791ff9930ee80fc43d8cc": {
+  "first_seen": 1786028636.5161364,
+  "title": "Contrôleur de Gestion Cellule Data, KPIs & Reporting F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422439484"
+  ]
+ },
+ "10be30ddc1408d13f86f758062bf63b1": {
+  "first_seen": 1786028636.5161698,
+  "title": "Ingénieur architecte python et industrialisation IA - CDI Saclay (91) H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440219726"
+  ]
+ },
+ "e954d910a8700f49b06bf6a7bdc04c37": {
+  "first_seen": 1786028636.516197,
+  "title": "ALTERNANCE – Ingénieur Télécoms, Data & IA pour le Soutien Opérationnel – F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441223133"
+  ]
+ },
+ "244e2a8b382c31ceaf3e16364e04dd30": {
+  "first_seen": 1786028636.516212,
+  "title": "Applied AI Engineer - Digital Experience",
+  "company": "Nexans",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448431340"
+  ]
+ },
+ "15556d40ce8d7460e93d66bc70402ea8": {
+  "first_seen": 1786028636.5162742,
+  "title": "AI Consultant [H/F/D]",
+  "company": "Infosys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438417392"
+  ]
+ },
+ "a3915e8036cdcbb5adf36793c0eaf3dd": {
+  "first_seen": 1786028636.5164032,
+  "title": "AI Platform & Architecture Engineer H/F",
+  "company": "Meilleurtaux",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450256483"
+  ]
+ },
+ "31c0bc3470aab7d1189544120bc84c94": {
+  "first_seen": 1786028636.5164669,
+  "title": "Chef.fe d’unité Cadrage, Analyse Prédictive et Stratégie H/F",
+  "company": "Anah",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448415827"
+  ]
+ },
+ "dbeb386d7dd30a0dcfbbab7d18cdf058": {
+  "first_seen": 1786028636.5165026,
+  "title": "ALTERNANCE – Ingénieur IA, Cloud & Infrastructure Sécurisée – F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4393208803"
+  ]
+ },
+ "163031b7a4690411a981f096db03d34a": {
+  "first_seen": 1786028636.5165398,
+  "title": "Senior Software Engineer (AI Project)",
+  "company": "Skello",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441485380"
+  ]
+ },
+ "4e0c0d9b32a67ba88d9c83c04d715859": {
+  "first_seen": 1786028636.516555,
+  "title": "STAGE - Chef(fe) de projets broadcast H/F",
+  "company": "Groupe TF1",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450230329"
+  ]
+ },
+ "c4305ffcae92517630836ed1cdc238d7": {
+  "first_seen": 1786028636.516858,
+  "title": "Ingénieur Centrales Inertielles F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4343552476"
+  ]
+ },
+ "7eafe4f454a5c95817fb68faad5bcfec": {
+  "first_seen": 1786028636.5169113,
+  "title": "Techncien(ne) validation services connectés  F/H",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441267054"
+  ]
+ },
+ "583fe100ea920adfeea923813ee558d8": {
+  "first_seen": 1786028636.5169353,
+  "title": "Analyste Solution Digitale débutant H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450236263"
+  ]
+ },
+ "9451ccfb00b816adbde6afee6a033a80": {
+  "first_seen": 1786028636.5169456,
+  "title": "Opérateur(trice) de production de cartes électroniques (H/F)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438411957"
   ]
  }
 }
