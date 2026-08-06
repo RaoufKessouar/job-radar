@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786017826.9881825,
+   "last_success": 1786019602.1311269,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786017826.9881885,
+   "last_success": 1786019602.1311324,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786017843.6013443,
+   "last_success": 1786019616.5150037,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786017843.6013489,
+   "last_success": 1786019616.5150084,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786017843.6013505,
+   "last_success": 1786019616.51501,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786017843.601352,
+   "last_success": 1786019616.5150113,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786017843.6013532,
+   "last_success": 1786019616.515013,
    "alerted": false
   }
  },
@@ -27641,6 +27641,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449711925"
+  ]
+ },
+ "e51f2e33b176aee3ef08dc90f37fa9b4": {
+  "first_seen": 1786019616.5156417,
+  "title": "Apprenti.e Marketing analyst",
+  "company": "Nexans",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441449175"
+  ]
+ },
+ "8a6a8913d622183cbf6c1847e20be9ee": {
+  "first_seen": 1786019616.5156834,
+  "title": "Stagiaire H/F Business Analyst – PARIS",
+  "company": "AB InBev",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449608104"
+  ]
+ },
+ "0c3ce43df4e7e5de8918063b70325961": {
+  "first_seen": 1786019616.5158758,
+  "title": "Head of Travel Digital & AI Adoption",
+  "company": "AXA Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449620870"
+  ]
+ },
+ "f6334e6c3d766556d6703e459d54d359": {
+  "first_seen": 1786019616.5159318,
+  "title": "ALTERNANT DEVOPS & AUTOMATISATION IA (H/F)",
+  "company": "Paris je t'aime",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450246254"
+  ]
+ },
+ "8862e2ae22408b211dd022c6b4e8434d": {
+  "first_seen": 1786019616.5159566,
+  "title": "Responsable Etudes et Conception d'Algorithmes de Traitement d'Image F/H - MBDA",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450242300"
+  ]
+ },
+ "3dba8443d947ee1587865a947c769b15": {
+  "first_seen": 1786019616.5160198,
+  "title": "Stage - 6 mois - Développeur Observability &amp; Monitoring F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448410706"
+  ]
+ },
+ "0dd5bef42d852cbf1329c5031789ef7d": {
+  "first_seen": 1786019616.5160828,
+  "title": "AI Business Strategy Manager",
+  "company": "Nexans",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448415361"
+  ]
+ },
+ "0247a4ddde82f6b0ed77774a50c70690": {
+  "first_seen": 1786019616.5161788,
+  "title": "Ingénieur Conception Electronique H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4403964641"
   ]
  }
 }
