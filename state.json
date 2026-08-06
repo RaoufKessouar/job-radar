@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786003425.4563806,
+   "last_success": 1786005203.0125313,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786003425.456387,
+   "last_success": 1786005203.0125372,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786003441.549165,
+   "last_success": 1786005216.617307,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786003441.54917,
+   "last_success": 1786005216.617312,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786003441.5491717,
+   "last_success": 1786005216.6173139,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786003441.5491736,
+   "last_success": 1786005216.617315,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786003441.5491753,
+   "last_success": 1786005216.6173162,
    "alerted": false
   }
  },
@@ -10455,7 +10455,6 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444718513",
    "https://www.linkedin.com/jobs/view/4445369474",
    "https://www.linkedin.com/jobs/view/4446116808",
    "https://www.linkedin.com/jobs/view/4435171155",
@@ -10464,7 +10463,8 @@
    "https://www.linkedin.com/jobs/view/4447510838",
    "https://www.linkedin.com/jobs/view/4447822164",
    "https://www.linkedin.com/jobs/view/4448143019",
-   "https://www.linkedin.com/jobs/view/4448885314"
+   "https://www.linkedin.com/jobs/view/4448885314",
+   "https://www.linkedin.com/jobs/view/4450205980"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -26938,6 +26938,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449376565"
+  ]
+ },
+ "7d97d02f36fe5fc3aa7115be8388bc69": {
+  "first_seen": 1786005216.6181238,
+  "title": "Acquisition & Marketing Data Manager H/F",
+  "company": "EDHEC Business School",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449113484"
+  ]
+ },
+ "4e98ea7be4ba39e436edf6b4b3807863": {
+  "first_seen": 1786005216.6185193,
+  "title": "Innovation parcours aéroport - Digital ID & conformité voyage F/H - Air France KLM",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449674628"
+  ]
+ },
+ "3f215c1049734e1d3de387e422011de2": {
+  "first_seen": 1786005216.6187336,
+  "title": "Automaticien-ne F/H",
+  "company": "Safran",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448095244"
+  ]
+ },
+ "e89489628b30e980410b8a3bdf6a1067": {
+  "first_seen": 1786005216.618762,
+  "title": "Sub System Design Engineer",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434544487"
+  ]
+ },
+ "565478e9e0875fc10a269770fabd34e3": {
+  "first_seen": 1786005216.618854,
+  "title": "Blank Job Description",
+  "company": "Exyte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4412930035"
+  ]
+ },
+ "2de8ca98a5a122c5b69a222c28bee22e": {
+  "first_seen": 1786005216.6188667,
+  "title": "Modeling Engineer",
+  "company": "Metroscope",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449379459"
   ]
  }
 }
