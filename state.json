@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786038302.060883,
+   "last_success": 1786043043.6255617,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786038302.0608888,
+   "last_success": 1786043043.6255672,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786038316.4883602,
+   "last_success": 1786043056.7154841,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786038316.4883657,
+   "last_success": 1786043056.7154887,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786038316.4883673,
+   "last_success": 1786043056.7154903,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786038316.488369,
+   "last_success": 1786043056.715492,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786038316.4883702,
+   "last_success": 1786043056.7154932,
    "alerted": false
   }
  },
@@ -28563,6 +28563,114 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449771329"
+  ]
+ },
+ "b332288128e6609ddf48dfe5f4a748c6": {
+  "first_seen": 1786043056.7160635,
+  "title": "Data Scientist",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448441549"
+  ]
+ },
+ "759b8a0446d6bd0e29d08322dad31d46": {
+  "first_seen": 1786043056.7161553,
+  "title": "ALTERNANCE - Developpeur - Data/AI dashboard (F/H)",
+  "company": "ENGIE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450622158"
+  ]
+ },
+ "4740863acad60b566b0db47843de2c76": {
+  "first_seen": 1786043056.7163162,
+  "title": "STAGE- Validation de codes de simulation Monte-Carlo sur données réelles à basse énergie . H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423931492"
+  ]
+ },
+ "3f10a8dffe30bfa444399dee7bfa31ac": {
+  "first_seen": 1786043056.7163267,
+  "title": "Manager Stratégie & Data",
+  "company": "digiRocks 🎸",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438737418"
+  ]
+ },
+ "0729d1587ef06d78d8f7f2b24c855df6": {
+  "first_seen": 1786043056.7163367,
+  "title": "Data analyst pilotage commercial et financier",
+  "company": "Societe Generale Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440675956"
+  ]
+ },
+ "4ba489cfdcd52dadb5a7d7c7bb0e4854": {
+  "first_seen": 1786043056.7163455,
+  "title": "Senior Associate, Data & AI Team",
+  "company": "Alvarez & Marsal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441270967"
+  ]
+ },
+ "c961b96a1024cb1cc8193209cc912c8d": {
+  "first_seen": 1786043056.716783,
+  "title": "STAGE - Exploration des usages de l'agent IA BoB IBM Jazz F/H - Y - DIRECTION TECHNIQUE, RECHERCHE & TECHNOLOGIE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450610631"
+  ]
+ },
+ "f79356535283d53785e1ccc64324ebfc": {
+  "first_seen": 1786043056.7168336,
+  "title": "STAGE - ASSISTANT.E JURISTE IT & PRIVACY (F/H/X) - JANVIER 2027",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441452678"
+  ]
+ },
+ "500e51e3145582eb95a9ff8dcb52cd06": {
+  "first_seen": 1786043056.716952,
+  "title": "STAGE - Conception d'un environnement de simulation pour la validation de logiciels F/H - YX - BE SYSTEMES PROPULSIFS",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450621083"
+  ]
+ },
+ "251b5d4ee56197303b24e74a92300f40": {
+  "first_seen": 1786043056.717056,
+  "title": "Manager, Software Engineering (France)",
+  "company": "AMETEK",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404327040"
+  ]
+ },
+ "d46a94017b209605509bd3231ae15b31": {
+  "first_seen": 1786043056.7170627,
+  "title": "Automaticien H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450613003"
+  ]
+ },
+ "68750ad535aa71d8d71e482de04a6faf": {
+  "first_seen": 1786043056.7170944,
+  "title": "Ingénieur conception électronique numérique H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4183868510"
   ]
  }
 }
