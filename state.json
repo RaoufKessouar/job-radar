@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785998024.2772307,
+   "last_success": 1785999837.4635837,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785998024.277236,
+   "last_success": 1785999837.4635904,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785998039.654791,
+   "last_success": 1785999853.1859832,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785998039.6547952,
+   "last_success": 1785999853.1859884,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785998039.6547964,
+   "last_success": 1785999853.1859903,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785998039.6547976,
+   "last_success": 1785999853.1859922,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785998039.6547987,
+   "last_success": 1785999853.1859937,
    "alerted": false
   }
  },
@@ -26685,6 +26685,105 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4394637330"
+  ]
+ },
+ "76797dccbfe5f4462fe5a5f445a849f8": {
+  "first_seen": 1785999853.187055,
+  "title": "Data Engineer Senior",
+  "company": "GazelTech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449109389"
+  ]
+ },
+ "6636924475e53a9418d6966da5ac47f8": {
+  "first_seen": 1785999853.187078,
+  "title": "Associate Consultant (m/f/d) - Fin d'études/stage de césure – Healthcare & Life Sciences",
+  "company": "Simon-Kucher",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4211334461"
+  ]
+ },
+ "094206f3a1db68faaf128088c7e1dbdc": {
+  "first_seen": 1785999853.1873775,
+  "title": "Sales Engineer",
+  "company": "InterSystems",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4406609720"
+  ]
+ },
+ "b1432570467380609f575d5c32c194cf": {
+  "first_seen": 1785999853.1874752,
+  "title": "Staff Product Manager [AI Products expertise]",
+  "company": "Qonto",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450202505"
+  ]
+ },
+ "04bf7a4ae74d35b7876bee76323b6bf3": {
+  "first_seen": 1785999853.187509,
+  "title": "Offre de stage – Développeur Full Stack .NET en finance / Angular (H/F)",
+  "company": "MERITIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448033839"
+  ]
+ },
+ "a5786e0f9f38cf1eda463ffaaf9e60be": {
+  "first_seen": 1785999853.187606,
+  "title": "Junior Assistant Marketing Label - Stage",
+  "company": "Believe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440224051"
+  ]
+ },
+ "01e903ea96fa24136f7ec3803ada2e29": {
+  "first_seen": 1785999853.1876693,
+  "title": "STAGE - Simulations de flux de production à l'aide d'un jumeau digital F/H - IY - CONCEPTION & INDUSTRIALISATION",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446550705"
+  ]
+ },
+ "0e2964d18371c096743eef45d4f73f9c": {
+  "first_seen": 1785999853.1879056,
+  "title": "Stage technicien  Robotique & automatisation (BTS CRSA 1ère année) F/H - IT - CEI AUBES DE TURBINE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446840367"
+  ]
+ },
+ "1cb43ca124c41695bf38551959545ce0": {
+  "first_seen": 1785999853.1879578,
+  "title": "Responsable de Pôle Architecture & Ingénierie Système (Robotique) F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449677616"
+  ]
+ },
+ "bbdd74394cc8f11dbe17998e00a5416f": {
+  "first_seen": 1785999853.1880453,
+  "title": "Alternance – Ingénieur Packaging – Parfums Beauté – Septembre 2026 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413140315"
+  ]
+ },
+ "51537ec935c10bd3bc035ce7d35b1853": {
+  "first_seen": 1785999853.188065,
+  "title": "(H/F) - Assistant(e) en Engagement Public (Section Programmes)",
+  "company": "US Embassy Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448981881"
   ]
  }
 }
