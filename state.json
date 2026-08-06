@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786034376.1813755,
+   "last_success": 1786036119.277146,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786034376.1813817,
+   "last_success": 1786036119.2771523,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786034392.8140745,
+   "last_success": 1786036134.6778429,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786034392.8140798,
+   "last_success": 1786036134.677848,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786034392.8140812,
+   "last_success": 1786036134.6778498,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786034392.814083,
+   "last_success": 1786036134.6778514,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786034392.8140843,
+   "last_success": 1786036134.6778526,
    "alerted": false
   }
  },
@@ -28464,6 +28464,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448447221"
+  ]
+ },
+ "abb9259c2008fc86ccbba6038428a6d5": {
+  "first_seen": 1786036134.6785886,
+  "title": "AI Technical Expert F/M",
+  "company": "Candriam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450285827"
+  ]
+ },
+ "eb2982f76c8646301bb90e7262466057": {
+  "first_seen": 1786036134.6786249,
+  "title": "Stagiaire Chargé de Projet et data analyste (F/H)",
+  "company": "Carrefour",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448450192"
+  ]
+ },
+ "9a2fc35386c6a627ecfa23254be8224d": {
+  "first_seen": 1786036134.6786685,
+  "title": "Analyste de portefeuille Crédit Corporates",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4062025587"
+  ]
+ },
+ "75a7ae0eafcdea29a342acaf8acdd7d9": {
+  "first_seen": 1786036134.6787603,
+  "title": "Stagiaire R&D H/F",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420416213"
+  ]
+ },
+ "33e9ec91af7d1aa92c246cffe1f000b6": {
+  "first_seen": 1786036134.6787944,
+  "title": "Machine Learning Engineer",
+  "company": "Sapphire Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450282737"
+  ]
+ },
+ "3dd41881c1fff5625410949fdca6f403": {
+  "first_seen": 1786036134.679007,
+  "title": "Gen AI Principal Consultant [H/F/D]",
+  "company": "Infosys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438401801"
+  ]
+ },
+ "0ddd5b05d947f454c621027cdd20f80e": {
+  "first_seen": 1786036134.6791403,
+  "title": "STAGE - Chargé d'études H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450279897"
+  ]
+ },
+ "473a8408aaa3e64c767004f4df32b22e": {
+  "first_seen": 1786036134.6791632,
+  "title": "Stage Analyste Investissement H/F",
+  "company": "PERIAL AM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448427991"
+  ]
+ },
+ "a28ef9b04a2d12077008c77a7704a351": {
+  "first_seen": 1786036134.6793556,
+  "title": "Ingénieur FPGA / FPGA Engineer",
+  "company": "Exegy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443510707"
+  ]
+ },
+ "45c429520bc3d33734fdd263f14f73cc": {
+  "first_seen": 1786036134.679385,
+  "title": "Software Engineer Python / FastAPI",
+  "company": "SFEIR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4323562719"
   ]
  }
 }
