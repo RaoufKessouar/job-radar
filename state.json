@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785999837.4635837,
+   "last_success": 1786001632.6067722,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785999837.4635904,
+   "last_success": 1786001632.606778,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785999853.1859832,
+   "last_success": 1786001647.4349186,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785999853.1859884,
+   "last_success": 1786001647.434924,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785999853.1859903,
+   "last_success": 1786001647.4349256,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785999853.1859922,
+   "last_success": 1786001647.434927,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785999853.1859937,
+   "last_success": 1786001647.4349284,
    "alerted": false
   }
  },
@@ -26784,6 +26784,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448981881"
+  ]
+ },
+ "c05447f26b4015c88c84b4ef617c0534": {
+  "first_seen": 1786001647.4358244,
+  "title": "Ingénieur IA - H/F",
+  "company": "ATEXIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450205713"
+  ]
+ },
+ "49f551dab106030d1704574e5d19e7d0": {
+  "first_seen": 1786001647.436272,
+  "title": "Concepteur pédagogique en stage F/H",
+  "company": "Walter Learning",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449953873"
   ]
  }
 }
