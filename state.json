@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786010615.690548,
+   "last_success": 1786012408.3747427,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786010615.6905544,
+   "last_success": 1786012408.3747482,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786010629.6867456,
+   "last_success": 1786012422.520038,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786010629.6867497,
+   "last_success": 1786012422.5200422,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786010629.6867511,
+   "last_success": 1786012422.5200438,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786010629.6867526,
+   "last_success": 1786012422.520045,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786010629.6867537,
+   "last_success": 1786012422.5200462,
    "alerted": false
   }
  },
@@ -23493,7 +23493,8 @@
   "company": "Doctolib",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448853086"
+   "https://www.linkedin.com/jobs/view/4448853086",
+   "https://www.linkedin.com/jobs/view/4450227467"
   ]
  },
  "215579a233c49cea9e323a4b27db45b1": {
@@ -24524,7 +24525,8 @@
   "company": "L'Oréal",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448534236"
+   "https://www.linkedin.com/jobs/view/4448534236",
+   "https://www.linkedin.com/jobs/view/4449126836"
   ]
  },
  "fded9135a502637dd277ff4d675ffe6d": {
@@ -27176,6 +27178,232 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450232056"
+  ]
+ },
+ "02f5cb6f2b5ca0c61557e0db359febaa": {
+  "first_seen": 1786012422.5206385,
+  "title": "AI Research Engineer - Datadog AI Research (DAIR)",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4291894776"
+  ]
+ },
+ "c751e1983ee332fdb8959eb3035ef8e3": {
+  "first_seen": 1786012422.5206623,
+  "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4212959420"
+  ]
+ },
+ "e2ecadcf5f7d53ed58bbff839bd701c7": {
+  "first_seen": 1786012422.5206966,
+  "title": "Data Engineer",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435645975"
+  ]
+ },
+ "7cc76ba122b1a0bf4c911b71b257fc10": {
+  "first_seen": 1786012422.5208216,
+  "title": "Chef de Projet - DSPE Data Analyse (H/F)",
+  "company": "Club Med",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431484274"
+  ]
+ },
+ "f4167f6c7eeb93eb8e13cf3e8b716275": {
+  "first_seen": 1786012422.5208836,
+  "title": "Géomaticien F/H",
+  "company": "IRD",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449393323"
+  ]
+ },
+ "3f188bf30c0294d09e800b20a520ff4c": {
+  "first_seen": 1786012422.520892,
+  "title": "CS27 BAC+5 - Ingénieur crash (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449384372"
+  ]
+ },
+ "89355582d3537f06c292ff78e7b93afd": {
+  "first_seen": 1786012422.5209403,
+  "title": "Agentic AI Transformer H/F",
+  "company": "Meilleurtaux",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449395266"
+  ]
+ },
+ "5210a2c8aa0527d66d078964c3a656df": {
+  "first_seen": 1786012422.5209763,
+  "title": "Senior AI Software Engineer",
+  "company": "XpertDirect",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448405537"
+  ]
+ },
+ "e4309a8ebb941d937cfd405eaaca4181": {
+  "first_seen": 1786012422.5209975,
+  "title": "Product Manager",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435656721"
+  ]
+ },
+ "cf8a8eb096708357c679694f1e31f5ee": {
+  "first_seen": 1786012422.5210054,
+  "title": "AI Instructional Designer (Forward-Deployed, founding team)",
+  "company": "Raison",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448051743"
+  ]
+ },
+ "156922636fcee9f9d0bf1c44dcf27758": {
+  "first_seen": 1786012422.5210202,
+  "title": "Deloitte Digital - Consultant Junior CX / Service Design - F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423254997"
+  ]
+ },
+ "b1fb6ffefbea4633225c3fd187fba2d0": {
+  "first_seen": 1786012422.521068,
+  "title": "KERING Integration Streaming Engineer",
+  "company": "Kering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450214569"
+  ]
+ },
+ "9b5e6af0e09f805006ba74e6fd1e5db4": {
+  "first_seen": 1786012422.521087,
+  "title": "Stage - Assistant(e) International Retail Performance - Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441210061"
+  ]
+ },
+ "94bb155791b7eedbf2543f427531f8d0": {
+  "first_seen": 1786012422.5210943,
+  "title": "Machine Build Automation and PLC Advanced Engineer",
+  "company": "Autoliv",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433073483"
+  ]
+ },
+ "aa1d799326e6cd279b7ef9d47befe8cd": {
+  "first_seen": 1786012422.521144,
+  "title": "Stage - Software Engineer - Backend / Fullstack",
+  "company": "Numberly",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440213883"
+  ]
+ },
+ "b0e71a237a23351ab11c6835a99d35b5": {
+  "first_seen": 1786012422.521177,
+  "title": "Data & AI Solution Architect",
+  "company": "Avanade",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441404083"
+  ]
+ },
+ "c2f7ae492cf5476bc38ac7c972a84536": {
+  "first_seen": 1786012422.521196,
+  "title": "Stage - Assistant(e) Chef(fe) de Projet Digital Retail Education International - Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440991803"
+  ]
+ },
+ "06ce531ad5b49b32c3b912479f828cb9": {
+  "first_seen": 1786012422.5212173,
+  "title": "CS27 BAC+5 - Etude allègement véhicule (H/F)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449376966"
+  ]
+ },
+ "a31ff1595d4f0ecec33690d70ebff262": {
+  "first_seen": 1786012422.5213423,
+  "title": "Deux stages de M2 pour biologistes proposés à l’université Paris Sud (Orsay)",
+  "company": "Astrobiology Introductory Course (RED) Rencontres Exobiologiques pour Doctorants",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449633503"
+  ]
+ },
+ "e6dc764048113b964f3cfd3f55941a2e": {
+  "first_seen": 1786012422.5213957,
+  "title": "Stage - Juriste Innovation de Produit (x/f/m) - Janvier 2027",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440976037",
+   "https://www.linkedin.com/jobs/view/4440975049"
+  ]
+ },
+ "575d3c34b1f7eb12228031d1843295b5": {
+  "first_seen": 1786012422.52142,
+  "title": "Stage – Siège social - Juriste H/F",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4427059857"
+  ]
+ },
+ "db6ee4ac2b8759849f736e8a93f0667c": {
+  "first_seen": 1786012422.521429,
+  "title": "Stagiaire Chef de Projet Évènementiel F/H",
+  "company": "Civils de la Défense",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438613269"
+  ]
+ },
+ "51f614da726639a1077c7ea5fd3ad1ab": {
+  "first_seen": 1786012422.5214372,
+  "title": "Stage -  Assistant.e composants & projets spéciaux H/F",
+  "company": "AMI PARIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449125546"
+  ]
+ },
+ "e667316b7b858851beab001e4f6f4db2": {
+  "first_seen": 1786012422.5215619,
+  "title": "ingénieur(e) électronique F/H",
+  "company": "ELITYS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450225450"
+  ]
+ },
+ "41fdb75230e211ad4a7297198dead688": {
+  "first_seen": 1786012422.5215783,
+  "title": "Ingénieur(e) AMOA (F/H)",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449906572"
   ]
  }
 }
