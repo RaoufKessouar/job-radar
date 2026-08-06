@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1785992621.016995,
+   "last_success": 1785994418.279886,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1785992621.0170002,
+   "last_success": 1785994418.2798917,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1785992634.7718196,
+   "last_success": 1785994435.0161116,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1785992634.7718246,
+   "last_success": 1785994435.0161161,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1785992634.7718265,
+   "last_success": 1785994435.0161178,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1785992634.771828,
+   "last_success": 1785994435.0161192,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1785992634.7718294,
+   "last_success": 1785994435.0161207,
    "alerted": false
   }
  },
@@ -15405,7 +15405,8 @@
    "https://www.linkedin.com/jobs/view/4445568780",
    "https://www.linkedin.com/jobs/view/4445830759",
    "https://www.linkedin.com/jobs/view/4445867318",
-   "https://www.linkedin.com/jobs/view/4447346310"
+   "https://www.linkedin.com/jobs/view/4447346310",
+   "https://www.linkedin.com/jobs/view/4448082810"
   ]
  },
  "532f5a62d4637816820f666d783bf2bf": {
@@ -26512,6 +26513,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449917576"
+  ]
+ },
+ "4e24068f63699c7f4487612dc4b813b2": {
+  "first_seen": 1785994435.017802,
+  "title": "CHEF DE PROJET LOGICIEL (C, C++, C# – APPLICATIF OU EMBARQUÉ) H/F",
+  "company": "Médiane Système",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449374138"
+  ]
+ },
+ "6aaee293865b47806c888cbbeb7c5d1c": {
+  "first_seen": 1785994435.0178115,
+  "title": "Ingénieur Logiciel, C++",
+  "company": "Exegy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419973924"
+  ]
+ },
+ "01394d5f43b0620944ade80acf06f717": {
+  "first_seen": 1785994435.0178518,
+  "title": "Software Safety Engineer",
+  "company": "Hashlist",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449104363"
+  ]
+ },
+ "0676de66136527110f0db36a4f976921": {
+  "first_seen": 1785994435.0178652,
+  "title": "Associate Frontend Engineer",
+  "company": "Alpine Business Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449120433"
+  ]
+ },
+ "a180b1aa60cc83ffc891ac2d780873f4": {
+  "first_seen": 1785994435.0179055,
+  "title": "Senior Staff Research/Standardization Specialist",
+  "company": "Nokia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418773486"
   ]
  }
 }
