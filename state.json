@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786008815.2099361,
+   "last_success": 1786010615.690548,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786008815.2099428,
+   "last_success": 1786010615.6905544,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786008829.2006192,
+   "last_success": 1786010629.6867456,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786008829.2006242,
+   "last_success": 1786010629.6867497,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786008829.2006257,
+   "last_success": 1786010629.6867511,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786008829.200627,
+   "last_success": 1786010629.6867526,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786008829.2006288,
+   "last_success": 1786010629.6867537,
    "alerted": false
   }
  },
@@ -15108,7 +15108,8 @@
   "company": "Yélé Consulting",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446801686"
+   "https://www.linkedin.com/jobs/view/4446801686",
+   "https://www.linkedin.com/jobs/view/4449907670"
   ]
  },
  "f682b689367f0e4102eba07c12322349": {
@@ -18740,7 +18741,8 @@
   "company": "Inetum",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4439332203"
+   "https://www.linkedin.com/jobs/view/4439332203",
+   "https://www.linkedin.com/jobs/view/4449685229"
   ]
  },
  "1a1f0fcf7bf6b0cf3fea6967e06156c0": {
@@ -27138,6 +27140,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448092610"
+  ]
+ },
+ "c0b7eb41433c091eb77086a20c7d2df4": {
+  "first_seen": 1786010629.6872716,
+  "title": "Claims Performance Analyst",
+  "company": "Zurich Insurance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430569462"
+  ]
+ },
+ "347c6fc02e0c1d35dfc83ab048b2b038": {
+  "first_seen": 1786010629.6876702,
+  "title": "Offre Alternance - Développement Full Stack",
+  "company": "CONTROL F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450219222"
+  ]
+ },
+ "2fb8a35ca1c6fdbcad4d6b871cd84acb": {
+  "first_seen": 1786010629.6876774,
+  "title": "Sales Associate",
+  "company": "adidas",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448049189"
+  ]
+ },
+ "6d4efa820c06ee3ca969d029564a79d7": {
+  "first_seen": 1786010629.687685,
+  "title": "Data Transformation Lead (F/M)",
+  "company": "AD Education",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450232056"
   ]
  }
 }
