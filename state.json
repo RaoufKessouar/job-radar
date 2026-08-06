@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786032344.2018776,
+   "last_success": 1786034376.1813755,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786032344.2018828,
+   "last_success": 1786034376.1813817,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786032357.949943,
+   "last_success": 1786034392.8140745,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786032357.9499478,
+   "last_success": 1786034392.8140798,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786032357.9499497,
+   "last_success": 1786034392.8140812,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786032357.949951,
+   "last_success": 1786034392.814083,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786032357.9499524,
+   "last_success": 1786034392.8140843,
    "alerted": false
   }
  },
@@ -28455,6 +28455,15 @@
   "source": "carriere-valeo",
   "urls": [
    "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Saint-Denis/Digital-Marketing-Apprentice_REQ2026072593"
+  ]
+ },
+ "c743a75a1aa893a225d6b85c82977b01": {
+  "first_seen": 1786034392.815402,
+  "title": "Ingénieur Logiciel Embarqué",
+  "company": "TRAPIL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448447221"
   ]
  }
 }
