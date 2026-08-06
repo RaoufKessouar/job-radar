@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786014212.4025972,
+   "last_success": 1786016014.3374214,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786014212.402603,
+   "last_success": 1786016014.3374267,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786014225.4594145,
+   "last_success": 1786016029.1238985,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786014225.4594197,
+   "last_success": 1786016029.1239033,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786014225.4594214,
+   "last_success": 1786016029.123905,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786014225.4594235,
+   "last_success": 1786016029.1239064,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786014225.4594247,
+   "last_success": 1786016029.1239076,
    "alerted": false
   }
  },
@@ -14259,7 +14259,8 @@
    "https://www.linkedin.com/jobs/view/4446039931",
    "https://www.linkedin.com/jobs/view/4447288679",
    "https://www.linkedin.com/jobs/view/4447782688",
-   "https://www.linkedin.com/jobs/view/4449469862"
+   "https://www.linkedin.com/jobs/view/4449469862",
+   "https://www.linkedin.com/jobs/view/4450232592"
   ]
  },
  "8a47c276a9f6f63ad6f2bae851b14e2c": {
@@ -21873,7 +21874,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448171007",
-   "https://www.linkedin.com/jobs/view/4449478290"
+   "https://www.linkedin.com/jobs/view/4449478290",
+   "https://www.linkedin.com/jobs/view/4450224707"
   ]
  },
  "80e073dc2448114aa2ec6a69eaf51649": {
@@ -27423,6 +27425,150 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449121932"
+  ]
+ },
+ "4b300d0b65ea0b93df797fcc0d442bb1": {
+  "first_seen": 1786016029.1244009,
+  "title": "Data Scientist Confirmé Python (H/F)",
+  "company": "DGTL Performance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450225701"
+  ]
+ },
+ "37687b20322ded62b48804899f0fb04c": {
+  "first_seen": 1786016029.1244218,
+  "title": "Lead Data Scientist - BI Prediction",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4292521362"
+  ]
+ },
+ "42b27b8ca82d12b7c0a10e5ae3ab2eb6": {
+  "first_seen": 1786016029.1244502,
+  "title": "Senior Data Scientist I",
+  "company": "Checkout.com",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410178803"
+  ]
+ },
+ "db42d8cd896cc6f82567e938599af53d": {
+  "first_seen": 1786016029.124545,
+  "title": "Multimodal Foundational Models For Neuroscience",
+  "company": "Scholar Nexus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450237316"
+  ]
+ },
+ "42a0e9c0d52c246b78940cea017256c6": {
+  "first_seen": 1786016029.1245775,
+  "title": "Data Analyst en alternance H/F",
+  "company": "SOFIP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441204739"
+  ]
+ },
+ "33c94ce3a81e0682eda9a09a4792815e": {
+  "first_seen": 1786016029.1249774,
+  "title": "Software Engineer, Enterprise Agents",
+  "company": "SignalAI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448013000"
+  ]
+ },
+ "030c3f1209f876a1bd4e9be71760c51e": {
+  "first_seen": 1786016029.125062,
+  "title": "Customer Success Manager - SAP Academy for Customer Success - FRANCE (Hybrid)",
+  "company": "SAP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449116824"
+  ]
+ },
+ "273a25d923509418b205bc959462b6f6": {
+  "first_seen": 1786016029.1250782,
+  "title": "Junior Full Stack Engineer",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4435662687"
+  ]
+ },
+ "0a4c291bdf715fc8a5905d71b4fe93be": {
+  "first_seen": 1786016029.1250942,
+  "title": "Quantitative Developer",
+  "company": "Qube Research & Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450229234"
+  ]
+ },
+ "ff11ee554b42a7bde860b82d6adec9dc": {
+  "first_seen": 1786016029.125187,
+  "title": "Stagiaire R&D F/H",
+  "company": "Picard Surgelés",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450222299"
+  ]
+ },
+ "a5074b3130bc938333be67704d1b89e6": {
+  "first_seen": 1786016029.125294,
+  "title": "Stage – Assistant Planning Stratégique – F/H/NB",
+  "company": "PUBLICIS LUXE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449113873"
+  ]
+ },
+ "94e92904444c4b8f03ca9cb271b7c464": {
+  "first_seen": 1786016029.1253033,
+  "title": "Stage - Chef de projet qualité H/F",
+  "company": "Devoteam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432255802"
+  ]
+ },
+ "b380189927d140a28a0f2a94b41cc8fa": {
+  "first_seen": 1786016029.125311,
+  "title": "STAGE - Assistant Chef de Produit Bijouterie (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449385598"
+  ]
+ },
+ "55aa3f2867169a459e932a0ee16aa7f1": {
+  "first_seen": 1786016029.1253223,
+  "title": "Stagiaire Relations Investisseur et Fusions Acquisitions H/F - 6 mois / Investor Relations and M&A Intern - 6 months",
+  "company": "Ipsen",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449134737"
+  ]
+ },
+ "c11c153afcf136795dd08fea6acddd65": {
+  "first_seen": 1786016029.125335,
+  "title": "GTM Enablement Intern",
+  "company": "Aircall",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438483834"
+  ]
+ },
+ "3674d34f83ce15c194176f48cd830e5f": {
+  "first_seen": 1786016029.125493,
+  "title": "Technicien électronique - Expérimenté",
+  "company": "TRAPIL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448405829"
   ]
  }
 }
