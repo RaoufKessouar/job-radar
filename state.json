@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786016014.3374214,
+   "last_success": 1786017826.9881825,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786016014.3374267,
+   "last_success": 1786017826.9881885,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786016029.1238985,
+   "last_success": 1786017843.6013443,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786016029.1239033,
+   "last_success": 1786017843.6013489,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786016029.123905,
+   "last_success": 1786017843.6013505,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786016029.1239064,
+   "last_success": 1786017843.601352,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786016029.1239076,
+   "last_success": 1786017843.6013532,
    "alerted": false
   }
  },
@@ -27569,6 +27569,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448405829"
+  ]
+ },
+ "3eb4b9770559d6fdd8a6d2622df0c1ee": {
+  "first_seen": 1786017843.6020217,
+  "title": "Data Analyst SQL / Power BI / Alteryx (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4245348311"
+  ]
+ },
+ "f847f178a07055a667db6363729fe776": {
+  "first_seen": 1786017843.6023335,
+  "title": "Manager Data IA & ML - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438471679"
+  ]
+ },
+ "53c72e18245a07d7e206385d953cd2de": {
+  "first_seen": 1786017843.602378,
+  "title": "Tech Lead IA Agentique F/H",
+  "company": "Bpifrance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440997115"
+  ]
+ },
+ "3cdc7940a83c69f9276fa0cb1a20c2aa": {
+  "first_seen": 1786017843.6025114,
+  "title": "Senior Machine Learning Engineer (SOC)",
+  "company": "Proton",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450251042"
+  ]
+ },
+ "f0b8a7fcb2569109146a44e371d885f4": {
+  "first_seen": 1786017843.6025288,
+  "title": "Stage Data Scientist – Modélisation des Risques Climatiques H/F",
+  "company": "Groupama Assurances Mutuelles",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440205771"
+  ]
+ },
+ "5524cda24fd8118797a067b252c7c5d1": {
+  "first_seen": 1786017843.6025357,
+  "title": "Junior Data Scientist - Casablanca",
+  "company": "Artefact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/3928980953"
+  ]
+ },
+ "5dbbe45baa3a266743aec253c7ba8e60": {
+  "first_seen": 1786017843.6027646,
+  "title": "Apprenti Développement informatique H/F",
+  "company": "LISI AEROSPACE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4388324275"
+  ]
+ },
+ "6dc86597816447b2c1bbeb657775161e": {
+  "first_seen": 1786017843.6027713,
+  "title": "Stage Commercial BDR Agents IA",
+  "company": "Craft AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449711925"
   ]
  }
 }
