@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786019602.1311269,
+   "last_success": 1786021187.176465,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786019602.1311324,
+   "last_success": 1786021187.176472,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786019616.5150037,
+   "last_success": 1786021204.9184728,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786019616.5150084,
+   "last_success": 1786021204.9184783,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786019616.51501,
+   "last_success": 1786021204.9184797,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786019616.5150113,
+   "last_success": 1786021204.9184809,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786019616.515013,
+   "last_success": 1786021204.9184825,
    "alerted": false
   }
  },
@@ -9607,7 +9607,8 @@
    "https://www.linkedin.com/jobs/view/4443069944",
    "https://www.linkedin.com/jobs/view/4444713838",
    "https://www.linkedin.com/jobs/view/4404839765",
-   "https://www.linkedin.com/jobs/view/4448124323"
+   "https://www.linkedin.com/jobs/view/4448124323",
+   "https://www.linkedin.com/jobs/view/4450216041"
   ]
  },
  "0f74be4bf42ae34b5c3eceebc33b5bec": {
@@ -27713,6 +27714,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4403964641"
+  ]
+ },
+ "bce09057715e55e9432cb47566f89cf3": {
+  "first_seen": 1786021204.919005,
+  "title": "ML Engineer H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440697192"
+  ]
+ },
+ "f58839a4e006d1ff45a94eed248e4345": {
+  "first_seen": 1786021204.9192295,
+  "title": "Analyste Valuation Risk Equity",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448429232"
+  ]
+ },
+ "80698647e3e2adb7ea4e1c87852d54ce": {
+  "first_seen": 1786021204.9193592,
+  "title": "Agentic AI engineer intern",
+  "company": "CybelAngel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450247392"
+  ]
+ },
+ "b97966007d855bf005e3e5759151e816": {
+  "first_seen": 1786021204.919911,
+  "title": "Responsable technique hardware et software embarqués",
+  "company": "Actual Talent",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438650077"
   ]
  }
 }
