@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786012408.3747427,
+   "last_success": 1786014212.4025972,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786012408.3747482,
+   "last_success": 1786014212.402603,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786012422.520038,
+   "last_success": 1786014225.4594145,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786012422.5200422,
+   "last_success": 1786014225.4594197,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786012422.5200438,
+   "last_success": 1786014225.4594214,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786012422.520045,
+   "last_success": 1786014225.4594235,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786012422.5200462,
+   "last_success": 1786014225.4594247,
    "alerted": false
   }
  },
@@ -14313,7 +14313,8 @@
   "company": "TotalEnergies",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446588398"
+   "https://www.linkedin.com/jobs/view/4446588398",
+   "https://www.linkedin.com/jobs/view/4450223704"
   ]
  },
  "99d50e22c2e46d7e28c88ec5bf76d8fa": {
@@ -27404,6 +27405,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449906572"
+  ]
+ },
+ "7d757e18f7d03dd484b6ad21cbd9f0ed": {
+  "first_seen": 1786014225.4607613,
+  "title": "Machine Learning Engineer",
+  "company": "Gorgias",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450225727"
+  ]
+ },
+ "0f23297deba685f266967eae1339bf78": {
+  "first_seen": 1786014225.460851,
+  "title": "6-MONTH INTERNSHIP - Starting September 2026 – Supply & Data Excellence – Master's ½ - €1700/month",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449121932"
   ]
  }
 }
