@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786028621.3440926,
+   "last_success": 1786032344.2018776,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786028621.3440986,
+   "last_success": 1786032344.2018828,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786028636.5153224,
+   "last_success": 1786032357.949943,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786028636.5153282,
+   "last_success": 1786032357.9499478,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786028636.5153298,
+   "last_success": 1786032357.9499497,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786028636.5153313,
+   "last_success": 1786032357.949951,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786028636.5153327,
+   "last_success": 1786032357.9499524,
    "alerted": false
   }
  },
@@ -28257,6 +28257,204 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4438411957"
+  ]
+ },
+ "a10f5062797fa73564673faa5ae7e5d6": {
+  "first_seen": 1786032357.950427,
+  "title": "Data Scientists / ML Engineers",
+  "company": "Coface",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448446093"
+  ]
+ },
+ "3b16f41c81af077d1831aa1b12e4312f": {
+  "first_seen": 1786032357.9505224,
+  "title": "Senior Data Scientist",
+  "company": "Kaino",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4393207422"
+  ]
+ },
+ "2fac4099e14abf157462a5cefbf3d400": {
+  "first_seen": 1786032357.9505355,
+  "title": "Research Scientist (x/f/m)",
+  "company": "Doctolib",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450264901"
+  ]
+ },
+ "53564def545df8cb082e8296837c3ec0": {
+  "first_seen": 1786032357.9506438,
+  "title": "Stage - Assistant Client Intelligence Analyst - Mode EUROPE - Janvier 2027 - H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440744750"
+  ]
+ },
+ "3edf1e41f702ad78c229e4d66e2a18a6": {
+  "first_seen": 1786032357.9507024,
+  "title": "ALTERNANCE 12 MOIS - À partir de septembre 2026 – Dev iOS - Master 2",
+  "company": "L'Oréal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449772087"
+  ]
+ },
+ "f7c91c6dac66d7c97a4ae1f6ef5bc114": {
+  "first_seen": 1786032357.9507182,
+  "title": "CDI - Chargé d'études Psychophysiologies / Neurosciences (H/F)",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4330013726"
+  ]
+ },
+ "9eab804537028c80355205e0b7955481": {
+  "first_seen": 1786032357.9508307,
+  "title": "AI Software Engineer / Développeur Augmenté (H/F)",
+  "company": "SFEIR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424420043"
+  ]
+ },
+ "0c7ce3879e77b7db4ba7f8d198459297": {
+  "first_seen": 1786032357.9509182,
+  "title": "Product Owner Data-IA F/H",
+  "company": "Orano",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450267770"
+  ]
+ },
+ "5a41822cfaa4449d7085414addd22e45": {
+  "first_seen": 1786032357.9509826,
+  "title": "Data & Transformation Project Manager, EMEA",
+  "company": "Cushman & Wakefield",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440965750"
+  ]
+ },
+ "d4295c18419149b2546bb0e19596fb94": {
+  "first_seen": 1786032357.9510128,
+  "title": "Chercheur/Chercheuse",
+  "company": "École nationale des ponts et chaussées",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448450115"
+  ]
+ },
+ "ebbf3a24582eeef5c6e6fe98aefc7edf": {
+  "first_seen": 1786032357.9511378,
+  "title": "Stage – Chef(fe) de projet Communication H/F",
+  "company": "Medtronic",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450258844"
+  ]
+ },
+ "108e7bf0a2dabbf334334cb8aaed2a22": {
+  "first_seen": 1786032357.9511662,
+  "title": "Stage - Assistant Communication et Relations Presse F/H",
+  "company": "Fursac",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450243678"
+  ]
+ },
+ "c29ed3b80614e6edc6485b6042b791fc": {
+  "first_seen": 1786032357.9511771,
+  "title": "Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 mois)",
+  "company": "Tommy Hilfiger",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450231873"
+  ]
+ },
+ "7fbf2b62e5d85251232c93f596038d7c": {
+  "first_seen": 1786032357.9511836,
+  "title": "Stage Analyste M&A",
+  "company": "ASA PARTNERS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450254131"
+  ]
+ },
+ "acf2e41f3d6e757b425b4af881a3d57b": {
+  "first_seen": 1786032357.951199,
+  "title": "Stage/Alternance - Compliance ESG et Reporting (F/H/X)",
+  "company": "AVIV Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448432688"
+  ]
+ },
+ "0d6f81db60204646c92ae0a9d1314eb4": {
+  "first_seen": 1786032357.9513042,
+  "title": "Ingénieur développement C++/QT H/F",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4343602101"
+  ]
+ },
+ "772c6f5d730d51165fe661d52d42b11b": {
+  "first_seen": 1786032357.9513433,
+  "title": "System Technical Project Manager",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422465368"
+  ]
+ },
+ "3b1a4a8e7f17c30e4cd5587b20f78de5": {
+  "first_seen": 1786032357.951351,
+  "title": "Ingénieur Études et Conception Système Missile F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432448104"
+  ]
+ },
+ "e9239aa726fabc28428b582ea83d2f7d": {
+  "first_seen": 1786032357.9513767,
+  "title": "Ingénieur ou Ingénieure d'étude en compatibilité électromécanique",
+  "company": "Groupe SNCF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449980477"
+  ]
+ },
+ "37e2d6e833f5e84f219efaa4b5425a98": {
+  "first_seen": 1786032357.9513834,
+  "title": "Développeur Python  - H/F",
+  "company": "Synchrone Fr",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448415584"
+  ]
+ },
+ "132aa1035b7519e29a6f008570ba5b07": {
+  "first_seen": 1786032357.9514337,
+  "title": "Ingénieur logiciel EDA Senior H/F / Senior EDA Software Engineer",
+  "company": "Arteris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449755308"
+  ]
+ },
+ "e4fe4786dffe1e694494623ffe020f27": {
+  "first_seen": 1786032357.9517205,
+  "title": "Digital Marketing Apprentice",
+  "company": "Valeo",
+  "source": "carriere-valeo",
+  "urls": [
+   "https://valeo.wd3.myworkdayjobs.com/fr-FR/valeo_jobs/job/Saint-Denis/Digital-Marketing-Apprentice_REQ2026072593"
   ]
  }
 }
