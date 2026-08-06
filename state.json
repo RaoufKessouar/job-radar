@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786021418.7978516,
+   "last_success": 1786023218.5034359,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786021418.797857,
+   "last_success": 1786023218.503441,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786021433.5572414,
+   "last_success": 1786023233.1860065,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786021433.5572453,
+   "last_success": 1786023233.1860104,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786021433.5572467,
+   "last_success": 1786023233.1860123,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786021433.5572486,
+   "last_success": 1786023233.1860135,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786021433.5572495,
+   "last_success": 1786023233.1860147,
    "alerted": false
   }
  },
@@ -25631,7 +25631,8 @@
   "company": "Hubvisory",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447368642"
+   "https://www.linkedin.com/jobs/view/4447368642",
+   "https://www.linkedin.com/jobs/view/4450250660"
   ]
  },
  "33c5df39797776bf7516f06a021190fb": {
@@ -27750,6 +27751,204 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4438650077"
+  ]
+ },
+ "d949b2fc5197ad989a2856662423ef99": {
+  "first_seen": 1786023233.186587,
+  "title": "STAGE - Assistant(e) Chef de Projets Data RSE",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440248214"
+  ]
+ },
+ "f2a74990e16cf52e698de68ebb659100": {
+  "first_seen": 1786023233.1866055,
+  "title": "Data Engineer Governance Apprentice",
+  "company": "Faurecia",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450240583"
+  ]
+ },
+ "5bcab41f7cef1b8635c96d29ae0f9d97": {
+  "first_seen": 1786023233.1866467,
+  "title": "Chef de projet/Cheffe de projet IA",
+  "company": "Synchrone Fr",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448425520"
+  ]
+ },
+ "3511528e4ee8be8199f4ae07fb77fadc": {
+  "first_seen": 1786023233.1866703,
+  "title": "Data Science Manager",
+  "company": "Teads",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4354109980"
+  ]
+ },
+ "c7a7ac46b1bb99a07a62d45da643f2a8": {
+  "first_seen": 1786023233.1866832,
+  "title": "Data analyst (F/H) - Process & Accessibilité à la Data (H/F)",
+  "company": "AGENCE CIC PARIS HAUSSMANN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450253110"
+  ]
+ },
+ "f2f839469f8ee78ac33f9099f2716cdd": {
+  "first_seen": 1786023233.186718,
+  "title": "Data Analyst Tableau (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4245344654"
+  ]
+ },
+ "eb3b314a781114e8aec51f8a9511ee5a": {
+  "first_seen": 1786023233.1868126,
+  "title": "CONCEPTEUR DEVELOPPEUR PYTHON CONFIRME - IA H/F",
+  "company": "CNP Assurances",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401372423"
+  ]
+ },
+ "86a6a5c254b11a8f98437221510e87b4": {
+  "first_seen": 1786023233.1869142,
+  "title": "Research Scientist, AI, Formal and informal Reasoning",
+  "company": "Meta",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410125836"
+  ]
+ },
+ "04be6a6219f431930b1297d736cc5aa5": {
+  "first_seen": 1786023233.186999,
+  "title": "DATA & AI Presales Senior Consultant",
+  "company": "SoftwareOne",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449740580"
+  ]
+ },
+ "cad271f382c96f371297cc6c972bcf3f": {
+  "first_seen": 1786023233.187008,
+  "title": "DATA SCIENTIST IA GEN (IT)",
+  "company": "RED TIC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450254501"
+  ]
+ },
+ "ab51ebcd924001fcc9732374918a0d72": {
+  "first_seen": 1786023233.1870186,
+  "title": "Leader - Transformation & Adoption GenAI  (Gemini / Google AI)",
+  "company": "Talent-R",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450219529"
+  ]
+ },
+ "a1a7ca84261918b7fd962ba4021863c9": {
+  "first_seen": 1786023233.187051,
+  "title": "STAGE - Ingénieur Développement Stratégie Technique H/F",
+  "company": "Groupe TF1",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450222329"
+  ]
+ },
+ "a4df7e4adedab8d4bca1eb401477962c": {
+  "first_seen": 1786023233.1870563,
+  "title": "Data Analyst - Alternance",
+  "company": "Boursorama",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429446768"
+  ]
+ },
+ "0fd2cae878f656cae5c847ed3906bec9": {
+  "first_seen": 1786023233.18717,
+  "title": "Fullstack software engineer",
+  "company": "TheFork",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419284839"
+  ]
+ },
+ "cae8851fc8b5dabe66c5840a675f6b79": {
+  "first_seen": 1786023233.1871948,
+  "title": "Expert IA conversationnelle",
+  "company": "Ovalo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448411756"
+  ]
+ },
+ "f4da65133bc8d68d1f426a86f0eff252": {
+  "first_seen": 1786023233.1872857,
+  "title": "Stage - Office & Workplace Assistant",
+  "company": "France Immigration - The professional immigration experts in France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449749348"
+  ]
+ },
+ "dc002ca967bd3ab873feb86371b9a9f4": {
+  "first_seen": 1786023233.1873002,
+  "title": "Stagiaire, Relations du travail",
+  "company": "Philip Morris International",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440994323"
+  ]
+ },
+ "3eb0bed7c572c8a2cd4c9476983583ab": {
+  "first_seen": 1786023233.1873145,
+  "title": "Stagiaire \"Junior Analyst – International Investment Group\" H/F",
+  "company": "BNP Paribas Real Estate",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438488760"
+  ]
+ },
+ "0dd1073c993052d5720fa85e53f1e1f0": {
+  "first_seen": 1786023233.1873703,
+  "title": "Ingénieur Développement Logiciel Bancs de Tests H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423982343"
+  ]
+ },
+ "428f4d3c6280b7cfefed375210eb08e5": {
+  "first_seen": 1786023233.1875024,
+  "title": "Python Backend Engineer – Virtual Agent Team (Remote)",
+  "company": "Diabolocom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450251736"
+  ]
+ },
+ "0e2480ef23e37bc88bfea7a46bc6607d": {
+  "first_seen": 1786023233.1875272,
+  "title": "Développeur Java / React H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440697166"
+  ]
+ },
+ "297958b2960f3afe91add64a93549efd": {
+  "first_seen": 1786023233.1875432,
+  "title": "Technicien Electronique/Electricité F/H",
+  "company": "UBY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448410596"
   ]
  }
 }
