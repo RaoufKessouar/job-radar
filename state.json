@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786044801.9506323,
+   "last_success": 1786046616.3159308,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786044801.950638,
+   "last_success": 1786046616.3159375,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786044815.2003756,
+   "last_success": 1786046631.9052782,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786044815.2003806,
+   "last_success": 1786046631.905283,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786044815.2003825,
+   "last_success": 1786046631.9052856,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786044815.200384,
+   "last_success": 1786046631.905287,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786044815.2003856,
+   "last_success": 1786046631.905288,
    "alerted": false
   }
  },
@@ -28671,6 +28671,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4183868510"
+  ]
+ },
+ "153ade16e8eb2449890a1ce94ede2b4c": {
+  "first_seen": 1786046631.906272,
+  "title": "Business Manager Data et Transformation H/F",
+  "company": "Banque Populaire Rives de Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448452509"
+  ]
+ },
+ "d7993443738a38ea8b69ed8739c68c16": {
+  "first_seen": 1786046631.9062803,
+  "title": "Forward Deployment Business Engineer F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419698284"
+  ]
+ },
+ "8b9cd705262f016b7ee65a707872cf9e": {
+  "first_seen": 1786046631.9063,
+  "title": "Product Manager Intern",
+  "company": "Aircall",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450615573"
   ]
  }
 }
