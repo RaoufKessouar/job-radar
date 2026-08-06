@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786036119.277146,
+   "last_success": 1786038302.060883,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786036119.2771523,
+   "last_success": 1786038302.0608888,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786036134.6778429,
+   "last_success": 1786038316.4883602,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786036134.677848,
+   "last_success": 1786038316.4883657,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786036134.6778498,
+   "last_success": 1786038316.4883673,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786036134.6778514,
+   "last_success": 1786038316.488369,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786036134.6778526,
+   "last_success": 1786038316.4883702,
    "alerted": false
   }
  },
@@ -28554,6 +28554,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4323562719"
+  ]
+ },
+ "79dea797cfa4468fadcb18fc4c7a931b": {
+  "first_seen": 1786038316.4891355,
+  "title": "Stage Attaché de Recherche Clinique - Paris H/F",
+  "company": "IQVIA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449771329"
   ]
  }
 }
