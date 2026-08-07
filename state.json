@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786100625.339815,
+   "last_success": 1786102417.3229697,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786100625.3398206,
+   "last_success": 1786102417.3229752,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786100638.47835,
+   "last_success": 1786102432.3301196,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786100638.4783537,
+   "last_success": 1786102432.3301249,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786100638.4783554,
+   "last_success": 1786102432.3301263,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786100638.4783568,
+   "last_success": 1786102432.330128,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786100638.478358,
+   "last_success": 1786102432.3301291,
    "alerted": false
   }
  },
@@ -22561,7 +22561,8 @@
   "company": "MERITIS",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446209836"
+   "https://www.linkedin.com/jobs/view/4446209836",
+   "https://www.linkedin.com/jobs/view/4448765390"
   ]
  },
  "69c35b6263b77da33a171ee5369550e5": {
@@ -29568,6 +29569,150 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448755853"
+  ]
+ },
+ "f5ea425e98e007b55f09e95eeeaef259": {
+  "first_seen": 1786102432.3306184,
+  "title": "Senior Data Scientist - Performance",
+  "company": "Vibe.co",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441187174"
+  ]
+ },
+ "18c538c9afa28ae1f3fd70311d61e2c5": {
+  "first_seen": 1786102432.3306715,
+  "title": "Product Data Analyst - Puzzle Games",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4236130286"
+  ]
+ },
+ "73348c93580480f0ecdd6c9162824901": {
+  "first_seen": 1786102432.3308582,
+  "title": "RESPONSABLE STRATÉGIE DATA H/F",
+  "company": "Ville de Saint-Germain-en-Laye",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450097495"
+  ]
+ },
+ "e5d4c48b7be617ac60400ab510cebddc": {
+  "first_seen": 1786102432.3308814,
+  "title": "Data & AI Strategist - Analyst to Senior Manager",
+  "company": "Accenture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448767103"
+  ]
+ },
+ "c00f7951846683704bbb0fd18ff66cd9": {
+  "first_seen": 1786102432.3310359,
+  "title": "Tech Lead IA (H/F)",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448764476"
+  ]
+ },
+ "9334e9c50ce16cbb177827a3755c5404": {
+  "first_seen": 1786102432.3310614,
+  "title": "Software Engineer (Python, JavaScript)",
+  "company": "Sundayy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450308306"
+  ]
+ },
+ "181fa620f0c5c2281dad26b3fcee676e": {
+  "first_seen": 1786102432.3310769,
+  "title": "Senior AI Engineer – Notebooks",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450286671"
+  ]
+ },
+ "eeeba0825945d2b3d7a6308dbb5785a9": {
+  "first_seen": 1786102432.3310845,
+  "title": "AI Platform Engineer - AZURE H/F",
+  "company": "Meilleurtaux",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449749985"
+  ]
+ },
+ "1be2c4ae0c1d27a36b397c76b503658a": {
+  "first_seen": 1786102432.3310921,
+  "title": "Head of IA Data H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440680861"
+  ]
+ },
+ "a2495f29217da736f4c0794b8738ec6b": {
+  "first_seen": 1786102432.3313925,
+  "title": "Business Developer Junior",
+  "company": "Artefact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4209958732"
+  ]
+ },
+ "4196e10d45aaaa92309b0824175e4661": {
+  "first_seen": 1786102432.3316221,
+  "title": "Software Engineer, Sr./Staff",
+  "company": "Sundayy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450306455"
+  ]
+ },
+ "174877deda928d58f5adae2990e04f28": {
+  "first_seen": 1786102432.3316646,
+  "title": "Game Developer - Blitz",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441488247"
+  ]
+ },
+ "d1a4a04faa7c5ee755f71ddc3c26f977": {
+  "first_seen": 1786102432.3316708,
+  "title": "Field Application Engineer",
+  "company": "Outsight",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450600670"
+  ]
+ },
+ "d97234003f77fa117471db38fb74e966": {
+  "first_seen": 1786102432.3316782,
+  "title": "Alternance - Ingénieur CEM / Électronique (f/h)",
+  "company": "Veoneer",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448760026"
+  ]
+ },
+ "a97a60eb68f455d7dcbb33134bcdd5e6": {
+  "first_seen": 1786102432.33177,
+  "title": "Ingénieur Expert Electronique Analogique H/F",
+  "company": "ENVEA Global",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4391769612"
+  ]
+ },
+ "87d281e1e38e29457a2ce1839e243502": {
+  "first_seen": 1786102432.3317828,
+  "title": "Développeur Full Stack F/H",
+  "company": "RYDGE Conseil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413446513"
   ]
  }
 }
