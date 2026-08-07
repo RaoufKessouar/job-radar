@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786120423.667546,
+   "last_success": 1786121858.8757358,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786120423.6675522,
+   "last_success": 1786121858.8757415,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786120439.2849967,
+   "last_success": 1786121873.8470342,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786120439.2850013,
+   "last_success": 1786121873.847039,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786120439.2850032,
+   "last_success": 1786121873.8470402,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786120439.285005,
+   "last_success": 1786121873.8470418,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786120439.2850068,
+   "last_success": 1786121873.847043,
    "alerted": false
   }
  },
@@ -16945,7 +16945,8 @@
   "company": "WHIZE",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447135938"
+   "https://www.linkedin.com/jobs/view/4447135938",
+   "https://www.linkedin.com/jobs/view/4450337785"
   ]
  },
  "211f4b521e9b8e583d8d84c4b6c12325": {
@@ -30787,6 +30788,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4432435865"
+  ]
+ },
+ "f4f36f976da8b022c579b9e626270681": {
+  "first_seen": 1786121873.8478446,
+  "title": "Chargé de projets débutant data et IA H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450714984"
+  ]
+ },
+ "594d7b6d4eefb060287d836186a7e25e": {
+  "first_seen": 1786121873.8480635,
+  "title": "Stage Ingénieur Full Stack 4-6 Mois",
+  "company": "DIV Protocol",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444410786"
+  ]
+ },
+ "904f0a4d697caa6b6b6c2c3d934b9a29": {
+  "first_seen": 1786121873.8480816,
+  "title": "STAGE - Assistant Chef de Produit Développement - Parfum et Beauté (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450343738"
   ]
  }
 }
