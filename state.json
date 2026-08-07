@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786080809.6440845,
+   "last_success": 1786082628.1993673,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786080809.64409,
+   "last_success": 1786082628.1993732,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786080822.6525793,
+   "last_success": 1786082641.589655,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786080822.6525834,
+   "last_success": 1786082641.5896595,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786080822.6525848,
+   "last_success": 1786082641.589661,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786080822.6525865,
+   "last_success": 1786082641.5896623,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786080822.6525881,
+   "last_success": 1786082641.5896633,
    "alerted": false
   }
  },
@@ -15415,7 +15415,8 @@
    "https://www.linkedin.com/jobs/view/4445830759",
    "https://www.linkedin.com/jobs/view/4445867318",
    "https://www.linkedin.com/jobs/view/4447346310",
-   "https://www.linkedin.com/jobs/view/4448082810"
+   "https://www.linkedin.com/jobs/view/4448082810",
+   "https://www.linkedin.com/jobs/view/4448707643"
   ]
  },
  "532f5a62d4637816820f666d783bf2bf": {
@@ -29026,6 +29027,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440214876"
+  ]
+ },
+ "9c6f363ac3382a6cda58603001db87ac": {
+  "first_seen": 1786082641.5903504,
+  "title": "Data for Insight & Measurement Analyst (F/H)",
+  "company": "LVMH",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448712629"
+  ]
+ },
+ "34321c63f4e86622fb4f27aad6e67ddb": {
+  "first_seen": 1786082641.5903685,
+  "title": "CDD - Data Analyst F/H",
+  "company": "Inspection Générale de La Banque Postale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450002452"
+  ]
+ },
+ "cae1d079caea0d4dcc2a11dc3b94c68b": {
+  "first_seen": 1786082641.5904722,
+  "title": "Cloud Data Engineer GCP (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413462410"
+  ]
+ },
+ "f026eb20ed58dc41f93f9e76901e1948": {
+  "first_seen": 1786082641.591137,
+  "title": "Développeur junior/Data Analyst H/F",
+  "company": "CA-SILCA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450029069"
+  ]
+ },
+ "e9c13535f5166c1c808e6d4f59c9c0c2": {
+  "first_seen": 1786082641.5911498,
+  "title": "Développeur(euse) Full Stack",
+  "company": "Younzee",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448716078"
+  ]
+ },
+ "5dae95a077014dc93c54aedd9a1dfeee": {
+  "first_seen": 1786082641.5911818,
+  "title": "Ingénieur en ingénierie logicielle (ANGULAR) - H/F",
+  "company": "INSERM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446919609"
   ]
  }
 }
