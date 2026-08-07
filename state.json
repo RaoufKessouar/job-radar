@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786093417.6963694,
+   "last_success": 1786095205.9418929,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786093417.6963737,
+   "last_success": 1786095205.9418986,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786093432.9994996,
+   "last_success": 1786095219.1475697,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786093432.9995039,
+   "last_success": 1786095219.1475737,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786093432.999505,
+   "last_success": 1786095219.1475756,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786093432.9995065,
+   "last_success": 1786095219.1475768,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786093432.9995077,
+   "last_success": 1786095219.1475785,
    "alerted": false
   }
  },
@@ -9628,7 +9628,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4442034348",
    "https://www.linkedin.com/jobs/view/4445128520",
-   "https://www.linkedin.com/jobs/view/4446998431"
+   "https://www.linkedin.com/jobs/view/4446998431",
+   "https://www.linkedin.com/jobs/view/4401052323"
   ]
  },
  "f8ecd628742e48e51a332a255b7dd82c": {
@@ -12681,7 +12682,6 @@
   "company": "FANUC Europe",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4441894579",
    "https://www.linkedin.com/jobs/view/4442333972",
    "https://www.linkedin.com/jobs/view/4446737182",
    "https://www.linkedin.com/jobs/view/4445069830",
@@ -12690,7 +12690,8 @@
    "https://www.linkedin.com/jobs/view/4445888057",
    "https://www.linkedin.com/jobs/view/4446620303",
    "https://www.linkedin.com/jobs/view/4447381352",
-   "https://www.linkedin.com/jobs/view/4448091443"
+   "https://www.linkedin.com/jobs/view/4448091443",
+   "https://www.linkedin.com/jobs/view/4450082562"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -12999,7 +13000,8 @@
   "company": "Mirakl",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4398489702"
+   "https://www.linkedin.com/jobs/view/4398489702",
+   "https://www.linkedin.com/jobs/view/4450098189"
   ]
  },
  "8836a890924c8b4dee4169b5a95aba82": {
@@ -13994,7 +13996,8 @@
   "company": "Equativ",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443617548"
+   "https://www.linkedin.com/jobs/view/4443617548",
+   "https://www.linkedin.com/jobs/view/4448750765"
   ]
  },
  "9dce73cb1258d413b7166247bef091ec": {
@@ -18282,7 +18285,8 @@
   "company": "Tetra Pak",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4380322813"
+   "https://www.linkedin.com/jobs/view/4380322813",
+   "https://www.linkedin.com/jobs/view/4433075945"
   ]
  },
  "f7402e64cea1ba3f6cbe64101c229ae1": {
@@ -29245,6 +29249,177 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4444928634"
+  ]
+ },
+ "a5543612cec6d7d91051e84f368803ef": {
+  "first_seen": 1786095219.1482773,
+  "title": "Data Scientist IA Senior (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450642190"
+  ]
+ },
+ "370837c9372a3147871822d367455799": {
+  "first_seen": 1786095219.1483328,
+  "title": "DATA ENGINEER CONFIRMÉ.E (H/F)",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450020314"
+  ]
+ },
+ "11eaef03e03e1dd625df719faa8e961d": {
+  "first_seen": 1786095219.1483493,
+  "title": "CDD - Chargé.e d'étude Stress-tests  F/H",
+  "company": "La Banque Postale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448740538"
+  ]
+ },
+ "497ced4cbdedbfaa1e645b377eec6513": {
+  "first_seen": 1786095219.1483574,
+  "title": "Analyste Quantitatif - Finance de Marché",
+  "company": "eXalt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4302712960"
+  ]
+ },
+ "d0a4e87f609901a5a92ea8d4443075ef": {
+  "first_seen": 1786095219.1486523,
+  "title": "Consultante/ Consultant Data",
+  "company": "Idean UK",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450647693"
+  ]
+ },
+ "4c47588a56a20c176426b7ab5ae0f1a4": {
+  "first_seen": 1786095219.1486943,
+  "title": "Tech Lead .Net & IA (H/F)",
+  "company": "Exakis Nelite",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450305078"
+  ]
+ },
+ "6f090546a7e3c7629b4fe9059c6ccbf2": {
+  "first_seen": 1786095219.1487322,
+  "title": "Accelerator - Data & AI Engineering (Paris)",
+  "company": "Sanofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441611787"
+  ]
+ },
+ "a9d816d94f6b69c14a95bcde754a1c76": {
+  "first_seen": 1786095219.1487453,
+  "title": "Junior Data Engineer",
+  "company": "Reply",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4355214470"
+  ]
+ },
+ "5fa9248aef857bec2e80377aa7d2bdb0": {
+  "first_seen": 1786095219.148764,
+  "title": "Graduate AWS Cloud Engineer",
+  "company": "Reply",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438082082"
+  ]
+ },
+ "5e33dbb5847e8c68b84b71847000211d": {
+  "first_seen": 1786095219.1487935,
+  "title": "Alternance / Stage - Analyse de données juridiques et investigations numériques (E-Discovery) F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431834921"
+  ]
+ },
+ "9794c5db9afdb6bfe342b3034a1d56a4": {
+  "first_seen": 1786095219.1488225,
+  "title": "Stage - Analyste Infrastructure Equity H/F",
+  "company": "BNP Paribas Asset Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450635906"
+  ]
+ },
+ "5b9fcc8e28618409f14f6ad1233eca2b": {
+  "first_seen": 1786095219.148853,
+  "title": "IA Manager et Gestion de projets H/F",
+  "company": "SOCOTEC",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431880969"
+  ]
+ },
+ "49b5fb1e81350ad674e0e38524a3f366": {
+  "first_seen": 1786095219.1488674,
+  "title": "(Stage) Chief of Staff",
+  "company": "Boldo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439037729"
+  ]
+ },
+ "cdd4143614ac8f6214fbfc8ac80f35c4": {
+  "first_seen": 1786095219.1489012,
+  "title": "Stagiaire Chef(fe) de projet IA & Innovation F/H",
+  "company": "Focalyse",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450087227"
+  ]
+ },
+ "a69736830e189fb07af6bf2d79ac81f1": {
+  "first_seen": 1786095219.1489692,
+  "title": "Stage - Assistant Chef de Projet digital H/F/X - Yves Rocher",
+  "company": "Groupe Rocher",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450097338"
+  ]
+ },
+ "720edb1751c4785aa6e96a7b63f19a68": {
+  "first_seen": 1786095219.1490788,
+  "title": "Ingénieur système spatial Junior H/F",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401052419"
+  ]
+ },
+ "d195d1898d0813aa9786684393459f71": {
+  "first_seen": 1786095219.149265,
+  "title": "Future Talent - Maintenance Engineer - Paris or Orleans",
+  "company": "Tetra Pak",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433081838"
+  ]
+ },
+ "f2b98b3ff1282d5bec3d850a5ff12bd4": {
+  "first_seen": 1786095219.149279,
+  "title": "CHEF DE PROJET CFA - SYSTEME F/H",
+  "company": "Ingérop",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450079360"
+  ]
+ },
+ "d2f3f8ca494ea1a5e60b166b41e81f11": {
+  "first_seen": 1786095219.1493075,
+  "title": "CS27 - Stage - BAC+5 - Chef de Projet Transformation des métiers Supply Chain à l'ère de l'Intelligence Artificielle (H/",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Chef-de-Projet-Transformation-des-mtiers-Supply-Chain--l-re-de-l-Intelligence-Artificielle--H-F-_JOBREQ_50272618"
   ]
  }
 }
