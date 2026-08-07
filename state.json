@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786084397.0718348,
+   "last_success": 1786086222.686046,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786084397.0718405,
+   "last_success": 1786086222.6860514,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786084410.2643473,
+   "last_success": 1786086236.1008344,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786084410.2643518,
+   "last_success": 1786086236.1008391,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786084410.264353,
+   "last_success": 1786086236.1008408,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786084410.2643545,
+   "last_success": 1786086236.1008422,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786084410.264356,
+   "last_success": 1786086236.1008434,
    "alerted": false
   }
  },
@@ -29090,6 +29090,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448718514"
+  ]
+ },
+ "f4dc00439ab24ad42fbca3cf29fce35a": {
+  "first_seen": 1786086236.101599,
+  "title": "AI Engineer",
+  "company": "Cozi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448725755"
+  ]
+ },
+ "ef6926503c360c62fd6c14b751fad167": {
+  "first_seen": 1786086236.1016164,
+  "title": "Business Data Analyst & Data Efficiency (IA Automation) F/H",
+  "company": "Atlas Copco",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448719131"
+  ]
+ },
+ "47c3447487440809e86b98536da8f9c5": {
+  "first_seen": 1786086236.1016352,
+  "title": "CRO & PERFORMANCE ANALYST",
+  "company": "VEJA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450280201"
+  ]
+ },
+ "44a56cc9d2410f11a4ea6eb06f026537": {
+  "first_seen": 1786086236.1016498,
+  "title": "Chargé de production/validation/traitement des données magnétiques de la mission spatiale Swarm H/F",
+  "company": "Institut de Physique du Globe de Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450057136"
+  ]
+ },
+ "aeecd41578c12a2f500492adc9efab11": {
+  "first_seen": 1786086236.1017752,
+  "title": "Product Data Scientist",
+  "company": "Cozi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448714893"
+  ]
+ },
+ "c11a492797dae4e9d83d1a477f2d988f": {
+  "first_seen": 1786086236.1019588,
+  "title": "Lead Developer - Identity and Audience",
+  "company": "Vibe.co",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449773052"
+  ]
+ },
+ "2a7f234eddf2f1a121a26a0960b3801a": {
+  "first_seen": 1786086236.1020067,
+  "title": "6-MONTH INTERNSHIP - STARTING SEPTEMBER 2026 - SUPPLY & DATA EXCELLENCE - MASTER'S ½ - €1700/MONTH",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450013388"
+  ]
+ },
+ "7d48906df2dd6440633ee46ac164e523": {
+  "first_seen": 1786086236.1021206,
+  "title": "Consultant stagiaire – Biodiversité (H/F)",
+  "company": "I Care",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448706109"
   ]
  }
 }
