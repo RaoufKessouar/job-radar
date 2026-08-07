@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786079027.556131,
+   "last_success": 1786080809.6440845,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786079027.5561361,
+   "last_success": 1786080809.64409,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786079042.9749887,
+   "last_success": 1786080822.6525793,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786079042.974993,
+   "last_success": 1786080822.6525834,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786079042.9749942,
+   "last_success": 1786080822.6525848,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786079042.9749959,
+   "last_success": 1786080822.6525865,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786079042.974997,
+   "last_success": 1786080822.6525881,
    "alerted": false
   }
  },
@@ -29017,6 +29017,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4432254702"
+  ]
+ },
+ "2faa325b814bd217e513562f5853db49": {
+  "first_seen": 1786080822.653597,
+  "title": "Apprenticeship – People Technology – CHANEL Europe – September 2026 – M/F/D",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440214876"
   ]
  }
 }
