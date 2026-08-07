@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786122208.0583074,
+   "last_success": 1786124003.8204396,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786122208.0583122,
+   "last_success": 1786124003.8204455,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786122221.016238,
+   "last_success": 1786124018.8276324,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786122221.0162427,
+   "last_success": 1786124018.827637,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786121873.8470402,
+   "last_success": 1786124018.8276384,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786122221.0162742,
+   "last_success": 1786124018.8276398,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786122221.016276,
+   "last_success": 1786124018.8276412,
    "alerted": false
   }
  },
@@ -30878,6 +30878,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450345756"
+  ]
+ },
+ "4e8331a90cea73cf99493a7f94b14afc": {
+  "first_seen": 1786124018.8287404,
+  "title": "CHARGE(E) DE MISSION IA - ALTERNANCE F/H",
+  "company": "DOCAPOSTE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420144493"
+  ]
+ },
+ "ac66d46a42e41b1d15544d30bd74b8a0": {
+  "first_seen": 1786124018.828998,
+  "title": "JR Sourcing - Software Engineer 1",
+  "company": "Capgemini",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450732490"
+  ]
+ },
+ "958ab51a970c90703e89f48cd098b358": {
+  "first_seen": 1786124018.829004,
+  "title": "JR Sourcing - Software Engineer",
+  "company": "Capgemini",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450729730"
+  ]
+ },
+ "2ab082b00e5fa42462c40d61cb822f44": {
+  "first_seen": 1786124018.8290892,
+  "title": "Field Service Engineer, France (East Paris)",
+  "company": "Illumina",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441665488"
   ]
  }
 }
