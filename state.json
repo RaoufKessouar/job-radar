@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786109627.2034414,
+   "last_success": 1786111412.7676172,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786109627.2034476,
+   "last_success": 1786111412.7676237,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786109642.8501205,
+   "last_success": 1786111430.8148403,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786109642.8501258,
+   "last_success": 1786111430.814845,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786109642.8501277,
+   "last_success": 1786111430.8148465,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786109642.850129,
+   "last_success": 1786111430.8148477,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786109642.8501303,
+   "last_success": 1786111430.8148487,
    "alerted": false
   }
  },
@@ -30158,6 +30158,105 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---Bac-5----Ingnieur-Calcul---Dimensionnement-Structure-Caisse--H-F-_JOBREQ_50273561"
+  ]
+ },
+ "2a58c124b93d767b726f09cb720be51d": {
+  "first_seen": 1786111430.8154542,
+  "title": "Data Analyste junior F/H",
+  "company": "AXA en France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450084528"
+  ]
+ },
+ "3324f50b2b23b088d45a77fdeb77111e": {
+  "first_seen": 1786111430.8154707,
+  "title": "Alternance - Consultant Data Customer Insights (H/F)",
+  "company": "WPP Enterprise Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450685572"
+  ]
+ },
+ "b6a2a74be8765b9802f4aba7acce0f41": {
+  "first_seen": 1786111430.8155074,
+  "title": "Consultant Data Analyst Marketing - F/H",
+  "company": "WPP Enterprise Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448788192"
+  ]
+ },
+ "23912914ec56066682b645746b0e00c3": {
+  "first_seen": 1786111430.8156016,
+  "title": "Alternant(e) Analyste de Données (H/F)",
+  "company": "Iveco Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450271291"
+  ]
+ },
+ "abec7113f9574c757496f92ae13033c8": {
+  "first_seen": 1786111430.81579,
+  "title": "Chef(fe) de Projet IA (H/F)",
+  "company": "Fonds Bayard Agir pour une société du lien",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448753871"
+  ]
+ },
+ "93f02f592ebee799c43f882a17e82da3": {
+  "first_seen": 1786111430.81584,
+  "title": "Applied AI - Senior Data Engineer",
+  "company": "Nexans",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448418925"
+  ]
+ },
+ "0b3d177adf14be53f684a08e49b5c6ee": {
+  "first_seen": 1786111430.8158457,
+  "title": "Product Designer IA H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441173795"
+  ]
+ },
+ "dbd80e8d1685df4a619f2de33c1f6016": {
+  "first_seen": 1786111430.816027,
+  "title": "Assistant chef de publicité Opérations Spéciales & Innovation IA H/F",
+  "company": "Groupe TF1",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450305325"
+  ]
+ },
+ "74ec0306fe7438b2c4c681d1b1c17a68": {
+  "first_seen": 1786111430.81624,
+  "title": "Ingénieur Hardware et Software Embarqués H/F",
+  "company": "Hitachi Rail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4350852234"
+  ]
+ },
+ "7e21b5cde634bff460f2b1bee1fc4810": {
+  "first_seen": 1786111430.8163285,
+  "title": "Ingénieur traitement du signal test, mesure et développement RADAR",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418778165"
+  ]
+ },
+ "eab0b1640914a8f27344be0ae62426bd": {
+  "first_seen": 1786111430.8164272,
+  "title": "CS27 - Stage - BAC+5 - Gestion de Configuration Data pour Validation des systèmes avec IA embarquée (F/H)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Gestion-de-Configuration-Data-pour-Validation-des-systmes-avec-IA-embarque--F-H-_JOBREQ_50273423"
   ]
  }
 }
