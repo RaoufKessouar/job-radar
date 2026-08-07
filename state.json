@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786103287.8503637,
+   "last_success": 1786104216.1437128,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786103287.8503685,
+   "last_success": 1786104216.143719,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786103302.9255927,
+   "last_success": 1786104229.9006717,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786103302.9255972,
+   "last_success": 1786104229.9006765,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786103302.9255986,
+   "last_success": 1786104229.9006782,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786103302.9255998,
+   "last_success": 1786104229.9006793,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786103302.925601,
+   "last_success": 1786104229.900681,
    "alerted": false
   }
  },
@@ -26749,7 +26749,8 @@
   "company": "Qonto",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4450202505"
+   "https://www.linkedin.com/jobs/view/4450202505",
+   "https://www.linkedin.com/jobs/view/4432573485"
   ]
  },
  "04bf7a4ae74d35b7876bee76323b6bf3": {
@@ -29749,6 +29750,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450077391"
+  ]
+ },
+ "5fa0918baa7e6b478e8bec25bc1a165b": {
+  "first_seen": 1786104229.9017713,
+  "title": "Backend engineer",
+  "company": "Nabla",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410632536"
+  ]
+ },
+ "a1b2fe5245c5409b63955bbbc3de03b0": {
+  "first_seen": 1786104229.9021523,
+  "title": "Sales Development Representative secteur de l'IA (Stage 4 à 6 mois Septembre)",
+  "company": "Idoption",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448727922"
   ]
  }
 }
