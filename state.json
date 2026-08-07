@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786088005.0850284,
+   "last_success": 1786089825.4995136,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786088005.0850341,
+   "last_success": 1786089825.4995189,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786088019.995695,
+   "last_success": 1786089839.590531,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786088019.9957,
+   "last_success": 1786089839.590535,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786088019.995702,
+   "last_success": 1786089839.5905364,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786088019.9957035,
+   "last_success": 1786089839.5905378,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786088019.995705,
+   "last_success": 1786089839.5905392,
    "alerted": false
   }
  },
@@ -12736,7 +12736,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445353497",
-   "https://www.linkedin.com/jobs/view/4447084852"
+   "https://www.linkedin.com/jobs/view/4447084852",
+   "https://www.linkedin.com/jobs/view/4448743413"
   ]
  },
  "006d3f501266157f078435e833de749a": {
@@ -22427,7 +22428,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447968367",
-   "https://www.linkedin.com/jobs/view/4449109129"
+   "https://www.linkedin.com/jobs/view/4449109129",
+   "https://www.linkedin.com/jobs/view/4450077471"
   ]
  },
  "cd2e7b11d9416a4edc7ca168462d9a85": {
@@ -29162,6 +29164,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448706109"
+  ]
+ },
+ "a51afd22972ddc562efaeb5e4823166f": {
+  "first_seen": 1786089839.591334,
+  "title": "INGÉNIEUR OPTIMISATION",
+  "company": "Probayes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448741094"
+  ]
+ },
+ "240638695fe0c82f4702bbc65723990c": {
+  "first_seen": 1786089839.5914118,
+  "title": "INGÉNIEUR DÉVELOPPEUR LOGICIEL PYTHON F/H",
+  "company": "Probayes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448747036"
+  ]
+ },
+ "79bdc833080d0fb4f917482cf7883c53": {
+  "first_seen": 1786089839.5919077,
+  "title": "Développeur logiciel pour système de signalisation ferroviaire H/F - Les Ulis (91) - CDI",
+  "company": "Compagnie des Signaux - CSEE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4307549277"
+  ]
+ },
+ "a2603ec6b1971fe84bbbe9eaa944f8f0": {
+  "first_seen": 1786089839.5919728,
+  "title": "Field Deployment Engineer",
+  "company": "Harmattan AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448735700"
+  ]
+ },
+ "d2ccf84ecb59c6cdc17dcfc284971bf2": {
+  "first_seen": 1786089839.592062,
+  "title": "CABLEUR CARTES ELECTRONIQUES ET LOGISTICIEN – F/H",
+  "company": "NUCLETUDES",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450682359"
+  ]
+ },
+ "a1c28725b21b6a394d4ae8d21a35c27c": {
+  "first_seen": 1786089839.592072,
+  "title": "Cartographies magnétiques à l’aide de capteurs magnétiques magnétorésistifs",
+  "company": "CEA IRAMIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450665989"
+  ]
+ },
+ "1c49ac1cd645d98a799325f69be21e00": {
+  "first_seen": 1786089839.5920806,
+  "title": "[ Nancy ] Ingénieur Développement web, mobile Alternance",
+  "company": "Boursorama",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4381718241"
   ]
  }
 }
