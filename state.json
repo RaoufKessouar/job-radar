@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786111412.7676172,
+   "last_success": 1786113215.7504694,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786111412.7676237,
+   "last_success": 1786113215.750477,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786111430.8148403,
+   "last_success": 1786113229.4220498,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786111430.814845,
+   "last_success": 1786113229.4220552,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786111430.8148465,
+   "last_success": 1786113229.4220572,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786111430.8148477,
+   "last_success": 1786113229.4220588,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786111430.8148487,
+   "last_success": 1786113229.4220605,
    "alerted": false
   }
  },
@@ -9643,7 +9643,8 @@
    "https://www.linkedin.com/jobs/view/4447251299",
    "https://www.linkedin.com/jobs/view/4447799136",
    "https://www.linkedin.com/jobs/view/4447873540",
-   "https://www.linkedin.com/jobs/view/4448846001"
+   "https://www.linkedin.com/jobs/view/4448846001",
+   "https://www.linkedin.com/jobs/view/4450710052"
   ]
  },
  "3518d4afa984bea20441c454e2a67733": {
@@ -23290,7 +23291,8 @@
   "company": "Adone Conseil",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448156448"
+   "https://www.linkedin.com/jobs/view/4448156448",
+   "https://www.linkedin.com/jobs/view/4450696346"
   ]
  },
  "7c733d423abe28d4a5f63cf421cd2a1d": {
@@ -30257,6 +30259,87 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Gestion-de-Configuration-Data-pour-Validation-des-systmes-avec-IA-embarque--F-H-_JOBREQ_50273423"
+  ]
+ },
+ "b900792a987ee56aa4fc56a938e488ba": {
+  "first_seen": 1786113229.422872,
+  "title": "Analyste surveillance des risques (F/H)",
+  "company": "Groupe BPCE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448747697"
+  ]
+ },
+ "4b8152ab8da375851e2abaf4fec93358": {
+  "first_seen": 1786113229.4228814,
+  "title": "Quant Researcher - Fixed Income H/F",
+  "company": "Banque de France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440495331"
+  ]
+ },
+ "859b8dba99e3a981761213084a3c84c7": {
+  "first_seen": 1786113229.4228904,
+  "title": "Apprenticeship - Portfolio and Valuation (m/f/d)",
+  "company": "PIMCO Prime Real Estate",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450672464"
+  ]
+ },
+ "ba2128c1a7690482b7e39d4e41832ae5": {
+  "first_seen": 1786113229.4229035,
+  "title": "Operations Specialist",
+  "company": "Bolt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432981554"
+  ]
+ },
+ "b84eaaaf9ad524e24fd246b442c9c6e4": {
+  "first_seen": 1786113229.4229927,
+  "title": "STAGE INGÉNIEUR IA & AUTOMATISATION",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450336105"
+  ]
+ },
+ "5f5eea19fcb2ccf9d5c049994ab31d91": {
+  "first_seen": 1786113229.4230006,
+  "title": "ML engineer: Pricing ( Python,Git, Google cloud )-(h/f)",
+  "company": "emagine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450331565"
+  ]
+ },
+ "acdfccfb35991b05684d7ba8a2eb0d06": {
+  "first_seen": 1786113229.4233713,
+  "title": "STAGE - DÉVELOPPEUR(SE) FULL STACK - JANVIER 2027",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450322919"
+  ]
+ },
+ "9771d46309fcfef44fbe047b86cab354": {
+  "first_seen": 1786113229.423393,
+  "title": "Director, Reinforcement Learning & Agentic Post-Training",
+  "company": "Blue Yonder",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433050231"
+  ]
+ },
+ "9117bb32c8652a19c77a071acfcbb8ce": {
+  "first_seen": 1786113229.423434,
+  "title": "STAGE - ASSISTANT EDITORIAL (H/F)",
+  "company": "Mediawan",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441644883"
   ]
  }
 }
