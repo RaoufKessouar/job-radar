@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786107827.1145191,
+   "last_success": 1786109627.2034414,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786107827.114525,
+   "last_success": 1786109627.2034476,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786107843.2061076,
+   "last_success": 1786109642.8501205,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786107843.2061129,
+   "last_success": 1786109642.8501258,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786107843.2061145,
+   "last_success": 1786109642.8501277,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786107843.2061164,
+   "last_success": 1786109642.850129,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786107843.2061176,
+   "last_success": 1786109642.8501303,
    "alerted": false
   }
  },
@@ -22061,7 +22061,8 @@
   "company": "Adone Conseil",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448158460"
+   "https://www.linkedin.com/jobs/view/4448158460",
+   "https://www.linkedin.com/jobs/view/4450691577"
   ]
  },
  "5a791308e2db6e33928218c79d6c9548": {
@@ -30022,6 +30023,141 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Dveloppement-de-modles-de-prdiction-de-la-nomenclature-technique--BOM--des-vhicules-Renault--H-F-_JOBREQ_50273622"
+  ]
+ },
+ "e3b6ff87fefc0f23e8f877f4247f8329": {
+  "first_seen": 1786109642.8511305,
+  "title": "Senior Machine Learning Engineer - H/F/NB",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438733428"
+  ]
+ },
+ "1bc12597e9e34478aff9b9da3b541e84": {
+  "first_seen": 1786109642.8513026,
+  "title": "Senior Software Engineer (AI Project) - Full remote",
+  "company": "Skello",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441497022"
+  ]
+ },
+ "d6e01e2edff5b827a33aa4b9aae037c3": {
+  "first_seen": 1786109642.8513114,
+  "title": "Solutions Engineer, Digital Natives",
+  "company": "OpenAI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424349901"
+  ]
+ },
+ "1eebc70eb3991065134031fc8a96db50": {
+  "first_seen": 1786109642.8514416,
+  "title": "Ingénieur en Machine Learning - Quantum-H/F - IBM FutureNow",
+  "company": "IBM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438059939"
+  ]
+ },
+ "ac6c3bce820a1cb9b9b4e0a57e639f10": {
+  "first_seen": 1786109642.8516917,
+  "title": "Stagiaire Assistant Learning & Development (H/F)",
+  "company": "Van Cleef & Arpels",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440745385"
+  ]
+ },
+ "3795b9b8ddaf0449a6c7cf8e3e586b78": {
+  "first_seen": 1786109642.8517225,
+  "title": "Stagiaire consultant SMA (H/F) - Paris",
+  "company": "Artefact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4393947313"
+  ]
+ },
+ "d695a74c34572a3b5143ccbbdcacfdb0": {
+  "first_seen": 1786109642.8517303,
+  "title": "Consultant IA Confirmé",
+  "company": "WPP Enterprise Solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450683773"
+  ]
+ },
+ "728df7cbf02e821b730f9bff0286f90e": {
+  "first_seen": 1786109642.8517382,
+  "title": "Stage Consultant ERP",
+  "company": "Cedar Bay Ibérica",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448733530"
+  ]
+ },
+ "0e92614640822dd5be6d77b3444f2e24": {
+  "first_seen": 1786109642.8518782,
+  "title": "INGENIEUR(E) EN ELECTRONIQUE NUMERIQUE - H/F",
+  "company": "NUCLETUDES",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450669711"
+  ]
+ },
+ "fdddf99e51a8057b6e4c4aa541784af8": {
+  "first_seen": 1786109642.8518858,
+  "title": "Développeur C++ Confirmé – Technologies LiDAR",
+  "company": "INFOGENE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422249463"
+  ]
+ },
+ "2585c023caf9aa856e41bd04e90feaac": {
+  "first_seen": 1786109642.8518922,
+  "title": "Senior Java Software Engineer - Paris",
+  "company": "Ecorobotix",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448761576"
+  ]
+ },
+ "884b0bfe3eececa470ecd01bc2a4b57b": {
+  "first_seen": 1786109642.8519146,
+  "title": "Ingénieur Automatisme (F/M/X)",
+  "company": "SAUR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428928684"
+  ]
+ },
+ "b6fea87d806ca171f2d857f3a8f61485": {
+  "first_seen": 1786109642.8519232,
+  "title": "DEVELOPPEUR FULL STACH H/F",
+  "company": "Groupement interministériel de contrôle",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448776495"
+  ]
+ },
+ "f44e508fb9248c0548ffc58fe62401c5": {
+  "first_seen": 1786109642.85194,
+  "title": "Stage Ingénieur/Master - Optimisation des buses pour la découpe laser H/F H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413867661"
+  ]
+ },
+ "bd4d2aaf0727b0c65041cac01d2442fd": {
+  "first_seen": 1786109642.8519895,
+  "title": "CS27 - Stage - Bac+5 -  Ingénieur Calcul & Dimensionnement Structure Caisse (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---Bac-5----Ingnieur-Calcul---Dimensionnement-Structure-Caisse--H-F-_JOBREQ_50273561"
   ]
  }
 }
