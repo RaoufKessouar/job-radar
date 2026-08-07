@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786133043.1013088,
+   "last_success": 1786134806.419247,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786133043.1013143,
+   "last_success": 1786134806.4192522,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786133059.3261285,
+   "last_success": 1786134822.4320977,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786133059.3261333,
+   "last_success": 1786134822.4321022,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786133059.3261352,
+   "last_success": 1786134822.4321036,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786133059.3261364,
+   "last_success": 1786134822.4321055,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786133059.3261378,
+   "last_success": 1786134822.4321067,
    "alerted": false
   }
  },
@@ -31333,6 +31333,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448158794"
+  ]
+ },
+ "c6042bff6697ad23b00f0f87c33c3138": {
+  "first_seen": 1786134822.4327683,
+  "title": "STAGE - ASSISTANT(E) DATA ANALYST - (F/H/X)",
+  "company": "CANAL+ Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450774220"
+  ]
+ },
+ "5dd5dda99d9b8ba31155181325f806c1": {
+  "first_seen": 1786134822.4328766,
+  "title": "Ingénieur(e) IA\n(Gen AI Software\nEngineer)",
+  "company": "Getraline | Certified B Corp™",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450757980"
+  ]
+ },
+ "3c33eb116e814c850c70c1fbf6f208db": {
+  "first_seen": 1786134822.4333215,
+  "title": "Consultant Data Advisory - F/H",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4403238316"
   ]
  }
 }
