@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786113215.7504694,
+   "last_success": 1786115019.8522704,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786113215.750477,
+   "last_success": 1786115019.8522773,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786113229.4220498,
+   "last_success": 1786115036.01396,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786113229.4220552,
+   "last_success": 1786115036.0139647,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786113229.4220572,
+   "last_success": 1786115036.013966,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786113229.4220588,
+   "last_success": 1786115036.0139668,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786113229.4220605,
+   "last_success": 1786115036.0139682,
    "alerted": false
   }
  },
@@ -11591,7 +11591,8 @@
   "company": "Free-Work",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443453905"
+   "https://www.linkedin.com/jobs/view/4443453905",
+   "https://www.linkedin.com/jobs/view/4449204098"
   ]
  },
  "ea7b486f13a7a6470ad825f898116377": {
@@ -19048,7 +19049,8 @@
   "company": "DEXIS",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4422917798"
+   "https://www.linkedin.com/jobs/view/4422917798",
+   "https://www.linkedin.com/jobs/view/4450038745"
   ]
  },
  "db7903b4cc207ba521b1033b36897b60": {
@@ -22946,7 +22948,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448310109",
-   "https://www.linkedin.com/jobs/view/4448845619"
+   "https://www.linkedin.com/jobs/view/4448845619",
+   "https://www.linkedin.com/jobs/view/4450704602"
   ]
  },
  "7ac65bddf1759e4c0a43b854c3542ef6": {
@@ -28097,7 +28100,8 @@
   "company": "Eviden",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4432592729"
+   "https://www.linkedin.com/jobs/view/4432592729",
+   "https://www.linkedin.com/jobs/view/4432810338"
   ]
  },
  "08d100dfd8f58cb697d9e9ef8b76f4eb": {
@@ -30340,6 +30344,222 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441644883"
+  ]
+ },
+ "260a2f528fc3083427b6ce787d5f010e": {
+  "first_seen": 1786115036.0144513,
+  "title": "Data Scientist Engineering & Maintenance (Python, Google cloud)-(h/f)",
+  "company": "emagine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450335269"
+  ]
+ },
+ "99ddec75967c00edf94b4392cabb1842": {
+  "first_seen": 1786115036.0145004,
+  "title": "Chargé(e) de mission analyse data et automatisation IA F/H",
+  "company": "Société des grands projets",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4392933077"
+  ]
+ },
+ "89f63d599889a670b4232d4fe08eeb0b": {
+  "first_seen": 1786115036.014563,
+  "title": "Ingénieur FullStack Data GenAI (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413462409"
+  ]
+ },
+ "d961e2f632ff039c0745b7b31dc699fa": {
+  "first_seen": 1786115036.0145986,
+  "title": "Data analyst Cash Management H/F",
+  "company": "CA-SILCA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450333499"
+  ]
+ },
+ "97a7ed2a69663f8704f133869f60e0ae": {
+  "first_seen": 1786115036.0146425,
+  "title": "STAGE - ASSISTANT.E GLOBAL RETAIL PERFORMANCE ANALYST (F/H/X) - JANVIER 2027",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441626092"
+  ]
+ },
+ "62e1bc0bf2ddcdbfa2fc2af9133ab0e0": {
+  "first_seen": 1786115036.0146625,
+  "title": "Digital Performance Analyst (H/F/X)",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450663237"
+  ]
+ },
+ "579ff774ffc10f7c98ea7f94638d4418": {
+  "first_seen": 1786115036.0147083,
+  "title": "Chargé d'étude architecture AI (F/H) - Stage de 4 à 6 mois",
+  "company": "AXA Partners",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433337054"
+  ]
+ },
+ "e72ba87474d8c53c7a711dd0d5db07c5": {
+  "first_seen": 1786115036.0147374,
+  "title": "Data analyst  (H/F)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450644815"
+  ]
+ },
+ "16556f4ca3b36efa46fbf7ad8f746814": {
+  "first_seen": 1786115036.0147586,
+  "title": "Ingénieur modélisation et optimisation énergétique",
+  "company": "Tandem - Les Deeptech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450285959"
+  ]
+ },
+ "35899f4266a3a6aeacc4f8f8b1232b1a": {
+  "first_seen": 1786115036.0149667,
+  "title": "Manager Gouvernance Data & IA (H/F)",
+  "company": "Talan",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448774155"
+  ]
+ },
+ "813b8c484c310a89265fe57c0063e374": {
+  "first_seen": 1786115036.0149736,
+  "title": "Sénior manager Data & IA H/F",
+  "company": "Inetum",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432590454"
+  ]
+ },
+ "ecd381270ed4d6d46f35d7e207bcd486": {
+  "first_seen": 1786115036.0149863,
+  "title": "Sr Technical Program Manager (France)",
+  "company": "Parloa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432800905"
+  ]
+ },
+ "69afb59863621352338a9e9d41ef9c4c": {
+  "first_seen": 1786115036.0150392,
+  "title": "STAGE - Design Authority IA H/F",
+  "company": "CA-SILCA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450321969"
+  ]
+ },
+ "9e19dc11c943d0e4c8ee4121b1ca2a7f": {
+  "first_seen": 1786115036.015249,
+  "title": "Ingénieur Développement Logiciels Embarqués F/H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441601854"
+  ]
+ },
+ "c7e09e91fbd86a47d15941dab32e420c": {
+  "first_seen": 1786115036.0153737,
+  "title": "Game Developer - Puzzle Games",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405414322"
+  ]
+ },
+ "6dffe203f918a0e0fc79d0cd32037812": {
+  "first_seen": 1786115036.0153916,
+  "title": "CDD 36 mois - Développeur.se dans les Codes de Traitement des Données Nucléaires et Monte-Carlo H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424421059"
+  ]
+ },
+ "48e0f76185e6e50c90c4993094a0618b": {
+  "first_seen": 1786115036.0153973,
+  "title": "Ingénieur Méthodes Formelles",
+  "company": "Alstom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448786369"
+  ]
+ },
+ "5cbd638307e98130f37dab3adaef7356": {
+  "first_seen": 1786115036.015404,
+  "title": "Future Opportunities – Engineering & Product",
+  "company": "Ogury",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4181824020"
+  ]
+ },
+ "a8fa8e0c8cee69ced6fc26e9d1c6a51c": {
+  "first_seen": 1786115036.0154102,
+  "title": "Staff Backend Engineer (f/h/n)",
+  "company": "Hublo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432833981"
+  ]
+ },
+ "7b315f4d8139bd2286269b430b1cb6af": {
+  "first_seen": 1786115036.0154202,
+  "title": "Student/Intern",
+  "company": "StandardAero",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450327501"
+  ]
+ },
+ "706a83783530ac49c63e7538d7aa2a23": {
+  "first_seen": 1786115036.0154257,
+  "title": "INGENIEUR SOFTWARE MAINFRAME SEPA",
+  "company": "UTI-Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4211382143"
+  ]
+ },
+ "e21d6e2ec8a30bf59c6ad13e6ed01bd2": {
+  "first_seen": 1786115036.0154378,
+  "title": "Lead Software Engineer",
+  "company": "Moove",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450280342"
+  ]
+ },
+ "fa427ee2fd6897ae398923ecf3f514a5": {
+  "first_seen": 1786115036.0154595,
+  "title": "Ingénieur système F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448737894"
+  ]
+ },
+ "bbcc215896e2e8093e9bd126941bc566": {
+  "first_seen": 1786115036.015467,
+  "title": "Chargé·e de Paramétrage de Signalisation Ferroviaire",
+  "company": "SNCF Réseau",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448715275"
   ]
  }
 }
