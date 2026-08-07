@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786116817.8062632,
+   "last_success": 1786118617.0933032,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786116817.8062696,
+   "last_success": 1786118617.0933094,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786116833.9610841,
+   "last_success": 1786118632.733126,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786116833.9610898,
+   "last_success": 1786118632.7331312,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786116833.9610915,
+   "last_success": 1786118632.733133,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786116833.9610937,
+   "last_success": 1786118632.7331345,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786116833.9610949,
+   "last_success": 1786118632.7331362,
    "alerted": false
   }
  },
@@ -17325,7 +17325,8 @@
   "company": "WHIZE",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447146793"
+   "https://www.linkedin.com/jobs/view/4447146793",
+   "https://www.linkedin.com/jobs/view/4450354366"
   ]
  },
  "0873ba5eeca692e054728d5d774cb113": {
@@ -30615,6 +30616,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450714454"
+  ]
+ },
+ "0865e80a087111c72543eefba0b275d4": {
+  "first_seen": 1786118632.7337394,
+  "title": "Développeur Python IA / Machine learning",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450337764"
+  ]
+ },
+ "d27cd7cae2832673b9695e1b58e96b38": {
+  "first_seen": 1786118632.7339354,
+  "title": "Consultant Data Product Owner H/F",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430276983"
+  ]
+ },
+ "bf32b340a1c50189ac294b68a0527d8d": {
+  "first_seen": 1786118632.733975,
+  "title": "CS27 - Stage - BAC+5 - Gestion de Configuration Data pour Validation des systèmes avec IA embarquée (F/H)",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450334777"
+  ]
+ },
+ "0b7fe3f588e3df6b8de9fe3e6d5989d8": {
+  "first_seen": 1786118632.7342782,
+  "title": "CS27 - Stage - BAC+5 - Développement de modèles de prédiction de la nomenclature technique (BOM) des véhicules Renault (",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450343507"
+  ]
+ },
+ "e92f7564f0beec3b2343267523f51d45": {
+  "first_seen": 1786118632.7343197,
+  "title": "Consultant BackEnd Python",
+  "company": "WHIZE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450349470"
+  ]
+ },
+ "e10eb867ba31250ebf88ca7698027e88": {
+  "first_seen": 1786118632.7346344,
+  "title": "Responsable Développement Composants  Logiciel (F/H)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441961666"
+  ]
+ },
+ "c9aaad71667f3f4e87d909a784531f47": {
+  "first_seen": 1786118632.7346637,
+  "title": "Technicien Solutions Prototypes & Support Technique",
+  "company": "Stellantis",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439223177"
+  ]
+ },
+ "078437bca70f4e6280a8064567e0580a": {
+  "first_seen": 1786118632.73474,
+  "title": "Ingénieur Système Spatial F/H",
+  "company": "Sirius Space Services",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450710513"
+  ]
+ },
+ "e3dfc64321856e293d36220e81701408": {
+  "first_seen": 1786118632.7347646,
+  "title": "Ingénieur Études Signalisation Ferroviaire (H/F)",
+  "company": "Davidson consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4044596355"
+  ]
+ },
+ "6cec4f1f939baf91e42798e823d04e54": {
+  "first_seen": 1786118632.7347796,
+  "title": "Excitations électroniques à faible énergie et conductivité thermique",
+  "company": "CEA IRAMIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450684279"
   ]
  }
 }
