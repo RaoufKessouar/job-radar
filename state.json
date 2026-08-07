@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786131204.490867,
+   "last_success": 1786133043.1013088,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786131204.4908736,
+   "last_success": 1786133043.1013143,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786131220.0202682,
+   "last_success": 1786133059.3261285,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786131220.0202744,
+   "last_success": 1786133059.3261333,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786131220.020276,
+   "last_success": 1786133059.3261352,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786131220.020277,
+   "last_success": 1786133059.3261364,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786131220.0202782,
+   "last_success": 1786133059.3261378,
    "alerted": false
   }
  },
@@ -9608,7 +9608,8 @@
    "https://www.linkedin.com/jobs/view/4444713838",
    "https://www.linkedin.com/jobs/view/4404839765",
    "https://www.linkedin.com/jobs/view/4448124323",
-   "https://www.linkedin.com/jobs/view/4450216041"
+   "https://www.linkedin.com/jobs/view/4450216041",
+   "https://www.linkedin.com/jobs/view/4450780020"
   ]
  },
  "0f74be4bf42ae34b5c3eceebc33b5bec": {
@@ -10458,7 +10459,6 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4445369474",
    "https://www.linkedin.com/jobs/view/4446116808",
    "https://www.linkedin.com/jobs/view/4435171155",
    "https://www.linkedin.com/jobs/view/4446369703",
@@ -10467,7 +10467,8 @@
    "https://www.linkedin.com/jobs/view/4447822164",
    "https://www.linkedin.com/jobs/view/4448143019",
    "https://www.linkedin.com/jobs/view/4448885314",
-   "https://www.linkedin.com/jobs/view/4450205980"
+   "https://www.linkedin.com/jobs/view/4450205980",
+   "https://www.linkedin.com/jobs/view/4450761568"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -28808,7 +28809,8 @@
   "company": "Inetum",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4450678125"
+   "https://www.linkedin.com/jobs/view/4450678125",
+   "https://www.linkedin.com/jobs/view/4450732886"
   ]
  },
  "1c41461a552b383d256d176107dff6ea": {
@@ -31286,6 +31288,51 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4433312964"
+  ]
+ },
+ "3320ed9e347378702bef5b53650b7d1b": {
+  "first_seen": 1786133059.327304,
+  "title": "Analyste études &amp; Veille Marketing H/F-Stage",
+  "company": "Palatine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438735887"
+  ]
+ },
+ "9a1b91377cf6b26987eaad0598f7e535": {
+  "first_seen": 1786133059.3278399,
+  "title": "Stage – Appui à la Direction générale : capitalisation des connaissances et projets stratégiques transverses (H/F)",
+  "company": "CFI, agence française de développement médias",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450014495"
+  ]
+ },
+ "85e5807132a3cef1a64b129ef4f91b75": {
+  "first_seen": 1786133059.327878,
+  "title": "Software Engineer Intern - Front-End or Fullstack",
+  "company": "Criteo Deutschland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448793672"
+  ]
+ },
+ "a488a8905cded6a2a6307e5eda736878": {
+  "first_seen": 1786133059.3278885,
+  "title": "STAGE - Stagiaire Chargé de contenu (H/F)",
+  "company": "L'Agence Verte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432629289"
+  ]
+ },
+ "5cbcc76dd3cdd7ba88b9f696da41cbbf": {
+  "first_seen": 1786133059.327952,
+  "title": "Stage - Assistant(e) Recrutement et Administration RH (H/F)",
+  "company": "LANVIN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448158794"
   ]
  }
 }
