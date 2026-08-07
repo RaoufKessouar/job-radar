@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786118617.0933032,
+   "last_success": 1786120423.667546,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786118617.0933094,
+   "last_success": 1786120423.6675522,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786118632.733126,
+   "last_success": 1786120439.2849967,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786118632.7331312,
+   "last_success": 1786120439.2850013,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786118632.733133,
+   "last_success": 1786120439.2850032,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786118632.7331345,
+   "last_success": 1786120439.285005,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786118632.7331362,
+   "last_success": 1786120439.2850068,
    "alerted": false
   }
  },
@@ -30706,6 +30706,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450684279"
+  ]
+ },
+ "0827ac9e862a0aec5f47ec0d11ea419a": {
+  "first_seen": 1786120439.2864478,
+  "title": "Stagiaire Chargé de Communication Externe (H/F)",
+  "company": "Louvre Hotels Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450728429"
+  ]
+ },
+ "f94f8a03238a31ebe83d3cf5bf03008c": {
+  "first_seen": 1786120439.2866108,
+  "title": "INGENIEUR EN DEVELOPPEMENT BACK END",
+  "company": "Groupement interministériel de contrôle",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448785070"
+  ]
+ },
+ "f53c2545aa90ef429a8e79cb71ee0f22": {
+  "first_seen": 1786120439.2866964,
+  "title": "Ingénieur essais et mise en service (F/H)",
+  "company": "Alstom",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448487375"
+  ]
+ },
+ "7a57ef4115c95c6e28b45664af235937": {
+  "first_seen": 1786120439.2867365,
+  "title": "AI Product Engineer",
+  "company": "Evaneos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4426236433"
+  ]
+ },
+ "32361a3837c48d0a0564e4787fee9fb8": {
+  "first_seen": 1786120439.2867446,
+  "title": "Développeur Fullstack JS|Python (F/H)",
+  "company": "Idean UK",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450646772"
+  ]
+ },
+ "bcf9d53503975e5017ec92711bd40a9f": {
+  "first_seen": 1786120439.2867575,
+  "title": "Assistant(e) Administrateur(trice) systèmes et réseaux du projet « Magnétisme Spatial »",
+  "company": "Institut de Physique du Globe de Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450045678"
+  ]
+ },
+ "9c821fa7a54532095773137e73d5d069": {
+  "first_seen": 1786120439.2867653,
+  "title": "Ingénieur Java Fullstack",
+  "company": "DigiFacture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450257194"
+  ]
+ },
+ "1a91be045fd8677c6951ca93949988bc": {
+  "first_seen": 1786120439.2867734,
+  "title": "Backend engineer Squad Real Estate Maps (F/N/H)",
+  "company": "leboncoin",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422397413"
+  ]
+ },
+ "205f8aa693b8cd5f9299e39d7a3c0966": {
+  "first_seen": 1786120439.2868192,
+  "title": "Responsable Intégration/Validation Equipement Optronique F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432435865"
   ]
  }
 }
