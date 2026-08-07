@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786115019.8522704,
+   "last_success": 1786116817.8062632,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786115019.8522773,
+   "last_success": 1786116817.8062696,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786115036.01396,
+   "last_success": 1786116833.9610841,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786115036.0139647,
+   "last_success": 1786116833.9610898,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786115036.013966,
+   "last_success": 1786116833.9610915,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786115036.0139668,
+   "last_success": 1786116833.9610937,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786115036.0139682,
+   "last_success": 1786116833.9610949,
    "alerted": false
   }
  },
@@ -21457,7 +21457,8 @@
   "company": "Adone Conseil",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448165171"
+   "https://www.linkedin.com/jobs/view/4448165171",
+   "https://www.linkedin.com/jobs/view/4448793127"
   ]
  },
  "6bb287a8fd94c47630a9e1531345a9d5": {
@@ -30560,6 +30561,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448715275"
+  ]
+ },
+ "8c151827bb18a8bb9d779d7109a553c7": {
+  "first_seen": 1786116833.9621382,
+  "title": "Stage de fin d'études/Alternance - Consultant·e en Transformation Digitale - Banque & Assurance",
+  "company": "Wavestone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450700983"
+  ]
+ },
+ "e8eecef0b5e68fc8410f9d13d781b26b": {
+  "first_seen": 1786116833.9621687,
+  "title": "Solutions Consultant, Mid-Market, France",
+  "company": "Notion",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450728155"
+  ]
+ },
+ "c08f593606bb75775c1567a692ca8b30": {
+  "first_seen": 1786116833.9623764,
+  "title": "Prompt Specialist (F/H/NB)",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449203358"
+  ]
+ },
+ "2d18e9211a985dfe41e190ad07e9c9d3": {
+  "first_seen": 1786116833.962397,
+  "title": "System Engineering Intern – Functional Sequencing & Data Consistency",
+  "company": "MaiaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433370683"
+  ]
+ },
+ "de87cb617bc23cb4aa4614c375b999f3": {
+  "first_seen": 1786116833.96242,
+  "title": "STAGE - Assistant Chef de produit : BLEDINA - Janvier 2027 - (H/F)",
+  "company": "Danone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441457695"
+  ]
+ },
+ "2552f8e0db05b40c5bd6a81cd5f8f7c6": {
+  "first_seen": 1786116833.9624276,
+  "title": "Digital Analytics Consultant Intern - Paris (H/F)",
+  "company": "fifty-five",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450714454"
   ]
  }
 }
