@@ -1,19 +1,19 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786121858.8757358,
+   "last_success": 1786122208.0583074,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786121858.8757415,
+   "last_success": 1786122208.0583122,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786121873.8470342,
+   "last_success": 1786122221.016238,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786121873.847039,
+   "last_success": 1786122221.0162427,
    "alerted": false
   },
   "carriere-orange": {
@@ -21,11 +21,11 @@
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786121873.8470418,
+   "last_success": 1786122221.0162742,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786121873.847043,
+   "last_success": 1786122221.016276,
    "alerted": false
   }
  },
@@ -30815,6 +30815,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450343738"
+  ]
+ },
+ "31e9b3faf0209d2e58db16dec7a9ebad": {
+  "first_seen": 1786122221.0170624,
+  "title": "Risk, Market Risk, Analyst, Paris",
+  "company": "Goldman Sachs",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450356390"
+  ]
+ },
+ "e2c7ef20ac4733dd78c0d25c6d53d382": {
+  "first_seen": 1786122221.0170746,
+  "title": "Consultant Data Analyst Direction Financière H/F",
+  "company": "Primexis | Expertise-comptable et conseil opérationnel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449201538"
+  ]
+ },
+ "74921deaa469d63bf57c69a64f093359": {
+  "first_seen": 1786122221.017099,
+  "title": "Consultant stagiaire – Energie & Climat (H/F)",
+  "company": "I Care",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448499479"
+  ]
+ },
+ "c86e695e41634dac48831d7482cc03ab": {
+  "first_seen": 1786122221.0174403,
+  "title": "Stage - Conseil en stratégie - Energie",
+  "company": "AFRY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441491475"
+  ]
+ },
+ "68b12ec8edd0b04352194a97d76fc1bc": {
+  "first_seen": 1786122221.0174546,
+  "title": "Senior Backend Engineer — Data Platform & AI Agents",
+  "company": "Jus Mundi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449779737"
+  ]
+ },
+ "00bd99e040905532aabfb70875ed513f": {
+  "first_seen": 1786122221.01747,
+  "title": "Consulting - Manager / Manager Senior - Data, IA & IA Générative - Paris (H/F)",
+  "company": "Talan",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448767260"
+  ]
+ },
+ "403477ec9f4ad19367a605962525e75e": {
+  "first_seen": 1786122221.017867,
+  "title": "Responsable multi lots H/F",
+  "company": "Siemens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450345756"
   ]
  }
 }
