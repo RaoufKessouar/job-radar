@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786104216.1437128,
+   "last_success": 1786106010.2975109,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786104216.143719,
+   "last_success": 1786106010.2975166,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786104229.9006717,
+   "last_success": 1786106025.5062788,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786104229.9006765,
+   "last_success": 1786106025.506282,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786104229.9006782,
+   "last_success": 1786106025.5062835,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786104229.9006793,
+   "last_success": 1786106025.5062845,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786104229.900681,
+   "last_success": 1786106025.5062861,
    "alerted": false
   }
  },
@@ -29614,7 +29614,8 @@
   "company": "ALTEN",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448764476"
+   "https://www.linkedin.com/jobs/view/4448764476",
+   "https://www.linkedin.com/jobs/view/4448761523"
   ]
  },
  "9334e9c50ce16cbb177827a3755c5404": {
@@ -29768,6 +29769,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448727922"
+  ]
+ },
+ "de07d5bdf250af1d8774388be2c0eb32": {
+  "first_seen": 1786106025.5072336,
+  "title": "Software Engineer III, YouTube Knowledge",
+  "company": "Google",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440789477"
+  ]
+ },
+ "26b9b0851511a84039091d651c56dad6": {
+  "first_seen": 1786106025.5072525,
+  "title": "Data Engineer GCP",
+  "company": "SFEIR",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4158532631"
+  ]
+ },
+ "658ba10945657a0da04888553de0253d": {
+  "first_seen": 1786106025.507258,
+  "title": "Director, Data & AI Team",
+  "company": "Alvarez & Marsal",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441281370"
+  ]
+ },
+ "917d83f9113c22038121ed4deda0d2a6": {
+  "first_seen": 1786106025.507379,
+  "title": "Stage    -     Stage Fin d’études /  Ingénieur innovation en informatique, sciences des données  - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4419608099"
+  ]
+ },
+ "b78f5a7997f72e792032a37a264eea24": {
+  "first_seen": 1786106025.5073981,
+  "title": "Ingénieur(e) IA Expérimenté(e) H/F",
+  "company": "Avanade",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448777674"
+  ]
+ },
+ "ee00e01f5217dd4f392626d23002a95d": {
+  "first_seen": 1786106025.5074594,
+  "title": "Consultant Avant-Vente & Delivery IA - F/H",
+  "company": "Bull",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433089707"
+  ]
+ },
+ "8e77b8e402f2608d9a01e7f996a4235d": {
+  "first_seen": 1786106025.5077636,
+  "title": "PROJECT MANAGER - STAGE DE FIN D'ÉTUDES",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450021271"
+  ]
+ },
+ "411e4e57eb5ff3bd0f5bfceea192c85e": {
+  "first_seen": 1786106025.5080242,
+  "title": "Ingénieur Validation et Administration Linux HPC / R&D (F/H) - Eviden",
+  "company": "Eviden",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432809355"
   ]
  }
 }
