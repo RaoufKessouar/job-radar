@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786097043.426859,
+   "last_success": 1786098808.6973505,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786097043.4268641,
+   "last_success": 1786098808.6973567,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786097059.8424373,
+   "last_success": 1786098824.0308592,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786097059.842442,
+   "last_success": 1786098824.0308633,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786097059.8424432,
+   "last_success": 1786098824.030865,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786097059.8424447,
+   "last_success": 1786098824.0308664,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786097059.8424459,
+   "last_success": 1786098824.030868,
    "alerted": false
   }
  },
@@ -15378,7 +15378,8 @@
    "https://www.linkedin.com/jobs/view/4445822738",
    "https://www.linkedin.com/jobs/view/4445873329",
    "https://www.linkedin.com/jobs/view/4446299231",
-   "https://www.linkedin.com/jobs/view/4448076880"
+   "https://www.linkedin.com/jobs/view/4448076880",
+   "https://www.linkedin.com/jobs/view/4448713340"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -22685,7 +22686,8 @@
   "company": "MERITIS",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446219710"
+   "https://www.linkedin.com/jobs/view/4446219710",
+   "https://www.linkedin.com/jobs/view/4448768269"
   ]
  },
  "07fb07019ae04a954eeb7434019f2dbe": {
@@ -29484,6 +29486,69 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage----Bac-5---Ingnieur-Dimensionnement-Structure-Caisse--H-F-_JOBREQ_50273093"
+  ]
+ },
+ "6ab232bcf4156ba2e9ac2b1696d2bd56": {
+  "first_seen": 1786098824.0315573,
+  "title": "Stagiaire Ingénieur IA Générative F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4392463814"
+  ]
+ },
+ "47f57eb6fdb2d6c2aac378abbe8b7a1c": {
+  "first_seen": 1786098824.0319629,
+  "title": "Founding Data & AI Engineer",
+  "company": "Bayestra",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448755853"
+  ]
+ },
+ "ca76646b8188e85abb63fa8b20a955ff": {
+  "first_seen": 1786098824.0320683,
+  "title": "Stage Product Owner / Product Builder",
+  "company": "Bagou",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450087734"
+  ]
+ },
+ "77ee29409f67e3be701a81869a7f9765": {
+  "first_seen": 1786098824.032128,
+  "title": "Stage Consultant IA & Business Transformation F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432860801"
+  ]
+ },
+ "b577ba26d61aaa71e9589e04f9262c4f": {
+  "first_seen": 1786098824.0323908,
+  "title": "Scrum Master / Co-Ingénieur Synthèse Technique /Logiciels Embarqués H/F",
+  "company": "SEGULA Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441483811"
+  ]
+ },
+ "1177b79f7f9d3be85c7d162219edbf09": {
+  "first_seen": 1786098824.0324318,
+  "title": "Ingénieur(e) pour le développement et la production de produits scientifiques dans le cadre de la mission spatiale NanoM",
+  "company": "Institut de Physique du Globe de Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450044709"
+  ]
+ },
+ "7262c6e7bf0e4b93e72f69ae66e315be": {
+  "first_seen": 1786098824.0324404,
+  "title": "Ingénieur automaticien/Ingénieure automaticienne",
+  "company": "Approach People Recruitment",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450095635"
   ]
  }
 }
