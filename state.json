@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786098808.6973505,
+   "last_success": 1786100625.339815,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786098808.6973567,
+   "last_success": 1786100625.3398206,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786098824.0308592,
+   "last_success": 1786100638.47835,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786098824.0308633,
+   "last_success": 1786100638.4783537,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786098824.030865,
+   "last_success": 1786100638.4783554,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786098824.0308664,
+   "last_success": 1786100638.4783568,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786098824.030868,
+   "last_success": 1786100638.478358,
    "alerted": false
   }
  },
@@ -21876,7 +21876,8 @@
   "company": "Sundayy",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448162710"
+   "https://www.linkedin.com/jobs/view/4448162710",
+   "https://www.linkedin.com/jobs/view/4450303705"
   ]
  },
  "f7ac6d0f92ae10dd3ce864c5b9ec77a9": {
@@ -29549,6 +29550,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450095635"
+  ]
+ },
+ "e66c31836c824c2a278f0629b0e4a3af": {
+  "first_seen": 1786100638.4794166,
+  "title": "Développeur Full Stack Node/React - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429868241"
+  ]
+ },
+ "1436f3a16dce3296988019ff7ad6cc28": {
+  "first_seen": 1786100638.4794424,
+  "title": "Founding Data & AI Engineer (Corporate Strategy & M&A Analytics)",
+  "company": "Bayestra",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448755853"
   ]
  }
 }
