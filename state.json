@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786095205.9418929,
+   "last_success": 1786097043.426859,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786095205.9418986,
+   "last_success": 1786097043.4268641,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786095219.1475697,
+   "last_success": 1786097059.8424373,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786095219.1475737,
+   "last_success": 1786097059.842442,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786095219.1475756,
+   "last_success": 1786097059.8424432,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786095219.1475768,
+   "last_success": 1786097059.8424447,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786095219.1475785,
+   "last_success": 1786097059.8424459,
    "alerted": false
   }
  },
@@ -27060,7 +27060,8 @@
   "company": "Aneo",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4449628989"
+   "https://www.linkedin.com/jobs/view/4449628989",
+   "https://www.linkedin.com/jobs/view/4448762107"
   ]
  },
  "ee608d56d1757a9c7104bf4cb02a3540": {
@@ -29420,6 +29421,69 @@
   "source": "carriere-renault",
   "urls": [
    "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Chef-de-Projet-Transformation-des-mtiers-Supply-Chain--l-re-de-l-Intelligence-Artificielle--H-F-_JOBREQ_50272618"
+  ]
+ },
+ "287a8c64e4bf4bd52b4868d92e9b4500": {
+  "first_seen": 1786097059.8434572,
+  "title": "Product Manager IA H/F",
+  "company": "Hubvisory",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450248676"
+  ]
+ },
+ "1af863da5e6ee29deaf2c88af48530ed": {
+  "first_seen": 1786097059.8435025,
+  "title": "CS27 - Stage - BAC+5 - Chef de Projet Transformation des métiers Supply Chain à l'ère de l'Intelligence Artificielle (H/",
+  "company": "Renault Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450095483"
+  ]
+ },
+ "40d9105debe12543d97e854f76037f81": {
+  "first_seen": 1786097059.8435106,
+  "title": "Product Owner Data / IA (H/F)",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448431188"
+  ]
+ },
+ "6fdc09fd7b236b06c3e4e98fb28c263d": {
+  "first_seen": 1786097059.8435338,
+  "title": "Chargé(e) de Support Produits IA – H/F",
+  "company": "BASSETTI TALENT POOL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450095672"
+  ]
+ },
+ "e71e118a61406025dc4f3d3a03b7edbb": {
+  "first_seen": 1786097059.8437722,
+  "title": "Responsable Etudes et Conception d&apos;Algorithmes de Traitement d&apos;Image F/H",
+  "company": "L'Usine Nouvelle",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448741628"
+  ]
+ },
+ "60ac9c1dd09ddb74127ac102f0524691": {
+  "first_seen": 1786097059.844141,
+  "title": "CS27 - Stage - Bac+5 - Assistant Launching ( H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Boulogne-Billancourt/CS27---Stage---Bac-5---Assistant-Launching---H-F-_JOBREQ_50271332"
+  ]
+ },
+ "78d979fa8dd22ce2692dc55e688caef3": {
+  "first_seen": 1786097059.8441515,
+  "title": "CS27 - Stage -  Bac+5 - Ingénieur Dimensionnement Structure Caisse (H/F)",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage----Bac-5---Ingnieur-Dimensionnement-Structure-Caisse--H-F-_JOBREQ_50273093"
   ]
  }
 }
