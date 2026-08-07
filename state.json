@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786125825.0735486,
+   "last_success": 1786127601.2749207,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786125825.0735548,
+   "last_success": 1786127601.2749267,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786125839.1579137,
+   "last_success": 1786127614.2698693,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786125839.1579182,
+   "last_success": 1786127614.2698736,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786125839.1579196,
+   "last_success": 1786127614.269875,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786125839.1579208,
+   "last_success": 1786127614.2698762,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786125839.1579218,
+   "last_success": 1786127614.2698777,
    "alerted": false
   }
  },
@@ -31004,6 +31004,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450358495"
+  ]
+ },
+ "9ee62e48ad0892c15f121c15a368593e": {
+  "first_seen": 1786127614.271324,
+  "title": "CDI - AI PRODUCT MANAGER BUSINESS & OPERATIONS AFRIQUE - (F/H/X)",
+  "company": "CANAL+ Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441996246"
+  ]
+ },
+ "a93a7e922891d5efa33e14a3c9126765": {
+  "first_seen": 1786127614.271395,
+  "title": "Assistant stratégie Système d'Information",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431756004"
   ]
  }
 }
