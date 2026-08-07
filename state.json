@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786102417.3229697,
+   "last_success": 1786103287.8503637,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786102417.3229752,
+   "last_success": 1786103287.8503685,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786102432.3301196,
+   "last_success": 1786103302.9255927,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786102432.3301249,
+   "last_success": 1786103302.9255972,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786102432.3301263,
+   "last_success": 1786103302.9255986,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786102432.330128,
+   "last_success": 1786103302.9255998,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786102432.3301291,
+   "last_success": 1786103302.925601,
    "alerted": false
   }
  },
@@ -29713,6 +29713,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4413446513"
+  ]
+ },
+ "157d959a5f541278ccc98319915c196e": {
+  "first_seen": 1786103302.9266984,
+  "title": "ENGAGE - ENerGy efficiency through softwAre GEnetic improvement",
+  "company": "Energy4Climate (E4C)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448781137"
+  ]
+ },
+ "0fb957a5df13c72101e2b5c76514a0bb": {
+  "first_seen": 1786103302.9267159,
+  "title": "GREEN-FED: Federated Learning for Energy-Efficient Orchestration with SDN Control in Multi-Domain 6G Networks",
+  "company": "Energy4Climate (E4C)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448766604"
+  ]
+ },
+ "6300e96d30c235e692c42c71385c4c2c": {
+  "first_seen": 1786103302.9270077,
+  "title": "Senior Software Engineer (Java Card Applet)",
+  "company": "HID",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420141176"
+  ]
+ },
+ "c8fc6d594eaa46a5dd366a09ba7f9dca": {
+  "first_seen": 1786103302.9270165,
+  "title": "Opérateur ou opératrice de dépannage des équipements de sécurité des TGV, Saint-Denis",
+  "company": "SNCF Voyageurs",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450077391"
   ]
  }
 }
