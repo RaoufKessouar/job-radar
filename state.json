@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786106010.2975109,
+   "last_success": 1786107827.1145191,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786106010.2975166,
+   "last_success": 1786107827.114525,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786106025.5062788,
+   "last_success": 1786107843.2061076,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786106025.506282,
+   "last_success": 1786107843.2061129,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786106025.5062835,
+   "last_success": 1786107843.2061145,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786106025.5062845,
+   "last_success": 1786107843.2061164,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786106025.5062861,
+   "last_success": 1786107843.2061176,
    "alerted": false
   }
  },
@@ -12883,7 +12883,8 @@
   "company": "Expleo Group",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4368806314"
+   "https://www.linkedin.com/jobs/view/4368806314",
+   "https://www.linkedin.com/jobs/view/4433088821"
   ]
  },
  "4ed4f5e7a1fe1bc5b37cd0e94e4d97bb": {
@@ -29841,6 +29842,186 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4432809355"
+  ]
+ },
+ "3bcd3d39e3637e751f7a5be3298290f7": {
+  "first_seen": 1786107843.2067454,
+  "title": "Lead data scientist & IA (F/N/H)",
+  "company": "leboncoin",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4407423129"
+  ]
+ },
+ "f43ac4216e42ff5b074c4d6f9a23cc9c": {
+  "first_seen": 1786107843.2068388,
+  "title": "Data Analyst Power BI / GCP H/F",
+  "company": "NEXTON",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423942204"
+  ]
+ },
+ "1f3a76682f7ec05bb3b987aaccb7832e": {
+  "first_seen": 1786107843.206928,
+  "title": "Quantum computing developer R&D H/F",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429870189"
+  ]
+ },
+ "1cb939deab0c17e6c273c73988a74876": {
+  "first_seen": 1786107843.206945,
+  "title": "Mission nationale - Analyste données Process mining - F/H",
+  "company": "Urssaf Caisse nationale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441492142"
+  ]
+ },
+ "db218a4d1db192554183242c5264fc9b": {
+  "first_seen": 1786107843.2071786,
+  "title": "Senior Machine Learning Scientist (ASR)",
+  "company": "Sonos, Inc.",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4393810265"
+  ]
+ },
+ "ede9bd7566593fae4f12209d5916b899": {
+  "first_seen": 1786107843.2072816,
+  "title": "Senior Applied Artificial Intelligence (AI) Engineer (Insurance Domain Experience)",
+  "company": "Milliman",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438755727"
+  ]
+ },
+ "8260747d2bdbfae1bc6a79d1300104ae": {
+  "first_seen": 1786107843.2074764,
+  "title": "Stage – Assistant(e) Business Analyst – Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441449265"
+  ]
+ },
+ "d96f4881dc0f86ba7f56f77100ce869e": {
+  "first_seen": 1786107843.20749,
+  "title": "Offre de Stage : Développement d’un site web vitrine dynamique avec Anvil et connecté par API à un back office (Coog)",
+  "company": "Coopengo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450660717"
+  ]
+ },
+ "d2bd95a6b9d75a2a3847df55847d55a4": {
+  "first_seen": 1786107843.2075315,
+  "title": "Stage - Assistant Direction des Marques H/F",
+  "company": "Groupe TF1",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450323370"
+  ]
+ },
+ "12318d0e6edad6e9fa21e40d57b7a321": {
+  "first_seen": 1786107843.20754,
+  "title": "Stage – E-COMMERCE - Janvier 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441446408"
+  ]
+ },
+ "439a6127a4baf0e630a22688c16a2bf2": {
+  "first_seen": 1786107843.2075505,
+  "title": "Chargé de Transformation, Engagement collaborateur et acculturation IA",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448442526"
+  ]
+ },
+ "bfdc5a1e610934660dbb0a7fb252ed22": {
+  "first_seen": 1786107843.2075572,
+  "title": "Offre de stage - 2017",
+  "company": "Cabinet 2017",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450028466"
+  ]
+ },
+ "af1051fb5bd21b3aa08b41b4bd1a2d5a": {
+  "first_seen": 1786107843.2075636,
+  "title": "Chef.fe projet digital & content - Stage",
+  "company": "Ornikar",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448434514"
+  ]
+ },
+ "14c7b9e575b74ea05c2f1561389b11b0": {
+  "first_seen": 1786107843.2075717,
+  "title": "STAGE - Assistant Planneur Stratégique H/F",
+  "company": "dentsu",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4436817723"
+  ]
+ },
+ "dc442b8e007631487b8a0a7b04d01524": {
+  "first_seen": 1786107843.2076037,
+  "title": "Stage/Alternance - Compliance ESG et Reporting (F/H/X)",
+  "company": "Groupe SeLoger",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450275864"
+  ]
+ },
+ "6c0a4bc932f37906298aae69ed2a8c3d": {
+  "first_seen": 1786107843.2076344,
+  "title": "Ingénieur Logiciel Embarqué C/C++ H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413028249"
+  ]
+ },
+ "be36742128c4933552becb2a21d21190": {
+  "first_seen": 1786107843.207709,
+  "title": "Ingenieur Développement TestStand - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430280353"
+  ]
+ },
+ "a55a8f71411d3eeeef8a8fa952efa008": {
+  "first_seen": 1786107843.2077575,
+  "title": "Stage - Développeur(se) Full Stack - Janvier 2027",
+  "company": "Daisy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448768326"
+  ]
+ },
+ "4f5854111301dcaaaca2304dfb0e676d": {
+  "first_seen": 1786107843.2077663,
+  "title": "Ingénieur Electronique H/F - Les Ulis (91) - CDI",
+  "company": "Compagnie des Signaux - CSEE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4307547351"
+  ]
+ },
+ "1779d15ceb40daa13d57c45c9a9714e5": {
+  "first_seen": 1786107843.2078993,
+  "title": "CS27 - Stage - BAC+5 - Développement de modèles de prédiction de la nomenclature technique (BOM) des véhicules Renault (",
+  "company": "Renault Group",
+  "source": "carriere-renault",
+  "urls": [
+   "https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers/job/Guyancourt/CS27---Stage---BAC-5---Dveloppement-de-modles-de-prdiction-de-la-nomenclature-technique--BOM--des-vhicules-Renault--H-F-_JOBREQ_50273622"
   ]
  }
 }
