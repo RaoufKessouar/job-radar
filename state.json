@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786129420.102176,
+   "last_success": 1786131204.490867,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786129420.1021817,
+   "last_success": 1786131204.4908736,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786129435.3473787,
+   "last_success": 1786131220.0202682,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786129435.347384,
+   "last_success": 1786131220.0202744,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786129435.347386,
+   "last_success": 1786131220.020276,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786129435.347387,
+   "last_success": 1786131220.020277,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786129435.347389,
+   "last_success": 1786131220.0202782,
    "alerted": false
   }
  },
@@ -30420,7 +30420,8 @@
   "company": "Thales",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4450644815"
+   "https://www.linkedin.com/jobs/view/4450644815",
+   "https://www.linkedin.com/jobs/view/4450739032"
   ]
  },
  "16556f4ca3b36efa46fbf7ad8f746814": {
@@ -31231,6 +31232,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447568314"
+  ]
+ },
+ "c2c6f8d28a4404e957e56d6eddab32b8": {
+  "first_seen": 1786131220.0213397,
+  "title": "Senior Data Scientist I",
+  "company": "DoubleVerify",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414262668"
+  ]
+ },
+ "d50b1ee715bff1ab95cd98352c258e23": {
+  "first_seen": 1786131220.0214794,
+  "title": "Senior Data Consultant (H/F)",
+  "company": "fifty-five",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450722287"
+  ]
+ },
+ "13ac0159d94ebeb98df7e8100edf11fc": {
+  "first_seen": 1786131220.0215096,
+  "title": "Chargé de Marketing Digital, Data & IT (H/F) ALTERNANCE",
+  "company": "Allianz France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441475011"
+  ]
+ },
+ "dfa3968fb915658bcc6f53d0a993c132": {
+  "first_seen": 1786131220.0215201,
+  "title": "Data Engineer - Marketing Digital & eCommerce H/F - CDD - Paris (17ème)",
+  "company": "Rexel Southern",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448755464"
+  ]
+ },
+ "e1756270e879d72b3716f1067b148ae1": {
+  "first_seen": 1786131220.0215266,
+  "title": "Senior Data Analyst H/F",
+  "company": "Felps Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450692666"
+  ]
+ },
+ "48d91e41d2069147327da8b4e464f4b6": {
+  "first_seen": 1786131220.0215383,
+  "title": "Scientific Data manager",
+  "company": "Servier France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433312964"
   ]
  }
 }
