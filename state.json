@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786091617.357982,
+   "last_success": 1786093417.6963694,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786091617.357987,
+   "last_success": 1786093417.6963737,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786091632.4295862,
+   "last_success": 1786093432.9994996,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786091632.429591,
+   "last_success": 1786093432.9995039,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786091632.4295928,
+   "last_success": 1786093432.999505,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786091632.429594,
+   "last_success": 1786093432.9995065,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786091632.4295955,
+   "last_success": 1786093432.9995077,
    "alerted": false
   }
  },
@@ -29227,6 +29227,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4381718241"
+  ]
+ },
+ "d871ec6e650b63c1252cb482d8fce0cf": {
+  "first_seen": 1786093433.0003426,
+  "title": "Développeur .Net & IA / Azure  (H/F)",
+  "company": "Exakis Nelite",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450304103"
+  ]
+ },
+ "0c7d54c35f6589f05543bff0d24b5093": {
+  "first_seen": 1786093433.000557,
+  "title": "Stagiaire (H/F) Numérique et Santé - 2ème semestre 2027",
+  "company": "Charles Russell Speechlys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4444928634"
   ]
  }
 }
