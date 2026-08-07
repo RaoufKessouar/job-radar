@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786127601.2749207,
+   "last_success": 1786129420.102176,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786127601.2749267,
+   "last_success": 1786129420.1021817,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786127614.2698693,
+   "last_success": 1786129435.3473787,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786127614.2698736,
+   "last_success": 1786129435.347384,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786127614.269875,
+   "last_success": 1786129435.347386,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786127614.2698762,
+   "last_success": 1786129435.347387,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786127614.2698777,
+   "last_success": 1786129435.347389,
    "alerted": false
   }
  },
@@ -20415,7 +20415,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447884708",
-   "https://www.linkedin.com/jobs/view/4447886613"
+   "https://www.linkedin.com/jobs/view/4447886613",
+   "https://www.linkedin.com/jobs/view/4450326252"
   ]
  },
  "fcc4775d59678009357a4469be052516": {
@@ -21856,7 +21857,8 @@
   "company": "Adone Conseil",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448168068"
+   "https://www.linkedin.com/jobs/view/4448168068",
+   "https://www.linkedin.com/jobs/view/4448780666"
   ]
  },
  "5fe1d4c022fd1d2cee7184ebaaf25f7e": {
@@ -31022,6 +31024,213 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4431756004"
+  ]
+ },
+ "fd32f97eda95b2271925ca65d202f5a3": {
+  "first_seen": 1786129435.3482301,
+  "title": "CDI - Data Manager (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450350598"
+  ]
+ },
+ "bb62eb57519f68cf538988990bbeea1c": {
+  "first_seen": 1786129435.3482616,
+  "title": "Stage - Assistant(e) Supply & Distribution Planner (F/H)",
+  "company": "GIVENCHY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423520645"
+  ]
+ },
+ "bdb79c337954a49567a59a349044dab2": {
+  "first_seen": 1786129435.3482816,
+  "title": "Data Engineer - Marketing Digital & eCommerce H/F - CDD 3 mois - Paris (17ème)",
+  "company": "REXEL FRANCE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450315623"
+  ]
+ },
+ "7fab1067684ede458f3d724d825d3d3d": {
+  "first_seen": 1786129435.3482885,
+  "title": "Senior Market Data Analyst",
+  "company": "Believe",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450338831"
+  ]
+ },
+ "f1e45b037e1e4a59ec753e34bb6d5275": {
+  "first_seen": 1786129435.3483043,
+  "title": "Operations | Trading Operations Intern | Paris",
+  "company": "Flowdesk",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448768601"
+  ]
+ },
+ "2bb0bfa1e7ff93a43e3612ee789bd201": {
+  "first_seen": 1786129435.3484483,
+  "title": "Responsable de projets Gen-AI -  F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432591503"
+  ]
+ },
+ "347edba92cad5d9f63d09137422b1e89": {
+  "first_seen": 1786129435.3484604,
+  "title": "Product Owner",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450341510"
+  ]
+ },
+ "1d76ea7eb88ec9975b01972f5dbc670c": {
+  "first_seen": 1786129435.3484774,
+  "title": "Cheffe/Chef de projet (F/H) - IA - Assurance Vie",
+  "company": "Assurances Crédit Mutuel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441183178"
+  ]
+ },
+ "c80ce0f52afa35bc4d0a444973f47dd6": {
+  "first_seen": 1786129435.3484952,
+  "title": "Manager Transformation & IA - H/F",
+  "company": "Externatic",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429352364"
+  ]
+ },
+ "08686323f2606cae0a952b2d8b0a4aaa": {
+  "first_seen": 1786129435.3485034,
+  "title": "Chef de projet H/F",
+  "company": "Fed IT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450313113"
+  ]
+ },
+ "7d4d82046bb898d429710c51ea3825b7": {
+  "first_seen": 1786129435.3485098,
+  "title": "Engagement Manager",
+  "company": "Model ML",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450308014"
+  ]
+ },
+ "7e3a7a7ab476f705f0f2c3d8fb608e16": {
+  "first_seen": 1786129435.3485174,
+  "title": "Développeur RPA F/H",
+  "company": "Eiffage",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410636344"
+  ]
+ },
+ "cd0310dafd9c5f89e07e760f0ec2e942": {
+  "first_seen": 1786129435.3485408,
+  "title": "Google Cloud Architect",
+  "company": "Valtech",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423009611"
+  ]
+ },
+ "76bad37e8b5b7431ccde93e2882d95d9": {
+  "first_seen": 1786129435.348549,
+  "title": "Consultant(e) transformation digitale",
+  "company": "Sharp DX France (ex Apsia)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448755692"
+  ]
+ },
+ "34aa55ffce28577cf4c2312c20e76f8d": {
+  "first_seen": 1786129435.3485646,
+  "title": "Workplace Architect Junior F/H",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441108542"
+  ]
+ },
+ "b4db178e60d03df64abea8f98ea048c9": {
+  "first_seen": 1786129435.3486698,
+  "title": "Solutions Architect, EMEA Startups — France",
+  "company": "Databricks",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449232030"
+  ]
+ },
+ "d5a0d4c7f84974d53c92c3fe0bfa0b90": {
+  "first_seen": 1786129435.3487096,
+  "title": "Alternant documentation par IA",
+  "company": "Hitachi Rail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448769709"
+  ]
+ },
+ "97fff8fe5290399e781a5213b20304e7": {
+  "first_seen": 1786129435.3488297,
+  "title": "Stage – Assistant(e) Orchestration Projets Image Mode H/F/X - Mode – Juillet 2026",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413563686"
+  ]
+ },
+ "4e5f9fd628efb5089f0892cfefd0ea0b": {
+  "first_seen": 1786129435.3488698,
+  "title": "Stagiaire Communication Institutionnelle/Relations Publiques F/H",
+  "company": "VINCI Concessions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442153031"
+  ]
+ },
+ "5a14a9820ac0c46aafefdce03d637b6d": {
+  "first_seen": 1786129435.348877,
+  "title": "Stage en Brand management",
+  "company": "Procter & Gamble",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430237326"
+  ]
+ },
+ "b4c211067b6d1b087b139fca5dbf8e4f": {
+  "first_seen": 1786129435.3488886,
+  "title": "AMELIORATION DE LA METHODOLOGIE POUR LA RESTITUTION DE REPONSE STRUCTURALE D’OBJETS 3D H/F",
+  "company": "NUCLETUDES",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450664812"
+  ]
+ },
+ "4cc96aefda14365ce4d004345cf21ac4": {
+  "first_seen": 1786129435.3489182,
+  "title": "CHARGÉ DE DÉVELOPPEMENT HARDWARE - IOT STAGE 2 MOIS",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448909566"
+  ]
+ },
+ "edb4e6dd47a763d3445fac46b03c0e6d": {
+  "first_seen": 1786129435.349125,
+  "title": "Ingénieur-e développement logiciel applicatif optronique de défense F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRANCE",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4447568314"
   ]
  }
 }
