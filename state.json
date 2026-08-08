@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786214006.74253,
+   "last_success": 1786215819.790507,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786214006.7425349,
+   "last_success": 1786215819.7905128,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786214020.9391017,
+   "last_success": 1786215835.6347053,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786214020.939106,
+   "last_success": 1786215835.6347098,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786214020.939108,
+   "last_success": 1786215835.6347115,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786214020.9391093,
+   "last_success": 1786215835.634713,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786214020.939111,
+   "last_success": 1786215835.6347144,
    "alerted": false
   }
  },
@@ -33905,6 +33905,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449228585"
+  ]
+ },
+ "b08027d5ee3c67705dfce57ad73bb702": {
+  "first_seen": 1786215835.6356542,
+  "title": "Spécialiste en développement de logiciel de simulations numériques F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433862734"
+  ]
+ },
+ "797a6ed7409f5c601108385ccd25268f": {
+  "first_seen": 1786215835.6358347,
+  "title": "Alternance - Analyste ESG - H/F",
+  "company": "CA-SILCA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450508823"
+  ]
+ },
+ "d8d3524f7f0dd8c621a018f2bddeed9b": {
+  "first_seen": 1786215835.6358447,
+  "title": "Apprenti(e) Chargé(e) de communication et intégration RH",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405283530"
+  ]
+ },
+ "1d36ec18dfc690fbd752a2192c8f24a5": {
+  "first_seen": 1786215835.6358693,
+  "title": "Directeur·rice de la Livraison en Ingénierie Logicielle – Secteur pharmaceutique",
+  "company": "EPAM Systems",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451025889"
+  ]
+ },
+ "479123c087a1c0728dd0e795154cd759": {
+  "first_seen": 1786215835.6360922,
+  "title": "Stagiaire Contentieux - janvier/juin 2027",
+  "company": "Linklaters Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411545154"
+  ]
+ },
+ "6c9079eefc30acceea899c1eb60dc2c9": {
+  "first_seen": 1786215835.6361227,
+  "title": "Talent Acquisition Internship",
+  "company": "OneRagtime",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451046100"
+  ]
+ },
+ "401f7ef3c873eec3056054bc221b2221": {
+  "first_seen": 1786215835.6361303,
+  "title": "Stage Assistant Category Manager/Acheteur Frais F/H",
+  "company": "Monoprix",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4382407762"
+  ]
+ },
+ "50d48f7a385e162fd328429671dd6681": {
+  "first_seen": 1786215835.636148,
+  "title": "Stage Hébergement (H/F)",
+  "company": "Hôtel SAX Paris - LXR Hotels & Resorts",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450361508"
+  ]
+ },
+ "553d177b8f64b08ea831456469f29991": {
+  "first_seen": 1786215835.6364176,
+  "title": "Front End Tech Lead",
+  "company": "Ingenico",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4382447178"
+  ]
+ },
+ "b56cd3f25e7ad0256d19f64ca2645a4f": {
+  "first_seen": 1786215835.636425,
+  "title": "Ingénieur Instrumentation H/F",
+  "company": "fortil",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450794316"
   ]
  }
 }
