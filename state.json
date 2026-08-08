@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786190623.7434652,
+   "last_success": 1786192410.5094845,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786190623.7434707,
+   "last_success": 1786192410.509491,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786190636.679612,
+   "last_success": 1786192425.198348,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786190636.6796155,
+   "last_success": 1786192425.1983528,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786190636.6796172,
+   "last_success": 1786192425.1983545,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786190636.6796188,
+   "last_success": 1786192425.1983562,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786190636.67962,
+   "last_success": 1786192425.1983583,
    "alerted": false
   }
  },
@@ -18941,7 +18941,8 @@
   "company": "DODIN CAMPENON BERNARD",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442104316"
+   "https://www.linkedin.com/jobs/view/4442104316",
+   "https://www.linkedin.com/jobs/view/4442100402"
   ]
  },
  "54993be2fac48fdc229b782c815d6b06": {
@@ -30390,7 +30391,8 @@
   "company": "Davidson consulting",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4413462409"
+   "https://www.linkedin.com/jobs/view/4413462409",
+   "https://www.linkedin.com/jobs/view/4413463408"
   ]
  },
  "d961e2f632ff039c0745b7b31dc699fa": {
@@ -32427,6 +32429,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4432626977"
+  ]
+ },
+ "2d8eac67f34a7b3b05c007342aab8803": {
+  "first_seen": 1786192425.1993916,
+  "title": "Tech lead IA (F/H)",
+  "company": "BPCE Solutions informatiques",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449224208"
+  ]
+ },
+ "9d8666c153bf3e10da0357ee3ec0048e": {
+  "first_seen": 1786192425.199776,
+  "title": "Stage Technologies, Médias et Télécommunications - juillet/décembre 2027",
+  "company": "Linklaters Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4411543150"
+  ]
+ },
+ "b89f7f6d4fe60f291287e923632ad67c": {
+  "first_seen": 1786192425.1998155,
+  "title": "Stage – Assistant·e chargé·e de communication orienté.e contenus digitaux (F/H)",
+  "company": "Artefact",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4366152415"
+  ]
+ },
+ "332a63926130db13cca1f94f70b7354a": {
+  "first_seen": 1786192425.1999135,
+  "title": "Stage de fin d'études / Alternance : Communication Manager (septembre 2026)",
+  "company": "Gapianne",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449203331"
   ]
  }
 }
