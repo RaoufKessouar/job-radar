@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786185202.3670661,
+   "last_success": 1786187021.3428354,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786185202.3670723,
+   "last_success": 1786187021.3428407,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786185215.8359427,
+   "last_success": 1786187035.312573,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786185215.8359478,
+   "last_success": 1786187035.3125772,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786185215.8359497,
+   "last_success": 1786187035.3125787,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786185215.8359509,
+   "last_success": 1786187035.31258,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786185215.8359518,
+   "last_success": 1786187035.3125813,
    "alerted": false
   }
  },
@@ -15385,7 +15385,8 @@
    "https://www.linkedin.com/jobs/view/4445873329",
    "https://www.linkedin.com/jobs/view/4446299231",
    "https://www.linkedin.com/jobs/view/4448076880",
-   "https://www.linkedin.com/jobs/view/4448713340"
+   "https://www.linkedin.com/jobs/view/4448713340",
+   "https://www.linkedin.com/jobs/view/4451034582"
   ]
  },
  "e0d8311e0faf3e96578436921167f240": {
@@ -18036,7 +18037,8 @@
   "company": "Modjo",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447410958"
+   "https://www.linkedin.com/jobs/view/4447410958",
+   "https://www.linkedin.com/jobs/view/4451024110"
   ]
  },
  "4ceb75f5b3fe64b79071461c4815937e": {
@@ -21107,7 +21109,8 @@
   "company": "Walter Learning",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448117995"
+   "https://www.linkedin.com/jobs/view/4448117995",
+   "https://www.linkedin.com/jobs/view/4450510788"
   ]
  },
  "76ea06a21c47efc6d21286853e353854": {
@@ -21904,7 +21907,8 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4448171007",
    "https://www.linkedin.com/jobs/view/4449478290",
-   "https://www.linkedin.com/jobs/view/4450224707"
+   "https://www.linkedin.com/jobs/view/4450224707",
+   "https://www.linkedin.com/jobs/view/4451069422"
   ]
  },
  "80e073dc2448114aa2ec6a69eaf51649": {
@@ -32160,6 +32164,151 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4432621561"
+  ]
+ },
+ "bd125ae14beeeb6de072a53b7b0df184": {
+  "first_seen": 1786187035.3131385,
+  "title": "stage 6 mois – data science et développement digital",
+  "company": "Sanofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451076157"
+  ]
+ },
+ "4b80da2a11331af2fd6dfa413585c1e3": {
+  "first_seen": 1786187035.313206,
+  "title": "alternance 12 mois – développement analytique & IA",
+  "company": "Sanofi",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451072313"
+  ]
+ },
+ "47329dc4fe72830ebaa1241ac0924143": {
+  "first_seen": 1786187035.3133595,
+  "title": "Data Analyst Confirmé - Looker / LookML (H/F)",
+  "company": "ALTEN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448788249",
+   "https://www.linkedin.com/jobs/view/4448795159"
+  ]
+ },
+ "534b87837f653f12155eca79719576f0": {
+  "first_seen": 1786187035.313368,
+  "title": "Analyste Quantitatif capital économique H/F",
+  "company": "CA-SILCA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450518406"
+  ]
+ },
+ "a586a76e43446a8557d35e7ac7a1cd93": {
+  "first_seen": 1786187035.313382,
+  "title": "Lead Portfolio and Performance Analytics",
+  "company": "Sompo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432674015"
+  ]
+ },
+ "4df3b68d29d7d15a83509ba550db7b30": {
+  "first_seen": 1786187035.3134556,
+  "title": "Consultant(e) Power BI / Expérimenté (F/H)",
+  "company": "BSD Business Solutions & Data",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449202462"
+  ]
+ },
+ "8ba74930775fa523bfb5fe9a38e30f8a": {
+  "first_seen": 1786187035.3134832,
+  "title": "Product Lead Growth (Data & Analytics) M/F",
+  "company": "Bel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420736346"
+  ]
+ },
+ "954cdd702578eaf9f70715ca3238fcb0": {
+  "first_seen": 1786187035.3134956,
+  "title": "Sous Directeur – Manager Opérationnel Responsable de la Division Décisionnel de Pilotage DEPIL H/F",
+  "company": "CNAM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441332055"
+  ]
+ },
+ "6c313f24d55f500bb5f4267c79bd7389": {
+  "first_seen": 1786187035.3136384,
+  "title": "Consultant IA (H/F)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432810875"
+  ]
+ },
+ "67a4693723c9cd34130260849f30649b": {
+  "first_seen": 1786187035.3140333,
+  "title": "Forward Deployed Engineer",
+  "company": "Lithosquare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417098641"
+  ]
+ },
+ "4b86c3789c7e12480a9e4b97e5fb5cd5": {
+  "first_seen": 1786187035.3140535,
+  "title": "Intern",
+  "company": "Spencer Stuart",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4422759617"
+  ]
+ },
+ "a95c90d7582c529b097800c81e6e5294": {
+  "first_seen": 1786187035.3140814,
+  "title": "STAGE ASSISTANT COMMUNICATION F/H",
+  "company": "Fnac",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450731535"
+  ]
+ },
+ "11c56049635bfcbd2dc2d74f7c947f99": {
+  "first_seen": 1786187035.3142076,
+  "title": "Senior Systems Engineer",
+  "company": "AeroVect",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450770408"
+  ]
+ },
+ "76f9944a7a48ac103358a1ba31d0b633": {
+  "first_seen": 1786187035.3142586,
+  "title": "Backend Go Engineer - Team CG Explore (F/N/H)",
+  "company": "leboncoin",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401082098"
+  ]
+ },
+ "4bb8512031a50b2d654a0f8b0b8b6750": {
+  "first_seen": 1786187035.314266,
+  "title": "Software Web Developer- IOS",
+  "company": "DEXIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4443159862"
+  ]
+ },
+ "5c5402e7b27d7b0235e49cce69ed5abf": {
+  "first_seen": 1786187035.314273,
+  "title": "Coordinateur Technique ATS f/h",
+  "company": "Siemens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440768521"
   ]
  }
 }
