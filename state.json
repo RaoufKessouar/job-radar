@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786206995.261578,
+   "last_success": 1786208612.197518,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786206995.261584,
+   "last_success": 1786208612.197524,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786207011.4328866,
+   "last_success": 1786208626.8358557,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786207011.4328914,
+   "last_success": 1786208626.8358605,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786207011.4328933,
+   "last_success": 1786208626.835862,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786207011.4328945,
+   "last_success": 1786208626.8358634,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786207011.4328961,
+   "last_success": 1786208626.8358645,
    "alerted": false
   }
  },
@@ -33579,7 +33579,8 @@
   "company": "Finastra",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4268626296"
+   "https://www.linkedin.com/jobs/view/4268626296",
+   "https://www.linkedin.com/jobs/view/4268631016"
   ]
  },
  "5d9cfd4eaeffffca68cfbe9864de16fb": {
@@ -33589,6 +33590,78 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450385283"
+  ]
+ },
+ "ab67c6f8e1cc8fc7d7e6603fc1742361": {
+  "first_seen": 1786208626.837141,
+  "title": "STAGE - INSPECTEUR BANQUE « DIGITAL ASSETS » H/F",
+  "company": "CACEIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4363038827"
+  ]
+ },
+ "d5caf8efc5758ab05f6519e6dbfbc255": {
+  "first_seen": 1786208626.8371878,
+  "title": "Chef(fe) de projet événementiel - Stage",
+  "company": "Astanor",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451016695"
+  ]
+ },
+ "751ddddc83dde49305f02c53454a3125": {
+  "first_seen": 1786208626.8371937,
+  "title": "Doctorant (H/F)",
+  "company": "ICMN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451056299"
+  ]
+ },
+ "79cb867e927322e355d90b6a34adc76c": {
+  "first_seen": 1786208626.8372967,
+  "title": "Apprenti(e) Développeur outils numérique R&D (H/F)",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414665724"
+  ]
+ },
+ "52a1374e239f458f3109fbf36ebcc757": {
+  "first_seen": 1786208626.837387,
+  "title": "Lead Développeur Node/React - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430220446"
+  ]
+ },
+ "7fc848fd997ac77ec16e9b16b34c91e6": {
+  "first_seen": 1786208626.8373935,
+  "title": "Technicien de Mise en Service SSI F/H",
+  "company": "Eurofeu",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451015304"
+  ]
+ },
+ "619c4c9d5b342d657c56b7aae95405e0": {
+  "first_seen": 1786208626.837402,
+  "title": "Alternant Développeur C# sur .NET F/H",
+  "company": "Banque Française Mutualiste",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4415692210"
+  ]
+ },
+ "e99b6760b2d140b2c7dfbb6864cc0ad4": {
+  "first_seen": 1786208626.837409,
+  "title": "Tech lead PLM H/F",
+  "company": "Capgemini Engineering",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450764580"
   ]
  }
 }
