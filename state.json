@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786201413.2608106,
+   "last_success": 1786203206.458165,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786201413.2608163,
+   "last_success": 1786203206.458171,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786201427.5940173,
+   "last_success": 1786203221.5330675,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786201427.5940225,
+   "last_success": 1786203221.5330725,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786201427.5940242,
+   "last_success": 1786203221.533074,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786201427.5940254,
+   "last_success": 1786203221.5330756,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786201427.594027,
+   "last_success": 1786203221.533077,
    "alerted": false
   }
  },
@@ -20183,7 +20183,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447891553",
-   "https://www.linkedin.com/jobs/view/4447891552"
+   "https://www.linkedin.com/jobs/view/4447891552",
+   "https://www.linkedin.com/jobs/view/4451078303"
   ]
  },
  "ea4a72c0e9d6233dab30db4b8447d848": {
@@ -33091,6 +33092,168 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4383336064"
+  ]
+ },
+ "ee81ef10996b044573babb3561562278": {
+  "first_seen": 1786203221.5338688,
+  "title": "Data Analyst",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449252093"
+  ]
+ },
+ "8842a180a6a4ae9b918f5c247281ad40": {
+  "first_seen": 1786203221.5338802,
+  "title": "Quantitative Analyst, Front Office (Calypso)",
+  "company": "Nasdaq",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442121138"
+  ]
+ },
+ "e2c18fe18980c2e67570b90ada04f29d": {
+  "first_seen": 1786203221.5340073,
+  "title": "Ingénieur Data Cloud GCP (F/H)",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4395845709"
+  ]
+ },
+ "f2759ebdaadffb178f3a94171fb78f0d": {
+  "first_seen": 1786203221.5340705,
+  "title": "Laborantin (H/F)",
+  "company": "SIAAP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441355703"
+  ]
+ },
+ "3d8ccb8dcef6f4539220c244b02939c7": {
+  "first_seen": 1786203221.5340812,
+  "title": "FREELANCE-Connaissance données ESG & Snowflake, Matlab, Python obligatoires",
+  "company": "Mon Consultant Indépendant",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449218104"
+  ]
+ },
+ "5b9c9af3ca92a8653d09e98649492fb6": {
+  "first_seen": 1786203221.5340886,
+  "title": "ALTERNANCE - ASSISTANT DEMAND PLANNING EMEA (H/F)",
+  "company": "Lacoste",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4393529902"
+  ]
+ },
+ "8fe7ac3b18b8fc9224b8707cde0224d0": {
+  "first_seen": 1786203221.534095,
+  "title": "Senior Data Engineer",
+  "company": "TheFork",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439230794"
+  ]
+ },
+ "2783f2eb69b29f3302194a7615cbbc3f": {
+  "first_seen": 1786203221.5343933,
+  "title": "ingénieur informatique IA générative & IA agentique (IT) / Freelance",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449231351"
+  ]
+ },
+ "85f7dc1a45370e3673ca0fd05437d91a": {
+  "first_seen": 1786203221.5345545,
+  "title": "Senior AI Engineer 🇪🇺",
+  "company": "Pennylane",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431127076"
+  ]
+ },
+ "fea0830a5f275356ae7283692077fe5a": {
+  "first_seen": 1786203221.5346107,
+  "title": "Deloitte Digital - Stage Product Designer F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441705837"
+  ]
+ },
+ "4bb173915f40eb93c2e6ec739e0cbb3b": {
+  "first_seen": 1786203221.534697,
+  "title": "STAGE - Assistant(e) Ressources Humaines Généraliste et Projets (F/H)",
+  "company": "GIVENCHY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433531204"
+  ]
+ },
+ "c39d32912db492e52c124db07f19e826": {
+  "first_seen": 1786203221.5347054,
+  "title": "Consultant.e Transformation RH – Stage",
+  "company": "Colombus Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4330466921"
+  ]
+ },
+ "04afbd011879606e6f1ab7b2db22233e": {
+  "first_seen": 1786203221.5347154,
+  "title": "Stage - Assistant chef de projet expérience & Contractibilité client F/H",
+  "company": "Fnac Darty",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450723806"
+  ]
+ },
+ "1c53bba2f06d310e7bf3b1faf883ac4f": {
+  "first_seen": 1786203221.534723,
+  "title": "Chef de projet Data & IA – H/F",
+  "company": "Onepoint",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4382882126"
+  ]
+ },
+ "47ee3d8fbe769039105f9537fd769025": {
+  "first_seen": 1786203221.534731,
+  "title": "Consultant.e Stagiaire - Lab RSE (F/H)",
+  "company": "Colombus Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4330456399"
+  ]
+ },
+ "2843bb1c3d41125176395b062ad446ed": {
+  "first_seen": 1786203221.5347373,
+  "title": "GLOBAL EDUCATION & RETAIL APPRENTICE",
+  "company": "Coty",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404414242"
+  ]
+ },
+ "58395822128233ec6916c15765e9cc8d": {
+  "first_seen": 1786203221.534941,
+  "title": "Stage Ingénieur de Production (H/F) – Dispositifs médicaux dans le traitement de l’Accident Vasculaire Cérébral",
+  "company": "Balt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4338247530"
+  ]
+ },
+ "7dcf903470d19fc19276af9fc6c84e32": {
+  "first_seen": 1786203221.5349622,
+  "title": "Senior Software Engineer",
+  "company": "Beamy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417736594"
   ]
  }
 }
