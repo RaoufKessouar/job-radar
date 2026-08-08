@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786199613.574403,
+   "last_success": 1786201413.2608106,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786199613.5744083,
+   "last_success": 1786201413.2608163,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786199627.0346205,
+   "last_success": 1786201427.5940173,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786199627.0346248,
+   "last_success": 1786201427.5940225,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786199627.0346262,
+   "last_success": 1786201427.5940242,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786199627.034628,
+   "last_success": 1786201427.5940254,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786199627.0346293,
+   "last_success": 1786201427.594027,
    "alerted": false
   }
  },
@@ -33001,6 +33001,96 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4441314778"
+  ]
+ },
+ "e83135b1014ca2c10aeb7aab5f91fcaa": {
+  "first_seen": 1786201427.5948749,
+  "title": "Analyste de Risques de Marché / P&L",
+  "company": "eXalt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4302724441"
+  ]
+ },
+ "590b9bd7cf2872ccefa742f8041ac1d9": {
+  "first_seen": 1786201427.594886,
+  "title": "Développeur Java",
+  "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439243936"
+  ]
+ },
+ "2f5ae678b95919fef2224d4ffc622fa7": {
+  "first_seen": 1786201427.5948951,
+  "title": "Senior Data Analyst CRM — Expert UNICA H/F",
+  "company": "LCL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442153217"
+  ]
+ },
+ "938916a2e345c557d86474e161ba1672": {
+  "first_seen": 1786201427.5949204,
+  "title": "STAGE - ASSISTANT.E RETAIL MERCHANDISING HAUTE PARFUMERIE & BEAUTE (F/H/X) - JANVIER 2027",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441620473"
+  ]
+ },
+ "d3768fb99733d9d13571ca3f87ff436b": {
+  "first_seen": 1786201427.5949278,
+  "title": "STAGE - SALES MERCHANDISING ASSISTANT (F/H)",
+  "company": "JACQUEMUS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433237206"
+  ]
+ },
+ "0b97d2478a558c836ff31d479ed9cb96": {
+  "first_seen": 1786201427.594965,
+  "title": "Ingénieur Data Science (F/H/X)",
+  "company": "Epsilon France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4302175900"
+  ]
+ },
+ "d89b7d8d498227d0d9d22de917780664": {
+  "first_seen": 1786201427.5952666,
+  "title": "Stage - Analyste financier/Assistant Portfolio Manager (6 mois)",
+  "company": "UBS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441999675"
+  ]
+ },
+ "4ac96d74db1f70e264af76e05673f232": {
+  "first_seen": 1786201427.5952744,
+  "title": "Apprenticeship - Global QHSES Digital Engineer F/M",
+  "company": "Technip Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433262416"
+  ]
+ },
+ "28641f0076df374cb6a669a3d19035f7": {
+  "first_seen": 1786201427.59566,
+  "title": "Stage - Intégrateur / Développeur Web H/F",
+  "company": "TRANSATEL (an NTT company)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449266113"
+  ]
+ },
+ "d1fdfc69213f284a29f454cc37a48db9": {
+  "first_seen": 1786201427.595724,
+  "title": "Développeur frontend - Applications médicales web (F/H)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4383336064"
   ]
  }
 }
