@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786194207.3420749,
+   "last_success": 1786196013.6346514,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786194207.3420806,
+   "last_success": 1786196013.6346574,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786194220.7542968,
+   "last_success": 1786196028.7349162,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786194220.754302,
+   "last_success": 1786196028.7349207,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786194220.7543037,
+   "last_success": 1786196028.7349222,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786194220.7543056,
+   "last_success": 1786196028.7349234,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786194220.754307,
+   "last_success": 1786196028.7349246,
    "alerted": false
   }
  },
@@ -31050,7 +31050,8 @@
   "company": "Hermès",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4450350598"
+   "https://www.linkedin.com/jobs/view/4450350598",
+   "https://www.linkedin.com/jobs/view/4404759154"
   ]
  },
  "bb62eb57519f68cf538988990bbeea1c": {
@@ -32618,6 +32619,123 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4429874428"
+  ]
+ },
+ "f14f0f64ab307e9f5ffb18888e817600": {
+  "first_seen": 1786196028.7357962,
+  "title": "CDI - Lead AI Security (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424549286"
+  ]
+ },
+ "c8aba3efd7c25b4269018865a4744ab7": {
+  "first_seen": 1786196028.7358265,
+  "title": "Assistant analyse et traitement de données",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439248782"
+  ]
+ },
+ "b44c7aed43e040ccb12605ad31ead15a": {
+  "first_seen": 1786196028.7358882,
+  "title": "Backend Engineer – Trust & Tools (Serenity) (F/N/M)",
+  "company": "leboncoin",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401071579"
+  ]
+ },
+ "55a2ed4cd6a0009eece44c2fa1e4cedf": {
+  "first_seen": 1786196028.7359114,
+  "title": "Stage « Responsable de Programmes » (H/F)",
+  "company": "BNP Paribas Real Estate",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4396663534"
+  ]
+ },
+ "2363922f8d1404b127bfd46c8cd66d97": {
+  "first_seen": 1786196028.7359183,
+  "title": "Enterprise Architect - Total Energies",
+  "company": "Cognite",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433849426"
+  ]
+ },
+ "bb29b627563044cee7f0d6c4a7e0789d": {
+  "first_seen": 1786196028.7359457,
+  "title": "Technical Account Manager, Google Cloud Consulting (English, French)",
+  "company": "Google",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450320852"
+  ]
+ },
+ "880036ee623308fadf4b9315231658fa": {
+  "first_seen": 1786196028.736154,
+  "title": "Data Scientist - H/F/NB",
+  "company": "Ubisoft Paris Studio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430239024"
+  ]
+ },
+ "8eb14e2eee788965949aad9abead54b3": {
+  "first_seen": 1786196028.7362823,
+  "title": "Stagiaire - Affaires Publiques et Communication Corporate",
+  "company": "APCO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4395297305"
+  ]
+ },
+ "92ccf42f84f098b2e4854c5bc52941c8": {
+  "first_seen": 1786196028.7362988,
+  "title": "Stage 2026 - Assistant Consultant-Trader Commerce (H/F)",
+  "company": "Publicis Media",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441109287"
+  ]
+ },
+ "bc260bf795b1ffe373e8c88ccae3c339": {
+  "first_seen": 1786196028.7363086,
+  "title": "Stage de 6 mois – Contrôleur des Systèmes Opérationnels (H/F)",
+  "company": "FITZ GROUP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440732820"
+  ]
+ },
+ "4634ac8713af1856b6c658b442cccee9": {
+  "first_seen": 1786196028.736453,
+  "title": "Développeurs Mobile Ionic",
+  "company": "IMBA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450369070"
+  ]
+ },
+ "20f9a44dbe464be23acaf5012e7eb3ff": {
+  "first_seen": 1786196028.73646,
+  "title": "Robotics Engineer - Auburn Hills, MI",
+  "company": "Encore Automation",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450734983"
+  ]
+ },
+ "b17978482c7c2d3462dbc8189cc1a1bd": {
+  "first_seen": 1786196028.7364688,
+  "title": "Assistant(e) en système et réseaux (H/F)",
+  "company": "CNRS Centre-Est",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449209953"
   ]
  }
 }
