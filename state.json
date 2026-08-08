@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786217614.0709918,
+   "last_success": 1786219416.6755047,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786217614.0709968,
+   "last_success": 1786219416.6755114,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786217630.0067143,
+   "last_success": 1786219430.389622,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786217630.0067182,
+   "last_success": 1786219430.3896267,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786217630.00672,
+   "last_success": 1786219430.3896284,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786217630.0067208,
+   "last_success": 1786219430.3896298,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786217630.006722,
+   "last_success": 1786219430.389631,
    "alerted": false
   }
  },
@@ -9609,7 +9609,8 @@
    "https://www.linkedin.com/jobs/view/4404839765",
    "https://www.linkedin.com/jobs/view/4448124323",
    "https://www.linkedin.com/jobs/view/4450216041",
-   "https://www.linkedin.com/jobs/view/4450780020"
+   "https://www.linkedin.com/jobs/view/4450780020",
+   "https://www.linkedin.com/jobs/view/4451090873"
   ]
  },
  "0f74be4bf42ae34b5c3eceebc33b5bec": {
@@ -10459,7 +10460,6 @@
   "company": "Harmattan AI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446116808",
    "https://www.linkedin.com/jobs/view/4435171155",
    "https://www.linkedin.com/jobs/view/4446369703",
    "https://www.linkedin.com/jobs/view/4444195635",
@@ -10468,7 +10468,8 @@
    "https://www.linkedin.com/jobs/view/4448143019",
    "https://www.linkedin.com/jobs/view/4448885314",
    "https://www.linkedin.com/jobs/view/4450205980",
-   "https://www.linkedin.com/jobs/view/4450761568"
+   "https://www.linkedin.com/jobs/view/4450761568",
+   "https://www.linkedin.com/jobs/view/4451089868"
   ]
  },
  "d8f3e7c0807703fae85713e957a9416d": {
@@ -34086,6 +34087,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4447778202"
+  ]
+ },
+ "47ffaacb9e56d7094234d516c619b829": {
+  "first_seen": 1786219430.390617,
+  "title": "Data Engineer Intern",
+  "company": "NovaSpace",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451085773"
+  ]
+ },
+ "02160d4469572c4abf60fff99c566092": {
+  "first_seen": 1786219430.3906393,
+  "title": "Alternance - Chef(fe) de Projet Digital Junior- Corporate - Octobre 2026- H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424261187"
+  ]
+ },
+ "7bbac4fda645330cd3d2788591ea7c12": {
+  "first_seen": 1786219430.390901,
+  "title": "STAGE - JOURNALISTE VIDEO RESEAUX SOCIAUX CNEWS - (F/H/X)",
+  "company": "CANAL+ Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451089861"
   ]
  }
 }
