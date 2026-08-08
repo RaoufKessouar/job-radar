@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786203206.458165,
+   "last_success": 1786205018.6958482,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786203206.458171,
+   "last_success": 1786205018.6958535,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786203221.5330675,
+   "last_success": 1786205033.4457421,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786203221.5330725,
+   "last_success": 1786205033.4457471,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786203221.533074,
+   "last_success": 1786205033.445749,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786203221.5330756,
+   "last_success": 1786205033.4457505,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786203221.533077,
+   "last_success": 1786205033.4457517,
    "alerted": false
   }
  },
@@ -33254,6 +33254,195 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4417736594"
+  ]
+ },
+ "6fd22d56abb532839f3c871a09c5228e": {
+  "first_seen": 1786205033.4467685,
+  "title": "Tech Lead (H/F)",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402877025"
+  ]
+ },
+ "e538727f6a09ef186a3ae81fdd874f5f": {
+  "first_seen": 1786205033.4468026,
+  "title": "Software AI & Cloud Architect H/F",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430291833"
+  ]
+ },
+ "0cef3c01b75a3a3aa8affd66d656be6c": {
+  "first_seen": 1786205033.4468205,
+  "title": "Product Manager II - Application Performance Monitoring",
+  "company": "Datadog",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433351485"
+  ]
+ },
+ "f191c973de99db80a61dde2496d4dbe3": {
+  "first_seen": 1786205033.4468544,
+  "title": "Chef de Projet Data / BI",
+  "company": "WHIZE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450348536"
+  ]
+ },
+ "dae94b03dff102b8e73a0876e4ed9b98": {
+  "first_seen": 1786205033.4468756,
+  "title": "EXPERT DIGITAL & IT - ( H/F )",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433313004"
+  ]
+ },
+ "22f14aa88df6d68b18ac1b184d4bd138": {
+  "first_seen": 1786205033.4469054,
+  "title": "Stage – Chargé(e) d’amélioration qualité Produits Maroquinerie – Mode – Aout 2026 – H/F/X",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4321446601"
+  ]
+ },
+ "ac0a6c40f8e7a742c5363a5e8f58e67c": {
+  "first_seen": 1786205033.4469197,
+  "title": "Product Manager Network",
+  "company": "Bull",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433355660"
+  ]
+ },
+ "33f3a26391980d3c97430108b2b2e2ce": {
+  "first_seen": 1786205033.4469266,
+  "title": "Content Creator, FR",
+  "company": "SharkNinja",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433804822"
+  ]
+ },
+ "b6a137bd4f242d0463b153aaf500366a": {
+  "first_seen": 1786205033.4469452,
+  "title": "Alternante/Alternant - Chef.fe de projets junior Innovation (F/H)",
+  "company": "ENGIE Research & Innovation",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442145336"
+  ]
+ },
+ "ff0e9f3802e79004d70ae16d14a6c03d": {
+  "first_seen": 1786205033.447108,
+  "title": "Ingénieur Performance Industrielle (F/H) - Stage Vélizy",
+  "company": "LGM",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450348664"
+  ]
+ },
+ "06013841f7d2e3bf5685853dbfdd0770": {
+  "first_seen": 1786205033.447115,
+  "title": "Product Data Analyst - Midcore Games",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404894831"
+  ]
+ },
+ "c34fd04a21c4873b834ad6e979fe2a1a": {
+  "first_seen": 1786205033.4471543,
+  "title": "STAGE – Ingénieur Développement et intégration d'un outil IA dans une chaine MLOPS (H/F) – 6 mois",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405438961"
+  ]
+ },
+ "3d713fa5dca44c7aa2604721fd29219f": {
+  "first_seen": 1786205033.4472063,
+  "title": "STAGE – Assistant(e ) Visual Merchandising - PARIS, Juillet 2022",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/3944159775"
+  ]
+ },
+ "32dae16482ed0dd2e1e16b36b9939158": {
+  "first_seen": 1786205033.4472308,
+  "title": "Stage - Siège Social - Chargé de communication-marketing junior H/F",
+  "company": "Air Liquide",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434007270"
+  ]
+ },
+ "1ffbb783d925eb3a58737073e373900f": {
+  "first_seen": 1786205033.447266,
+  "title": "Stage - 6 mois - Chargé de Communication et Engagement Solidaire F/H",
+  "company": "Mirova",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430249327"
+  ]
+ },
+ "f4e748f28dfae66da881d589078abd8a": {
+  "first_seen": 1786205033.4472735,
+  "title": "Stagiaire SEO & Google Ads",
+  "company": "Digitale Visibilité",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451072631"
+  ]
+ },
+ "d9d1ed6e43520cc303ab6b1a5a9c7c4b": {
+  "first_seen": 1786205033.44728,
+  "title": "Stagiaire BDR chez Markyl",
+  "company": "Markyl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451059101"
+  ]
+ },
+ "946211b4ce7df4c1d41ad487fa096192": {
+  "first_seen": 1786205033.4474206,
+  "title": "Ingénieur(e) électronique analogique/puissance (h/f)",
+  "company": "Airbus Defence and Space",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430238721"
+  ]
+ },
+ "94ff1aa2a68fe823bf1e03b389eb2b5e": {
+  "first_seen": 1786205033.4475176,
+  "title": "CDI - Intégratrice/Intégrateur électrique",
+  "company": "ArianeGroup",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414751890"
+  ]
+ },
+ "001e48a7d44e78d517629f270d1e81f8": {
+  "first_seen": 1786205033.447526,
+  "title": "Ingénierie système et vidéo IPTVOTT",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449239048"
+  ]
+ },
+ "15ca3cc674c7bfe6f341549beb0235ff": {
+  "first_seen": 1786205033.4475381,
+  "title": "Excellence Track Program : stage ingénieur fin d’études – Parcours audit financier/tech – Paris La Défense F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4324132008"
   ]
  }
 }
