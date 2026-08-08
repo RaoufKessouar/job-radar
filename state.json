@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786206805.7961159,
+   "last_success": 1786206995.261578,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786206805.796122,
+   "last_success": 1786206995.261584,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786206821.3774316,
+   "last_success": 1786207011.4328866,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786206821.3774362,
+   "last_success": 1786207011.4328914,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786206821.377438,
+   "last_success": 1786207011.4328933,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786206821.3774395,
+   "last_success": 1786207011.4328945,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786206821.3774407,
+   "last_success": 1786207011.4328961,
    "alerted": false
   }
  },
@@ -33508,6 +33508,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4392879339"
+  ]
+ },
+ "811e0417f7430396a48c371eab8c4a0e": {
+  "first_seen": 1786207011.4337783,
+  "title": "Assistant Marché Banque Privée H/F - Stage",
+  "company": "Palatine",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410628435"
+  ]
+ },
+ "576b867d15d072ac21645407400e9abd": {
+  "first_seen": 1786207011.4337983,
+  "title": "Software Engineer IAM - Internship",
+  "company": "Scaleway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4421126049"
+  ]
+ },
+ "fc5d37cdf40af54865d25ee9e32df405": {
+  "first_seen": 1786207011.433809,
+  "title": "Business Analyst IT – Chef de Projet (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4245346469"
+  ]
+ },
+ "01c46de3cdc6fe517c7b8f787650530c": {
+  "first_seen": 1786207011.4338183,
+  "title": "Gestionnaire de Portefeuille Alternance - H/F",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404316669"
+  ]
+ },
+ "0780536d819baea29aa7ffd4cb4a12ea": {
+  "first_seen": 1786207011.4338357,
+  "title": "Perfumer Assistant CDI (f/m)",
+  "company": "IFF",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414920693"
+  ]
+ },
+ "2ce79538bc326887d6f4b458f76b8454": {
+  "first_seen": 1786207011.4338462,
+  "title": "Business analyst opérations de marché H/F",
+  "company": "Banque de France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440498243"
+  ]
+ },
+ "958d0de1cbc76f6d05225ea92113116d": {
+  "first_seen": 1786207011.4338565,
+  "title": "Magasinier stocks et matériels SI (H/F)",
+  "company": "SIAAP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441358521"
+  ]
+ },
+ "7cfc4a7d05e09515ac124e4fa75364a5": {
+  "first_seen": 1786207011.4338984,
+  "title": "Developer Apprentice",
+  "company": "Finastra",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4268626296"
+  ]
+ },
+ "5d9cfd4eaeffffca68cfbe9864de16fb": {
+  "first_seen": 1786207011.4341195,
+  "title": "Alternance - Consultante/Consultant",
+  "company": "Idean UK",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450385283"
   ]
  }
 }
