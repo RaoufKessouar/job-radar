@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786187021.3428354,
+   "last_success": 1786188688.779681,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786187021.3428407,
+   "last_success": 1786188688.7796865,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786187035.312573,
+   "last_success": 1786188703.537223,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786187035.3125772,
+   "last_success": 1786188703.5372272,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786187035.3125787,
+   "last_success": 1786188703.537229,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786187035.31258,
+   "last_success": 1786188703.5372303,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786187035.3125813,
+   "last_success": 1786188703.5372314,
    "alerted": false
   }
  },
@@ -32309,6 +32309,24 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4440768521"
+  ]
+ },
+ "b168f4986e451c8d111973afac89210b": {
+  "first_seen": 1786188703.5384889,
+  "title": "STAGE – ASSISTANT(E) PROJETS RETAIL PERFORMANCE – JANVIER 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442102814"
+  ]
+ },
+ "20922511727be4271bb32ed2f6a259f2": {
+  "first_seen": 1786188703.5385644,
+  "title": "Stage - Assistant MOA Trading H/F",
+  "company": "CA-SILCA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450511603"
   ]
  }
 }
