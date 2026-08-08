@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786179814.950225,
+   "last_success": 1786181615.860241,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786179814.9502296,
+   "last_success": 1786181615.8602464,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786179829.983374,
+   "last_success": 1786181630.9007237,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786179829.983378,
+   "last_success": 1786181630.9007282,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786179829.9833796,
+   "last_success": 1786181630.9007301,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786179829.9833808,
+   "last_success": 1786181630.9007316,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786179829.9833817,
+   "last_success": 1786181630.9007332,
    "alerted": false
   }
  },
@@ -31790,6 +31790,168 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4451051685"
+  ]
+ },
+ "f99487b119fec1d6f9766d26c8b1257c": {
+  "first_seen": 1786181630.901283,
+  "title": "Data Consultant Intern (m/f/d) - Stage de fin d’études",
+  "company": "Simon-Kucher",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4418768567"
+  ]
+ },
+ "709a625d47489dfe091ca1c00596c62f": {
+  "first_seen": 1786181630.9014482,
+  "title": "Ingénieur Data (H/F)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450785527"
+  ]
+ },
+ "d2fdaa36aed28c058c0a7d7644345a46": {
+  "first_seen": 1786181630.901471,
+  "title": "Data Engineer",
+  "company": "Axway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433096193"
+  ]
+ },
+ "f48eb800b5fbd8e87f27fdc7f4f5d6e7": {
+  "first_seen": 1786181630.9014897,
+  "title": "Data Engineer Spark / Scala / GCP (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4245345557"
+  ]
+ },
+ "e182f9e50d3018f6c668f8957fbffb93": {
+  "first_seen": 1786181630.9015067,
+  "title": "Data Engineer Cloud & Modernisation Databricks F/H",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4383815847"
+  ]
+ },
+ "1d5d2cd1ed939e3a7e7bf2fae07a24ab": {
+  "first_seen": 1786181630.901574,
+  "title": "STAGE - ASSISTANT(E) CHEF DE PROJET DEVELOPPEMENT MARKETING - INNOVATION DIOR SPA & WELLNESS (H/F) - JANVIER 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442158958"
+  ]
+ },
+ "a95d76cfb9c0baacda5f040287950db4": {
+  "first_seen": 1786181630.901615,
+  "title": "🚀 Stage – Consultant Junior Digital Finance & Performance Management (H/F/NB)",
+  "company": "Keyrus",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441190814"
+  ]
+ },
+ "7663622fdf93994d01f354abcc4ca723": {
+  "first_seen": 1786181630.9018383,
+  "title": "Solutions Consultant, Mid-Market, France",
+  "company": "Cléopâtre",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450742887"
+  ]
+ },
+ "da89a39f5d791cd079fe436aa120f05d": {
+  "first_seen": 1786181630.9018931,
+  "title": "Data Engineering & AI Manager",
+  "company": "Axway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433301105"
+  ]
+ },
+ "668f17c43547c836b0bbc4f0181c38a4": {
+  "first_seen": 1786181630.901966,
+  "title": "Senior Backend Engineer — Data Platform & AI Agents",
+  "company": "Jus Connect",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450763909"
+  ]
+ },
+ "4ab636e35875e22957823333e5adf520": {
+  "first_seen": 1786181630.9019835,
+  "title": "Concepteur_Developpeur MSBI (H/F)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450790356"
+  ]
+ },
+ "04c02a59e925ea687f5dd983ab256a30": {
+  "first_seen": 1786181630.9019902,
+  "title": "Apprenticeship - Junior Traffic Manager",
+  "company": "Meetic",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441173506"
+  ]
+ },
+ "31a081fe9ff544fdb05444d642a0bafc": {
+  "first_seen": 1786181630.9020126,
+  "title": "Cloud Architect - OpenShift and AI",
+  "company": "Red Hat",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414486086"
+  ]
+ },
+ "8a932f7e2ca83b0fad6a21c693104373": {
+  "first_seen": 1786181630.9023564,
+  "title": "Architecte système électronique embarqué H/F",
+  "company": "HENSOLDT in France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450357183"
+  ]
+ },
+ "b96a292fd2ced1b4e0ddfb37eb12e123": {
+  "first_seen": 1786181630.9024022,
+  "title": "Field Service Support  Engineer - travels within France expected",
+  "company": "Intuitive",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442137731"
+  ]
+ },
+ "017d539e0785008b848818489b6a9c38": {
+  "first_seen": 1786181630.9024446,
+  "title": "Lead Nodejs",
+  "company": "Sander",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450353467"
+  ]
+ },
+ "990a45c860a4b860108e6d38410d2fc6": {
+  "first_seen": 1786181630.9024591,
+  "title": "Architecte Technique Hardware - Mail Division H/F",
+  "company": "Quadient",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441190959"
+  ]
+ },
+ "1eb6df6b4403f509ebcae02c25b84105": {
+  "first_seen": 1786181630.9024734,
+  "title": "High-Tech Industry Systems Engineer (MBSE)",
+  "company": "Dassault Systèmes",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450748165"
   ]
  }
 }
