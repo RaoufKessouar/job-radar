@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786205018.6958482,
+   "last_success": 1786206805.7961159,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786205018.6958535,
+   "last_success": 1786206805.796122,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786205033.4457421,
+   "last_success": 1786206821.3774316,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786205033.4457471,
+   "last_success": 1786206821.3774362,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786205033.445749,
+   "last_success": 1786206821.377438,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786205033.4457505,
+   "last_success": 1786206821.3774395,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786205033.4457517,
+   "last_success": 1786206821.3774407,
    "alerted": false
   }
  },
@@ -20429,7 +20429,9 @@
   "urls": [
    "https://www.linkedin.com/jobs/view/4447884708",
    "https://www.linkedin.com/jobs/view/4447886613",
-   "https://www.linkedin.com/jobs/view/4450326252"
+   "https://www.linkedin.com/jobs/view/4450326252",
+   "https://www.linkedin.com/jobs/view/4451074420",
+   "https://www.linkedin.com/jobs/view/4451076521"
   ]
  },
  "fcc4775d59678009357a4469be052516": {
@@ -33443,6 +33445,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4324132008"
+  ]
+ },
+ "05dcffb038b3ecd8aeacf2e1cf28d67d": {
+  "first_seen": 1786206821.378166,
+  "title": "Business Analyst Data (H/F)",
+  "company": "Sibylone",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4245348303"
+  ]
+ },
+ "1970e9f17135ce36a11347fcafdcdb2b": {
+  "first_seen": 1786206821.3782072,
+  "title": "AWS AI Architect - F/H",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441375093"
+  ]
+ },
+ "154150dc60e77771a70e51d270880e0e": {
+  "first_seen": 1786206821.3782263,
+  "title": "Alternance - Assistant(e) Chef de Projet / Pilotage de la Performance Façonniers (H/F/X) - Bureau d’Etudes - Mode - Sept",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414179006"
+  ]
+ },
+ "c1513830347c0e592491ffab32a68039": {
+  "first_seen": 1786206821.3788593,
+  "title": "HR Generalist (Apprentice)",
+  "company": "Genesys",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424434139"
+  ]
+ },
+ "bd3f71f50a11cd2c2a3a93f26d32bf5b": {
+  "first_seen": 1786206821.3788698,
+  "title": "Chargé(e) de mission reporting F/H",
+  "company": "Société des grands projets",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4393205152"
+  ]
+ },
+ "66e21acb92816cc50dfa05a226a33e01": {
+  "first_seen": 1786206821.3790715,
+  "title": "Alternance Ingénieur électronique H/F",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414682175"
+  ]
+ },
+ "05c4fbc64241fa9ee57a59a61ddde3d1": {
+  "first_seen": 1786206821.3791745,
+  "title": "Delivery Engineer GDIT R&D and Medical",
+  "company": "Ipsen",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4392879339"
   ]
  }
 }
