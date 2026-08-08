@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786134806.419247,
+   "last_success": 1786165428.9116406,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786134806.4192522,
+   "last_success": 1786165428.9116461,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786134822.4320977,
+   "last_success": 1786165442.8057456,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786134822.4321022,
+   "last_success": 1786165442.8057504,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786134822.4321036,
+   "last_success": 1786165442.805752,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786134822.4321055,
+   "last_success": 1786165442.8057537,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786134822.4321067,
+   "last_success": 1786165442.805755,
    "alerted": false
   }
  },
@@ -11894,7 +11894,6 @@
   "company": "Kickmaker",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4446015587",
    "https://www.linkedin.com/jobs/view/4446487955",
    "https://www.linkedin.com/jobs/view/4446952963",
    "https://www.linkedin.com/jobs/view/4447441254",
@@ -11903,7 +11902,8 @@
    "https://www.linkedin.com/jobs/view/4448805648",
    "https://www.linkedin.com/jobs/view/4448932399",
    "https://www.linkedin.com/jobs/view/4449354758",
-   "https://www.linkedin.com/jobs/view/4450055475"
+   "https://www.linkedin.com/jobs/view/4450055475",
+   "https://www.linkedin.com/jobs/view/4450561337"
   ]
  },
  "ea03bd594077601b83c1b29b30df5fdc": {
@@ -11912,7 +11912,8 @@
   "company": "ARealTI",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4443477772"
+   "https://www.linkedin.com/jobs/view/4443477772",
+   "https://www.linkedin.com/jobs/view/4450568640"
   ]
  },
  "3c48dd255ded0a4d02943ae418559f6c": {
@@ -12778,7 +12779,8 @@
   "company": "STATION F",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4444695638"
+   "https://www.linkedin.com/jobs/view/4444695638",
+   "https://www.linkedin.com/jobs/view/4450508821"
   ]
  },
  "2cd14e3258ce70913e8c6838badc274f": {
@@ -16124,7 +16126,8 @@
    "https://www.linkedin.com/jobs/view/4445861507",
    "https://www.linkedin.com/jobs/view/4446293303",
    "https://www.linkedin.com/jobs/view/4448078927",
-   "https://www.linkedin.com/jobs/view/4448708650"
+   "https://www.linkedin.com/jobs/view/4448708650",
+   "https://www.linkedin.com/jobs/view/4451032695"
   ]
  },
  "9c5901299b9753bd5b0227ed0e17c590": {
@@ -17391,7 +17394,8 @@
   "company": "Modjo",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447421699"
+   "https://www.linkedin.com/jobs/view/4447421699",
+   "https://www.linkedin.com/jobs/view/4451024120"
   ]
  },
  "a05910606515beb45af04861f376aca3": {
@@ -29098,7 +29102,8 @@
   "company": "Younzee",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448716078"
+   "https://www.linkedin.com/jobs/view/4448716078",
+   "https://www.linkedin.com/jobs/view/4451028794"
   ]
  },
  "5dae95a077014dc93c54aedd9a1dfeee": {
@@ -31360,6 +31365,168 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4403238316"
+  ]
+ },
+ "cce202730c2254355ec269bd75e76f45": {
+  "first_seen": 1786165442.8065846,
+  "title": "Data Scientist",
+  "company": "Société Générale",
+  "source": "wttj",
+  "urls": [
+   "https://www.welcometothejungle.com/fr/companies/societe-generale/jobs/data-scientist_la-defense_SG_V8kM3wQ"
+  ]
+ },
+ "4193fee11158cac566f373f92ec6cf87": {
+  "first_seen": 1786165442.8065963,
+  "title": "Data Science Analyst",
+  "company": "Visa",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433355360"
+  ]
+ },
+ "3bfe475741426fc531bbdaf06592a6d1": {
+  "first_seen": 1786165442.8066514,
+  "title": "DATA SCIENTIST (H/F) - CORE PLATFORM - STAGE 6 MOIS (STAGE DE FIN D'ÉTUDES)",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450523274"
+  ]
+ },
+ "2d433b0754644353796b56579581a33a": {
+  "first_seen": 1786165442.8069232,
+  "title": "Consultant Agentic AI - Framework ADK (H/F)",
+  "company": "Inetum",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450706551"
+  ]
+ },
+ "e3c5b0dd51674b1aabe24f1ce3d12223": {
+  "first_seen": 1786165442.8069315,
+  "title": "Data Analyst expérimenté Alteryx et PowerBI H/F",
+  "company": "Soors",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450796277"
+  ]
+ },
+ "4db3623da11bdedcffd65b0376e1e676": {
+  "first_seen": 1786165442.8069644,
+  "title": "Alternance – Business & Data Analyste Finance H/F",
+  "company": "Ecomaison",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450715316"
+  ]
+ },
+ "9400b741d2b150b45744a743ac6c84e4": {
+  "first_seen": 1786165442.8069806,
+  "title": "Data\nManager\n(H/F)",
+  "company": "Getraline | Certified B Corp™",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450768430"
+  ]
+ },
+ "975a2e12f94b4caa58fd170e6e770dc0": {
+  "first_seen": 1786165442.8070147,
+  "title": "Cossel - Fullstack AI Developer",
+  "company": "JoBBsquare Belgie",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451007111"
+  ]
+ },
+ "5c36c00789a3f79d79fe7d5156caca66": {
+  "first_seen": 1786165442.807068,
+  "title": "Consultant Expert Python IA GÃ©nÃ©rative â€“ LLM, & MLOps H/FÂ",
+  "company": "ami Consulting",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450524382"
+  ]
+ },
+ "6e61f9799391ce6cbf941ed8a3fcd064": {
+  "first_seen": 1786165442.8071036,
+  "title": "Forward Deployed Engineer, GTM, France",
+  "company": "Notion",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4369681731"
+  ]
+ },
+ "bf990dfd873ed6026705e2f62c3b78a0": {
+  "first_seen": 1786165442.807262,
+  "title": "Data Engineer / Dev. Fullstack Python (juniot : 1à 3 ans d'XP)– IA & Data Innovation",
+  "company": "Free-Work",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449228594"
+  ]
+ },
+ "23ef694a6a9b0a0f71f5c39a646033e2": {
+  "first_seen": 1786165442.8073196,
+  "title": "Project Leader - Product Data Science",
+  "company": "Criteo Deutschland",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450550394"
+  ]
+ },
+ "1c10d067e93092c6e1ede25dfddf24f2": {
+  "first_seen": 1786165442.8075125,
+  "title": "VENDEUR/EUSE POLYVALENT/E // STAGE",
+  "company": "MANGO",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450343862"
+  ]
+ },
+ "50fbffcca50be99389e1776450d92db6": {
+  "first_seen": 1786165442.807521,
+  "title": "Stage - Chargé(e) de communication (H/F)",
+  "company": "OCP Répartition",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441969067"
+  ]
+ },
+ "644ad4a24e687f0daafbe83377d48bc2": {
+  "first_seen": 1786165442.8075285,
+  "title": "Stage - Assistant chef de projet (F/H)",
+  "company": "SAGUEZ & PARTNERS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450078837"
+  ]
+ },
+ "f620a5191c2abfc2b69b3f33441e8a2b": {
+  "first_seen": 1786165442.807536,
+  "title": "STAGE - Stagiaire Studio Maille (F/H)",
+  "company": "Lacoste",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413964232"
+  ]
+ },
+ "d4ff4675795f40c952a849acfe56fee9": {
+  "first_seen": 1786165442.8075597,
+  "title": "Chargé(e) de projet SIRH paie H/F",
+  "company": "CA-SILCA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450529074"
+  ]
+ },
+ "01221f423244547c7ce7521b4a7e97a1": {
+  "first_seen": 1786165442.8078098,
+  "title": "Ingénieur logiciel/Ingénieure logiciel",
+  "company": "UTI-Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431510319"
   ]
  }
 }
