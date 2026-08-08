@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786219416.6755047,
+   "last_success": 1786221204.132556,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786219416.6755114,
+   "last_success": 1786221204.1325617,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786219430.389622,
+   "last_success": 1786221219.0325716,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786219430.3896267,
+   "last_success": 1786221219.0325773,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786219430.3896284,
+   "last_success": 1786221219.0325794,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786219430.3896298,
+   "last_success": 1786221219.032581,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786219430.389631,
+   "last_success": 1786221219.032583,
    "alerted": false
   }
  },
@@ -34114,6 +34114,42 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4451089861"
+  ]
+ },
+ "5a980f035be46b91e5b31917ab9ef3db": {
+  "first_seen": 1786221219.0334866,
+  "title": "Stagiaire en banque finance / risques (H/F)",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4102069467"
+  ]
+ },
+ "3e4218f838eedbb90ba4cfddc4e201c9": {
+  "first_seen": 1786221219.033578,
+  "title": "Geophysicist",
+  "company": "Lithosquare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4417314370"
+  ]
+ },
+ "9302d1f31f0d5f98881971a1d91f48df": {
+  "first_seen": 1786221219.0342555,
+  "title": "Stage Software & Data Engineer Python",
+  "company": "MATRILA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451095425"
+  ]
+ },
+ "48147d5ad7ddfdc5ef7d7cd8a78681ae": {
+  "first_seen": 1786221219.0343456,
+  "title": "Ingénieur prototypage et validation FPGA expérimenté H/F",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439258684"
   ]
  }
 }
