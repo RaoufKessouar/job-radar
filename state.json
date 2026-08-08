@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786196013.6346514,
+   "last_success": 1786197819.025607,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786196013.6346574,
+   "last_success": 1786197819.0256126,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786196028.7349162,
+   "last_success": 1786197832.390718,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786196028.7349207,
+   "last_success": 1786197832.3907228,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786196028.7349222,
+   "last_success": 1786197832.390725,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786196028.7349234,
+   "last_success": 1786197832.3907263,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786196028.7349246,
+   "last_success": 1786197832.390728,
    "alerted": false
   }
  },
@@ -32736,6 +32736,141 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449209953"
+  ]
+ },
+ "a7f76003560329c7119411f62d334bd0": {
+  "first_seen": 1786197832.3918633,
+  "title": "Ingénieur·e Qualité Image",
+  "company": "GE HealthCare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4434014673"
+  ]
+ },
+ "4caab7aa2dc8deea144a29df9909c2ae": {
+  "first_seen": 1786197832.3919177,
+  "title": "STAGE – ASSISTANT(E) CHEF DE PROJET RETAIL EDUCATION TRAVEL RETAIL EUROPE - JANVIER 2027",
+  "company": "Parfums Christian Dior",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442118023"
+  ]
+ },
+ "e67e9464f8ba81313b9645c2cc50f8b5": {
+  "first_seen": 1786197832.3920016,
+  "title": "USINE AULNAY SOUS BOIS - S2 2026-STAGE 6 MOIS - INGÉNIEUR(E) DE PRODUCTION",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450505884"
+  ]
+ },
+ "6cfa3302e57c8bef85b2e550c47afbe5": {
+  "first_seen": 1786197832.3920107,
+  "title": "Customer Solutions Engineer - Stage de 6 mois - Septembre 2026 - Paris (F/H/X)",
+  "company": "Deepki",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441309301"
+  ]
+ },
+ "a2b1dada569444aa1a634fd32ed68611": {
+  "first_seen": 1786197832.3920197,
+  "title": "Stage « Chargé(e) de projets digitaux » (H/F)",
+  "company": "BNP Paribas Real Estate",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4396670193"
+  ]
+ },
+ "17633e1d28086fb9931e50ff242570df": {
+  "first_seen": 1786197832.3920465,
+  "title": "Stage Digital Alerting BAD",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430258102"
+  ]
+ },
+ "7e2c89bbd1d4e7f4c615c13e506c818c": {
+  "first_seen": 1786197832.3922498,
+  "title": "Backend Rust Engineer",
+  "company": "Signify Technology",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441305412"
+  ]
+ },
+ "7ad96d524da13642acf3fdb7d059fe89": {
+  "first_seen": 1786197832.3922625,
+  "title": "Ingénieur Optronique (F/H)",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433378000"
+  ]
+ },
+ "4608b415decd2c0b0d83d42c70f0f905": {
+  "first_seen": 1786197832.3922763,
+  "title": "Staff Backend Engineer - Golang",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4384366160"
+  ]
+ },
+ "6c6c916f0363254ada6994a719479fed": {
+  "first_seen": 1786197832.3922944,
+  "title": "Game Developer - Midcore Games",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405420099"
+  ]
+ },
+ "f1b4ced60f5fc7165bec8fcccf01109b": {
+  "first_seen": 1786197832.3923016,
+  "title": "CDI - Tech Lead Automatisation SI Omnicanal (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424443405"
+  ]
+ },
+ "c7caf5f294c9c5cc4c9189f82f95b511": {
+  "first_seen": 1786197832.3923087,
+  "title": "QA CDI - Ouvert au full Remote (F/H)",
+  "company": "Tiime",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413471785"
+  ]
+ },
+ "2c8100052b288defec5c79e87ba1067d": {
+  "first_seen": 1786197832.3923597,
+  "title": "Architecte système eBody H/F",
+  "company": "Expleo Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405223045"
+  ]
+ },
+ "f2e1a2d383e35f9f550872643bfeca0f": {
+  "first_seen": 1786197832.3923903,
+  "title": "Technicien Programmeur GTB (Distech)",
+  "company": "ER2C",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450697763"
+  ]
+ },
+ "1efc4a21e4092cf0a7b53fc272541372": {
+  "first_seen": 1786197832.3923976,
+  "title": "Ingénieur Maintenance Atelier (H/F/D)",
+  "company": "Avantor",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442406027"
   ]
  }
 }
