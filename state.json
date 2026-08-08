@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786178010.7709832,
+   "last_success": 1786179814.950225,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786178010.7709894,
+   "last_success": 1786179814.9502296,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786169029.1269457,
+   "last_success": 1786179829.983374,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786178022.964507,
+   "last_success": 1786179829.983378,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786178022.9645095,
+   "last_success": 1786179829.9833796,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786178022.964511,
+   "last_success": 1786179829.9833808,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786178022.9645126,
+   "last_success": 1786179829.9833817,
    "alerted": false
   }
  },
@@ -12686,7 +12686,6 @@
   "company": "FANUC Europe",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4442333972",
    "https://www.linkedin.com/jobs/view/4446737182",
    "https://www.linkedin.com/jobs/view/4445069830",
    "https://www.linkedin.com/jobs/view/4445801128",
@@ -12695,7 +12694,8 @@
    "https://www.linkedin.com/jobs/view/4446620303",
    "https://www.linkedin.com/jobs/view/4447381352",
    "https://www.linkedin.com/jobs/view/4448091443",
-   "https://www.linkedin.com/jobs/view/4450082562"
+   "https://www.linkedin.com/jobs/view/4450082562",
+   "https://www.linkedin.com/jobs/view/4449246423"
   ]
  },
  "d9ca1d5aa7cabc2e2562a692e99c0aac": {
@@ -25494,7 +25494,8 @@
   "company": "Sidely",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4449601141"
+   "https://www.linkedin.com/jobs/view/4449601141",
+   "https://www.linkedin.com/jobs/view/4450385662"
   ]
  },
  "133dc86b6b95834984a5e989f30321f7": {
@@ -31780,6 +31781,15 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449201304"
+  ]
+ },
+ "05c6933b9aab7e4939e7930323445a7b": {
+  "first_seen": 1786179829.9845898,
+  "title": "E-Stage Communication & Contenu",
+  "company": "Markyl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451051685"
   ]
  }
 }
