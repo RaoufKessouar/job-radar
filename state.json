@@ -1,11 +1,11 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786172612.4192007,
+   "last_success": 1786174414.176901,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786172612.4192069,
+   "last_success": 1786174414.1769063,
    "alerted": false
   },
   "carriere-renault": {
@@ -17,15 +17,15 @@
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786172621.830664,
+   "last_success": 1786174426.748229,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786172621.830665,
+   "last_success": 1786174426.7482312,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786172621.830666,
+   "last_success": 1786174426.7482321,
    "alerted": false
   }
  },
@@ -31635,6 +31635,87 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449209945"
+  ]
+ },
+ "c0b617a193294ad79f81e80dbaeeea6d": {
+  "first_seen": 1786174426.7493484,
+  "title": "Chief Data Officer & IA F/H @Secteur BTP",
+  "company": "Externatic",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440738552"
+  ]
+ },
+ "835f321d456bb504ce175eb4fb0d5f2f": {
+  "first_seen": 1786174426.7493782,
+  "title": "Doctorant (H/F)",
+  "company": "CNRS Centre-Est",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449222580"
+  ]
+ },
+ "ad09a05892aa833df6e88a17edcdd6bf": {
+  "first_seen": 1786174426.7493868,
+  "title": "Stage Assistant(e) Revenue Manager - Janvier 2027 F/H",
+  "company": "CHAPITRE SIX",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450768150"
+  ]
+ },
+ "53546487611a296dac0b253771cda439": {
+  "first_seen": 1786174426.7494035,
+  "title": "Chargé(e) de Données Produits/Referential Data Steward (H/F/NB)",
+  "company": "Ubisoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430236575"
+  ]
+ },
+ "f985d10cc9aec096d7967509cdeb4425": {
+  "first_seen": 1786174426.7497566,
+  "title": "Data Engineer",
+  "company": "Datatorii",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4446201666"
+  ]
+ },
+ "2359329ee77361b3ee71d0306e459323": {
+  "first_seen": 1786174426.7497642,
+  "title": "Project Engineer - Auburn Hills, MI",
+  "company": "Encore Automation",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450739792"
+  ]
+ },
+ "5ac093f5fdf8fad394f75c67b9fb4fdb": {
+  "first_seen": 1786174426.7500377,
+  "title": "Ingénieur R&D en Automatique, Contrôle-Commande & Mathématiques Appliquées F/H - SAFRAN ELECTRONICS & DEFENSE S.A.S FRAN",
+  "company": "AEROCONTACT",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450577759"
+  ]
+ },
+ "b6b855eaf2bc9f1c12766c20d93a3c9d": {
+  "first_seen": 1786174426.750122,
+  "title": "Technicien(ne) Maintenance des systèmes automatisés CDI 35H F/F/NB",
+  "company": "Disneyland Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450385583"
+  ]
+ },
+ "84e4adfe8116737152f30f777e087b99": {
+  "first_seen": 1786174426.750142,
+  "title": "Assistant(e) en système et réseaux (H/F)",
+  "company": "ICMN",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451054339"
   ]
  }
 }
