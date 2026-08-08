@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786208612.197518,
+   "last_success": 1786210417.9609237,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786208612.197524,
+   "last_success": 1786210417.9609294,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786208626.8358557,
+   "last_success": 1786210430.7453485,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786208626.8358605,
+   "last_success": 1786210430.7453527,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786208626.835862,
+   "last_success": 1786210430.7453542,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786208626.8358634,
+   "last_success": 1786210430.7453556,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786208626.8358645,
+   "last_success": 1786210430.745357,
    "alerted": false
   }
  },
@@ -33662,6 +33662,141 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450764580"
+  ]
+ },
+ "c3c4671e8edde807a8c3a628a576c49e": {
+  "first_seen": 1786210430.7459404,
+  "title": "Senior Data Scientist - Computer Vision (F/M)",
+  "company": "Ficha",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450914490"
+  ]
+ },
+ "efec20a362257e5f79ef787b1b6d4d6b": {
+  "first_seen": 1786210430.7461245,
+  "title": "Alternance - 1 an - Analyste des Risques F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4396454011"
+  ]
+ },
+ "7aae0c73bc28da3a4e0eb58e4b2bff4c": {
+  "first_seen": 1786210430.746201,
+  "title": "France IB Capital Market Coverage Analyst",
+  "company": "Deutsche Bank",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450737639"
+  ]
+ },
+ "4318dc7bd0c4ef738fd6c6cb8a21d897": {
+  "first_seen": 1786210430.746249,
+  "title": "Stage - 6 mois - ALM Liquidité et Pilotage F/H",
+  "company": "Natixis Corporate & Investment Banking",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4421156893"
+  ]
+ },
+ "c0484a0836d93dadd6092afa64e603a6": {
+  "first_seen": 1786210430.7465,
+  "title": "Senior/Staff Machine Learning Engineer",
+  "company": "Vestiaire Collective",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424440491"
+  ]
+ },
+ "648fed2c06c11ad49f599ba48c5cb399": {
+  "first_seen": 1786210430.746905,
+  "title": "Développeur / Intégrateur applicatif expérimenté H/F",
+  "company": "Inetum",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4302544769"
+  ]
+ },
+ "e7c5f799fd4a9bbeec1d3cc6b76397d5": {
+  "first_seen": 1786210430.7469318,
+  "title": "Ingénieur Concepteur Hardware H/F - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449244081"
+  ]
+ },
+ "29995b97e0868ad04642c9bde5484022": {
+  "first_seen": 1786210430.7469575,
+  "title": "Field Application Engineer – Smartcard (Munich OR Paris based)",
+  "company": "Samsung Electronics France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433093375"
+  ]
+ },
+ "1a4e02aa731bb1b871e3785d08315a82": {
+  "first_seen": 1786210430.7470112,
+  "title": "Responsable Programme Simulation et Entraînement F/H",
+  "company": "MBDA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433860817"
+  ]
+ },
+ "31d77d859cc0ba064718c4bfc7128a09": {
+  "first_seen": 1786210430.7470186,
+  "title": "Alternance HRBP junior (H/F)",
+  "company": "Samsung Electronics France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442127369"
+  ]
+ },
+ "d7e3741a399d504133955c0a99e2541d": {
+  "first_seen": 1786210430.7470276,
+  "title": "Administrateur(-trice) système Linux sur clusters haute performance H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4403968646"
+  ]
+ },
+ "d2c64adb7fa6217882b660a2ffda356f": {
+  "first_seen": 1786210430.7470357,
+  "title": "TFE / Énergie Manager",
+  "company": "STÉLENS (Groupe BIR)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449231758"
+  ]
+ },
+ "681e1d02133f78fe8b684e63144b6491": {
+  "first_seen": 1786210430.7470427,
+  "title": "Technicien de maintenance industrielle - Paris F/H",
+  "company": "Migen",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450377236"
+  ]
+ },
+ "b1c7797af377c2f9a8a909b47093108f": {
+  "first_seen": 1786210430.7470498,
+  "title": "Opérateur cablâge H/F/D",
+  "company": "ESARIS INDUSTRIES",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451047502"
+  ]
+ },
+ "0215d0576787240a353736ce69b8d7d9": {
+  "first_seen": 1786210430.7470741,
+  "title": "Technicien Service Systèmes de Sécurité Incendie (SSI) f/h",
+  "company": "Siemens",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433253396"
   ]
  }
 }
