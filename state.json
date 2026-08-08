@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786210417.9609237,
+   "last_success": 1786212216.7965584,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786210417.9609294,
+   "last_success": 1786212216.7965631,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786210430.7453485,
+   "last_success": 1786212231.1549146,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786210430.7453527,
+   "last_success": 1786212231.154919,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786210430.7453542,
+   "last_success": 1786212231.15492,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786210430.7453556,
+   "last_success": 1786212231.1549215,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786210430.745357,
+   "last_success": 1786212231.1549225,
    "alerted": false
   }
  },
@@ -33797,6 +33797,114 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4433253396"
+  ]
+ },
+ "a2d1729722780212625ebad363a1a769": {
+  "first_seen": 1786212231.1557007,
+  "title": "AI Platform Engineer (F/H)",
+  "company": "Devoteam",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424550151"
+  ]
+ },
+ "0ab5e84d19439891619b3adb276cd53e": {
+  "first_seen": 1786212231.1557302,
+  "title": "VP DATA",
+  "company": "Mirakl",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430601623"
+  ]
+ },
+ "69c5c759a2760c8d1333d5d07fe5c2af": {
+  "first_seen": 1786212231.1557646,
+  "title": "CDI - AI PRODUCT MANAGER FINANCE - (F/H/X)",
+  "company": "CANAL+ Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441960000"
+  ]
+ },
+ "6365ea64798999e50a1cd9b9589de0d7": {
+  "first_seen": 1786212231.1558342,
+  "title": "Account Manager",
+  "company": "Aircall",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441715762"
+  ]
+ },
+ "a1219bbbc60a87c04c853712f59eba78": {
+  "first_seen": 1786212231.1558404,
+  "title": "Sr Director - Analyst, Infrastructure & Operations AI Strategy",
+  "company": "Gartner",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432655357"
+  ]
+ },
+ "c5e95ed7b0cc9d128cca329a709f07d9": {
+  "first_seen": 1786212231.155852,
+  "title": "Acheteur prestations intellectuelles informatiques",
+  "company": "Societe Generale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430629512"
+  ]
+ },
+ "315c056f5a9479022e106d7ce3cc18de": {
+  "first_seen": 1786212231.1558638,
+  "title": "Tech Lead / Expert Databricks (F/H)",
+  "company": "SQLI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433370280"
+  ]
+ },
+ "3408e2ff6e69e23a893a79656b47e381": {
+  "first_seen": 1786212231.1559837,
+  "title": "Stagiaire Analyste Etudes Trafic & Revenus – Mobilité & Data",
+  "company": "VINCI Concessions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442134784"
+  ]
+ },
+ "11973fc0ff1a47c09ab6fb036fe5b7ae": {
+  "first_seen": 1786212231.1560173,
+  "title": "STAGE - ASSISTANT.E CHEF DE PRODUIT (F/H/X) - JANVIER 2027",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442183696"
+  ]
+ },
+ "d7feed798987385dc0ddf4d13425ca08": {
+  "first_seen": 1786212231.156086,
+  "title": "STAGE - Stage - International Media Assistant - F/H",
+  "company": "Havas International - Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433249766"
+  ]
+ },
+ "3bfe8aafd8ca84aefaa884ba8f11e4ba": {
+  "first_seen": 1786212231.1560934,
+  "title": "STAGE JANVIER 2027 - Chef de produit Marketing Développement Accessoires (H/F)",
+  "company": "Cartier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441198150"
+  ]
+ },
+ "e1a223b43e1f1503b50da62ca3bbffd3": {
+  "first_seen": 1786212231.1563025,
+  "title": "Test & Measurments Manager",
+  "company": "MVG | Microwave Vision Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449228585"
   ]
  }
 }
