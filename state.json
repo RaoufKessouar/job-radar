@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786192410.5094845,
+   "last_success": 1786194207.3420749,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786192410.509491,
+   "last_success": 1786194207.3420806,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786192425.198348,
+   "last_success": 1786194220.7542968,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786192425.1983528,
+   "last_success": 1786194220.754302,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786192425.1983545,
+   "last_success": 1786194220.7543037,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786192425.1983562,
+   "last_success": 1786194220.7543056,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786192425.1983583,
+   "last_success": 1786194220.754307,
    "alerted": false
   }
  },
@@ -32465,6 +32465,159 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449203331"
+  ]
+ },
+ "5c4878e6d6cb98a2f96c426db4e22694": {
+  "first_seen": 1786194220.7553782,
+  "title": "Working Student - Business Analyst  (H/F)",
+  "company": "Picnic Technologies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4339181340"
+  ]
+ },
+ "cfb22444c494535f98f83b317c4a269d": {
+  "first_seen": 1786194220.7554889,
+  "title": "Consultant - Supply Chain Management",
+  "company": "McKinsey & Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4290995434"
+  ]
+ },
+ "fdb8b9aecbe3140be4e39f8c216b5e83": {
+  "first_seen": 1786194220.7554991,
+  "title": "Stage - Assistant.e chef.fe de projet influence (H/F/N)",
+  "company": "leboncoin",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4404893047"
+  ]
+ },
+ "84dcf80686936f60c0c2d8c9ba284b96": {
+  "first_seen": 1786194220.7555091,
+  "title": "Associate Consultant (m/f/d) - Stage de fin d'études - TSPE",
+  "company": "Simon-Kucher",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4385495288"
+  ]
+ },
+ "9815835eee5cf275d9f3e01004f495b5": {
+  "first_seen": 1786194220.7555158,
+  "title": "Digital Trader",
+  "company": "Procter & Gamble",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4410177557"
+  ]
+ },
+ "92c1af94071f165e9e5c0142c508d237": {
+  "first_seen": 1786194220.7558231,
+  "title": "Backend Software Engineer",
+  "company": "Monk AI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4394952288"
+  ]
+ },
+ "12b2cecbc982f11775ac6d87b6afd5bf": {
+  "first_seen": 1786194220.755849,
+  "title": "Postdoctoral Researcher (PhD) - FAIR - Core Learning",
+  "company": "Meta",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420183678"
+  ]
+ },
+ "7f772d9c52326dc57e7e471fe2e2e21c": {
+  "first_seen": 1786194220.755857,
+  "title": "Legal Intern/Apprentice - Data Privacy - Master's Student",
+  "company": "Voodoo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441989550"
+  ]
+ },
+ "447d4514baba584cfbc332277b426e4e": {
+  "first_seen": 1786194220.7559073,
+  "title": "Tech Lead Full Stack et IA",
+  "company": "Bpifrance",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4349399096"
+  ]
+ },
+ "50d488dcceb7d09343e89666dfa2ec2f": {
+  "first_seen": 1786194220.7560027,
+  "title": "Stage Mise à jour et Digitalisation des documents process H/F",
+  "company": "GE HealthCare",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4405662737"
+  ]
+ },
+ "f251c9aeb4380444d91b45a9e0b1833f": {
+  "first_seen": 1786194220.7561426,
+  "title": "Architecte Logiciel essaim de drones F.H",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4343637281"
+  ]
+ },
+ "fc4b19a156d7e6699ce848ab7f5a5467": {
+  "first_seen": 1786194220.7562253,
+  "title": "Release & Build Specialist",
+  "company": "Ubisoft",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430618210"
+  ]
+ },
+ "5a640471943a7c6f62bbcef85db5f57f": {
+  "first_seen": 1786194220.7562346,
+  "title": "Ingénieur Responsable de lot CBTC – Projet RIYADH H/F",
+  "company": "Hitachi Rail",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4350762423"
+  ]
+ },
+ "7fd6ae707c338c483d5bb2176d734971": {
+  "first_seen": 1786194220.7562447,
+  "title": "Stage Ingénieur/Master - Etude du soudage par résistance des aciers ODS H/F",
+  "company": "CEA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414122433"
+  ]
+ },
+ "f6fca992225dfc7c6d28e6af26ea01b7": {
+  "first_seen": 1786194220.756252,
+  "title": "Développeur fullstack (H/F)",
+  "company": "Atos",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4402863501"
+  ]
+ },
+ "da6c3a0c4b8fbbbc7f827b5658b58dda": {
+  "first_seen": 1786194220.7562602,
+  "title": "Mid Backend Go engineer Team ProDealers (F/N/H)",
+  "company": "leboncoin",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401060986"
+  ]
+ },
+ "7ea907841a99ad88d5b04690051a7463": {
+  "first_seen": 1786194220.7562761,
+  "title": "Consultant(e) Systèmes d'Information Industriel",
+  "company": "mc2i",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4429874428"
   ]
  }
 }
