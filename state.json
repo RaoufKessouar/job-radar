@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786188889.506744,
+   "last_success": 1786190623.7434652,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786188889.5067499,
+   "last_success": 1786190623.7434707,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786188904.3553946,
+   "last_success": 1786190636.679612,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786188904.3553991,
+   "last_success": 1786190636.6796155,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786188904.355401,
+   "last_success": 1786190636.6796172,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786188904.3554022,
+   "last_success": 1786190636.6796188,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786188904.3554034,
+   "last_success": 1786190636.67962,
    "alerted": false
   }
  },
@@ -32400,6 +32400,33 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4449215044"
+  ]
+ },
+ "26aaf603821e4bf2e4c3fe96f1913c8b": {
+  "first_seen": 1786190636.6801615,
+  "title": "Market Analyst",
+  "company": "ENGIE - International Supply & Energy Management",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4420452510"
+  ]
+ },
+ "e4ac88848b20394f987e9fd0866e5e44": {
+  "first_seen": 1786190636.680228,
+  "title": "Chargé(e) d'études en datas RH et rémunération F/H",
+  "company": "Société des grands projets",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4392996628"
+  ]
+ },
+ "0ade35960bb0ce3de890536e674d6132": {
+  "first_seen": 1786190636.6803355,
+  "title": "STAGE JANVIER 2027 - Assistant(e) Chef de Projet Planning & Analyste Budget MCC (F/H)",
+  "company": "Cartier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432626977"
   ]
  }
 }
