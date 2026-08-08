@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786167205.9875565,
+   "last_success": 1786169016.0513945,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786167205.9875624,
+   "last_success": 1786169016.0514004,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786167220.0520608,
+   "last_success": 1786169029.1269457,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786167220.0520654,
+   "last_success": 1786169029.1269507,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786167220.0520668,
+   "last_success": 1786169029.1269522,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786167220.0520687,
+   "last_success": 1786169029.1269538,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786167220.0520697,
+   "last_success": 1786169029.1269555,
    "alerted": false
   }
  },
@@ -31527,6 +31527,60 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4431510319"
+  ]
+ },
+ "9d2ed21d9469409ea6e5cbb9f461be37": {
+  "first_seen": 1786169029.128419,
+  "title": "STAGE - ASSISTANT.E DEVELOPPEMENT BRODERIES (F/H/X) - JANVIER 2027",
+  "company": "CELINE",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442134187"
+  ]
+ },
+ "943cbb7049035aa71be9d906d3d63ebc": {
+  "first_seen": 1786169029.1284335,
+  "title": "STAGE - Assistant Stockiste (H/F)– Aéroport Paris-Charles de Gaulle – septembre 2026",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4431840376"
+  ]
+ },
+ "9ad9025b0d1c1389a943a4c0690163fc": {
+  "first_seen": 1786169029.1284437,
+  "title": "stage - Chargé(e) de projets RH H/F",
+  "company": "Air Liquide Medical Systems",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4428852089"
+  ]
+ },
+ "d7f3e728f6ed5b64e2373abf84744d4d": {
+  "first_seen": 1786169029.128463,
+  "title": "Stage - Assistant(e) Influence Manager et Brand Content(H/F)",
+  "company": "Matter • Paris",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450722088"
+  ]
+ },
+ "cc1589d447cc297e3eeb1abc909447aa": {
+  "first_seen": 1786169029.1284702,
+  "title": "Assistant communication en stage",
+  "company": "ICONOPRESS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451055027"
+  ]
+ },
+ "519ae36faace1bc1b4f89e2b1c16ae31": {
+  "first_seen": 1786169029.128477,
+  "title": "Stagiaire juriste droit social",
+  "company": "TotalEnergies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433342690"
   ]
  }
 }
