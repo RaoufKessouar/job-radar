@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786188688.779681,
+   "last_success": 1786188889.506744,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786188688.7796865,
+   "last_success": 1786188889.5067499,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786188703.537223,
+   "last_success": 1786188904.3553946,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786188703.5372272,
+   "last_success": 1786188904.3553991,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786188703.537229,
+   "last_success": 1786188904.355401,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786188703.5372303,
+   "last_success": 1786188904.3554022,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786188703.5372314,
+   "last_success": 1786188904.3554034,
    "alerted": false
   }
  },
@@ -23729,7 +23729,8 @@
   "company": "Bull",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4433097504"
+   "https://www.linkedin.com/jobs/view/4433097504",
+   "https://www.linkedin.com/jobs/view/4433095581"
   ]
  },
  "b366b6748f2d3829e62ec9c73e1d1d5f": {
@@ -32311,8 +32312,17 @@
    "https://www.linkedin.com/jobs/view/4440768521"
   ]
  },
+ "15caa3938d5da9f04357f0fc74c52318": {
+  "first_seen": 1786188904.3565853,
+  "title": "Research Engineer / Scientist, Post-training - Paris",
+  "company": "H Company",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4366349297"
+  ]
+ },
  "b168f4986e451c8d111973afac89210b": {
-  "first_seen": 1786188703.5384889,
+  "first_seen": 1786188904.356734,
   "title": "STAGE – ASSISTANT(E) PROJETS RETAIL PERFORMANCE – JANVIER 2027",
   "company": "Parfums Christian Dior",
   "source": "linkedin",
@@ -32321,12 +32331,75 @@
   ]
  },
  "20922511727be4271bb32ed2f6a259f2": {
-  "first_seen": 1786188703.5385644,
+  "first_seen": 1786188904.3567753,
   "title": "Stage - Assistant MOA Trading H/F",
   "company": "CA-SILCA",
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450511603"
+  ]
+ },
+ "ce0d910d7859313bdb4ffd496922a6b6": {
+  "first_seen": 1786188904.3568814,
+  "title": "Ingénieur Développement Veristand - Paris, France  (H/F)",
+  "company": "Astek",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430274386"
+  ]
+ },
+ "9d5c489be7e80aca8af9cff72606a043": {
+  "first_seen": 1786188904.357029,
+  "title": "Software Engineer, Sr.",
+  "company": "Sundayy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451065552"
+  ]
+ },
+ "9554af5ab50cac0acf4d4148996c5fe3": {
+  "first_seen": 1786188904.3570352,
+  "title": "Ingénieur système linux (H/F)",
+  "company": "MERITIS",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4438723623"
+  ]
+ },
+ "5c126dd0a8b78c4589c458125a1578f8": {
+  "first_seen": 1786188904.357042,
+  "title": "Consultant(e) Junior – ingénieur – CDI",
+  "company": "Atlante",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450360020"
+  ]
+ },
+ "159055c7a5dc6b2edee5e15293b9e319": {
+  "first_seen": 1786188904.3570504,
+  "title": "Consultant(e) Développement Java H/F",
+  "company": "QUANTEAM (RAINBOW PARTNERS Group)",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4451002682"
+  ]
+ },
+ "c47c1bbe929a0c4de022e09cbeb3a680": {
+  "first_seen": 1786188904.3570676,
+  "title": "Programmeur (se) CFAO",
+  "company": "Mécanique Atelier de Coignières",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449212625"
+  ]
+ },
+ "0f6453d13ae6a794d279934d09d46a2a": {
+  "first_seen": 1786188904.3570752,
+  "title": "Technical Manager – Solutions SCADA / Utility Scale",
+  "company": "Elum Energy",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4449215044"
   ]
  }
 }
