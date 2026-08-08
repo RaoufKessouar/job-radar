@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786181615.860241,
+   "last_success": 1786183426.4416628,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786181615.8602464,
+   "last_success": 1786183426.4416685,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786181630.9007237,
+   "last_success": 1786183441.2300518,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786181630.9007282,
+   "last_success": 1786183441.230057,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786181630.9007301,
+   "last_success": 1786183441.2300587,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786181630.9007316,
+   "last_success": 1786183441.23006,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786181630.9007332,
+   "last_success": 1786183441.2300618,
    "alerted": false
   }
  },
@@ -18451,7 +18451,8 @@
   "company": "MASLOW GROUP",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4447484612"
+   "https://www.linkedin.com/jobs/view/4447484612",
+   "https://www.linkedin.com/jobs/view/4450373269"
   ]
  },
  "5f5dde39bd828d96da6afce5c89ba815": {
@@ -31952,6 +31953,69 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450748165"
+  ]
+ },
+ "953825945f02ff5c5385da1d1774efa3": {
+  "first_seen": 1786183441.2314434,
+  "title": "Stagiaire ServiceNow F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4323638560"
+  ]
+ },
+ "3f88170f2385881870721ff1564a9bd8": {
+  "first_seen": 1786183441.2314918,
+  "title": "LFP Media - Offre de stage",
+  "company": "LFP - Ligue de Football Professionnel",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450372351"
+  ]
+ },
+ "998ef66b2ffc9823ffc6221659f8fd32": {
+  "first_seen": 1786183441.2315323,
+  "title": "Chargé·e de plaidoyer en alternance/stage – Paris, France",
+  "company": "L'Ascenseur",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450331201"
+  ]
+ },
+ "1f0623d1db23656a8740694f4cc71a94": {
+  "first_seen": 1786183441.23154,
+  "title": "Runner (H/F) - STAGE",
+  "company": "Big Mamma Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423360777"
+  ]
+ },
+ "e076002b87b7f7eab489f6fa4e99ecdf": {
+  "first_seen": 1786183441.2315493,
+  "title": "Stage - Chargé(e) de communication (H/F)",
+  "company": "PHOENIX OCP",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441946586"
+  ]
+ },
+ "1517ce98bde987afc51fe4c302435671": {
+  "first_seen": 1786183441.2315571,
+  "title": "Internship - Public Affairs - F/M",
+  "company": "Technip Energies",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4440747265"
+  ]
+ },
+ "5aaa583daf4a3a16a98e7540888b0f66": {
+  "first_seen": 1786183441.2315738,
+  "title": "Talent Acquisition Intern (h/f) Paris",
+  "company": "Prada Group",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450598420"
   ]
  }
 }
