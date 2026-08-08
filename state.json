@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786183426.4416628,
+   "last_success": 1786185202.3670661,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786183426.4416685,
+   "last_success": 1786185202.3670723,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786183441.2300518,
+   "last_success": 1786185215.8359427,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786183441.230057,
+   "last_success": 1786185215.8359478,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786183441.2300587,
+   "last_success": 1786185215.8359497,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786183441.23006,
+   "last_success": 1786185215.8359509,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786183441.2300618,
+   "last_success": 1786185215.8359518,
    "alerted": false
   }
  },
@@ -32016,6 +32016,150 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4450598420"
+  ]
+ },
+ "76627515bc635cf0bdd4f62df6d433db": {
+  "first_seen": 1786185215.8372004,
+  "title": "Senior AI Agent Engineer – Moveworks | Customer Deployment",
+  "company": "ServiceNow",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4423007777"
+  ]
+ },
+ "ce75231f95aea9deafdfb8ed910eac45": {
+  "first_seen": 1786185215.8372488,
+  "title": "Développeur Full Stack Node JS · AI Augmented - F/H",
+  "company": "Niji",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430235210"
+  ]
+ },
+ "008ee2f2b6273e55a2b87fbb42464bd3": {
+  "first_seen": 1786185215.8372638,
+  "title": "Deloitte Digital - Stage Marketing Digital F/H",
+  "company": "Deloitte",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441725152"
+  ]
+ },
+ "1082761325e83a84a2195a3d75d7f7e8": {
+  "first_seen": 1786185215.8372712,
+  "title": "Solutions Consultant, Mid-Market, France",
+  "company": "Let's BI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450701564"
+  ]
+ },
+ "5fe1f656969690801938ad19a4bddd97": {
+  "first_seen": 1786185215.8372862,
+  "title": "Solutions Consultant, Mid-Market, France",
+  "company": "MakeWithMohit",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450703726"
+  ]
+ },
+ "357ac9642b41dde44f003b5e42aa18ea": {
+  "first_seen": 1786185215.837305,
+  "title": "CDD - Chargé.e d’étude Stress-tests - Data/IA & Provisionnement IFRS 9 F/H",
+  "company": "Inspection Générale de La Banque Postale",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450393136"
+  ]
+ },
+ "2b70ee5832c01228b98b00774fe7885c": {
+  "first_seen": 1786185215.837311,
+  "title": "Product Designer",
+  "company": "Zefir",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430988056"
+  ]
+ },
+ "c3ef916b0210846ef1e02832225973f3": {
+  "first_seen": 1786185215.8373191,
+  "title": "Product Owner Supply Chain Expérimenté H/F FY27",
+  "company": "EY",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4430290107"
+  ]
+ },
+ "38763fc5ac6b25a50172961ec1e5403b": {
+  "first_seen": 1786185215.837328,
+  "title": "Chef de projet Gouvernance Data H/F",
+  "company": "Crédit Agricole",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4394992649"
+  ]
+ },
+ "54b518d180d0a2365684f44276451afd": {
+  "first_seen": 1786185215.8374937,
+  "title": "Full Stack Software Engineer (Python / React)",
+  "company": "Scaleway",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4382092103"
+  ]
+ },
+ "0cfc8e4d77f8631fe6eb187799031827": {
+  "first_seen": 1786185215.837531,
+  "title": "Stage – Pilotage des livraisons et Coordination des Centres de distribution (H/F/X) – Mode – Janvier 2027",
+  "company": "CHANEL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450324816"
+  ]
+ },
+ "8194ba3ae1d00a1071bfc5ff816d84b7": {
+  "first_seen": 1786185215.8378992,
+  "title": "Commando / RAD / Développeur de Proximité - Finance de Marché",
+  "company": "eXalt",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4302716722"
+  ]
+ },
+ "6898b2566ed3cd8d09719885a528d6f7": {
+  "first_seen": 1786185215.8379066,
+  "title": "Metteur en service / Commissioning Engineer (H/F)",
+  "company": "PRODEVAL",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450748514"
+  ]
+ },
+ "0d8eabf27134262609ad2b022e18538f": {
+  "first_seen": 1786185215.8379128,
+  "title": "Optronic Design Leader (F/H)",
+  "company": "Valeo",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433370564"
+  ]
+ },
+ "36a382e142d8652e7e6c9b1628461a59": {
+  "first_seen": 1786185215.8379204,
+  "title": "Développeur/Développeuse ServiceNow",
+  "company": "Washington Frank International",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4448772791"
+  ]
+ },
+ "106b8de414d7621af38c172d0673d4e2": {
+  "first_seen": 1786185215.8379362,
+  "title": "CDI - Artisan Développeur BE (H/F)",
+  "company": "Hermès",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432621561"
   ]
  }
 }
