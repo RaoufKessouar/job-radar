@@ -1,31 +1,31 @@
 {
  "_health": {
   "wttj": {
-   "last_success": 1786197819.025607,
+   "last_success": 1786199613.574403,
    "alerted": false
   },
   "linkedin": {
-   "last_success": 1786197819.0256126,
+   "last_success": 1786199613.5744083,
    "alerted": false
   },
   "carriere-renault": {
-   "last_success": 1786197832.390718,
+   "last_success": 1786199627.0346205,
    "alerted": false
   },
   "carriere-valeo": {
-   "last_success": 1786197832.3907228,
+   "last_success": 1786199627.0346248,
    "alerted": false
   },
   "carriere-orange": {
-   "last_success": 1786197832.390725,
+   "last_success": 1786199627.0346262,
    "alerted": false
   },
   "carriere-capgemini": {
-   "last_success": 1786197832.3907263,
+   "last_success": 1786199627.034628,
    "alerted": false
   },
   "carriere-dassault": {
-   "last_success": 1786197832.390728,
+   "last_success": 1786199627.0346293,
    "alerted": false
   }
  },
@@ -12752,7 +12752,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4445345887",
-   "https://www.linkedin.com/jobs/view/4447893155"
+   "https://www.linkedin.com/jobs/view/4447893155",
+   "https://www.linkedin.com/jobs/view/4451089017"
   ]
  },
  "b9340bedbf923f6da9e058bb524af07c": {
@@ -16129,7 +16130,8 @@
    "https://www.linkedin.com/jobs/view/4446293303",
    "https://www.linkedin.com/jobs/view/4448078927",
    "https://www.linkedin.com/jobs/view/4448708650",
-   "https://www.linkedin.com/jobs/view/4451032695"
+   "https://www.linkedin.com/jobs/view/4451032695",
+   "https://www.linkedin.com/jobs/view/4420712148"
   ]
  },
  "9c5901299b9753bd5b0227ed0e17c590": {
@@ -22976,7 +22978,8 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4448196356",
-   "https://www.linkedin.com/jobs/view/4448845618"
+   "https://www.linkedin.com/jobs/view/4448845618",
+   "https://www.linkedin.com/jobs/view/4451073768"
   ]
  },
  "7bbb96aa8fef11507f09048e0a0f3807": {
@@ -31168,7 +31171,8 @@
   "company": "Sharp DX France (ex Apsia)",
   "source": "linkedin",
   "urls": [
-   "https://www.linkedin.com/jobs/view/4448755692"
+   "https://www.linkedin.com/jobs/view/4448755692",
+   "https://www.linkedin.com/jobs/view/4451038763"
   ]
  },
  "34aa55ffce28577cf4c2312c20e76f8d": {
@@ -32871,6 +32875,132 @@
   "source": "linkedin",
   "urls": [
    "https://www.linkedin.com/jobs/view/4442406027"
+  ]
+ },
+ "cf2b6c059b90b8f283a59fcd7a646eeb": {
+  "first_seen": 1786199627.0351985,
+  "title": "Digital Analyst",
+  "company": "RATP Smart Systems",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4413925608"
+  ]
+ },
+ "d4bde91795f33aefb9a94ce7d80a170a": {
+  "first_seen": 1786199627.0354,
+  "title": "Internship - Total Rewards (Compensation & Benefits)",
+  "company": "Ledger",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439251613"
+  ]
+ },
+ "9f73b0b54684818d9c3a49f5a58932d2": {
+  "first_seen": 1786199627.0355756,
+  "title": "Managing Consultant IA (H/F)",
+  "company": "Thales",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4424196037"
+  ]
+ },
+ "c01097ed7029453baf51f80d4a2bb2e1": {
+  "first_seen": 1786199627.0356793,
+  "title": "REVOPS MANAGER – AI, DATA & AUTOMATION",
+  "company": "STATION F",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4450904468"
+  ]
+ },
+ "2139f58db691788f189a8ed942eeddd3": {
+  "first_seen": 1786199627.0359306,
+  "title": "STAGE 6 MOIS - CHARGE.E DE DEVELOPPEMENT DURABLE H/F",
+  "company": "Groupama Immobilier",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4432666953"
+  ]
+ },
+ "127e3be1a71ba8dd7c326f7e6ff630e8": {
+  "first_seen": 1786199627.0359726,
+  "title": "Stage - Juriste d'affaires - H/F",
+  "company": "EDF power solutions",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4401687845"
+  ]
+ },
+ "ac074196ab05f59874863d5bab04b89d": {
+  "first_seen": 1786199627.0360205,
+  "title": "Stage Social Media & Contenus",
+  "company": "Groupe EBRA",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4442112547"
+  ]
+ },
+ "04a7ef4a53b6354cc6c5f4b2d2f194f5": {
+  "first_seen": 1786199627.0360284,
+  "title": "Assistant Wholesale F/H - Stage Septembre",
+  "company": "Christian Dior Couture",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4383759093"
+  ]
+ },
+ "152c60291418f626625937ac7f9c5247": {
+  "first_seen": 1786199627.0360377,
+  "title": "Stage - Assistant(e) Management de la Qualité ISO 9001 H/F",
+  "company": "mc2i",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4439244365"
+  ]
+ },
+ "a92491804fa7b7a93bc56b204a28bb15": {
+  "first_seen": 1786199627.036044,
+  "title": "People & Workplace Intern",
+  "company": "Choco",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441964641"
+  ]
+ },
+ "b7e7b1865de34a1892f8956329e7339b": {
+  "first_seen": 1786199627.036066,
+  "title": "Développeur IOT H/F",
+  "company": "Inetum",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4433895401"
+  ]
+ },
+ "a3caefea0f31b26b9745e87cb2d6dc91": {
+  "first_seen": 1786199627.036081,
+  "title": "Ingénieur(e) logiciel F/H",
+  "company": "CGI",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4375030100"
+  ]
+ },
+ "ef115d60f5951edf0162916f2d29657f": {
+  "first_seen": 1786199627.036234,
+  "title": "Engineer II, Field Service",
+  "company": "PacBio",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4414718883"
+  ]
+ },
+ "eb9c20fbad840da612ec896c6befce5a": {
+  "first_seen": 1786199627.0362768,
+  "title": "Consultant stagiaire IT M&A (H/F)",
+  "company": "Accenture France",
+  "source": "linkedin",
+  "urls": [
+   "https://www.linkedin.com/jobs/view/4441314778"
   ]
  }
 }
